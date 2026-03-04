@@ -1,0 +1,313 @@
+{
+  "city": "San Diego",
+  "slug": "san_diego",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 148,
+  "total_complaints": 68,
+  "complaint_rate": 45.9,
+  "categories": {
+    "Other City Service": {
+      "count": 17,
+      "pct": 25.0,
+      "samples": [
+        {
+          "quote": "Coastal residents oppose city's plan on community parking districts.",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1BGSWxBY0Y2X1RNSlRTRl9PbEJyWHVDUmJLVmxFaXBjMGhYcXVhcjZDOHMtZGlwVE1saWRYNlI1WC1JUEpUZjJ4TUphQ3JNZEZWczlDWW1hcVpPdFQzNnhHcHpvTG51VXI0N0hkejNQN2RGRHltQVMxTFNhd0pGQzBTdjRyVWhHYkNpVkx3Q09hU2wyUDQ2SlNCZm9PdnA3LS15ZDE2MEMyczZnb1ZvOQ?oc=5",
+          "date": "Wed, 08 Oct 2025"
+        },
+        {
+          "quote": "Cars tumble downhill into La Mesa restaurant parking",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzMxVV95Yk9TN3BvSlpTQS1KTXdaMG9nWmpraEJkRUhWWEcxbDQ2NDlfNUxvV3R3RVBGRU05VnQ0YkJma3RSb3JoT2xKMlIyRTduRnNKd3RnMzJQMDBRX1pDV2lBNWxpREtNaVJ1TVFUeE1uQU41V1lXWDdhVm94YlpHLXg1aUdMNzBLbGc0SmFkUi1PX0pobVZXSEhRXzdITWNpbmJrNC1oLTJXQnFRQndPTDdVZ21ZalY0UDU0dGZhWVEzWDM40gHPAUFVX3lxTE5CZXpTc3VwV3g4S1JDXzk5Tkx0WnQyZk9telZsVmo5R0FRZm14SkhOUGdKMWt4VzBrUHRLVi1nX25HNnFLNjQ4VW5QU3V4SEJZbXZhZ2xKLUNFWExHWlhjd2lHM0V1QVQ0eWNnUjB4U0NHalJiS2t4MERLY282M2w0aXJwcHhtWkJXdF9UeUpaM2hyempfWjk3b2F4RGduXzdPYWcxZmQyYUpTcXNIR2xtSElWY3NxZ1V2UnhoZlVhSDYzN3ViRlhXOW4zVEwzYw?oc=5",
+          "date": "Thu, 05 Jun 2025"
+        },
+        {
+          "quote": "Complaints prompt Carlsbad to remove traffic circles",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSjd1ZHJsY3dUTmo4Vy1nU0x3UVpZU1I5Z2NCV3NVSGM3dkVRT2FNRVVVTWxSV1lLZHlFOUJ3R1VGajQ0RVVPckNENWxHbHZER015VWNpV21HUFRkSFRJMkpBMm1wTE9pX0lEWWVyOUwwbnNwNXpKQU9zLXJvTXBrVjAwUjBBeGRFbmY1VUh4NDhybUU3SVdJTGJDbjdDUy1JWDh3?oc=5",
+          "date": "Thu, 19 Jun 2025"
+        },
+        {
+          "quote": "City attorney targets nuisance recycling facility in Barrio Logan",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWRaaHhTU3A3bVd5Tk4tOV9qdVcta3luekNDSjU1SS1RenVVd1RveTRVUEtDcVFIMUVpdGhNX0l4SE1BZzVXcm9MdjRYY3dqTm1yYlRKMFlzM1g5amJUekpQbWltcjg4WXJOcGZGWmVGSHhWeno0SVVpRWxDWDhEZ09rQlFDalViM2ZvLWlFRzdOODh4Qk1wSkU4VUowdkVwb2drRdIBrAFBVV95cUxQeGF3cmxWRFVMSUwzRDlnVG51WDhmaXZ4RElTVURlQkpYempZdlNDeF84TVVCbktTUGJGZVpmR0c1Ri1yM29VaEN0NmdMSDh2TzNvRjVhcUZMaF9rZXA0ME5NNkNXN3hvY2NaeVpWTWY1MnFkOUtvMGhxRHFMWHQ4bUh4bVd6bTJ4c2VRVEpQSFFzd1lZMUNPeUNpZTR5QVlzcTNzc3lLVjJDUmMt?oc=5",
+          "date": "Thu, 25 Sep 2025"
+        },
+        {
+          "quote": "Public nuisance lawsuit against Barrio Logan recycling business",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaDJ4Y3V3a2xNb0ZQWUc0OENtbUZUbU55RVlnVkFGNE9ZSjRqc09rd1pQYkh6SnBhek9DdXlSOG9sZmtsY0lMTldYSHV1YmxNeUVodTRPOFg0MUtRUWhnNW9XMUFqQWFNVUs0Ty05SWtXNmhWNXhxVEctaXJyU2UyVWRRRktBcGw0T0dUSTQzcTZRQV92R1JkaXJORk9tUDBoYTdIX19jdmNHMTlXVGVxUW1OOVpIYmk0NkFpU3VrY0tSSldMWkcydi1MMzdVX1pzQTVhdnJHU29tUjdlVm9lbmxyZW9KUFNyVjdMY1Q1dw?oc=5",
+          "date": "Wed, 24 Sep 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 10,
+      "pct": 14.7,
+      "samples": [
+        {
+          "quote": "La Jolla mushroom house cleaned and secured from vandals",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQamJBRFVvWU5nMmdYdjRpMVUxNzEtWlRUM1VCT2FIWDVUOUVOU1N2YjkxYzlSRWUyVDFEdlhLemVhQ3lEbGUxWDd3YVJiYW5EWUhJV3F1YVc4OE1SbDVMZV80Ty12YmlvRDFyTjczN0xuUzFHOWlfa1JSb0lpQ2puY1I2ek1iXzExY3pjYV8yZG55Q1ZuYk1XRlZWZWMwSV9La1VIOEREcmUxRFVkSlpBbEx4WXhEbFV3MUd1VjBMVVE5SUY40gHMAUFVX3lxTE4xMzNZLTBPdldBekc1VDFSM0haUE83bmNtWG1SQU13RnBYX0JLX1poOE96SGUzLXpRT2lPdWN4Uk5wNEhVWDNHb1NpcDFmWUVGMUZoVEtIZVp2U0lrenRheG9SekRwOGFkRkltV25pMFh0RFQ2MFZxSWsxMGZtMzJmanFlOWRxdkN5Um1TRTdscC0yOEFLOHhGdVQ4RXkyaEhidEhGZk1La1VteE9lNG9hdnQ0aE4yaHlSbHdiYS16S3lOOHFBYk9Fdmkxbg?oc=5",
+          "date": "Mon, 02 Mar 2026"
+        },
+        {
+          "quote": "Clairemont park honoring fallen officer vandalized days after dedication",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0pRdmdTdWVUSHBQOWQ0eDFUU3FqTU9PNGo2M2xCcmlySTFZbEc1ZzdTUDBXTnU5MXRZM1pvaFlsWmk3TE56Y3BnYU43Vk9mUmVWQk00V0QtU0JFN3Zhd1B2V2ZUempDZjlCSWpaM2dPbVVBWGJ6VWhZbDgwMllmaU16OXFmTGJkQUotU3R4ZmF0TkhlVG9oTjFxQ2lhc0NrVnBvN2RHY20xa2l0UkVTTERrb1diMXZlbm1ZRmFEZF9NZ9IBxwFBVV95cUxNdEdzcURSM3lBLW5MQ2RfNkU3VDVySElsYks5QUV5TllaV1VEVDVXMGRSQXZJMkdCb0lVZFVvRWs1RkRRVFFnSFlINm0xc25leGEwRG9QZS0xeFNCLWdrMFlkakRSMnRGcXBjUk55VnRCc01wYlFoM3FSbjd3cVF3M0RFWTI4dzh5UlBWYi1hdzRDZi1GOEpHcVFlSnEySktMXzEwNmtueDg4RlhRYnNNSGx2NjBTMmpHaktIb0diZXV4ZzFzNy1R?oc=5",
+          "date": "Thu, 30 Oct 2025"
+        },
+        {
+          "quote": "Man targets houses of worship for 14 graffiti hate crimes",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRlhvalYtb09ESkRoS3U1QkF3N2dOMnZhVEwtQlJWN3hZcE5zdzdndlhwTEthVHRmRkszRnlJTkl5VE02ODRuRGFNZFJmQU8zeWFlT21SN2I3bUxnSkxkMmNKM1daNTB1b1pCOXZIaDlsVnVNMXE5Nm9XWHdYZW9tU2tab3NkUllPeTNablk4bmxMQTRYLVQwaF9nLS1nZHN1YUJiQlU2cGtSR1k4blJxdWxiS1JldHMxLXA1bXRYY9IBxwFBVV95cUxPbVY1UExHemNBczZUR2FGekQ4SXVuS1F4aGZnZ2NvM3lkUHBacVhVVEJGek9kQmdtUy1uRzNmXzhvR2NkcnJadHRlc2o0SGJIYTBpbzdUX2lIajVIVVFmMWxGN3Q5cVZWRjVkLTBpTV83R2YxYmo5STFWeW9iQlZ0NDMyWm40bW1WTjJsYS1JTE9OTzlMNWJEek54MmFzVVcwSG5nSFVMUGplbEdDUlE2QTI1bFpRTklIUXdMNGl3bG9yVVY3Qk1V?oc=5",
+          "date": "Tue, 23 Sep 2025"
+        },
+        {
+          "quote": "Vandals spray paint vulgar messages on Bay Park vehicles",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT0M1VkRPejlrN2thUFZCem51SXozcDdZbzVhRUJmS3lhYk5XeUxxQ2FLUEUyVDhDSmtheGlfZllTZG9QNTdHdUIydHBFMFN3RGhkY09wd1dwVEw2VVd3NEN1RUc2eHpjamt5cGdRNmJQQWdsN3lERGQ4bU1wYUVUczVnODdtS2p6WVVvQ3lwYmJqTjZGclJ1NDlfOHJKd0hXT2pBeWFNQmZWUHpteXFfVXM3RlRuNXpnMGFKTnBXM1NaZ9IBxwFBVV95cUxNeFZfVTBwYnJRMjVRODMtU1VlVllWZmdrSjdoTktsRF9qaU0yVDlERVprR3FrOWN5N3hCbnBlTVl6OExuV0djVDNqN0l6VS05V0t1Q3owcW5vdnRWR1NJS2xKMHlPU2RCdnRhTzJSWTFQaUhBQ0NONDgxZFJyWGw2RE41VDJDd0RTU2E4SFlubzBVYmhsUlp5Q2VzYkgxRXJwNzY5NU1xdko1QUJkSnhHUjRfUEJPbThjV3AtNEdhYk5iV2RvQV9N?oc=5",
+          "date": "Thu, 12 Jun 2025"
+        },
+        {
+          "quote": "Man targets houses of worship for 14 graffiti hate crimes",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUkhHUWRaUnRmQ2xNVkZhc3RwUFRhYWQxWktydkdhY1o2VHo2dVpHTllsbjFyeS1KYU1OaVJxaVo2UWVWSHEwRW5YbVhGMDByaEhyZkdJUGVJU3YwbVV5SE43YktlQnNub0ZBYWlUbVBMRkZJSGV5Wlk4RGw5TThqZUpfMnJnUEQxRXBNeDJWWmJKWGRpY2tZb2tMX1Npcy00RHl4SC04ZTBBY3NadExMa0JjNWxId0VRZ21WUVdObVJUVTNtaTJ4X9IB0AFBVV95cUxQVXYtZXQ3eFRxS0tyUzZoVWRiOGE3Y2U3aEE2RjNvSHhpanpOeGRKTE1EMkpaenhIY1g3eGdnWVJPY3g1YVNMQ0xxazJKZEI5dWtwTmNSRl9lOE9PaG5ETVpyOXBsQ1FQVW85cGNzZVJ0U2RyOUo1RnBSRWg3dGpzQkpOMXRvanlQYkRGZkt3dHZBSk4wMzljUDZNRl9OalFwRzcyUmpiU0M1NWwxNnJ0UFJUNkZ3Zmh4VFBnY2tFVkJ0VndJWUFvNFp5WkxESURS?oc=5",
+          "date": "Tue, 23 Sep 2025"
+        }
+      ]
+    },
+    "Water / Utilities": {
+      "count": 8,
+      "pct": 11.8,
+      "samples": [
+        {
+          "quote": "Power outage affects Mission Valley, Kearny Mesa, Tierrasanta",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aemNVWjN4Qk9rVjRZWVZUTDQxazN4SjNmVkZvclI5ZzRjLUtodWtyV0E0QjJxdGtyckt4NlliS1JscUlnbktXTzhfV2JrN01JQUhDbVZISlNMeXdXemV3Nkg2VnQ3Xy1rU0xIa2lIRldBQdIBd0FVX3lxTE8wR0o5cC1adWlxMWdwS0FuTnFmdHZkWnB3bHlMWU9BQjdhc1NzODZYTGpJTEtsb3NrRXlQYk5BZ283SGcwaFgxMzBhbEVMaENWdkFrbGNCci14RGVVc0NaMjBNdncxY0s3WG9ic05kWmx2d0diVktv?oc=5",
+          "date": "Fri, 27 Feb 2026"
+        },
+        {
+          "quote": "Emergency declared in Carlsbad following water main break at major intersection",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUEhfRWVjVnJyZ1Q3NS1nUEtscjdmcGdlZDF4S184UjkxbTJEbDJmSE5DTEttbjhvSWNvRjB1bU5jLVNlS09HMUZPSkNPUVpEV2FFbVVxM2VHWEpEb2o4RXYyRGJqdGVyanVKcEI5dnV0WmFwVmNObFZWZ3Buc011amNYeFFZSGV1?oc=5",
+          "date": "Sat, 31 Jan 2026"
+        },
+        {
+          "quote": "Coronado intersection closed due to flooding, possible water main break",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XQVdQU3IzckVtQm1hWVRDUDJQTXI1Mk5zdXdQMFlhSUJPYTJ4ZFlhTHJkdUI4REtsbE1XMW5TS1Zad1l5dGx5SWEzTGNPTklFalFhSVdPcDVjTEoxbWFOREFxVGc4YlphbFdxd2VyYTdwY19G0gF6QVVfeXFMT2hPU05ISE9HZFRLOE9vSlpncHpwUVhTVktCdFdPX09iLUMzU2tFZjBOaFhDT25SVWxBNnVJSFNCLUhUUWVxcWJ1X3hMWWVmaGQ4TERTV3I3OUdlNlg3R0dhS1Q4UDlvbEdyU2VuY29JbUtlMkVST3kzR3c?oc=5",
+          "date": "Tue, 25 Nov 2025"
+        },
+        {
+          "quote": "Water main break floods North Side residential street",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamp0dTdiMEF0R1VubDJxcDVyc2FLSWhtTFA3QlBMMXFqWDBRRGo0dHFMTE9vQUlyd3VOZXp5N1lEQ0VhRVpxdEJ5UktQTGNmcE9kMkowTVAwM1FVM3VfQjdDb3RlT3lUZWd1TzVKRG5lVEVGVFAxVTFvQmhBck82QkxHX2x1ZU1scTl4QVcwTEFwcnZhSUJNRXZWRzEtRkhqSkFVUGVpaFdIYjlZOXFpOA?oc=5",
+          "date": "Sat, 20 Dec 2025"
+        },
+        {
+          "quote": "Water shut off in Santee neighborhood for hours following water main break",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWk9wWFVyOHBhbGxwU1g1T01KT29aZnBablVORVlfa2RMYVFaU1dZY1U3QTQ3cXZ3NXVKd3o4NTJJVDROb0NpbjRIc1d0Ui1PcWkyUk1vM3hMRHl4eHlLUV9kVUw0bVZjZVRyR0thLUdCUGJKZzZnSWJQUk5wZWlSODRyMm1wWU12Z29reWRCdGwyMFZPNTJTMnVPVFVfX1hnYTBHSmtKZjVnamlTaHpzZGxNNU1xeHJCbkxn?oc=5",
+          "date": "Sat, 15 Mar 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 7,
+      "pct": 10.3,
+      "samples": [
+        {
+          "quote": "San Diego residents frustrated as old trash bins remain curbside",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnRkUy0xWk1GU3RuWjBNTkJqMEEyMzVhdDFCYjNoYTdMNThqaGwyVGpVNnc4c0ZIb1JSTjJhOHpsTkYxS3pWSzZJbEJlMWd2TnJQTGZSVW43QzlCc2ZjcFZkX3lMNUJyOW9VMERFMUxtRWcyNVcwSUsxYVZidkFCbmJDQ1ZFc1FJeXd0N0R2MDFBWk9GMVE3NlVWckUzUnRQd2NPYVJxbnotTW9td1pXYVlyUWhhaTg3amfSAcIBQVVfeXFMTXFUTkpjWmJCbnBsbnpxdEVZODNVdmw4dzEwVklIUWRINzR3MUo3RWszZDZ6UlhDdzgydS0tUG9LZXVyVENHbnJMVmVrWnZ5WVpfdmJORE9ENzh4VGMwY0pVbzlwdmVFbVEzR2diYVNyMkw3bVdXVlNIS0FreUctWUtUYUhIWGFfUkFlaWJ1SWxCTjBJM1JubE1vUFEwZW5hWU56WWt0QVQ2WVBKSVlDazAyUGFvWWxtQ1BtTy1BSTZwenc?oc=5",
+          "date": "Fri, 09 Jan 2026"
+        },
+        {
+          "quote": "Residents frustrated over recycling pickup delays following new trash rollout",
+          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNeFNfellFRFB1WU1XbHBIZWtkTFZOcGpnazJIcmtEZUxObDRWTXdPdDEzM256ZWZELTg1dnlRYUo0YnVvWnJfbzhwb0tSZS1XWTFIMXM1MVVvTlMyV09mZUNqaTRfZ1J1aV9hVXltcWxQeVVDaGx6elBFSkd6RE40blNLTllqM3l6SlNvaU5CNE85S3kzVkhyRzBFaS1hNC1mb2xJZkVoQlJnYXpsaTEwVHFfVklKOVdCdFFtTnRWQmM3Si1DeFdpWUxCRGdTWVpGaTNBOEFFOXlQVC1xZG5lbEJaRVhncldNNUVYQUtmb1gxYmtma2FkOWhheGRSUVg2ZXFmeUJDMXlDMGJSR0ZiMmcwNWU4NUpQTDF0R2ZFRl9VUmhGbG1FV0VjOGVicGJPOXJLRTdydVkzaE1kV1E?oc=5",
+          "date": "Wed, 14 Jan 2026"
+        },
+        {
+          "quote": "Residents frustrated with new and old trash bins coexisting",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQjVzRmhmWGlfcXhmekxGUW0zcmtiYWJDUUNDc3FZYkhWeUdqZi1jSHRhTlE1cDcwUVJSbG5ldW9mbUMwMGFUQ2ExVUhjVVRRNlM3S1FOaUtMWkFNQ0JiQVp0VFJJVVhvVkZURDlNMWVHQlFBX05nVG40OFp4Z1g1QTVaZ2Y1UnlES09mMm52ejA0V2RHZXdET203aTFoRFdCejZqWW5iVUR0LWJ2bTlacklqejN6aVJqZGtPVW9tZHdJa2F0OUVV0gHPAUFVX3lxTE9aLWxPejFhTVZGbUUwVlVaRkhoejFMeHBma2xWMDhWMEloUGhpZnFxblU2c1N1N1B5cy1WbUVhSU94ZXlWNGplX2JaMWMyaTdtLUt4ajJUejhJcGJVeFFBWWR1WjB6aWEzcDFFVl94NnBiSi1HYzNwYnRPekJLS3lpNzhkaHh3NjRZTU5BUlZuMGhmcGJQR1BaV1kweXQyNkdyZjZhT0pIS1BZenRPVkc3dnVlRUVsVnRsNjAtamxfVWVfRGdGSkZDRERuczdXNA?oc=5",
+          "date": "Wed, 05 Nov 2025"
+        },
+        {
+          "quote": "San Diego removes 12 trash cans following months-long resident complaints",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN2JkNTlWUnR3Rk1lUnpWa0VzbVQzd3JtdU1SMnZTTW5pa0h1R0xqaHJUWkFNVDhwWTRtMGxabmYwOVdlcTlNOGNrOVZiQzlydGdsSldFenJzVVg0OE9VaWdQMFp3YXFwUENOVXkwNm9JUE9uUFFLbjdLUG5IdUI0em9YbHBxRmdqSlBRcF9aMnJCV0xuZk8wUklZRWQ5NHFUenFtYTBWSnA5MG1SRUNiekI0MEUtenVMeTQ1SDFLZE1tNkpfaWN6R1JtMXFQQ0drUVhVTUtOS3BWSUpRcUZQZUtLRFA0a09aYmlaVGdCZw?oc=5",
+          "date": "Tue, 19 Aug 2025"
+        },
+        {
+          "quote": "Residents protesting San Diego trash fee increase",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS3pjemgwX09FNkZDbUN4QWx3QzFncVloMWRJVzZ3NkQwQmI1cTVnOUdsRms2UEU0cGtBR1FCdjA3eU5obVBhSlRkSE9nYy1URjFwLVdUMjlYNDRwSGk4UmtFbl81Vk9mWEdmS29TTU5XVXlrd2Iyd3VqWkllTWxUSFhZczl2SWpEclJGQ2Z0X041MnJxbklqaTVrRWE1UHc?oc=5",
+          "date": "Thu, 17 Apr 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 5,
+      "pct": 7.4,
+      "samples": [
+        {
+          "quote": "Potholes galore on Gold Coast Drive causing car damage.",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY3ZKUEtMNkk0c3FLWU40N3QwVHI4WkNzUGxCREtGVjktNTUxNG5nTWpELWxGQVZQOVdsVVFMaGdmU01FUExDM3VFTDF2ZU14cDVBMkIzYjFiYllwdXN3ajdNMWR2Qm1kaHJGWTJNdmtHMldSRjVIU1Y2YlJrcFJ3R3ZBbnJiSXZ0TDN4bVhRLThzQ1ZWMGVwMHFaLTh0akVlbkgyeWlVTHZWQ0U0VWk3dlMwaVdDelduSUo3YWVDMVRGWW55c3BJRXZCemNyeTkwWVlCNEh5OEdEOWEyVFotV0dCRU5ZRGlLZXpN?oc=5",
+          "date": "Tue, 01 Apr 2025"
+        },
+        {
+          "quote": "Hundreds of potholes reported in San Diego after recent showers.",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUdGcUlHLXpyRThPemlGYW1HWEM2SzRTN2J5a1FaSVdyZ0tKckdETTlFalFONXdaYUF5bDRUNkRDbTVEbjFKLVlWaXgxTmlhRkJDLTRmX19uRlRpa3VJTVZPYTRQdVkyVG01UmRoUWxJNzJUa1NFM2xpXzVCU184QXh6TTdyUDVRQ2hLTzlqTWttUmxvbWdrdE1OQ3dhdzFiaVRfMHlWU2N3RUk1b2FfelZCX2Etb00?oc=5",
+          "date": "Wed, 12 Mar 2025"
+        },
+        {
+          "quote": "Street repairs to begin after parking district pause",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOblVRYklKSWFyLWhabkREOW5vLS1BbEZtV3ZoMHk4NE9mSjdRbWpEbmlzX2dDSXVPckVGTmNuSGl5Z2pXY29McWZ6SFZzSUJpZmZRRXoxWFBlV3NIWTVVQ3ZxQ3c1X29RdTE3RFFDMDRwbWhnTTZtdlh0c2Y3b3Y2cmF4c2MwQzZvNGRlV3dWaGZPSUFsRlI2UHp4NNIBowFBVV95cUxQV2s0Mi1QNDJnZVJ4Wkpnb2x2Tk5KZ0tWY2xReGRwQmtjUENieVlzSWE4SkdOeXpCS2lZVFBpMExqQnZFMlVjRFRMc0FCX21vbDUyQTVzUV9wYkNXeTRNdTNpaVltRnZJM1o2LVdHaFRwaXMtcDh6NVB4bS1TOVdsM3l2VkdEMFZNdXpnWUN1SHVwdUJCSWxQSEtxTk82UDhKU2VV?oc=5",
+          "date": "Mon, 27 Oct 2025"
+        },
+        {
+          "quote": "Survey on condition of streets and potholes in neighborhoods",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGl4YXFFWkVjY2U3ZmNuSjlYcnM3RTExNGdHNmNiR29iS0RQSC0wWURlQzFNQlhwUWlFdUNvSGh5VzNSQzB1UFZRZ0c2Tlhta3I2V1ZLa2dMM3FpaUN1V0hXUzN5Y0luRE1oMlN5WFYwY0xaemoyOHN0YktvV19RX2IxVF9wdEcyX3pNRXl1bC12aWdiZ0lqdlBBZmNldnVXRVhmZ243VkVwQQ?oc=5",
+          "date": "Wed, 26 Mar 2025"
+        },
+        {
+          "quote": "Sinkhole repairs continue in San Diego's Morena neighborhood",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVnVQaW13T1VVenc3UjgxNlRRZDNFVnZMNjNycFhuWkRqV2RUaXIyQ0FOMkVWS0xvRFc1MTlYdnNobGZUY0trVGhrZXdyZWdCNGJwLU53cm9mYU50b0lZNjNBbjJTSjBYUU5KekJaOXV4Z1pib3Voci1IUlRoel9BUHptdVVZRkgxdV9aODc3YmFqRFEzMUFtakNIbTVQQUNqTmU2TVJSbHpzcjdiWmxnOWNKR21uQlNkaUNhMVBNd29lRmZuY2VXQ094SFE4MFVnVVdhT181Zlo1dHZPOVR2SlpXZm1jelhoV3c?oc=5",
+          "date": "Wed, 21 Jan 2026"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 5,
+      "pct": 7.4,
+      "samples": [
+        {
+          "quote": "Sewage flows prompt officials to extend Coronado beach closures",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObTk5RlVBaXBMSnZqaUJ2OWpuUm5DMllBeW02TWZuci1INThZR245eUFsYnlDRmVEWGxkZWRwckJsSzM3WUw5ZDF1bzBBNDFlbm1wMU5Ob3BmdzIxZlRnYkd1VWs0NUxweDZMTlNoeWYzcHp2SnNHeDVLZGpFRXYwZnlWZTRISkFHa0FvejFnTUZKRm1RNkVaVEVmNWFEbDM0T2Fr0gGrAUFVX3lxTE81VzJmYmd1WUdYTjhuUHM1QnRLd1NMZkJnOVdxT0dGNjRSNWIzUEhvQWQxRVBCeEZUWGFOT0lEeGkxUXdtdEppSmhyMjVDemdrZHppTjJJYm1FcHNyMl9hYVg2V2Q3TWx3SlhWLXlHazYydVlReXZ3TDdQSS1SREljUnVLUFYwYkhKcUlYMzdsQ0NPTld6RUxpSFBpNVEyTmJMQjd4RDdsOHBWTQ?oc=5",
+          "date": "Mon, 01 Sep 2025"
+        },
+        {
+          "quote": "2024 flooding prompts city lawsuits against residents",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaWNjSzFlcFZBM0dSTzltaVB3RHU4Q2RfY1JZMTBsWHlPLWJLT3JrN2pJQ0hibGlYUU03RjIyUk81Sk5LUkxfdmd1WUR0NVhFRW4zOVU2N3l1VV9KV1lHVEN4S0JOaWJvN0ZZOGt4Mko2Wml6WUFOOEFtZGwydkpmbG54NUNlbHNOVG5zVFpiODVVaHFUV2l0bHRCN3ZNUjZ6NUVHbi1HM24xZjZ6Q3BLbWFRVjYtUHZjRkdrRjFDMnNLaTdxSkRVTkZkd0lEUlFtMmMyRDV3?oc=5",
+          "date": "Mon, 25 Aug 2025"
+        },
+        {
+          "quote": "Flood victims countersued by City of San Diego",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN2FBSGhfQmNFN2NmNGJNaFk3WXoyaDRZeVRFWmRndktkaW5DM0RTRUVDQnF2OUZYQ3NTVncwU1hRcTMxY0xpWnlTR0lyUFdnMElQTWVScUNfcHdDWWtXZlZNSWdRNVJlNlFsTjRXMUF2Y011eUZqSS1QdVgxVnJqc2c0SDBKbmV5RmJfME5XNHZQc1VIUXJDeXZWcjJNdGJMVnhrRUlEN2JiX2s?oc=5",
+          "date": "Tue, 27 May 2025"
+        },
+        {
+          "quote": "City countersues 2024 flood victims",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUdLT0p5YnRLT0VuRWdLaXJSaDhjYWxZcVFob2p0eGhUekFUMDJKQ0l3SHQ4ZGoyOFY4TGh6Skd5d0ZzaW9HcnVYV2VUZFpvWkt6UEhCTEc4WHU2STEtYk5xa2o1RGF0MEpndEl6d1Jpa1MteDB0emp1bkJsaUR3LTRKXzZfMnd2MVk1VWE0Q3pnb2tlN3BqdVV4NNIBoAFBVV95cUxPd1c4eGQwTDRobldmcVhOdXQweUlwVENXLXhEOVlyc1ZVbUJ5M1cxMjV5S2F4MUczOWEzTy1oZlMzLXFtb0lzb0JSaHduWFdLZ3RSOUhmTG5FeTlXZXU2VTVKWXphckJTYnpIeG04eXFkVHctSHhPc1ZROFk4VmpxeUxoRGVBcm9zd3JTS3QwMjlRX1NzaWkyZ3daTS1yaWIy?oc=5",
+          "date": "Wed, 28 May 2025"
+        },
+        {
+          "quote": "San Diego still fixing stormwater system after historic flooding",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaUZ0ODRnX0lrZUtGRDIzNGxoUjlJRTlmd0VqRmF4RzNwNzROd3RtNjVvZWVURHpDdkxtRWMySjZNXzdnbldSclppUGFzakM0cy1UWjhqYkNHRU1qZ1ZjVnZWNkhsN2owVnZMR1JCVktSVTZ0UlZwd1c0NUQtd0hramdpMXRWd2JPdnpabnQxb1hnallxSXRpanlxMzhFS0Z1TzNBMFpOOVpnRzNfVGh5S1ZYX2VMZ1pJT19IdlZSaERfbWpzSy1aVWhIQlY1OHQzWm9BTllBV3p3UkY0YldnMjd0OHA?oc=5",
+          "date": "Sun, 18 Jan 2026"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 5,
+      "pct": 7.4,
+      "samples": [
+        {
+          "quote": "Homeless sue city over unhealthy conditions at camping areas",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYnJvZE54VjdxdUR0VlF2VUUyNkoyc2lnTXhpWV9FdUNldjdPVHBaUW44d3pGV3BRNFRuRVdGems0MW5WRnhIM2x3aDBES3QxWWZaNHBoY1ZWanozX3JlRDlHQ2lhcGplTVB5Z0Nyd0x6NVlfcEh1SDJ6UExIUE5TN3N4eEhHMW8zZW0zbzhWSDRlNWJQODZrRjNObGZyQVh2a2l5dmRvV3VkSlc2NW00akV2b2h4dFBzN1cwTA?oc=5",
+          "date": "Wed, 27 Aug 2025"
+        },
+        {
+          "quote": "First-ever parking fees at Balboa Park draw citizen anger",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeHdGSHBYOXB2MWJqNHM1V0xzazFITFg1OTQ3R1NCUlVxTEhNcGZaeWNaVmNOQXo5bThqbWc3NDBMRU92eDBfV1FYWlJUdWhrZ3V6RFhEY2w4QzdVNTNyeVBqNHFNQjRMdG1fWllzYkRkVjhSbTlIT0liY0Q1Q0hIR1h3?oc=5",
+          "date": "Fri, 23 Jan 2026"
+        },
+        {
+          "quote": "Soccer league highlights safety concerns at city park",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMFdVMkozZnAxS2d6Ty0xVkgyT2w4QjEtbE1PcU1Md2RsUTI2ZzlZNnpNZWh0N1dLOWZmVXZoWUl6bTBLQmFQX05NVUhpWnhZdkEtZjVWYmhReHRjMWZZWFk5ZW9yU0gzX2RtQ0psblN1bVlKVjZHVkZaZlI1TEtDdk90c090ZE1Bclg1NDJwRVVfcnlNdTlqSmxsODBJUdIBowFBVV95cUxNME1iRnZ1WWRXYl9IVnZnQV9sU3JGR0N0NVdJTHdVYkY0SXQ4cnozU2tseDBXaFU0ajBSaWhyREhLaWk1VUVWQzhlWVVpZUZoQnV1U09SYlBaSVg1UUhtRHRfMzdaWlZMWjhwamRTY1gyX2hXSElNNWl5N1lqLXo5UUtpLUM2RzdONUpmV1pqZXdnU3E4c2RmNngxdTFlY1lGTFlB?oc=5",
+          "date": "Thu, 04 Sep 2025"
+        },
+        {
+          "quote": "School district closes park due to dog poop and holes",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR0pyY25NNlJ3MUxEZHpoVEdzZjhaeWlsRGVxSlhTTmNBd0VjU2NkbWZoVlRmcEdFRVBDVzFiaVFRdDZJZzJwVkFFTFFpRVpJVVlLVl9KWE1QSXpoS2dzY3VpY09rSTRob3RCYi05Zk4wX1Yycjh5cTgzTldNbGZ5VEJEalA4b2lxak42NXNSOHZBNW1vSDkwcVhFdDA2YWE4TEE?oc=5",
+          "date": "Thu, 18 Sep 2025"
+        },
+        {
+          "quote": "Valencia Park's Secret Stairs left in disrepair for months",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdDRhdXoxS2Vwc2dFVjNZY0VIeTYxcUwyZGo1d0QzZ3d3N3FLYWtFa0V5b2dqeWJUZmktbTdaSkI0dEFnM08zVjNvQ1RFVEItNDNwSlJ1ZkQ0S2FNQ1N6dmVubGN6aWJucGt6WHMtUG0wd3YyYnBzRXVLYy0tbjhlTmQ2VnU5YlZLcUVyRUhCSU90Q3dvUlFHeGp5N2JDdVdIMlBFYkhVZmpQN0lQWTlCWGxuWlZ5V3JIS3FWSVJhN1V3TUY0ODVrRjYxUC1OckVTTFZ4R2pUN21XaldBTVFZalFMZw?oc=5",
+          "date": "Fri, 16 May 2025"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 4,
+      "pct": 5.9,
+      "samples": [
+        {
+          "quote": "National City streetlight outages raise safety concerns",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNUJoLUNIUUQ3OWNXRy0wOWs5VXFCVlVHanVCM0xQTHJid21GX29TSEpKajZrV3pKODR5THg3QjI5Sl9yejJmQy1hZjE5LUZWaXhsTk85SzNWVEVzakNVVUxZTUlMdHUzOTYtaXZMMnlLMmtMZkJSaHM5TDNvVGx5cHRoazFpWTFxNGduRy1iRHZSN1JFT3VVYkRRUldOUU5vbHNoMHFaYVVSMEpsQS1mTWZpSk5WNkdKQXR3WEJzSGlXRTB4Z05addIB0AFBVV95cUxNV2lhM1l6czBTZldMSm1tMmhidk5Lb002TGpoUGFOeWlEUkx2ZVhzU2paNExEbWw0WkNTVzlXcnNUQlBIejZ6azRrZGNSbEJYQVNEZk93SDM1RW1RbG5HMU5NZnEwZ21vcy1fb1drTklTWEJZWkhfUWpleFdsckRCYTJPbXJTSzhhelBHVS1mNG1jLTZXc3ZaOWtNcU1mdXZCWVN5WnFrSVFuX0p3aTlFbXU1ZkpYcjJlYTlzU3doWjlHaHpVQzFReFZJNHZVbW13?oc=5",
+          "date": "Thu, 12 Feb 2026"
+        },
+        {
+          "quote": "Locals fume over dark streets from outages",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTljR3d4dDExYnhVSEFnVWNEenlTLXUyUGtlWmpmWUZmUl8xT19oMlBiZzNIYWJQT3pWVzdLU011U2ZRVFpTckZ2RXgyS1JHU3lCZHgtUkJLanFiTlpIMS1iVXdyclBGYWk0R09hWWJmdzNUeWY2bzZtcEMwZjcyMGV6alpkNnJESnY0dThPNU5mbVNT?oc=5",
+          "date": "Thu, 12 Feb 2026"
+        },
+        {
+          "quote": "Broken streetlights raise safety concerns in College Area",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYklpejRETGUxQVB3Ynh0ZW9IbGR3VlAwWFAxM0VwOVhNVlNkRFZza0lpT1haWFhlcWN4NjFScU5KNU1iOXVOcjBETUVsSElWenQ2RzI2UU1ncGM1MTdyT2xlbVFQRHZSbnR6THh3Q0JNcTduVDFySzdoVDI0M0VJN2EtQ3phRzNTQjVOc0EtSVd4UFN1alkzRFA3VmZQZ1gwaVhGVkhPVHU5M2RVcXhpTExWclZfUdIBvgFBVV95cUxOV3FZbTFnbHVRZ21mc3FJSER1VWVKMHRqQjdvalJDdFFiT1hDTHhlZnExT0FNZ2licml0SFozd2ZaUGdxaWJqcnhMSlRtcUV6ZUFwVXpEWUZ3QjFnWW95Nk5fN2VNRjIzYVhnTDRfWUx6a3Bud2hNRW84ZnlISWQ0aFdlTnNSVXg4TzdVQnR0cVYtS3AweXJKSjkxLV9oZG1zNGd0N0p4cUcyNy1VNkVWNE9xXzJ4M0F3UmZjMU1R?oc=5",
+          "date": "Sun, 31 Aug 2025"
+        },
+        {
+          "quote": "Broken streetlights replaced after months of darkness",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSjBlc0x4aExCSW4wVFRIWnRhVHNiSDJwQlBad2RzYjdwdGZfVzBVZHVXWXk0Y1k4TkxBM1dqV21fMF93RGVERmFzaDdNYUZjSkhIcUhYTXA5T1o2OWlkR1JQRlV0cnRuWGJPajZWeWpTQUF6Tk53NDVtWEFxcGt1SlNfUlF1ZW8yWDFLNTc4Z083Y0FIU0ZoMm1NVTBTSmZEaUxPODNSbS1uWV94WmZISmlRT25xWmPSAb8BQVVfeXFMTXpMU1lVM04wVE84YzZPUFRrRTJBUkFQWWh4QXFfZlJJT2JKbXNaeFBMOGFLUk9FSVcxRXI5cVlMS25lZkg5OWh2aW01QVYzcE9jVlRiSVRIODI2LUxFcFhSSlJrYUIzQXozTkx0bkI3VXdvNklXUVltU2pYQzlCSm9FbV9lMzRPRGdCN3NvSEpGNGl4UHBfUVhqdmc5VTVaenZ0U2loSnMyTUVtZkpTLWNsZUhSUVJCUlNqeTJXems?oc=5",
+          "date": "Thu, 11 Dec 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 2,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "Residents sue San Diego over tent encampment conditions.",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNmtMY2dHY3R3WnFQM1g1c0E3ZG5ocWNwbjNxUHJGUjc0bFR2emRsb1IwVWRWamduZ1Vhd2lpT2lIQVdFQms5d0hESEZ6TFFCekZzRi00OUk2NFRCc2JndGhRSEJQRmV2dE9OQTc3d2dLVm9lTU5WTjZUbHZkSUctODNiMzV1Zw?oc=5",
+          "date": "Wed, 27 Aug 2025"
+        },
+        {
+          "quote": "Homeless camps face lawsuit over inhumane conditions",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWnFTYnE1RE5FQURyanhFTlprY2t2Z0t2Qm9xTDlSRW1vOEo1REdpMEhMZkhjV1NEVzVGM0gzS0RieEJrSUZyeWEzTzA1ejNWa202Z2tBZ3ZUMWdvUFF4VmtMaXpqVGg2UU5HU0JVTnVjZXpXWmZVNXN0VFRHeUNmNjEtdGowMW44TnhXTmQzcjdwcW9xUFVfeFR6ZWxwMkdSNHVVWU4wNnA1bmRvbkVDS1NlWG1fa0hsVWV2Vm9ONA?oc=5",
+          "date": "Tue, 26 Aug 2025"
+        }
+      ]
+    },
+    "Downed Tree / Debris": {
+      "count": 2,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "Young boy's death by eucalyptus branch questions tree care",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV3FoODc2bUhFcnlsZzF2T1I1S2ZHSHJMS0gwR0RwSU1kYVFBU3JQazZEWlRoUjJaQVQ5ZDJaTlNTQkVoOTk1U2ZycGVUdnAtdEkxQnBKRy1OODd3QUthenQ3V1NjTWwxOGgxc244ckJyc2JET094QWVuVjVQR29oSHB3Y09wMGRCRFFPN0JFNjlERWE1Z3lYb0E4ZHhzYnI1UUk4Y3k2czF0SHBobFR2NkphUElOdw?oc=5",
+          "date": "Fri, 21 Nov 2025"
+        },
+        {
+          "quote": "San Diego family sues over death caused by fallen street tree",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMTl1VVJUak5UUTJ5MXdyV1N1MHFna29BSGRrbnBzcVhURmE0T0tjQk4xMlZwZlY1eVU0RlpiZFZRRWNRb0RrbFhjbUJoZFZNa1dONUdOaGpXdW1YT2x3VXJRU3AzUTN5WVFJSXB0WWExcmRxbHdtSmk5azcwbzJseTRoU3g3d1AwUFlFdE5jMFpnaWF0Z2FGYWMtQ0pObWpiM1VONWdlVFo3bXFQU1Fqb1pZQ21ZNko5U0pTOFFkemVXN0VoMDYtSFRSRk9jZ04teGJvYXRUZy1JX1V1UW1UUWNURno?oc=5",
+          "date": "Tue, 30 Dec 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 2,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "Bay Park neighbors push city for sidewalk fixes on Morena Blvd.",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN2FXUDc4RmRWVF9WWFNiZy1PbGlLWnJpemE2eHhPdjcyVTQxeVZLbUZEdHIyZmZjeHlNV2xKXzJJcU5WS09XV1psZDNTOUNaSjVTSjd3Z1NwRkNJYUJtc0ZKTVNYM3BQM24tcElIT1htaFRQMEJ2VVptWl9pNHVvYklBZjBvMDUyMlotcG94RW50M19taksteUt2UDV6bWw3RS04N25sNEgteXB6ZzRyQThiWjEwZDdzUFZKTDdhakppcGFxQzNwX2txNULSAdIBQVVfeXFMT1BGQWdJTDdmOVFVd3ZEZ0oyTXcwVlJiMG9nMk82T2xvVURtcExpV2Zwa2JPdVl2TlNRSE1KVkpWX1RReEVjcU9KdE9OTmZDSkF2eFR0RVRYUkRTQmpIdlVkWDgxVkZwb1JhLUdTV0pwMzVLbnIza25oTTVidzkwUEZfMUQ2Ny1PZDlUYzZILXF2bzN4UnBEMlRWYW5nMHRmYUlCMVptbEtGUHhLVnNxTm5ac3hKZG1TSjhGaWVYV3dXblpETGdkeEFhXzAyTGl5cThn?oc=5",
+          "date": "Tue, 07 Oct 2025"
+        },
+        {
+          "quote": "North Side neighbors push city to fix dangerous sidewalks",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVV2YnZiSUNWVkxVU0lWTmxsR3RQU3hIY0pPZDE1WmMtbDdzb2tWNldSRS1iSzNFY1hQMlZtWld5blRxbGpGWVdjSE1BQWdleUlSN1UtS2JwaGpHcm5WUGxDUi1QV1daZkc2VklMVFlCS3ZQLVVqdXJiTlJZN3lOYXY2YmphS3hnc1h6VjdNQllZTG5VT0lSSnJUSGRPMU94YkJN?oc=5",
+          "date": "Fri, 17 Oct 2025"
+        }
+      ]
+    },
+    "Abandoned Vehicle": {
+      "count": 1,
+      "pct": 1.5,
+      "samples": [
+        {
+          "quote": "Abandoned cars sitting for months in airport garage raise security concern",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1JzLXhJT2Zib3VHQk56bUNSNk80aGxTOHFMemdHb0xMaEFWaGxzQ1IyM0hnZnlkbGF5OVdicWVoUWlFSlVLU0Y2bFdOMzJYYkV1LXhCOXdiQTZZRmtMTWxXMHMyb013bGp1c01FczRibVE3Skp3LVZWQUljRGx2eVJGZlQwbS00eWY1N1MwQV8wajJJN1FCOHVMeU51Q0lYOFltQnhka3M4SGI3c0dMbmNLVG5ibElLajlHM2N6YlZ3UEw3c0pEN2FXNWtWaE9DQ2RFUldR?oc=5",
+          "date": "Wed, 03 Dec 2025"
+        }
+      ]
+    }
+  }
+}

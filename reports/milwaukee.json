@@ -1,0 +1,205 @@
+{
+  "city": "Milwaukee",
+  "slug": "milwaukee",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 79,
+  "total_complaints": 36,
+  "complaint_rate": 45.6,
+  "categories": {
+    "Other City Service": {
+      "count": 9,
+      "pct": 25.0,
+      "samples": [
+        {
+          "quote": "Have you been impacted by the floods in Milwaukee area",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNTR1dW5vT3BOcVZvY1Z2MHIwdjFpTUxuUXZDdzE1SFBKajVIQ2lRd0xBR29kbVdOazNwb0lNa19aNS1rVmhpNXJxZDNVdWhEWm0zUS1VR1FJQnVTdFFSQXFzVk54anFrNk1SNUk2Z2ZUUGF1cU04RmJoZHZRSnNMUkZXb054WVJSMFBub01yVUFLVnp5UWktZHdROE0yTTlaWmo3aEUyREN3R2ZHU1d2VE1lc2Rka2JEd25qdTk2aFV0QTVnZm1xSXRB?oc=5",
+          "date": "Mon, 11 Aug 2025"
+        },
+        {
+          "quote": "Insurers field thousands of claims from Wisconsin flooding",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMWd0dTM0U0NOYnlOZ0FRSE8ybTUxSUVOTjdIaFBvbTdFR2J5anR3dzVnQVlqZUZYd1ZRcmh2TkF5b2JDbVhjVmMyOXRHdGJQRmkxSVh0d0ZOUjl3N24ybkRsX3pSTWYtMmI3M2NiUUFkLWtXdTBzaUFraFhqX2FlRU1YSE5oRldsWVdrVzRVU3BNTjZld2FZaC1HdmFTcnZNM3VxMTVnbGZqWkR5amdydUlReFNUTENoS0pWNEMxNW81R0V2ZVFjbDN2aHI2bHpMOGloaGNR?oc=5",
+          "date": "Thu, 14 Aug 2025"
+        },
+        {
+          "quote": "What is causing flooding in Milwaukee; flash-flood warnings",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVVBDR01yQXdEbk14SHc0U3kyNEZLUU41R29fMG5LVG9oREFQMzJuRGtQbHZLR2pEM1hjQWhoUVVtNGRjMS1sU1ZFX0Y1VUNITnNqeEtEVWgtYUJoR2RRRjJZbm1BZTNBcFU4ejE1U2luN0RFcGxCTWlCcHk3MS1jYnZmaw?oc=5",
+          "date": "Mon, 11 Aug 2025"
+        },
+        {
+          "quote": "Milwaukee County flood response, cleanup; officials provide update",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMGNyTDlPbnZXbjVUS1gwMjE2YlhzR3FwdEVZUVdIaDNFckpnRzlQbFVFMkZkZVE4ZjB1QU5sZHgxRkVpcTVuZ0pUZ0NLbENDamJfeFVsZ0JHdm11aEVQMW1EM0JkLWY5NldjSkJjMkRlQlN3d20wdXZxaTBXSGNETFE0NTQwSmZBU3ZIS3htLXB5U0lQbnBnajRn0gGfAUFVX3lxTE5ZaVRhckU2ZS1ZcUNIOXBCaTMwRTFBQlZoYkJ6T1pUVUR4VGJBQm82ZDAzMGlINVNuTkdiX05BRHY1U1BRMVp1alRTWkN1SEt0S3NfaDZWU2xGZ01HOVVmZlVoRDhBOFgtU3N1cWN2Nkkza0V1MFRSX1lmX0dKN1FqaGVub3FYQmJYUGViMWJpck50c3BFc0lvRU9fV1VRWQ?oc=5",
+          "date": "Thu, 14 Aug 2025"
+        },
+        {
+          "quote": "Birds are a nuisance for Harambee neighbors",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbEhYQWhraWlUZThPa3lRMzBCN3dhbktkcmU1MEpKVnQyNkFxLXloNDcwZTd5SnVWblNjSnFMTEo1TEczbTJVY0pvSXdtWWlYSXk2THhDOXQ2RjlRWGM1bkVtR2Y2YVVBRVVpT3d2YVNBWHBCclFOQ0FuT0NNRXAyOXFSWVBDeXdzZktJaUdwb3RqT2Q4STlLcFZHZjMyX0hkRkFyR1EtUUZsejlsSDg1bjh2cnFiOC1NZ0dmaGdURXhSQmxJRmx6OFBESHZLaXd3aURMcktWcU1qbEwyUk5jb0ZWWQ?oc=5",
+          "date": "Mon, 15 Sep 2025"
+        }
+      ]
+    },
+    "Water / Utilities": {
+      "count": 8,
+      "pct": 22.2,
+      "samples": [
+        {
+          "quote": "Nearly 30 homes without water after main break in Bay View.",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1dxYWZFdl9YNHhlbGxKcFFIY3VOTEl3ampmVDFtQ0Nwb0UtT0xwV0tzektyU21YWjNMdGdSVzc5Tjd0Zm5ua29YMWZQQzRvRDhiQW5qUHRJcmdTY2pwdUtIRWhVVC02MjNFNjV5RlROQ1NteFNjT0l0WGJGSmFzYTFaODFlajVLZUN2dzE0bFBGLXkwQ1lweTM4U3liVm5GbG9NVUd3eE4?oc=5",
+          "date": "Sun, 22 Feb 2026"
+        },
+        {
+          "quote": "Water main break on Milwaukee's south side affects homes and services.",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14dE4wbWRQRlpnM3Vpbk11ajVWWHB3a19JUElSNUFrY1d3MHlVeVc1ZnZHZXhXS2hQV1I0M3RQdHV5NWpJd09MN2twRFkwdk5jeE53WUszN0JhdE9XWEl4QXNGZTlrUEFaLV9JUERDSVRuX1U1Z3fSAXtBVV95cUxNenJ3akJqMFlFcWRZalRRNUJRQUU1cjlvd0ZFUmJZLUZoZTEwREFfaUg5Wk9oQklrTC15OFo3Z3pyN0NhSXRXeXV6NFY1X1p5MzJqWk5KRUxPRlZHazZkbXNJWnM0Skg5aDBUaE1yY0hmUjJxeXBabTFiVHc?oc=5",
+          "date": "Wed, 07 Jan 2026"
+        },
+        {
+          "quote": "Water main break floods homes; Greenfield residents face costly cleanup aftermath.",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZkk0eXg1UTV0VC16TnRUcmRhWnI4eHU0NkRiRmNGeVFtck95RkVjeThGZUxyLUZId2xid05PT3NmYjJjb3k3QWNKME9fZ0VSRWlkN0RfRzRtMDdlbE9iMThUd1pOOF9fbk1Fdll2djRrcGl3ZWlSbzg5WUxTZV93YTdRMkl6VXo2SkFocllIcHhPVkxIUkctTURIZjNLMFBQeG4wQWIxMU9uNHFONFNDczJqdUt3S1JNOWVZdGtUT2lBSjlON3VRLQ?oc=5",
+          "date": "Fri, 01 Aug 2025"
+        },
+        {
+          "quote": "At least 20 homes flood damaged after water main breaks in Greenfield.",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2RaODU1M2dRZm9fY1RrVGdSQXE3SHB2TEtMb3lfbFZKOUVUS0lpcmNLSHZucTR3TFdJSWRWQ0JWSWd1YVhGUzBFb2dmRzZPQk9CTGswaTdTVWNZR3N0dHBPbklJVzhNR1pSWElJY0Q3NG12QXNVVHA4RVEyeklrSWxYN29EaTZONmc3UThTWlpIT1JadkxKYkE1VFRheUFBRllxRjRZN2w3N3pwRFF3VmVLMA?oc=5",
+          "date": "Fri, 01 Aug 2025"
+        },
+        {
+          "quote": "South Milwaukee residents voice concerns over proposed 22% water rate hike",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2lXRVlGaXBROHhCWGtBT2xoR2FNMC1FM0lIQTV5LVljNnhEWkEtb1hvVTQydTdieng0WEY0X28yVUMtdGl4ZlN0OElKUjVWT3RzLUtUWGhsSEhHUkdmWm5VN1FiaXR1NVd0UERVNmhtdFN6ME5CODFEWDJ2d0JSUTdDOC1ENE5KWWFrYTU0djZFSE1fNjZ0TDdlQ3ZmN2VGM0l6VUtkdC1SUWdQV1pGNTlVMVpiSmc?oc=5",
+          "date": "Tue, 10 Jun 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 6,
+      "pct": 16.7,
+      "samples": [
+        {
+          "quote": "Water main break floods Greenfield basements, sinks DPW truck",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXVxLUZHNmZmWnN6bDMzVU9kU2V0TF9MVkxyRHJfWTNKNTlWU0thWjlGVThOejVvSGpjb1VmbGR2dHcyMTRfamc5RkFqZHk3Q1BxeXhnTUUyeDhkWWdWRmhNM2ljWXJZckF6cnhfSTRUTWJ4VW5Lc0x4MDQ4OUI5U1NOeFBnU2ZCWjIzNkppYnBvT2ZQTkZFVmI4MlVUVDJMdm5hWEl2Z2w4MG5UYzdodXdpNk9uUkZ6X2JVbXhsSVU5MWVQc0EwclpseERnN3VG?oc=5",
+          "date": "Thu, 31 Jul 2025"
+        },
+        {
+          "quote": "Water main break shuts down multiple downtown Charleston streets",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNmpqcXQ1TjdMNU1JaVVUeklWLXVnMVFGd3FxZHlwYWFBczdYdDNTaDRjeXRjNHdXWktwWDRNRlZqWkNSX1lQY3BrWXpYYkpxRUV1TDFlR0hVUW1RY2M4clBJUjVPWHNqY0FDQWZ0VmlsUE1TSE90aExrUnExdEtuR1BDZkQ5aEh5cjZZR1BwdmlQQkRwWFhSdzdsV2RyREk1VHdXVXVlVkU4V0RmT1NmSnFYSXRPMlFuTnE1a0d4SW1vaHds?oc=5",
+          "date": "Tue, 17 Feb 2026"
+        },
+        {
+          "quote": "Milwaukee street flooding in city's Riverwest neighborhood",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRkQ2RmUybFBhRzZsUjlLZTZ1RXZ0WXFOR3B3djdTTmdKVGhOT1Q4TVZFUElVWDZEZzBib2luYlhEemlIcktMWEVjTERhM2pWR1h4UUh1Y3FSYWhwSHVNbHpSYmVlVFVxbjBxeEpUZm44MUFzZnBmUzl0clpjOTAtbzVwV2R2aHVLdkRR0gGQAUFVX3lxTFA5S2NiNUZ6X2E0ZmpFaWg1MGM3YTU5eTdGTWl4Y0lUdjQxby1GRVZiQWVFc0F2V3VWNDBDUHByMVUyUHZuUzA1Y1pfVHE1NmU1QmpYcHNVU2lxaTFPRFJxdl9ud3lpbmNVbFgtMlNwTEkzWjJRcHZ6UzlKVHVrTlFFWUZmaExnVDJnREs3akVuRA?oc=5",
+          "date": "Mon, 28 Jul 2025"
+        },
+        {
+          "quote": "Record-shattering flood hits Milwaukee County",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3ozcW1nU0hrSkhUN3dlb1Y4aW05WUFCYlZYOWRWUC1MVkx1N3JlWi13cHFaMDRqQzA1Nm1WbmVPN0JZb1ZEeHh5LXozU1RFRzRvbGVQUjJTSXNQQzJkWjQ1NmNzaXdwYTJjaXR2SGJhNWQ3c1VuYWhBekkxZlNMVmd3WDFLVFpua21sbHEybms?oc=5",
+          "date": "Mon, 11 Aug 2025"
+        },
+        {
+          "quote": "Service pipe leak leaves vehicles stuck in ice on east side",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOW9XZExfMF9uYjhYbmgwVUR2OWJidWlSUmY3Zzh1amJCcXNSdEhPQnZHZHNrbWVMMW9acEo3WENWZ1pHdGhrQ0k0SkRsbWZIQzBEckpkeTRTVDhGTklTWFB0MlJfNm5aaExtLVozOW1Va1RaenBtNVJqXzk0VXlaWGczRFBiblBpb3lPZ19pcGJxbmdueGdDbmtwTDJVdGpYUlVhSzV4UU5sQUpWV1FjbTM0VWFkOW81ZEFlZUFVQ2F2S1BZaThV?oc=5",
+          "date": "Sun, 18 Jan 2026"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 5,
+      "pct": 13.9,
+      "samples": [
+        {
+          "quote": "Milwaukee potholes; city works to address ongoing problem",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTFB0aDZmWV9DVDZ6ZnpCTjBxT2dsM240WGw1dnVHTXdtTEhBcXd0djFaVXRhZG8xXzMwOWVsNGh0UXQ4SnlhX0QzSHZsdGhaNUtxakpEdlFLVFlKME5tTUgzRTZxQzVfS0VkYVlCYWhNaEZ2a0pJSlM0ZUNpZTltbjZEejUzM1IyUlHSAY8BQVVfeXFMT0dBSTZnN0h0ZUNqQ2RiOWJ0MWZHdTNTd3NlM1NaMEM0MzExTzdBd2tsc3pETU5SUnBKUUxBTW5tTV9Ec05WNXJqRHpROWJSZk9KZEEyNlJwdzJ3RGFaaUZNanJTUENPT3RzUGJWOUowNGxibTFjbmRMSVlQZkxnSDgyVzdWbEZmVk85a0VaanM?oc=5",
+          "date": "Thu, 22 May 2025"
+        },
+        {
+          "quote": "Milwaukee roads crumbling, require $752 million investment",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUtFR3UtdWRXazEtMllPWjUtYmdwcHNTRkJfalJkaVo0TzdXQ1lWNUVWR1FybEJsWTJRdUxDVDJVMk9EZ1l5V1U4QWdaZDlUMGRwdXBTdlpjUWpxXzctcGlGTkpDTjl5Z3BzQkVINklGTzEydkEwLVRfTTBTOUE1UmU5X2pQTFozUTd6cE9BWFpYbGJuc2tpcTd6RTZPVXM?oc=5",
+          "date": "Wed, 18 Jun 2025"
+        },
+        {
+          "quote": "Road near PM's residence in Delhi also has potholes",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUVFoemtNQVE0MUtZQXBPUkpPWFJEOFFrOTBETzE0c1k0ZE5tajBTSDUxTFYySWg3eE82SWtiTHVpV1BFVkp6M0pnMWFSUVFYeF9NZ1JCdWdEZVlYa2E1N29ZZ0pHZ0w2VXdyQW1DYUtYZWp6ZWJhLTlZMU1paWVFbWJUekZZS2RGbFRjX3FqbnJQb01kNXlIOEpHdGZ5TDFIMVNXS1Z0RGVRdjZ6WHMyNlVXWW9kVzlFT0pCMWVOTDJYdUs2S0s5dHFxTlNoQ29TX2ctX0FraG5pcENPZzhvMmhZaVZtN05GSnBjYzF0bk84ci1JYXdZeW5fSlRMQnd3RjEwS3l30gGLAkFVX3lxTE5fSXJ4WkJVM244MlN5S0djZEc2VFJTdm5rVVhYTG5wNXVRMXhQUmRsRzRYWE5Pb3Zid3k4V3BrWm44dzB6c0E4N25TLWFFdzVRM2NLdGpnMmExdzJwdVNMS3ZscWVQTVJTYmtlVGUxTFVYbGdQdEp2SG8xc09mZnAtOU1fQl82ZzRLb29neXV1TU13bFlpWWFtc2F4NzBPU3luNEwwQjhpT0o1NnJ2d2hpend3MXFXRnVmSjU2VERtRlVzbHJzMTROVnFVQUJpenlobEFLbGlWRUh1LUc1SUZ1Njc2cS1adlRCQ1AxckNENVZGdjd4YkY3TE81dVlCUVpMTjlfUFZaZmpPQQ?oc=5",
+          "date": "Wed, 24 Sep 2025"
+        },
+        {
+          "quote": "Residents complain of broken roads, dark stretches and garbage",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSEFSVEFaZnlxLWlWeVlvT19NNVBaQ3NyeVZRbXI5UXB6dGxLYnIwZFdMUTBsWTUwZTh3S2dPbmliTTlWOGcyTnNnWnJtZTE4cmZGZnc3N3phVlp4Q2FTTWkzRnp1b1ZnTWZHb195c0cyOUNQWUFiYXc2Z1lJNVN6VjVpUFlIdWx5SzlsZTV3TGpNN0V3ZjZnVjRJM090U1VHc0RmVHJab1N6Y0JpaVVZd1hBMEdxZkFVNnlJYS1yS2FwblpwNGpfNGNXdWRsZ0Uyb0HSAdcBQVVfeXFMTzNodnQwZ3BOUVZaT2MyUGRSTFNxcUhRZFdMV0pqbzVHLTdLRDZxcUJGdldsQUZwNTFrdEFYLWlsc1UzaDduTmZnT080ZXgySEx5ZEdqMzNfaGhJbmtWZDRfenc2d1JlWDBld1hSdVhlOWVTcGxBck16cUxhaVBlbmlkNXYtNVlyeWxBSW1rS2Vzb2V6ekZYMTJZbTVRU2MwYVphbFBnTUVEZzAyQlRId2J1bXpmVTRQMWJzRDBqNTdnVlcySzJ1NV95QjZnakNpMnJPZ3R2aEU?oc=5",
+          "date": "Sun, 07 Sep 2025"
+        },
+        {
+          "quote": "Massive hole in road after water main issue in Riverwest",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRE5SNmdXelQycFhqemNFdjRISnp5WmVqOGRBQTZ5bHBSZ3VwdmRjdzBLTW1pQmlNTUJ1VmN5bG9LdTJyam5RUFdrUGVOTldwdS0zMGw4V3kyY0tPOWxBTjBjbWlHN19NVUVUZW01NmtlbjBWSHptRFduNmREckxUbVU1WXBrV1VSclBEZXNZUm1TU1laaXRaZ29tamYwNmZuNjg2THRZVkJPWTNFSXlMeERybEJoUQ?oc=5",
+          "date": "Tue, 29 Jul 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 3,
+      "pct": 8.3,
+      "samples": [
+        {
+          "quote": "South side residents urge railroad company to clean up illegal dumping",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZTlfRnIydGlzQUtibFAwR1BWME9SZWJoUGRnRW9Rc1pUN2c2aVNWQU45N3JOSGZKbVJIWWs0WUFQSTBTRWpzdndDQ1NXbjg2QlBNaEpScS1GdjhnX05CRlhzbk5FcUR6MDNuN0x6NnluaGtwbWY2RmpXSXlkeFRHb1V6UHpzcDY2VUNMZENjckttZ1NGeEdqal90TVJPNjNuNmdyQXVJM1BuUEVSWEs4RU56SHhBMDFqN0tIeU9vS0UzWUF2Yl8zQlpldUZCNkxjblg5d0dIUHYzbDhaN3Iyc1MwOXZtZEdtUlZkNA?oc=5",
+          "date": "Mon, 01 Dec 2025"
+        },
+        {
+          "quote": "Milwaukee resident battles mounting trash; city weighs higher fines",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0Vsdng5VV9UVnpiY21CcTRmaDVKZHNod29pMlZhT3RPOVJnSWVzZUtxMkVVeXlBUjlESVZJVE5VaHEzRHVCTWg2cEJyNUdIMFZZZG5td08wcWlPOUZyd3ZrUF9yeUFvRnpvWG15R1BHSWZjSk1ja2tIVS10VU9TZjZWU05OMDB1clBDYTIxVHVlOFhoQ3htTW43c0trMTUxSUxaX3ZKNnVJdXNmY1NodXRWYlpKUQ?oc=5",
+          "date": "Tue, 08 Apr 2025"
+        },
+        {
+          "quote": "Illegal dumping; residents seek long-term solutions",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNEkyS2FRT0JvRm5yUnJwSWRBeExOSkRSZEhlUkh5VFhod0NCMkZmLWF6V3ZnRjhuSlQwQjM5bm5FSmdaMC1SRTRReVFzbHpZQWxGQndkS1czdzF2RTZubE1OT2tCcFREQ1RvTzN4NUtUZlZOVjdlc0hJeFR4bFNOa2RlMWVMVXZUSlY5Wm8yUmZraDM0ZzM5eTVoaWdrV1FEampUenFybzJiaklBWS1UbjFCbXBScFRqazVCMVpxc2pIYVRpVTMtb3J2LXhUaXVhTDBuWGpoWjBtQklaaTBoSGtBcV9OQ2FPY1F5X2ljdlhpdw?oc=5",
+          "date": "Wed, 31 Dec 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 2,
+      "pct": 5.6,
+      "samples": [
+        {
+          "quote": "Residents of Milwaukee Public Housing tell their stories",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmp4QVJjYTB2Qi1jVnZnSDdvQTZrbWdlMnhpcDZTLVVjaHlOTVpyNVFkSmswOGwwWXFfWUFMM203NVJ6NklBUlMxeDEzQ2RJXzY3c1M0Rm8zZ04teWxYT3hnaGU3OFEzd0JHSDNfMjdkMk5XM0JWRlBJSHozSjh6NklnSXBxOGxWbW1FWDk5cDFkbVlwdXc2bWtrbk1GaWk5V2ZWejg5UWFkMnZHTjNjVQ?oc=5",
+          "date": "Fri, 05 Dec 2025"
+        },
+        {
+          "quote": "Cleanups begin at Wesley Scott Apartments; deeper problems remain",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT2JpUm1JdjhDTzJ6QXY5LTh2TVBOWVg3THU0VjJVUXozUHdmS3hhWlpDSmx1LW9hUVBURnlZaWZSUFgwb3FXV0dwYUFMVDVGbkNqM3M4SlNWckY5Y09HcTR2cm1taTF5TVN1SU5ZcWpxZXZNaUVDdTFZY0tHdXNzOE1SNXVMOURpaGlBdFJieHQ2emJ2Rm5lUjlOTG1tMEkxTTJIZ21kdHFHSmdBZjZNUWhOTmJzN3V3S3JKZUVRcEQxUTAwYXVpWFFWNDdFOGdiTU04aldXcUE2SkZremgtMHNJY09wczZ2b0VRN3ljN1VDcHlrNWc?oc=5",
+          "date": "Tue, 15 Jul 2025"
+        }
+      ]
+    },
+    "Downed Tree / Debris": {
+      "count": 1,
+      "pct": 2.8,
+      "samples": [
+        {
+          "quote": "Milwaukee-area flood debris drop-off and pickup updates provided",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbWZONGN5WDBLTkxHcGl2b1RNcjRJQUF4Mk1xb09yY3dXN3ZuaFdpMGF1VENUbDliUzhPVUprQ0NDWkZDQ1Y2bWNsWTBtdjctbDdBYzZOdlpEY2dTWVo3YXVFOER6VFRKT0Z4cm1ZeGRQOFlKODBVRVl1N2gxbVE5MzhCU1Zjd3J1M2lQMGFBdXctZlZ2REhDeWhhR0ZPNU1GTktEdDE5SDd4YUktek5jMEZ6RHRHcEdSZzZPSHBoRTIwM29YSVpxOGN5WQ?oc=5",
+          "date": "Mon, 11 Aug 2025"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 1,
+      "pct": 2.8,
+      "samples": [
+        {
+          "quote": "Streetlights out, nights turn risky",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ05vVXZEMjUzM0pic1RKTDA0S3NLSDZJcVAzTDhjOGlwYkd4cFBNN01IM2xWWWd1WW45blMxallnampTM1JQNDZIVmFTT1NNWjNTLWhnNzRNVFh2RXh4ZEVxU1BaSnJzUXg5QzlMcHV0S3VKbkR6X1FuYU5rbXZhRkc4YzlkOC1kMGRZUUZkTDdtcE5WS1VwWTE4NDlaRllhaVUwdlZfMWZ2N0JWU3hLODhVWGFGbnNZWVlKOHRMaGhSRndVVnBGVlFGV19uT3gxNDRuR1RiYzh1Q1plMGfSAeMBQVVfeXFMUFE4YTAySWdhdFBIUWdIcGxPWmp4Z0dmQk5IMUF3ZjBPemJTTlpuSFNfMkJOQ0RPRDRscG1RS05lOGpjOHJhV3BXSVFOcktwOVJ5akR4OWx6VC04QkttYkdvUWRvQkxGajJkNEJFeGxfc2VGbm13T2JvY09rYjhDV0xfTzNYRnN0ai1uT1pFM2thQkJxTlVJNFA3ak0xNjlINjBPUmI4NTBPM1JXZS1fZjFrMG9hd1hPZXVqMGt6RklZVklJOWFDLS1USjczT095Ujdza2RfMUNGQVVIc2lkdElQNUE?oc=5",
+          "date": "Mon, 02 Feb 2026"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 1,
+      "pct": 2.8,
+      "samples": [
+        {
+          "quote": "Neighbor's dog barking; what can you do about loud neighborhood pet?",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUHRVY2dzanNSVmZsODgwQTg0VnVJby1iU0VHSEN0OWJFeDVGNXdGSE00VDJIZmJmUXdZUVVuNFNTZ08xcGRGLTd4TEhtcHYxekZ4Sk10SXJhcUVrOGQwajB0OVR1VWN3NS1pazNseVFaUWNOZ2hlNlFWSzRzbDJ4bDNVbzd1TnZ2RXRiaGRQR0VENi1CbDlCRGdHalRhZU8tSDJlTHh4OXdzTGNnUW5GbEdhTjlSdGxucXJhTkdKSUlobFZ0ZGNDckk0RVRqN0JQSkxSWFdXZW9oSlU0dW9kNWxINmN4TUVjMzZiS1dR?oc=5",
+          "date": "Wed, 08 Oct 2025"
+        }
+      ]
+    }
+  }
+}

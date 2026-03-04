@@ -5,104 +5,104 @@
   Source    : Google News (past 365 days)
 ==============================================================
 
-  Articles analyzed : 243
-  Complaints found  : 171
-  Complaint rate    : 70.4%
+  Articles analyzed : 239
+  Complaints found  : 166
+  Complaint rate    : 69.5%
 
   CATEGORY                         COUNT     PCT  VOLUME
   ────────────────────────────────────────────────────────
-  Water / Utilities                   97   56.7%  ██████████████████
-  Other City Service                  15    8.8%  ██
-  Trash / Illegal Dumping             12    7.0%  ██
-  Pothole / Road Damage                9    5.3%  █
-  Sewer / Drainage                     9    5.3%  █
-  Street Lighting                      6    3.5%  █
-  Sidewalk / Curb Damage               6    3.5%  █
-  Graffiti / Vandalism                 6    3.5%  █
-  Abandoned Vehicle                    4    2.3%  █
-  Noise Complaint                      3    1.8%  █
+  Water / Utilities                   96   57.8%  ███████████████████
+  Other City Service                  16    9.6%  ███
+  Trash / Illegal Dumping             10    6.0%  ██
+  Sewer / Drainage                     9    5.4%  █
+  Graffiti / Vandalism                 9    5.4%  █
+  Sidewalk / Curb Damage               7    4.2%  █
+  Pothole / Road Damage                5    3.0%  █
+  Street Lighting                      5    3.0%  █
+  Abandoned Vehicle                    4    2.4%  █
+  Noise Complaint                      2    1.2%  █
   Public Safety / Crime                2    1.2%  █
-  Parks / Public Spaces                2    1.2%  █
+  Parks / Public Spaces                1    0.6%  █
 
   ────────────────────────────────────────────────────────
   SAMPLE COMPLAINTS BY CATEGORY
   ────────────────────────────────────────────────────────
 
   [Water / Utilities]
-    • "Frustration grows in Paterson on Day 5 of boil water advisory"
+    • "Frustration grows on Day 5 of boil water advisory"
       https://news.google.com/rss/articles/CBMijwFBVV95cUxQRV9RcWU2SEtGdUp0Zk5UaFA0R1dXcFdVYTNXQXo4QzA5YmxNQzhLdk9EZkNCU0h0LS1rZUEyQWF1NVhCVGVzSHIwTDlwVm5vUExXYXY3bDJyVFFvZ2JGcWZhRnFmVTM2QzFxa3doYmczUUpRRExmMGlLeGNSNVFmN28zM2tNalJ2Z2lFcXZ0SQ?oc=5
-    • "Customers receive compensation for water service failures"
+    • "Customers compensated for water service failures"
       https://news.google.com/rss/articles/CBMimAFBVV95cUxOczFuZ1FZTkFZWmszd2l1bk9SeE0zRURzSDk5NFRSUzlycjRuTWtSUnhYRjRGSG91Szc0ZElfZU5oZGVQcElVMkFETkxVbnZ5MjRvY1AwbEJEYktaZVo2TVZTQVptYUo5eVJMOHdnUHJUNzJjTkt5OHhUTTJHQzlROURpSDVoX1lYNmlsYTNreExwbE9zWE1DZQ?oc=5
-    • "Tens of thousands left without heat as temps drop"
+    • "Tens of thousands left without heat as temperatures drop"
       https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1FhMFRHdzZoUzl4SDF1TWhiVEh2cXV6VFltZy0zTU9TQndiUUExa0FNa2hQWFBZWmg5MGZfSGNTMTBlcmFzaWc0ME5ZcmgtUTI2UkdXU3E5amcyZVlwMkdrSTVUeVJOT0dJQzViNFVUUjRCZldUVzNMd1FqRDNLdjFiOUM3QjAtQk9ZaXd3?oc=5
 
   [Other City Service]
-    • "Bronx neighborhood was biggest whiner of 2025 with major gripes"
+    • "Staten Islanders made nearly 130K calls to 311 in 2025"
+      https://news.google.com/rss/articles/CBMizgFBVV95cUxPaU12dV9BbE9lZ3MzZFVzQkdfZmp3d2ViY3dXMDBfN3d1NmhwcmFobEx3YjM3WHRQYTAyOGFTLUFVcWprR21WY29hNjVSdVItdTI3c3VKR283RFJaV3J2WG9INjJzMTZLaWtCOVpNNWVJSnRtVnFkSGNDWTlDallVdUFlamFBbGFORTJlTWt2b3N5ejI3Q3lwbXR0OFVBWU1iOUg3RzVER0lSdm5TaGM0RjlOOFVwN201cS1JcW9FSG1PUXgyc3lGOWhmZzdlZ9IB4gFBVV95cUxPVkhEVkxyWUl6WUlJakhNRkp4Vl9SMmQ1VHRPWmFsU2JselRDMldxQkNlZUtNYXFJRk10WVlqcWVuQzZyVFlpN0g4LVVpSUFmT2hjcDg0SnVxTkFXMUxpZWp3WXJsQ3k3RkotdE41M2Y2RmFTMGJVTUxFZzBYY1dUVDhJWktYUVRyYnFWSjlkQWIxaE8xRTlTNjlPazlEMkdhNFhhelJSTWdOWVdqUFdDRkFWYlNPUHJyU00wNWNQLWRlZlRCN0JHRXBWZktxSnNoQ3NHRXItTWt2Q3ByWWgyb1hB?oc=5
+    • "Bronx neighborhood was biggest whiner of 2025"
       https://news.google.com/rss/articles/CBMioAFBVV95cUxPOG5mX1g4bHlqcld2UWZfbjVnNWFsc3RiT200NmxCTUlsUWRja1BLbFNKUnlDSWRPclQtd1VxemxoMEpDWUNoNjFRWERnY2lycnRWeVdzOW1CV01FMGF5TTF6NktZQmVRV2I0Uk0tZWxDemtUUzBJdmtxVTZXelROMTF6Zy1aUlE5WWNlQm0wMXJxWXBXeTI4MmhJV3pvMVRY?oc=5
     • "Staten Island areas seeing surge in complaints in 2025"
       https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmR1Q2lLRUdUQnk4OVcybVNtbl9rOFYzUkVSeUttUF85T2xGbUVhQVc5N3NSZjZIRFpsemY0bmxmc0FOUmhsTVk2eWtBUkNxOTdaLVZpQTVTbzJobGRvRGlnV09QN2ZmZXI2dk5KSkxkTUVseFU1OUVQMTBybjVTaks5b3JkaHM0VUhBNkYtU2JfNHFvc3cxUXE0bGNCMHpVMmlEdlR0UXlWVDF3?oc=5
-    • "Rare toilet rats reported in New York"
-      https://news.google.com/rss/articles/CBMif0FVX3lxTFBKbU1BZFIwU3B1S3NfekRHN1B0TzEtbHNXU19Gc1RpZW1wLXAxaTBwYWZfLU5ndnI3ZDFDNWMtQXN0VURNTERwZk54NklubEZWeUJHU0tibDJwUmw1V0JfaUNDOUVkMVNjWndYT3RualZvOWhJaDBkLXpVQlhhRFU?oc=5
 
   [Trash / Illegal Dumping]
     • "Dog waste complaints hit record highs in NYC"
       https://news.google.com/rss/articles/CBMitwFBVV95cUxOWldwMEdfQWZyc015WTNWNGtrNkl5bkxjblo5bnpQWVlSaUJIN01tTjIxcWlTckw3SEQzUDUzZHFtcTlaV0drSi1YNGE0bHdCMExqd1BjQk1VakVfaGFrOUFJZFlfbEYyRHVOWlF6czlOalBUNlVXcm5JcXJUdVFvTlMzUXRnWWZ4S3FIQkh0MUpSdUpxdlFQMVFXWE9RUmY4bFF3Q3UtTzNoSjdiUzNDdzY5NS04V1E?oc=5
-    • "New Yorkers frustrated by city's new composting rules"
+    • "New Yorkers frustrated by composting rollout chaos"
       https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFJEa1VxaHAzZGJ6al84Qk80WVRwTjhEQS1qLXgyMnkxWHpvTmZHc1dmUFFFRXNIelBCbUlJXzBjYkpRNUZmZTRYRE9VclYyaXRzQVpPTmtzclBNNWU2TGNOaVhPY2ZjNk9Sc1pSNXE3Z1VhVjI5Z2g0NWdiLTl2TlMySWt5aDQzX1UxYklaUmUwaU5DbmVqYXQ0MTRDU0QwY2N4TnYzNTQ5UQ?oc=5
-    • "Residents face fines for failing to compost properly"
+    • "Residents subject to fines for compost separation"
       https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczZBTjJ3U3NJYklxdkVITHROTHUzdkYxWFZtWG4zWElTNUNtS20waGFsMlZVNExvclc5aGdab21jaXg0bWhhT3JXNUhncjhubVFieThYUW9aN3M1YVBucVozbUhPMnNzVTRSV3BRd3M0NlBGMUlEMVRWOXVhSlZObzhtY1pNbEZ0VnlEUXRua09xZ1FQQ1k5TmdCQVk0QmpKTGRpREhBVExlVHN5UTZicDhzcHVvLWZuYzRfQ0pZM2V2TEpDWW1xUll0cGZKT3dh0gHWAUFVX3lxTE90cTF1bTRtZ0pzZDRKczBNb2M3N1o2c2Y0NXc0cTNRTGdUa05KRjRJQWFUbFJ0eTZBUWU4Z1B6ZFFCX0trWmU4a2pQdmJIWXBJNC1CdVdObmM5V21kWExweGkxQzBReE1pdnpIdkNrLWs0aWN2dTlwX295WHZra18wVEtSTWY5dU5ESnJkMDJ5TXNDWTRwc0gzcW9hV0VhRFJ5WE5jLUxUU09iYjdBWmFrSU8xbWNfVW83eGNmYjMzQWYxdDRGRmp4TGkyOWxGa3k3SEMzVkE?oc=5
 
-  [Pothole / Road Damage]
-    • "How to report potholes across the Mohawk Valley"
-      https://news.google.com/rss/articles/CBMiywFBVV95cUxNYmN1a3pmaWt3eWZZZVM0Q0tIeUZoZ2NUU3YteC1rWEhQOUZhbUg1MDIwa3ViVlRjTWh4QmpYUEVydWV4XzdfVjFZQTNCOWFxSFRCdUx4TFM0Z3p4dzNrUHF6cXljYUFzV3gzc01PdlBKWFNpTTNsMTg0QkI1ZVhWQ0JOTGFsTzdrNmx0TkVlN0tDWUhqc0d1Y3Rzekpjc3h3aGRPY253dmE5ZkdWb09UMmd2a3Q4SU5rMjM5Znl5QmFJTFVFd2dVUG5SZw?oc=5
-    • "City launches Operation Pothole to tackle post-winter road repairs"
-      https://news.google.com/rss/articles/CBMiX0FVX3lxTE94VkN6NklGWG9hZ2tGWVpwTklyeXBGeVhTeFZucDlfZnB6QzN1VFJTem9OT3pIcE1XS1F2Rm12Yk1tZUc5VTJFTjQ4WnBuLW1iRE1Fd21FblEyYndaRFRr?oc=5
-    • "Potholes have come back with a vengeance in Rochester"
-      https://news.google.com/rss/articles/CBMixwFBVV95cUxOdFJUalo2aFFXaFpkeHhpSWRZSHNVdGtDbnlxVWNjN044b1VaYjQ3eWJERzYxYWp5bHVOSFRRMjRRYnhBOElXRTNyaGpjczVSMk9Nd2NReVVubnF3YlJ5YkFjLXBZZGFQRWM2c1RrZVFLV1IyYnc4ZEJNVC1scUlSTHhvRnBRbkUxd2NzNFdQX284clczMG56NHpyUjBmSFI2eXRfd1E5SWFQenFhWVBZWFYtWFFsREljS3lTdWJOb1pVUEJwWXVn?oc=5
-
   [Sewer / Drainage]
-    • "Queens flooding as city's drainage system fails during record rain"
+    • "City's drainage system fails during record rain in Queens"
       https://news.google.com/rss/articles/CBMisgFBVV95cUxPcW5OWkZhZTJIajkyZm5fS2VCZWZzcGUzc2NMWFh6Yy1xT3NBNEV2cjhQNEZMaElSWWphMjdqdGNVbDZmdEVMWXBlV2pjRGdVN2kwMGdTczc2bjJoUDZqdmY4VnI4X1VkbHEtSDVrUjYwM2FSUnlIOVB4ZU9NQlBfYUdrbmF1ZEhtczd4cUNvc2J3U1pveWRaUUZoaU5YRmpLZXRyWHZTTE1QYVFYMHJyVUhB?oc=5
-    • "Breaking down the problem with sewer overflows in Connecticut"
+    • "Sewer overflows problem in Connecticut"
       https://news.google.com/rss/articles/CBMidkFVX3lxTE16SGZoMVhvbUlMV0oxLXM3QktkUllTeUR1bE9pb2NuVmhNM29zSy15WjdYOWdrVGNWc2JYcGJDZU84MHMzZVVYMmRoZDNRMjVsa0JlbmRadlhwSktfdnN3ZWNsTkNNVUlYbGpnT2dtRjZDTklGTkE?oc=5
-    • "Raw sewage intentionally pumped into New Orleans storm drains"
-      https://news.google.com/rss/articles/CBMibEFVX3lxTE92dUNVWldjU0pKMGNTSW1KRU13OUtLMkdZUS1hSjFSLTZnMHB2UTNrQTBqWjhzZzRDZ0lUbEZJN3pUUF9GdjdhbjhmRHNBcVo2ZFJLTFVHMmZkQVkxTGs2YmJzbzJ1YnU2Vk5kMA?oc=5
+    • "Cuts to water, sewer, flood protections"
+      https://news.google.com/rss/articles/CBMitgFBVV95cUxNNTRaTjloLTJ4TDhJWnpBVnlzcGR1aFVfclhrZU5jcmh0RG51aGFLcjFLbUllMk5aV3RFak1UNk43amRUbURDQ0FsQXk3T3JfOHVyeDQzMGxhbENlb3lSa21oUjRib3FWblFrZmg4TVBsWGhEX1RxUDFiR0IwcE95TEoyRUc3c2wzdmZfYzFYbGZmaWJRYWdOdHY5ZS04RWEwMUJZeldvcUZORm5iMk5MX3ZUQ0RQUQ?oc=5
 
-  [Street Lighting]
-    • "No streetlight for a year in Queens neighborhood"
-      https://news.google.com/rss/articles/CBMihwFBVV95cUxOdENZN3BUa0ExTnRPclN0WVVaZUhDS29wVUVfTktnaFd1aTJrZTF5d0k5WEhvOHdtRmZBX1VWMFNYaXA2d1h6OEIyVDZzckVIdWVscExwaW5iUWFhSk5QclYzLWtOTlVfcERrRnRzZjZPWUtIa2loYUFfTHVJRTJDUEhkNzlXZlHSAYwBQVVfeXFMTjVtLTY2OXhZd3N2NDc3ZGpDR0ViWmNLMVVXMlZNS2NxaEsyVjY5TXQtUnF1dk9iS1JrSHhlSWVsbkRTY3YzUk93NEdqWHBqNnRzZXFIczdTQXdqS2RpLUlOU0FxSkpjbVd1dWNJeUxtU3Y3dGwzcTNlOWRVSFBsZDk0Yy1vZGV3WGpmVXo?oc=5
-    • "Middlesex County towns have short fuse with JCP&L over streetlights"
-      https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMERpOFNUSW53bVZsYU9MSkFjR1NpVFpBSU40bi1zUnBTMzU4X0VPMTc1azUxMmhEcUJOQXVfS2w3d3ZsTXpYTWFmRzY4aUdUaUFEcHBlN0FBYkF0RnJRTTY4NldqeHliQXpRWWQtNWxLdE1rLUFKUGxaODJGYkh0OUJvWG93SFFKc0p1V0FmRUlpZWItZC1DcHlkM0l0VWJLZ2ZxVUN1RTkteFMzRm55cGdaWXZQazI1YWFpMUFvY2VsUE1CUDBUTVRTNWZNOW9vQ3F5MEZDbExXWkZxSkpkcjZhU24zY1k3TFRjTw?oc=5
-    • "Flashing lights for weeks spark outrage over city's slow fix"
-      https://news.google.com/rss/articles/CBMi5wFBVV95cUxORzBMbVdMUXhXQVRYS3BaVnkwTWpLX2hIZ0lMYnRKR0tuM1F2RVVNekJTbGZJUkxVdC0wOWN5blNUR2VOSlhldFVxc1dzWHhjMlB2TnE3SHE3WmZzaHhTUEZ4X01FTUZpQ01nejBEbV9pT3pwUy11QmZPODJuMlpWQ1BZLURBSWZHYmhOSlA2QnFpS2pRLWJVbWdVM19ydWtnZERORnUwbzVoRmlyUXFfSzN0Z0JKRnFkSzJuZS1BSng5R2V5SVBEcEgxbUdNLXpQc3BwRlBOQ1YtNW9zZHo4RmsxTWhCMWs?oc=5
+  [Graffiti / Vandalism]
+    • "Vandalism of New York Times building by arrested suspects"
+      https://news.google.com/rss/articles/CBMilAFBVV95cUxOc0lBbVFnMUhoWmdrajRhdk5IcEVCM2dzYWs1blNNam5GejFiRnQyM2R2Y295R0tBSDQ0ZXdyV2YtX0RmZFBSZHFGVHZfaUJEQlRHNFZlczlMYkw0U19lUlgwX0pzR2RSTExSQ3QtcmxEaFE5MHVHeHNEekszWG1ZdTN3RS1vZHI1SWlEOE5adDlxNVZm?oc=5
+    • "Hateful graffiti reported in Jackson Heights"
+      https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN085a2o1U1VtUDUyR0tlbTVHaExjemkzZ1Z2X2g2RHVwSks1MktPYWZfdzlKdl9KbG56aFg3ZURtZ1I4VXBRbUZ0dDZ4Szd2MmJFbXlRZGh1cXpCWl93R3ZYSG5QaUdydjd2UTVrOG1Ic1JxR2RJZjkyUWpNLVQ1d3NfeHRYOXc4Wm44dGtwMWU2RUpnNXlXRGo3WVdnSXc5VXo2RjB0bFNmS3dQcU41NW8zc1ZPc3ZKMzA1RWlCTDdGVDdaWFFMcmlDdzhQYld6U1FXeQ?oc=5
+    • "Antisemitic graffiti found on NYU Jewish student's door"
+      https://news.google.com/rss/articles/CBMiakFVX3lxTFBBWlVkUWcyRVhSTlBOMVR1ekVmZW5UcEs1WllkaC1tR1pXeVpCemtTSjB1S1RzYzlXRDluUE5hWDlDQ3ZtSkpiYldqV191NnNrU0hFQ0FDcGhZTTh3RmxScGlRdExCWV9IbEE?oc=5
 
   [Sidewalk / Curb Damage]
-    • "Building structural issues could rain chunks of concrete"
-      https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ3pIZnRNdlExMGFDVGNoRTV2dWVRRzJqYWFacWIzOFotOHU3bEhhc09oZGNpMnRfXzU0SmxXdTFYM0wyeHpIUnlNZzNWNVNLMUhsdUw1NkluZ3kwZjZud0ZnTlB2TzhxcUF3YzlCLXNZSXVWWjhIZ1Z0MXpuOXZEeUNnV25pZGp3NWRMRkdXeWZPRHJSdjZtM0wwdGx6aE1EeTlpMTNB?oc=5
-    • "Staten Island sidewalk damage from tree unfixed for decade"
+    • "Unscooped dog poop littering sidewalk snow"
+      https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVTh2WjFpSkNTY3VSQjJKZjBBc0F3eXViOVJ2M3RMV000T2dnWi1HcXJ6Vy1Vbmh6YTVmdVd1NzVUT21Ca1ItbFNVN0RJd01jaGttUUlraVY4cHAyNVZUbk9FLVJRR0Y2Y2FVbzBnRjQ5eHFidGR2QzFlUFdZMFVJenhoRkM3cHp6SnpTdERycXhkTVZLYXFTSGVSY01VZjNiRnZIQ05QaXZlamtOY1IzMHJyRUo2aEFYQ1ZvalpkVEpUd056M2gxNnFabzRfVWgxQ2c2R3owWGFURmQwQVE?oc=5
+    • "Staten Island sidewalk damage from tree goes unfixed for decade"
       https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlQ3b0NLaDJLeTdEc1NPYUQ5TDhVSGt1Z0VJMXY3YkJrVmVOX2dHX0NuTXJpcV84SkVNSzNlSVBxQWwxaVBST0FzbGlLQ2tpRm13b2poNGY0aTRrWU91eGUwRXBMZEV3ZVFLTWx2aFB6YUtnZnVnc0FHVnFocW5OZVdaRi1sUGREZ2hvOTIzV25mTG5OeExqSDBRTFdiZTVWRkRoa1UyY9IBuwFBVV95cUxNS184RjZ1MFlvLXN1WmU4WEFEcy05TDZpYnJyeXV3SzdhTFF6QWlXRXhjaVZaTnZGNC1idHY5aUZDYWR3RDh6a0VORUFaWk82bVYxSXNzanctNTVmR2dFS2haR2c2OGE1dnh5OVZvQWE2Z3M4YkQwMUI4UEpfaXp6bGZDUHhRNDV0akZEMFVhcHpqcER4MkZmMWIzVVJURHRpbXpxS0ZVT3R3aElBUW1DSmFyLVhtWkJ2SlRV?oc=5
     • "Family gets sidewalk repaired after tree damage in Brooklyn"
       https://news.google.com/rss/articles/CBMinAFBVV95cUxPTTN1TUowQ0Z0Q3hZUXJac0U5ZC1hcEQxanVUemhITFExd3BNNmx5T255eDFBX2V0cTVEbnJub0VLSF9NaF92S01UYlVSU19DUngxX01TdldieFdOUHNQSkx3NU9NV0ZMcDh6enVBX25FanNITDduRDBtdEVtLVYtZ3l0bXZHRkNqMnEyMFM3dW05TEEyQWhoeUlfUmrSAaIBQVVfeXFMTnlFWFNIT1JSQ0ZFVjFtZm5hZVVvelRoN2t5S2tBMXZTTGtQWHZVbjFFWi0zcGNPRGJfU24xOGZZdXJLSDd3eXRfTC1XOFBjd2pSdXY0bnNmNVFoM242eUlkLWRfZ1NOT1JTZkVtM1BhVm9EbVRWYklEb0VBQjljVi1tUzJJWWZmazZBem5JSDREU0ZCdzhXZGMzem9IalpyUUdR?oc=5
 
-  [Graffiti / Vandalism]
-    • "Three arrested for vandalizing New York Times building"
-      https://news.google.com/rss/articles/CBMilAFBVV95cUxOc0lBbVFnMUhoWmdrajRhdk5IcEVCM2dzYWs1blNNam5GejFiRnQyM2R2Y295R0tBSDQ0ZXdyV2YtX0RmZFBSZHFGVHZfaUJEQlRHNFZlczlMYkw0U19lUlgwX0pzR2RSTExSQ3QtcmxEaFE5MHVHeHNEekszWG1ZdTN3RS1vZHI1SWlEOE5adDlxNVZm?oc=5
-    • "Jackson Heights residents report hateful graffiti"
-      https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN085a2o1U1VtUDUyR0tlbTVHaExjemkzZ1Z2X2g2RHVwSks1MktPYWZfdzlKdl9KbG56aFg3ZURtZ1I4VXBRbUZ0dDZ4Szd2MmJFbXlRZGh1cXpCWl93R3ZYSG5QaUdydjd2UTVrOG1Ic1JxR2RJZjkyUWpNLVQ1d3NfeHRYOXc4Wm44dGtwMWU2RUpnNXlXRGo3WVdnSXc5VXo2RjB0bFNmS3dQcU41NW8zc1ZPc3ZKMzA1RWlCTDdGVDdaWFFMcmlDdzhQYld6U1FXeQ?oc=5
-    • "Antisemitic graffiti found on NYU student's door"
-      https://news.google.com/rss/articles/CBMiakFVX3lxTFBBWlVkUWcyRVhSTlBOMVR1ekVmZW5UcEs1WllkaC1tR1pXeVpCemtTSjB1S1RzYzlXRDluUE5hWDlDQ3ZtSkpiYldqV191NnNrU0hFQ0FDcGhZTTh3RmxScGlRdExCWV9IbEE?oc=5
+  [Pothole / Road Damage]
+    • "The potholes have come back with a vengeance"
+      https://news.google.com/rss/articles/CBMixwFBVV95cUxOdFJUalo2aFFXaFpkeHhpSWRZSHNVdGtDbnlxVWNjN044b1VaYjQ3eWJERzYxYWp5bHVOSFRRMjRRYnhBOElXRTNyaGpjczVSMk9Nd2NReVVubnF3YlJ5YkFjLXBZZGFQRWM2c1RrZVFLV1IyYnc4ZEJNVC1scUlSTHhvRnBRbkUxd2NzNFdQX284clczMG56NHpyUjBmSFI2eXRfd1E5SWFQenFhWVBZWFYtWFFsREljS3lTdWJOb1pVUEJwWXVn?oc=5
+    • "First fresh pave in decades with pothole eulogy"
+      https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWWRNZ3ZWeFMwVTNnNktkcU5KUURyYlFQcGZ5eHliU1dLbXl3dVQyRmFxSURld0NmQ3JvSkloUGp2LVFySDBXUjZKZ2Z0SjhPcjBNN2ZmYWhlcVUySGNDSXZtZ1JqZ0Rad2h5MnpleDhKbVVCamE5a0ZpajRtQVZIMUV3dzJJcHJoQURzLUl3ZzZWWGVYU3E2QWtHb0Qyc29TT21pNEVZR291bnJ5d0hENW5HOWdKQnk3?oc=5
+    • "Sacramento officials pledge to tackle pothole problems"
+      https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeXJfMGJEZUtKem1MdGtZREZua0J3aHlvMnFQb2xkeFRsUXBEdXNNMjhER05PRTdBYlJhVzNtY2h0bGg0ZDh6QzdxX0lLVXpROWFlWnJ5aHozSmZKWGRqaHRqcU1FRTg4MjUwbmdxUXhGMVRWZGxIbDdOQWd5V2RGX2xqSmN0NTlpbC1JTW1Cc1NPZzdqNDhhMDNoRU1ORUZQQVlSNjFMbWE1MEQwbGpUT1NMTFp0WUsxYzZxRl9NVnFNNFV2N2dNT0FRWWdHN29nZ1hwYlVUSktiUQ?oc=5
+
+  [Street Lighting]
+    • "Two council members light way toward better streetlight service"
+      https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb0JpTXVCV3UzY1lHQmhHOHZPRVlEWVFBNmFzRWJHZ24zX1B0UzBKZ01wLUw4UklFeG5ISW1qak1oM1pCeTUxcWp0bndLRk5iTW9aYzQxc3hiY1F2czhzQnozOVhGSkVRWFF3VldweHkwX1JnTHY3RVNFbXhBWTJPdkM4M0NadjQwNVZCNEwyWGJNd0FhLXJ2SVRkSjcyem4xdE9GRGtzeWpuRXRuc215MXZfRk55UTdIRVBGOW8wMVNXQQ?oc=5
+    • "Middlesex County towns have short fuse with JCP&L"
+      https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMERpOFNUSW53bVZsYU9MSkFjR1NpVFpBSU40bi1zUnBTMzU4X0VPMTc1azUxMmhEcUJOQXVfS2w3d3ZsTXpYTWFmRzY4aUdUaUFEcHBlN0FBYkF0RnJRTTY4NldqeHliQXpRWWQtNWxLdE1rLUFKUGxaODJGYkh0OUJvWG93SFFKc0p1V0FmRUlpZWItZC1DcHlkM0l0VWJLZ2ZxVUN1RTkteFMzRm55cGdaWXZQazI1YWFpMUFvY2VsUE1CUDBUTVRTNWZNOW9vQ3F5MEZDbExXWkZxSkpkcjZhU24zY1k3TFRjTw?oc=5
+    • "Flashing lights for weeks spark outrage over slow fix"
+      https://news.google.com/rss/articles/CBMi5wFBVV95cUxORzBMbVdMUXhXQVRYS3BaVnkwTWpLX2hIZ0lMYnRKR0tuM1F2RVVNekJTbGZJUkxVdC0wOWN5blNUR2VOSlhldFVxc1dzWHhjMlB2TnE3SHE3WmZzaHhTUEZ4X01FTUZpQ01nejBEbV9pT3pwUy11QmZPODJuMlpWQ1BZLURBSWZHYmhOSlA2QnFpS2pRLWJVbWdVM19ydWtnZERORnUwbzVoRmlyUXFfSzN0Z0JKRnFkSzJuZS1BSng5R2V5SVBEcEgxbUdNLXpQc3BwRlBOQ1YtNW9zZHo4RmsxTWhCMWs?oc=5
 
 ==============================================================
   PITCH SUMMARY
 ==============================================================
 
-  In the past year, Google News surfaced 171 news articles reporting
+  In the past year, Google News surfaced 166 news articles reporting
   citizen complaints about city services in New York.
 
   Top issues:
-    • Water / Utilities: 57% of complaints (97 articles)
-    • Other City Service: 9% of complaints (15 articles)
-    • Trash / Illegal Dumping: 7% of complaints (12 articles)
+    • Water / Utilities: 58% of complaints (96 articles)
+    • Other City Service: 10% of complaints (16 articles)
+    • Trash / Illegal Dumping: 6% of complaints (10 articles)
 
   MyCity311 turns scattered public complaints into structured,
   trackable reports — giving city staff real data and giving residents

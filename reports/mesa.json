@@ -1,0 +1,174 @@
+{
+  "city": "Mesa",
+  "slug": "mesa",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 48,
+  "total_complaints": 25,
+  "complaint_rate": 52.1,
+  "categories": {
+    "Noise Complaint": {
+      "count": 7,
+      "pct": 28.0,
+      "samples": [
+        {
+          "quote": "Falcon Field Airport sees increase in air traffic noise",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzMzMHlnTDhuX1piU1VoQUxhZi1WVldaT2trYVJrM2Z2QlBwV25xanRCdERFUzE3MWc0QnVGYUswcl9hTjNoRERyZGozUjNaRHNNNnlGNHNPcU85aml4NllmNzVhUFNrZVgya1ZXaHdLQnNlWU5wS1R3X01SaDVPMi1JTmNYZmhBTkhXbVlJR01PQ0pTbDZTVWtqUDJsdm1EWWxXZVoxNU9RTm5O?oc=5",
+          "date": "Wed, 17 Dec 2025"
+        },
+        {
+          "quote": "Mesa residents demand noise limits for Falcon Field",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaWNrSDYtaUZNLTNMSXdRaXBsaGdiQU9iZnZwTlgwZURIT2hqV3A5di03T0VQd3N4LUkyd3VQUFFQTlp5T01XdXdZc0ZaQUZCNl9XUXVsRHFWa21IOTZQY0JMRGxoSURkMEhBVEFSUGpsX3Z4ZHB3cmcxYzlQSms5cVpRX0o3U2pzOVNhWXJQRllFQ0hvRFFVMW9DbktUb3NveGNySmZpa0VSZ9IBvgFBVV95cUxNYkZWbVZvSm9CMVZ2R2FMLVFJcHVBa2d6STNKRHBOWkdqUl9Oek4ycG5DeHdELWFMeDlwZVlGOXktZldsZlFxY29mOU1JMUdESUNGSzIwTm16RG4wWlprc09UQlhRUE1BVy1uVGNQeHM3RFNkaGlUMUNTSl9wbmJxRThiaVFnWm1JY1kxQTlIbjlGSzF3cHIxMXlqS21EcVhhZXNobk1iZ0RjaUpOeFFuZkJwVzBvSnZKWjRuOW5B?oc=5",
+          "date": "Wed, 17 Dec 2025"
+        },
+        {
+          "quote": "Training flights unbearable as Falcon Field activity surges",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNejl1a3FrUkpBUjhRU0lZRTJfeDFPWnZPSHhBdElyZlNtSWdQMWxVcDdsT1B0ZFQ0eHZrTDV5akFWZEgzME52QUQ3RFJCXzVHNlAteUFjdkR0NFluSXMwREY1NURkemp1aVRkcnBaY1hwVDlXeE5ENHl0Yk1NS01QZ1VOZXlKekRnRVJrcEVBaTF6ZHZyblgwaXJRalZJeUQydnVaV1F3UWt6UGV0b2c2TnlpeFQ5QmFZTFJjU2FKSnl5NjJDZ2p3Skl4bjdMZEZxSXltRzVoY2pla3FmTlk0Yko5MmFUamtVSlhXdkVkYS01ZHdzd0ZvaXNDTnN4anVQR0E?oc=5",
+          "date": "Wed, 19 Nov 2025"
+        },
+        {
+          "quote": "Water plant noise violates decibel limits in La Mesa",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZmNQaWtPclAzZVFYTHFwZnhmd0pjVkh1VEtucU0yVjU4VTdSTzRYX3A4Sng2UDF0UzJIeUdmcnA5dFlCNGcwaGxFMXBkSDctMVZKenBLUndKQ3VCRGk4VjNuanphWEJIb3ZJOG4wWG5nNmFicEJSM2ppQS1mM1lJcDN0ZjdVd1d6c3l5ZkRmLTJobXEtRUR4b290S3QtQmdBT3dNWFFXbFJtdzhsRXozUjRQWE52Z1JodUEyN1VJTUJHbDYxZW52WnUyMFRDZWNnN3FwMThKQ0J1Zy1ITFFZTnpnelFLQQ?oc=5",
+          "date": "Wed, 04 Jun 2025"
+        },
+        {
+          "quote": "Residents concerned about Falcon Field training flight noise",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZENlQUZwNVhzNkEzQzNhU3FFeUtmS2VEaml4aF9pNUxpeDV4bHZoZnNKbjJzOUx4cUFja0NCOXZRYi1sUXZXbWJpdGxPb2hXRHJCcDRlR0N5MlN2V1pwb0MxUXQtekFGaGQxalVQck0wZ0JyZ1Q3OTV0THVmaFRLRjIwaUc3d1ExLUJzTjVEXzJjWWxDVTdDY3o0V0VUc2xVaUxiLU9peFU0bHJOb2l4dEJQWjhZMTlrM1M0cXlKUjRzSnVKSW1zMjRxR0w?oc=5",
+          "date": "Sun, 14 Dec 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 5,
+      "pct": 20.0,
+      "samples": [
+        {
+          "quote": "Neighbors concerned about addiction recovery center near school",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObGhfX182S0plRkFOYXg4MkMzWk1jd0RoNUNRNUNSbTA5eVhPa3dfTFZTR0hzblNoamV0eUM3QU1hYXNSZWRLTEFrY2g0VExDVkItQ3NkaGQ4VGJiR09ET0FyRElQYXhxbG9ISzdrSHZCckZOcTd5cTJsZkxOX25Nb3hUOXpvQXV4T2pmY2o4ZzJBWEJGWmZwUXBBTmtfLWJEQ0FCdnVVNVlZckdUSUxUbzRDNjBZRlhRZC1paXhwOHBRTndOT010eFMycGVKZFJaTjhtaUlSMnM2cDdYRVBxZzhRTDhVbDNwSkhYeDFQNTM5UXB2bnE3Rm1R?oc=5",
+          "date": "Thu, 16 Oct 2025"
+        },
+        {
+          "quote": "Recovery center at odds with Mesa",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNllwS1FVNkNWRGhRZjhmSDVGbTk5LUQ5Z3E3dGVLYVVuYnZ1dE5GdHJacG83bXZpb2RJZDkyc3hpNXZRdzBEWlE2TElVd3dMVUY5LUJyMGdQN04tZnJOTFV1emduUk9PUWFTRk82Q09iM3FGbmIyc3pxWFNJTVd5SFhwb0xkaVVFYVhsWFZhXzlkUDlKRzZpZ09GckQ3TEJSY3F5WlVIelpVaG5odHlzdnFqZDQxb3ctTnVR?oc=5",
+          "date": "Mon, 01 Dec 2025"
+        },
+        {
+          "quote": "Mesa rangers misconduct investigation following prior rewards",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQemF6M0hEd29VQ1RCTl9kWG5JUmNMZXZxejBkekpicEJNZk5DNVhSaUxEcFE4OE14ZGsxOXR6Qy1IS0ZUU3NMbmxDM18tbWVjX0tUSWtTN0hEUXZXakpsbkRyUnJDYVRHcER5Mk93ck0tTUE5UnhMblh6Y2lyUy1BQUhaQjVHVk85QjkwX2I5enNrWjdtY1ZvYkxnb05OZUJmMkVMZHJucUZNOUY2VkdmZ2VRdmZaZG1uUmlZ?oc=5",
+          "date": "Mon, 21 Jul 2025"
+        },
+        {
+          "quote": "Construction on North Mesa driving residents crazy",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGtFYmZIWjl2MnpBVG9SRkhHclhkTmswUHRXY2ttZ1NVLW53Uld5VE1OYWwtUGs4VWJqMmlIU3A2cUxjXzNSYUtUWXVNbk1nejZvUkloMi1SX0dhdURVM0l2LUxpUThmVUtmX0RMLXJQSzA0YjVyZHpncWl6czRQSkFHUGZneWh2VWFQUnZmektQQXRnakY5TlFUalc?oc=5",
+          "date": "Thu, 04 Sep 2025"
+        },
+        {
+          "quote": "El Paso businesses concerned over delayed flood project",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdktPVi1aUWV1V3ZYX09UMnlMekx6R2dNVjk2RnJzcUNWRWEzTm5RT3pGd0VYV1FNVkVuWTdzVUtIamhfd0ktUEFKb0RMZVlpNVRFbHN5R20xekpDeHNabmlvZFNmVS1sa2dmbFZxeDZmU2RMVDBQeC1Jd1BLWEtndFNwaDVESVpJeEc5SHNyYk1DQ3EzaEE?oc=5",
+          "date": "Tue, 26 Aug 2025"
+        }
+      ]
+    },
+    "Water / Utilities": {
+      "count": 4,
+      "pct": 16.0,
+      "samples": [
+        {
+          "quote": "Water main break shifts marathon route, causes traffic delays",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdlhPaWl4YmxWUk9Oa2tGeWIxODkycUZmZi1pX0x2dWNYV2hlQVpldHBRZktjZHVKVW9VbHUtZjVMU3VCa0ViOXl1b1dqODlvT2tVM2xLZkNGWGh3NGFIWm9mbXE3WG1wRUdXWjlIVmRFdlpKVHdnbEtrMk16QWREQjdxQURna29MSnJCVnBYclU2RGdEeGM2QWdmaDZLakQzNzZPeG44Z1dUdk94WHJZX0tTZzNZc3p4bFNVbk5BeVZmX0dH?oc=5",
+          "date": "Sat, 14 Feb 2026"
+        },
+        {
+          "quote": "Water main break leaves residents without water pressure",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGRTcFZjQmJmTmJkUXFwTUtyY1JncG50amJvSmt5NHowRVZBWTFXZkFsZGd3eHJvZExhYm93LTF2alFJV1hKR3k5cC02bENucnZ6U21rdC1sODdYSERWWEFTRGwtNUczcmV4VzZaQ1ZuVXNOWWVXVk52RlFxTG5iVnFEM3JKLTNiVmRNY1JzNHhUbkNVNGl2VVpFdHlVM3k0NmpTQmRWZVlGQdIBvgFBVV95cUxPMXA1VHRzSXlrWV83ci1QWkRFdTBRaWxHV3ZQNnVWS1NVaG9JVGdsZllDWDlYVmJ6UmZTbjZwUGU5OHFTb2lKSk1Dc1habGtoMUtqOHhrNTlER0JZTFdPQk55WGVDSTlyMFc0N3lsMmx6OG5HWGdzU0lVSlc4QzBrRGE4bjZ3QXpfUFJ1bEZ5Yk5Mc2VMWm1WWHVUZnhhVzJsRWIxcWtSZ3Vsa0hsc0tQRFVHZEFfZl9fOWQ3SDdB?oc=5",
+          "date": "Mon, 05 Jan 2026"
+        },
+        {
+          "quote": "Water shut off in Santee neighborhood following main break",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWk9wWFVyOHBhbGxwU1g1T01KT29aZnBablVORVlfa2RMYVFaU1dZY1U3QTQ3cXZ3NXVKd3o4NTJJVDROb0NpbjRIc1d0Ui1PcWkyUk1vM3hMRHl4eHlLUV9kVUw0bVZjZVRyR0thLUdCUGJKZzZnSWJQUk5wZWlSODRyMm1wWU12Z29reWRCdGwyMFZPNTJTMnVPVFVfX1hnYTBHSmtKZjVnamlTaHpzZGxNNU1xeHJCbkxn?oc=5",
+          "date": "Sat, 15 Mar 2025"
+        },
+        {
+          "quote": "Residents demand action from province over water system",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVVJsbnNCWkxDNTFBQ2g5UUtSc1pLSmYyRjZWeVp5dmUxaHF4cl9iSmlWVG1CZ21OT2tOaXV1eDQwOXBLWjhnTldMUEZxeG9SeW5sbEN5STB2ZTFCb21VaXFfQ3ZwNUNTUzJzNTl6cGJ0TFZTVVJTQ0dqSnQwZ0JRbndNUWdWOTk4WTBnN1VIek9IMzFZRDVfeVUwT183RUU?oc=5",
+          "date": "Thu, 29 Jan 2026"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 3,
+      "pct": 12.0,
+      "samples": [
+        {
+          "quote": "Survey on street condition in neighborhood",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGl4YXFFWkVjY2U3ZmNuSjlYcnM3RTExNGdHNmNiR29iS0RQSC0wWURlQzFNQlhwUWlFdUNvSGh5VzNSQzB1UFZRZ0c2Tlhta3I2V1ZLa2dMM3FpaUN1V0hXUzN5Y0luRE1oMlN5WFYwY0xaemoyOHN0YktvV19RX2IxVF9wdEcyX3pNRXl1bC12aWdiZ0lqdlBBZmNldnVXRVhmZ243VkVwQQ?oc=5",
+          "date": "Wed, 26 Mar 2025"
+        },
+        {
+          "quote": "Potholes on Gold Coast Drive causing car damage",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY3ZKUEtMNkk0c3FLWU40N3QwVHI4WkNzUGxCREtGVjktNTUxNG5nTWpELWxGQVZQOVdsVVFMaGdmU01FUExDM3VFTDF2ZU14cDVBMkIzYjFiYllwdXN3ajdNMWR2Qm1kaHJGWTJNdmtHMldSRjVIU1Y2YlJrcFJ3R3ZBbnJiSXZ0TDN4bVhRLThzQ1ZWMGVwMHFaLTh0akVlbkgyeWlVTHZWQ0U0VWk3dlMwaVdDelduSUo3YWVDMVRGWW55c3BJRXZCemNyeTkwWVlCNEh5OEdEOWEyVFotV0dCRU5ZRGlLZXpN?oc=5",
+          "date": "Tue, 01 Apr 2025"
+        },
+        {
+          "quote": "Hundreds of potholes reported after recent showers",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUdGcUlHLXpyRThPemlGYW1HWEM2SzRTN2J5a1FaSVdyZ0tKckdETTlFalFONXdaYUF5bDRUNkRDbTVEbjFKLVlWaXgxTmlhRkJDLTRmX19uRlRpa3VJTVZPYTRQdVkyVG01UmRoUWxJNzJUa1NFM2xpXzVCU184QXh6TTdyUDVRQ2hLTzlqTWttUmxvbWdrdE1OQ3dhdzFiaVRfMHlWU2N3RUk1b2FfelZCX2Etb00?oc=5",
+          "date": "Wed, 12 Mar 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 2,
+      "pct": 8.0,
+      "samples": [
+        {
+          "quote": "La Mesa trash pickup fees rise in July",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORVFiLVJSYW4zTHRFQVNDeTVBM3ZENGpHLVdSekQ3UHd2THpEd0pmemFBX0lPdXFfOGJWWEYtTlZLQWIwT0VzeS1XOUc4Z09yRHYtTkJTam5Tc3BLNEdzSE9DNTZsUzVwNDBBTmNmUURYdTFDY2o0d1ZNbEpHMnpoMDlHWjhiUEJ2MWhRbVJSSmJxZDJO?oc=5",
+          "date": "Tue, 22 Jul 2025"
+        },
+        {
+          "quote": "San Diego approves $44-a-month trash pickup fee",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY1UzX0FhZERWVWVMWXZ5Z2hxVGdsVDFoeVJ2VXV0eVRSYi1kSDBPNHowd3NoSmwzcHpNd0ZOQ2lHQS0zOXZFNURVeGRuZk1tNVNkUldrMElaeFpST3ZyMHVxcVkzV19xSEZLVDJ3ZHp4SnRybkNyT0tVMG5TXzNNMDREVVdUQko1SWtwS2VyMUtCN2VwV0JsSkJ6S0hzanFkRjJBbXQ4S3FKQUIwV1k0eXo1TlpLRi1jME1IeGZYRnprUW9NTmRB?oc=5",
+          "date": "Mon, 09 Jun 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 2,
+      "pct": 8.0,
+      "samples": [
+        {
+          "quote": "Mesa homeowner's home flooded completely from water damage",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwSVhaSW9ENDkyZWExcUJSczFQUFppbTN4SGhLZ3hkdmpsRV91YTRJR2FodWRhVTVaMWlrU1FZRTNVNVZhOFE2MFlJeDJqRFlWZjZpYUlIYnM2NnVJQ2daTNIBZkFVX3lxTE9tM0lXMXVGaHlCQmZhcFRoeVNFcU90aDhEblRXXzh0Rm15VnBLM25ZQVNnTWctOW94QTM3Z0V2V2s1LXBTdlcyUkR6NzFNR0VfSVVOa01RdDBra0dtRHBCMXh0ZlNnQQ?oc=5",
+          "date": "Sun, 12 Oct 2025"
+        },
+        {
+          "quote": "Local beach closed following sewage spill",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXJWT3YtVDJwaTdBa0NqR0VtNGx1cFNjbVFlQ0dnUlpRcnRTLW5EZHVLZ294X3VEZDBSR3FBT2ZqUWtERFNDNzMxY01Ybnk3VExZVHljU3AyOFVuTVkxdkdLb2lSemZJQWtCbXpIaGdEYmxpOVhyVThVMWdhdXAxWFhQYmJoNzRvaGpkMUdtYTNSb1lVa3FYRjloVm1zV293Q2VMQWlKTVlfdm0t?oc=5",
+          "date": "Tue, 13 May 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 1,
+      "pct": 4.0,
+      "samples": [
+        {
+          "quote": "Whitney Mesa Nature Preserve had 20+ recent complaints",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZkpZMWpMeW5mWXhqMVM1bGFzX2szSDFMZUo3eU9fRlA0MnR1aFdFSDRQX09PUlRjRWlqT1RhSnhxQk5EZTU2b254UW1Lc0VJTUM1UTY1RDZKN1FRZGE3YUt4bmNaaUcxMkdfSk5yVWxud05nRU5KVEhtWjhsZVN1S2lhYWtjMHIzNkNj?oc=5",
+          "date": "Sat, 17 Jan 2026"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 1,
+      "pct": 4.0,
+      "samples": [
+        {
+          "quote": "Clairemont park vandalized days after dedication",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0pRdmdTdWVUSHBQOWQ0eDFUU3FqTU9PNGo2M2xCcmlySTFZbEc1ZzdTUDBXTnU5MXRZM1pvaFlsWmk3TE56Y3BnYU43Vk9mUmVWQk00V0QtU0JFN3Zhd1B2V2ZUempDZjlCSWpaM2dPbVVBWGJ6VWhZbDgwMllmaU16OXFmTGJkQUotU3R4ZmF0TkhlVG9oTjFxQ2lhc0NrVnBvN2RHY20xa2l0UkVTTERrb1diMXZlbm1ZRmFEZF9NZ9IBxwFBVV95cUxNdEdzcURSM3lBLW5MQ2RfNkU3VDVySElsYks5QUV5TllaV1VEVDVXMGRSQXZJMkdCb0lVZFVvRWs1RkRRVFFnSFlINm0xc25leGEwRG9QZS0xeFNCLWdrMFlkakRSMnRGcXBjUk55VnRCc01wYlFoM3FSbjd3cVF3M0RFWTI4dzh5UlBWYi1hdzRDZi1GOEpHcVFlSnEySktMXzEwNmtueDg4RlhRYnNNSGx2NjBTMmpHaktIb0diZXV4ZzFzNy1R?oc=5",
+          "date": "Thu, 30 Oct 2025"
+        }
+      ]
+    }
+  }
+}

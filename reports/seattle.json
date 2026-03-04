@@ -1,0 +1,252 @@
+{
+  "city": "Seattle",
+  "slug": "seattle",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 110,
+  "total_complaints": 53,
+  "complaint_rate": 48.2,
+  "categories": {
+    "Water / Utilities": {
+      "count": 17,
+      "pct": 32.1,
+      "samples": [
+        {
+          "quote": "Seattle City Light responds to Burien's power outage concerns",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM3lMWG8tNFZpd3E1QzJNeU1VZVkzdWxYckVkT3AteTVHdXBtdEhPSTFTSk9hSFFUSV9HRUliOGxyazluRXRkUVlPS1JkbHRhR3VhZGJ1Y3Z3bk5HbEt4THR3YnJGRFNncUMzMmtBOHVzSlpsWlh3eHlES2hBOUxoZDN3QXU1bV84YjB0YQ?oc=5",
+          "date": "Wed, 02 Jul 2025"
+        },
+        {
+          "quote": "Water main break requires Crown Hill residents to boil water",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNam1uZlR6NFhCTlJuT2VjX0J0dnhTaVU3RGl6Z1NuUWg0NUdDbnVBbThjYkIwR19oQTBWWXVGeDZTbFFuRWlRY1RBUHNFSFdHOFJvY3FVUkJjcmhYWTRTZGJtdVV0bEoteWVidFU1V2dOSnhMVkR3a1RhQUU1RnFWNXNCRHBvUXpzb2tSOTNOczN2TnlwdkRTcTJSRWVUZHVFTE82M1hpZlJkMmo4Z2lxZUhIY1dja3VuU2N3SHpn?oc=5",
+          "date": "Thu, 03 Apr 2025"
+        },
+        {
+          "quote": "Boil water order remains after water main break repaired",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMWRuSk5FTkRLVVlmRHFNQnhlTG9NSUZqbWhybnNWbDZyMHRpOXRjWEF6MHlnOGliOE1VbUplbGx1a05wNVhsd0xKY1VxazFEWl9UZnVBaUFTYkN2R3pmZ2FZOEptUjB5R0pVdEJ0R1dnQ2dCUmg2ckRpTjA5ZXRfcGVoZmkxd2N6ck9rdS1kdk5GMDRGYy1TMUpfcFlNT3lONmh0VFA5bXd3aGVlM212UGYzdkV0N3BzbjF1UjI3SzNEd2M?oc=5",
+          "date": "Thu, 03 Apr 2025"
+        },
+        {
+          "quote": "Water main break in Seattle's Crown Hill impacts 3,000",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UeXZzd3ZJbHFXQzYteEJjSXY5ZGVNNkcydVUzd00xb0NUNXk2OEtOUWlwUVRzbS14dHJwLXJSSmRteFRzTV9iX1QxaDlRQ0MxTEJRZy05bHB0SjFzNVp5akY2MnNnQ0lrdy1wSnJ3TW1mU0nSAXhBVV95cUxQaGFZc1hnRHp0MWRrZzhnNGUtbWFnRWNqcVFWUV9rMTZRcWMtTmNoMGRLaE9xa2JPRGFWN3VIbFZwRWd2THRoaENIR1IwVXlXRU5IZ1hoVUpJVXhPVy1RSkhZVXVBcEk4UHpsMThTb0VHWXEtUUtvN3k?oc=5",
+          "date": "Thu, 03 Apr 2025"
+        },
+        {
+          "quote": "Crown Hill residents asked to boil water after main break",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNUx0UXBZRkpwZ2lCaV9wREJEZGFsbmhnZW0zTVBqclowUmRubzM5MjlCWHRJZXg0RVFENnJab0VMT2pxRTljeW1HNnpGUlpXSG9GMUUtZFVyZEFVNUhaUm9xTV8zRGxkWnFiakJxNmU0Z2xmcTh2ejY1UHlHVG5IY3ZNcmFBYVVuZ0l0cjVhdnZ5UW9XUk01dE11QnM3dw?oc=5",
+          "date": "Thu, 03 Apr 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 10,
+      "pct": 18.9,
+      "samples": [
+        {
+          "quote": "Council acts to curb graffiti with new tools",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmNiWnlFVVprNlhxYXBCTUxRd3J6RjhSODdqQkh3UEg2VXJodVVkcDJDMkxrUXU1SW41bmh3QmpXMV9DV3Z6aXdmeUFEUFV0bVl4T25OeHA1bDMtOWdoSXRROXVEcmhZMGJwN2RJaWo5S19SZE05QldtQ0RCNkQtZ3R4OE9nam5yVnNZZA?oc=5",
+          "date": "Tue, 15 Jul 2025"
+        },
+        {
+          "quote": "Graffiti causes $6M in annual cleanup costs",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOExzRGlXWWd0YVNfd0F1RG56Q3IyeVR4RTlvNFAzMDhGU3lyV2RIWU5QM0xtenl5U0FHc2kzRzF4S1REY2hZMWNha0FxUEpoRFcyVzJtaWQ4bldXRzVOUGFVcnR1WHZHQXU4UmNtRVNZN1d5SUlHdEJzV2x0bW1DVlBFNm5DOV93Ymc5Z19RNjVGc2MxMUtF?oc=5",
+          "date": "Tue, 24 Jun 2025"
+        },
+        {
+          "quote": "City Council approves civil penalties for graffiti vandalism",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONGZVcjFNcWVubVhDMnRYQnVINXUtallKM2daQjc1a2xwQVhhVEVySjV4S3RpQ3ZlMlVFdV9DLUxiNHgxNTVDQnF1dlhjRllYT3dYc2xzRHlaX1ZCdmhVLUZ5djFhR3d3dUEyUmlMcDZBcUJaSzVLaUhiUXRHOS0wNDUyendlbmxGSHp3a3l3RmR6S1VYaWFFc1pqYkRsOUw5eFFEaS1xZk03X1A5NkVyZkdXLVBjY1VxeHpjSVdjZm5uMjZ1WkFvWmlkUXI1Z1I2LXBz?oc=5",
+          "date": "Tue, 15 Jul 2025"
+        },
+        {
+          "quote": "Seattle targets prolific taggers with new graffiti ordinance",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNd0FEbUdTSVVsdDF4cm04NDcwNmE5Wk5oYm85Z2hkWThlV3NLQ29KZVkxVnNpeUx3QXkyck0wLS0xeDVOQXlfUTFnZGM4QnB2WXJrYTFrRmljc3dPUmU3dUxBTmdqd1VaWFI0YW8tTy1WajFwVmx6dGhMei01Z3VfT1dMLW9lVkxiWnF0Q01PRlFpbWtkVFdWSVQ0WUFObmsxVGpGRHU2Szk4VEhCZUlHNjVWRXlCcjV6LTN4ODNlU2JMVkIyb0hFeE9IZ05zSndwTjRCVTlCN1kyaHNKeTQzVm1lemRYNUR5QXRRcTl3SFM5eWVfSFRSZFBTc2JoMmljSTlPQ2ZHSVQ5eHQzbWFvckc5SmFKa3pSSm9xbmc4YzRrOXJCLWc0?oc=5",
+          "date": "Tue, 16 Sep 2025"
+        },
+        {
+          "quote": "Seattle files lawsuits against three prolific graffiti taggers",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2J4TDFFREFwWkxxNi1PdHFkVElBMWtTN0JHbjFnb1RJSF9fektyUTlhemd1VVhyNGZKRFpaYUxaNUQwa0Fab3R2b0Z2MFdoV0hrWEtiaVNGaXAxQVlUblR6X0k4ZGdPcWdNa2FQMEJOM1JPT0xCd0lsZ25mTU5rZS11SU01VE56dmRfYlRnalI0eWRHY3Jsd0JMdDg4VURvUElhYm45d0RjcXRncVJ4bGU1YV9oc1RoSk5uMTVpMmjSAdQBQVVfeXFMTXIyQ2tXbnY5WG9PTXRFT0ZDY2x0UjEwNEE3Q3NRS3A0ZDhNLVJuWEQzTDNwbWRkZXVaZHVSMDZSRkF3ckt4ZGlVeTRWSl9vd2NVVW5saEdKUEE5VzJZRTdFVnpKMmcxUGRZQ3Q2QTFvRFFnVHFVUW5yMlUyS1duNWVTcUNlaFA5Ymc4ZWN3VEo0UFk0QTZmTk1XQUFLbmNzMG1UdWdGQWcwdVZ1c09uNDcwREJkOEl6RFZnWXFzNU9lV251TzhXazZmLUdPRE9nQk92U2s?oc=5",
+          "date": "Tue, 16 Sep 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 6,
+      "pct": 11.3,
+      "samples": [
+        {
+          "quote": "Denny Blaine residents sue Seattle over nude beach management",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWWRsSWVyS081bUpRblNOV2U4X3ZQTTRqMFpYRW1SRFluV3pONkVlZFlCS3BxQnJVc0NKUi12M2J3MEJyak1fbDRyVUdlWDNZOFVlZjhQUy1mVzhOeTJtRC1xM0hLNDBHSnlZWUNwUVhnS2JhUDljb3RaZXFNLXplQXlhQVI0SEhOX1hLczEzZEo2T2NwenlUNHBQZlNXcHBRdWRlVWJhQmpFdFVsNFB5NjBNeWxuSFU?oc=5",
+          "date": "Wed, 23 Apr 2025"
+        },
+        {
+          "quote": "Seattle residents fed up as city ignores rowdy Magnuson Park",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QQlgwRU5zdVVheGVjSTk1R3NkUlRtTFFpLVVXWjFSYzBpb2pnOFROdHlhYzZ5TkR0dGl6WnpVLU11U1d5QVBQSmxRR2hXWjhRZ1hWUjNWYS04ZjQzU0FWaVc5MTJmNnB1UjUxeUZGQXFlczhXa2tWbDVZUW4?oc=5",
+          "date": "Thu, 10 Jul 2025"
+        },
+        {
+          "quote": "Complaints about homelessness and drugs at Capitol Hill parks",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTEVsa19jT25NU2pSS1BiV2tCTkVLYkFQOVU1cjR6ZTByZ2tOLV9OUWRWM2RXR2hmbld5dVp0RkdoNDY4NEd1QVpqSHNDWWpiR0JpTUFkcXJnTWNQTkw3RWdxUHNHalhJeVhGN3JnT193bzhYeUh6NXdPUFpWN0VFSFZvcGFjUnpRTjI0cWllUWJMeGQ5Tm9ZbDVTZDRqMXVnMkZJT0FyLWtpNjd4cXVvMFZ2bVBCbWlkTk1jaVJnRTNVUUZUNkNUYlhiLUJvUWwyRGtxLS02UzloM1doUm9rV0RLQzVsZHdmcXAyMGZoZEZkQlNINFZ1bFc5UFU2SnFX?oc=5",
+          "date": "Mon, 10 Nov 2025"
+        },
+        {
+          "quote": "Multiple instances of lewd acts reported at city park",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZHp5UWhoYUdkankyUzVMS2ZpbGY4b051R0JqaVU1QWJVeVc2WXYwNi1PRWd1N2czc19ZaXpwVVgzbUgxaU5RdWktdWF2WjFsNkwyT3lzY001aTZxZkI4WC1MVFpsYUdCM3ZGd3lQblAyaUVXSkRXM2VlUVU1NTJnM1hWYjVuSDhCT2JkbU1zamJJNy1nQlFmNy1fRmpjWGdBdnlCbWhpeHhNN0FSSHJ4UFJ1aFpOczZtV0x2MDJrV2NCNVcwd2JOZXpTYTU0bVZ5cHZ4cDN6d1dKeC1VUkJxNtIB9AFBVV95cUxPd1lJN2U4OWpDZ1dqemUxUHpZVS1zdVdPUWluSlJtUGVubk9jS1lRbUF2VTRRTHA3aWtHelFoLWotUUNMaWtNTkZDcktJTVdDMTluZmZNQUxsMUhLcUlEOXZpRUtfdlB4RXBoM3BNd2NVODNpRFZtTmE0aTZucXpDV3Z2NUx2RU52NHBDdl9LTklpU1Jpd0NQa1I0YUZsVWtjdFRybk1CRU4wcmxycVdsX0VsMUp3Z3I0amhYOWZnNWkyeEZlRm0ydmpEWDNPNUplYVV4SFh1ZTFWVXVrN041dk9nQmNjQ1BLV1RibmlYWGhWSHIx?oc=5",
+          "date": "Thu, 24 Apr 2025"
+        },
+        {
+          "quote": "Capitol Hill park improved with lighting and maintenance",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS0t2YklCeG9WV01YMnZMUUV2dkh5VWo5bHlTc3BHZ2lpQ0NzSklQalRJaXNNbjlYUUpueV9uSmxqSllXVFZSNGRPVEgxOC1CSm1idUZxV2VzNTlWYTZlWmZrcFc5cUtZV0t2amhBUWVuQkhVLWFremkwNFpKMmJVQi05b2NGdGpBTUtfbDFzMjZ1Sk8xOEhjbHp6UXpDaTJfSDgxaldLUGxGS2N2NjQ1TnpQaERHUHEzWFc5RlZoVW9POWF4RElrS2h3bDlBU0xMajlKMDhMMHplN2ZfVVZsS0NVTk1ETkdtUHBXX0VR?oc=5",
+          "date": "Fri, 23 Jan 2026"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 5,
+      "pct": 9.4,
+      "samples": [
+        {
+          "quote": "Seattle neighborhood endures pungent smell from unknown source",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTjVZZTdwYWUzV2ExZ0M4ak5pUWJENVJZcm5mNkZNdHlCWVVzWTgzd0JhRVdzelpFODZaY0tFQ3RTcmR2WWVYbXcyTnowdm1IOTZtbU9JdTBsd3RVd0gwRWxPTnB3RlRkd0pIYk5LWWU0RUZrQ2N3dUZXSnVEMGRVRnA2MWRsZU1iQ1FZX2F2ZGk0RUU0cER0TGpZM0FxemFvNmRxc21aRDBvRVhScXRoaUVFMUoxc3c?oc=5",
+          "date": "Mon, 24 Nov 2025"
+        },
+        {
+          "quote": "Apartment building concerns over other complex",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcGdFaGdxemdybVpaVXFoMEdncHR2RG85NHVtLXBiZHg5dUpUdWFnNzhPRTB4Nk9YMi04aEZETGQ4RS1SSkl1T3hwREpwbldpa0w4X2ZZR3FKWGoxRF9zZDA1eGxQTWkza0pWRzRueGdzdGlKaGV5LVZoZzY3aVAxVldqOGxubUp6RHFjdTRwSFVXSlozUTJsNDVPckhMREFCRDFJM0dYcl9zalFlSWtLcXBrb1VqUUNMX0NJYlVoRnRTSUN5SmZmLXhYb3VfaHd0cW12dUtFZWx3LV8xdmxTdjZn?oc=5",
+          "date": "Thu, 05 Feb 2026"
+        },
+        {
+          "quote": "Apartment building concerns over other complex",
+          "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQelNlR2o2RGJaa0pic05rOHBLWWQ4empiREptWTduU1dGYngzUy0yRWlEN0dELUhVbHdRUkUxdnE3ejJLZ2FKeDZQOElzTDJpa09kNlZfR0xjSTBEYXVNMThRQ1BnbC1GLUhWWjNQN05BU3BobC1ncFlVRDM3NEdfSGhrMS1GUWU4RXhmTFNyRnpHNFdtUUVyMXBHaTRvem80QTBpeXVtbFJ0NlJ0MWRIdXYxR3JSZVJ1ZGJ5V0Ruc3Q1azR1S182aE5kSUg3cU5RZC04N0x0ZURuT1BrMHdtc0YzbThJZU1xM0JmOVlwX2FTWDFsUTd5azRjaVg3UnpwRGFBRTJZcVBRck40V1c1X0NoWEp2V2cyWU8yaFVoQXdrQVQ3MlUwOC04dmRqT0YyZ29DM3ZxVDk2SDlyV1h6SFQxOEdNa0Jrb3lZQ3lNUE05RTdoQ250clRwYnRFYzB2V2xFMDV0RDBuUUxtS0hhWEZSX2RHSUFq?oc=5",
+          "date": "Mon, 09 Feb 2026"
+        },
+        {
+          "quote": "Auditors complained about poor condition of city restrooms",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRF84b1hVUWFGT014UXFpZHczSWZUS1hYR1ZKcksyREpTcHdqVjFhRHNVX3JqOHlfbXEwMGpNcC16Zk56SWRsWHdoNzZEdGxDbDJweHRyNkFmVE96WmtJYkUzNVB2a3BOM1lZdzZaY0dOSGRKc1d4VElWaFJOM2NPNEJ1SVNKSXdLTkI1QU1GSHBULVpuQ3h3Wm1kZExCMTRaMUIzMWJwMzRHLXd6aWdlal95QQ?oc=5",
+          "date": "Tue, 25 Mar 2025"
+        },
+        {
+          "quote": "West Seattle transportation projects in annual levy plan",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdW91T3Y4UXlmdjlNSnIzWW02aDR6WW5TeEZhTkFSMGpBczYzRzV5dl9RMms3b0oyZFlTUUtFNVFjOHBWUUtpNDZCWGt1WkI3QlFNb0VLVHA5aWdOb2VyOUNJY3JqN0QzMW1WZjZ3Yzl1bU42ZC0yXzBXQnRQM1d1X3NLSkhFQUJTSDZ4SlZpaTJiSU5lMnUyR1NXZ0VGcHBLck5VN2tWelZCV1NocTBsT1pDOHlfUEpldHd0OU93M2paVER1YkFfcnUzTkZCZVJYZ29XRlhsNFh4WGl5R3M3TVB2aFA?oc=5",
+          "date": "Fri, 13 Feb 2026"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 4,
+      "pct": 7.5,
+      "samples": [
+        {
+          "quote": "Trash piles up in Renton amid nationwide Republic Services strike",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4ybmtZRlZRM1YtalpMbU5YUHNjeU0wVEF3bWp0dHFKYlJqMTVwSFRQRFlMTGRzbmxjWU4yb0hqQkZnM0Y1WU9HWTVSei1Qa1VWWU45Qk8yWXNEYXBpaEMzcEtZdXNPNktQR19IcXdxVWtSX1NQRFpqT3R5UdIBgAFBVV95cUxQaE5ZVHd2eEJoUTB1amV4bTZrVXdqbFVSbWpkT29KWVJtbnBhTU12Y1JFc1hYOFcxWVE2VVRpVmJlWU1HQnQyWWhnMzc5X1pybVRncXFXZ3EwSjVwTldPZ3pfNGVpbndJajJxZl9ZZ3hZbVVSVmk4eEZBWnV0V1NFdQ?oc=5",
+          "date": "Mon, 14 Jul 2025"
+        },
+        {
+          "quote": "Garbage strike continues as Kent, Bellevue offer new drop-off sites",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaGJMdDc4dDdGU3lBNlYyV1NTRmE0TExBZ3pGTkQ2cGJIRnYyNnlYbW9qd0JPNXA0ZWdXYVQ4UmF1c0gxRzc2Z1hVTUlUNGVPVzB0bDgyZWoydnp1VmxlMUNnVXFsRlRIdlhZQVNSRVBVNUpkaEMyNVhMWEo4emFOb3p3ZGY4WENWcGJFSzQyUC1RMy1yaVdRLWtPZW1CNkphRmc5WXNRekZWRjlBbW5iMHk3UzdEaXEtNDRSWXh5NXMwTlFORmo5YTNrUjJVMGpvaFd2LVZFTElDN0Q5TXdXOHJhenUtdw?oc=5",
+          "date": "Thu, 17 Jul 2025"
+        },
+        {
+          "quote": "Republic trash collector strike impacts service across region",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYlY4ZmJBby0yM0trbkxfT3ZxNFhwUjlYRkxyVnp1bFJ2ZGhOOEktVHM5LVhadFhrYzQ1dkozczMxQTlSNkpMaF9mZ1d2UXNOM0Z2SzhUbnBFN0xpa2JMQUlvMVAxekEyT2wwdzAyeTVqS0JwcnE2ZFpQUWYxVGtxSUV3Z2pTRUxHYTVyWXY3LXFNVmVIYlM2X21wZUJFWWVUZnUwMDZBYXVOdDBMdk9Cd2tWV1QyYVZneWFLaUR3N0FkajTSAdcBQVVfeXFMUEZTNXo4S29LMC1PZFc0YzYwUHpFbE5jZ2sxYTFLeVpjLUlZb1hSWG9LS0xVVHowcG5zb3hnWE9CM1JNSWNGVTNRd1BYY3pNdV9wTGtrdThybkdReHBBcHJOTDU5RVhLU29JQjB2RmoxcjFOaHlILWtaNThrWWlvVjlZaDBYcWhReE9fZU9qLU50NEY2TFlrQVFwQ25fUHhJZHZEMkVFYVdjVnhPcEd0Ul9oamxRYmV6VnFpM1NuWWFlUEJubHVQT183YU5DanloTGwtOXdxTjQ?oc=5",
+          "date": "Thu, 10 Jul 2025"
+        },
+        {
+          "quote": "Still no end in Kent to Republic Services work stoppage",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlREa1gzdHVLSlpEZ3hLVlNnb3lWc2Fwa3hPU2FFLXgybmpPblQ5NEhNbTdUWUlMaU5feG1HRllPTTNYWTFhQk02a3V5YVpuMGwwY3g3NHRxVWpUZHczeWNEd082d2hCYlBHNGQ4MWVpd1YwWkdmNGg3ZEJPc2ZVU0NlOWhZNkhPM0NqQ0o5d093MlpqRnlXZnNjeUM?oc=5",
+          "date": "Fri, 18 Jul 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 3,
+      "pct": 5.7,
+      "samples": [
+        {
+          "quote": "Record number of people reporting homeless encampments to Seattle",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSndxMVFJelVnZnJGUlNfTERrcnJXM2hfVUlhYWZxZDZOVm45Y3lkNHZhbU1HRjNJTmRKZ0gtSlNYMnBPRWNydXplcjFjUUVwMVpXWi1JWEhVWTh3UXNVYkpJU0lXbmE5NnEweTJxbGV6RmRJN201dTVWbVp1S2l3TEZqZ1BCVHVFYzhKU3J5dFZmOGRoQjBVUTJuYUV5R1ZrMUYtRnkwSmVIZw?oc=5",
+          "date": "Fri, 03 Oct 2025"
+        },
+        {
+          "quote": "Auburn residents evacuated near Green River due to flooding",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNd0lGaE5lSm5hTE05MnBGXzZCUDVSNy1xMTVhamtIM2xYdGNhekowRjdWSkp5aklpd0ppUzNneW9OX2dlM2R0eVg2XzY0c014TmdZcEJvRWFhNEJiWFdGSDJBSVlRbjBqVC1JY05YbTgwWDZkc0RvMzJEemtJbG1oSXBJaFc2bWh0Nnlpc0trU21Fc2ZQQXFTbmNHM2YtcVdlZ05yMVpjbWUzUTl1djc1SkljaEtqeHBDTFpNTUdUVGZ6RWJ1SkZLdnZaVTRvanZNNUozLUcyQUwtcFJKU3NLX25DeGlvQWZ2VXJESEptT3M0azlKWjNzOWpTVUxSVXNQT3VlYTV1QzlGU2N0SlFUMHNaVV9oOExZNFowQU93RHJyeXE2T3pabS1n?oc=5",
+          "date": "Sun, 14 Dec 2025"
+        },
+        {
+          "quote": "Evacuations underway across Western Washington",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeXU0c2p6eE1TcXoycTY4RFhjUEN2Um1tUV95WjZ6c1VzQU1RajhfNUFLZkdEZnUtaWpMd05iNEVENlNGWTBpQ1dFLVdWbk9meFdsMDNJeGE1MUxDX0FxcU9QdW9zaU93NlByTENLUGZ6QVJGR2l2VmxWNElQY2Nicndqd2dSNUZFcnF0NHg2TlhxSkRtdkFHZk44RXQwNGtRSUpWLVhfay1fNWw2UURfOWhlUlhwcjc1OWc?oc=5",
+          "date": "Thu, 11 Dec 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 3,
+      "pct": 5.7,
+      "samples": [
+        {
+          "quote": "Beacon Ave S & 15th Ave S safety improvements needed",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcEdGaVNXN1g3QjN5ZVVSbEtkdWVUY3NXT1JVb2xoWFRCcnhTQXZWNmY5eWgxNS1vblA4a1V4SWJlYkJIcmlyTEtneDZuR0ZMVGR4UHd1SERTMnFiVkpKWHlOMXgwTnFEbmx0TGh1dlFlQkxoTnFRQmJ2STFuTEdYMUxwMjdTa0Z0c1BNenV5S0JBc0JlcXNsRUo2d1daVGhqUjVRVlQ4YUdleko5S0U1c1EwS0JSTk53a0dGZ2NubktreFFI?oc=5",
+          "date": "Fri, 03 Oct 2025"
+        },
+        {
+          "quote": "Greenwood Ave N sidewalk improvements underway",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEhRMU9IUXZCbE9RczBWZ2dIZHRiRm5ReWxFcE9yYWwtdjNsOEh4SnJEcENyeHI5a01PV0ZDZWhxcVd4Wk1rMXVMUGNycWdfLWRsLTBiREhfNHUzUHQ0eGRuX3QzUXc1cWJmejJHMmlwWmVicWFvc1hEbGhUQW5iQ1hHMVVJVG1kUFV2dExaTS02WkdKX2g5RDVydTlGQWhpdFdBT0tMa3JwWVlZeXhLb0xxaDN6QQ?oc=5",
+          "date": "Fri, 21 Mar 2025"
+        },
+        {
+          "quote": "55th Ave S sidewalk repair project",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRWhWd3RFYlU3V2h4U0VhczYxRXVFeWhQeDVEamM3VndZcENLWkw3SXludlpCN3pGUFZkZjVLSGpCdmFZYmZyaVV5c0kydjFEbncxTzNCZi02eHlIbmVzMjU5RHAyakRQM3BJSDRrTVh0aDdaNTljLVhfR0EtejNYVkswRG81M08wLTFvRUllVjQ0clZsU0pHa1h6SDNOQkFYS2ZpMzlRMGdPMlF0RWNldy1CTHA?oc=5",
+          "date": "Fri, 09 Jan 2026"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 2,
+      "pct": 3.8,
+      "samples": [
+        {
+          "quote": "Seattle overspends on potholes as $2B road repair backlog lingers",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTFI1U3hOSlMzUTdaUWpFU2FMSlJ0Yk9mQmRwTkRvOGJjWmZJMlRhRFFNX3kzRGZQMHgxTjdsM3djSlVpdzhBUm1BXzF2YU0zUmI0Z29nZFJwSnlCbVU4cS1ZSjBSRzVOV0tOMTgxSTVUdGZhTnEtd0pnX194cXF3a2JFSUhfdUdEcU42RkVPd3EtS0pHOUhj?oc=5",
+          "date": "Tue, 15 Jul 2025"
+        },
+        {
+          "quote": "Residents fume as Eastside city abandons neighborhood's streets",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMTk5cHRkSnFpcnAyVy1Na0NXWEJwWTlKZEZqekJfYmRuTjV6Y0llaVRBTFV2NEwtZ1lBX0VfOVFYUG1jaG1haWdNU1RqSXdSeVRKbnE0UnppdU45MmhJVzBBdllvVDNSTjFHMUZDT0MtUDRfVDFsWUYxV3A3ZmJndUpfYW8tVFl2ck5fR1U5dExScmhpQ09xUTluemVHUGJPaDB4RDlwQ1lLT295RHBfRHV4Q1ktS3VYa2NGaw?oc=5",
+          "date": "Thu, 12 Jun 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 1,
+      "pct": 1.9,
+      "samples": [
+        {
+          "quote": "Health officials warn of possible rats in toilets after flooding",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRDNqdFFWSWxSYUpaSjlqcGptQXNicUdpbUFlT1E2dEFWN0xWZE14UVdhZ0haeWV4ZDdfRXRWNWJEUVhBYmljS3FxUmo0Wm1GdnRnbVNNdlptdk1vd3NyQzNHdnY4dlgzVi1NZV95bXNDQ09vN1JIeDZYaDMxdVBnUVpEck4yZWlQWmprWXdmWHhab0ZlWFgyZTl1TVoxVlRvOTg1OVFaQ1drNGtQMERHQnlFMXRWaW5iVzFBUFlYY0VESUl0aFRXWlpPTnlKNEFPckpUYlR0S1ZtaUhpMUYyRVhsV3lvZkkxZjlPQjhNSmw2UEExMXpmQXlkZEE?oc=5",
+          "date": "Fri, 19 Dec 2025"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 1,
+      "pct": 1.9,
+      "samples": [
+        {
+          "quote": "City removes utility pole blocking walk signal after pedestrian death",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG9MdlRqWl9KZWdEcU1famJLVng5V0VFRllIMEFhZEZKRjYzY001bTZqNkwwSVlNZEF3YWgyZW9IdFcyUVY0bU9OYmVxZU9ObDU4NFJMeUFQeE9makhDTFhEaTNqdDBKUkFlS3RCaklTMDJSTWJoNVNlSzRtVGRLMVRKX1dsUkQtVXNmRHNHR3FzT2VhblowNHBUYWVWVFpoXy1Qc0YxNG1vMElvVTZoSXNTeDgzd2ZfaUl0TU95X1MzZTZHajdDUTBiMUVTRUR1YkFKV1BlaklNR2xLYnNqN2JCOA?oc=5",
+          "date": "Tue, 24 Feb 2026"
+        }
+      ]
+    },
+    "Downed Tree / Debris": {
+      "count": 1,
+      "pct": 1.9,
+      "samples": [
+        {
+          "quote": "Ross Lake Woody Debris Removal",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTjI3NDJHMmh5YWdsMHMwTGhiUGZUWmJlSTZEaGxGS1U5NklRQm5xQlNGOTlYNWRHZ2drLWNiajRDODExa0tmcWM1Q2wwRUN0ekV2QlI1WlJyMEZxRWVaUUN4QV9pMDFQTjZ4RUdVTDdYMmpnYzFRMEUxTGZDX3V3Zkc5b0FCWWE4cXlCVmQ4UUxFZw?oc=5",
+          "date": "Mon, 30 Jun 2025"
+        }
+      ]
+    }
+  }
+}

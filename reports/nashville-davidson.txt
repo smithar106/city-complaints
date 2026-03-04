@@ -1,0 +1,82 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — NASHVILLE-DAVIDSON
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 66
+  Complaints found  : 38
+  Complaint rate    : 57.6%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   24   63.2%  █████████████████████
+  Other City Service                   5   13.2%  ████
+  Public Safety / Crime                4   10.5%  ███
+  Noise Complaint                      2    5.3%  █
+  Pothole / Road Damage                1    2.6%  █
+  Trash / Illegal Dumping              1    2.6%  █
+  Graffiti / Vandalism                 1    2.6%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Water slowly restored after water emergency"
+      https://news.google.com/rss/articles/CBMif0FVX3lxTE1XWHFMWF9FREpoSWY2alZFM2pMZ0lSYlRiM2hmdzFVbGY4MlRJNGp3LUVMN21WcG1YT09HQWpKeDdWYjBqLTExNTRCM3JGVldKY1pvbTFUUFlFTWtyTGJLcDZkZVZrNVU5dFBHSGhackJNeGJFSXh2YTFfVW9DaDQ?oc=5
+    • "City warns water main breaks likely during thaw"
+      https://news.google.com/rss/articles/CBMingFBVV95cUxPYjczeEIzOENTMlk1NW14M01qeWZQSHg5QjBYWkEtZkxxZ3o2ampNeWVJUlhzMUdFalBTSGs3R2N1eHB3eDFkaTZsSmM2UElWMzF5ZldxS2NDY2ZYWEZkeHViT0tpTTgyOHdqb19Zb01JTS1fczM5Mkt2azljSUNSQUg3ODBwVXZjR3ViZ010bzNZRkZqbFhRZ1ZnZWh0UQ?oc=5
+    • "Nashville faces water main breaks amid severe cold"
+      https://news.google.com/rss/articles/CBMihgFBVV95cUxOMmFvd2k1TjZBWnRKajU1R0dlT0I0bU9aVnFRMk5WeWkyVEU1Y3BiUjdLLXQyNlJKUDRlR2lCSzRlY3VRbklXVHVzNjNLdUdYLTdDSngxVHR3c09LekNKek9XNm9jbno4ajhwRmJodXJGekd0V2lhaTBGQU5Xd0hkcVp4UHNXdw?oc=5
+
+  [Other City Service]
+    • "4,000th odor complaint against Middle Point Landfill."
+      https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzdObTZyamNhQXpNb09zQUJ0T0hCbThWcS01c2xuVEIxWEFWSmVkZVJMVTI4LTFBVzRjQnVRSER1RWxzZDc3ZVNTT0RRdEx4TjlDdDZ2LUxOWmVTaGNfSzhGdlV5bEdlSndQVGxvcWdIQU1DNW8zalJhQlNuTzkzMkZQVlA2dWNSUEc2czFfS08tWnVnMkZaSU9yR1RUYWk5eEEyT2p30gGrAUFVX3lxTE5ZSS0xSG5SVm9IdUZXNnpORjRZNmtrOHRBNXNzeHNsWDlWTm9VTkFuUExIdmNFNDFSdHR6X2tGNWtGbW9QSExyVHp1YUY3WWNnRUlIUEdvbWVkWjBTRHZRazFFaTdXckw5bnkzUGo5SENFQmhtckZBdUk3VEpqc3JRNkpXdzB5M3BsRDZXLURIUTJ5Q3Eta21ZVUd0QjdRWWtESG1xbWFqcTR6dw?oc=5
+    • "Nashville grapples with worsening hunger and food deserts."
+      https://news.google.com/rss/articles/CBMimwFBVV95cUxOMGp0b3J5elNrd3hGWmZEUndNZ18wOW9iMG1rUGVVNE9kalhaN0ZiRWJFZEd5ckg4dVk2OW8yUV9ySGZPOWlyZ0lBZ1kyT3Z4TGpuWHU0T1p1VkUwRG5ON3JRM1ZBQ1JqNi1EZ093QldiTkRxS29lOHJfNEplSVE5Q1l5MHAyaGNNUW80aThBRVktc2FTQklISWlwdw?oc=5
+    • "Nashville taking steps to lessen storm burdens"
+      https://news.google.com/rss/articles/CBMipwFBVV95cUxPdURJdEVZcmpScUtmb3ExYjZSZFVYeHd4aTA5aGhkS04xb24wemtQVmp0Y0FsSHBRMGlqR29hU29qcEozTWw3WURkNVJIZVVZcElKdE5zNE9mSTVfZ2pCemlxQnFwdHRvZGYtMnZoNXBsSzJkVlp5clVJQzlMczdFYU5iUUxBRlVPeUw3X0ROMHlkZHdqcnhleWpORUlPbGx3QTgySmw1OA?oc=5
+
+  [Public Safety / Crime]
+    • "Homeless shelter visitors create ongoing property issues."
+      https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaF9kWm0xemNvZHZMLS1DQS1qajEwSFRhZEQ4NTlybzZHRlFxanl2b3BoYk1tU1hvYUQ1WGJ0MTM2cnVJVFRRQVRLQUZZOVFPSzBHRVhJcmxUOGRJR1czUGNvc3ZqUzRXSFU1R0ZHdlk3WVpJS0tCVlBCalVVQ0o3VkNMeXgzYkN5YnAwcWZBNWFZS2w5Z190YnNlZGw0MFJJSE5ERkZqWUdTZlNJU0xXclF5UGlFYlNrdDU3WXRLRW9WeEhFcTYwSUh4Q1dpMzAxdnhNQmhNUFR1OThMdndxejd1U2VzN1cxeGsxUERTdDV1dw?oc=5
+    • "Rogue tow company unlicensed operating in Nashville"
+      https://news.google.com/rss/articles/CBMifkFVX3lxTE8wZ2VLczJ6ckMzdGo0RGFGR1Bmd0tYempUUkw3MnZ3ZGpheFFpV0dUTlFTRy1zQ21FZWlLUGUtQmFTZGFlaXRsM1hSZjNONzNDampCV0FBTTJWRzFZQlN5Qlp2OFN2SVVkV2ZZc3k2NjdBNjM2U3ZtSFlWRllpZw?oc=5
+    • "Driver charged $1,300 by unauthorized tow company"
+      https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWhWNm93V29VS2RGb002YW85SVVlSjZGNHd5TzhNeFlLSnlIOTZLOHluVmJUd09Gb0plbFBqMFpuVTlLdUZBN0M1N2JOLUlDdGZDeXBqamxFYlotYmFHMzA3YUEyeFcwXzN6dWhrUEk5eno1cnJGUjNyZkRodVJ3LVpPWEU4ZmRscEJfU09sR0Z1RkRh?oc=5
+
+  [Noise Complaint]
+    • "Illegal fireworks and noise complaints during New Year's Eve."
+      https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWFVBSE0tdkoxRkYwby1Bbm0tSEZGWlRQMnpjdHdwZW9ha0JJNnRLTFB1TnhjWUFrQXV3TVBkU0hGQ0E2N1JycDBmamJKeHg2eXNNdE1pWFVzOWx4Q2pwSVpqVzFTOW9HRnlXVVhJb2Y2TF9EdkF1aVg1WXRGWkl2RlRZa1oyLS1SQnYtd0RoMnNnS2lNQWJlMlNGRUhqYmduajRJb0swSnVUbkdvalFWeGJOTjZDMGR3SjFCLU5uT0t3dTlzZXpGcDhiNU56ZEpT?oc=5
+    • "Resident seeking solutions to airport noise complaints."
+      https://news.google.com/rss/articles/CBMiogFBVV95cUxNVlE2ZnVSTXNnM1NyRDdnVThJb0ZPY1pVOWIxbktWSHpKbjBrRlk5TnM4dURqRHkxYjNNRW9ONkNGQmJQV1hjNVJxTWRic2dGMjBpT3FMS2FzQ0U1alVZRVNweVk5eks2WGVlY3k5RGhPYUxpNEJjNWF2a1Q3ZHF2bGpfeVBZTTh4OHVNWVgtanluTE9tUzJkaXBBMjhobFRmblHSAacBQVVfeXFMTWp1Zk1TSGxzMHJyak52N2drd1dRdjROT0pVYWxrRXBDNENLaEV1QkNGR3MydDREYmstemxnYy1abkNtaVJxOE54MndGMEdlOU5Fc2drQlVkMmV3THJJMTQtOWo3aGZ1dWdQVUlpRWRfcWFydGwxaV9OOUNXVU02VmVhZGtZSkFMN3ZIc0RfVEhUX0l1NENWM1IxT1VFejhiYzVQMXo5dVU?oc=5
+
+  [Pothole / Road Damage]
+    • "Residents complain about puddles and potholes on city streets."
+      https://news.google.com/rss/articles/CBMivgFBVV95cUxQRm1CVHNRS0R5amRvVjNOTTByb3lmU3VWcmcxTHVYQm40amt0ZERESUM0OUhDTGZqREhCd2JCQmV2djQwUWpRcFRsOUJTcWt0YUFSVTFWYWt1bTkwMWlxdFpnV21LbVJKWVFuOG5IaWp0bU9ibzdMUkg5VzI5NXFxUEFLOTFCRUs1dGJLeDVXNGI1d1l0UWlxQURyVkhzUEgybHF0cVVUMlp4dkVzbGZTc3VIMUpOQjdGMFR6MExB?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Trash piles up after ice storm delays collection."
+      https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0VTNm0wck9EQkFKazRPY29xanR6djY1aDhLWW51TWtqYm15VXE5LUl4YTN3RmRSYnlUQjcyaGlZb2JJblhiUTRTSldkUXQ0aUlLU2h3dGdqTnBMVWJXNG80ZGhrVkRXeDBwVHlDOTJUcnBoak1SazRISVh1c2N1d1JZWGNULTJfVHBVNEtTRFJ2Z1h0VXIzNk53bHhod3BwZW8tUHRkOGNaWWJscDhhSkd2Zw?oc=5
+
+  [Graffiti / Vandalism]
+    • "Possible gang tags found in Hermitage raise safety concerns"
+      https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYXc3RTVReFI5QldHUkpYbzVWRTUwemxZd1VCMlhEUlNzQnFCU3NsODNYN3VJSEdMQU1ITEMwWmV0bXlDMWdFWlBRbTNzUDhMSFZaZVR5YU5jMUtMZlVBQnBxNDV5TUthZUc3bU9rVi1Ta2VBcThmY0ppTHdyVGp1d1BveHh4NUdGWk9KXy1ydTM2ZlFYYkR2eHhDclRRemttemV0UVh2YTNZWXPSAbABQVVfeXFMT3BScktpWTVCSmpkZ1pRa2RMRF9VVVhHOTRZZ1lFeVV3RV9rTjlvcWdYMnFvUmZfeU9MOFdZazRKVkltRlRob29DMUkwVm5tV1hJN1l3YWJCMTNSa2xtbndZcEh1aFNBaHNwUzEyQzA4Vy1lcDdkV3JJQXk2eVZrZGRsSGN0RzIyU0VFM2phVkNyeVlpOU1qd3JWWDB3eGdSUE1HM3pGaFFyVThxaThxZks?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 38 news articles reporting
+  citizen complaints about city services in Nashville-Davidson.
+
+  Top issues:
+    • Water / Utilities: 63% of complaints (24 articles)
+    • Other City Service: 13% of complaints (5 articles)
+    • Public Safety / Crime: 11% of complaints (4 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

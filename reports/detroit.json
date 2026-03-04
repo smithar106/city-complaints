@@ -1,0 +1,225 @@
+{
+  "city": "Detroit",
+  "slug": "detroit",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 196,
+  "total_complaints": 126,
+  "complaint_rate": 64.3,
+  "categories": {
+    "Water / Utilities": {
+      "count": 80,
+      "pct": 63.5,
+      "samples": [
+        {
+          "quote": "Apartment resident ignored complaints about missing heat",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVlcyT2NsV1JBSEhPSlNIZ3IyWThoZ3NHTFZ4dDJ0SkRoZjlWU0FjcndsUEU0LUoyTTIyTnJ5Ymc1QVhkcjFSdEk3SldwODFndXpGTUlXWXZTNVJCME9Ea2I2ZmVNQ0xTN19hSGNWWlRWU2lub2tsYzhwM29IRDdUTEx2OTl4ZXhVb2FnWWY3aWh5RG80QkQ3WjlMOEJCRDBySGJTbTFLWmNMR3l0QzBJVHFfRGFBNHQxRmIxNjFheUktUlctaHI5SjlsNW14ZnlUZ1hCV0ZlRFBGTDFTdzB3QVg0OVBUdw?oc=5",
+          "date": "Fri, 24 Oct 2025"
+        },
+        {
+          "quote": "Water bills surge after meter swap",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdVpscXZ6Q01XdkZISnVPTHBhSkx2RTB6TVNsdHg3WHM4VHR1QlhzUzNpSUR5MGZBYzdKb21IRVJFaVBzbnJBYmJjZ05VV3lCUGlOZXhBemphMGwydFhZMVpka3I3Nl9FejJDUEZDc3dNNWpYdU9rdElKcVZQbm1Mb01kREhRVVJMNFN1QTRjRFpTWGxJVV8wVTZJb2thdGRteHpsenlOQ1ZXVDBzdkV0a25vVi03bkszcVp1dEtkckwtUUU?oc=5",
+          "date": "Fri, 09 Jan 2026"
+        },
+        {
+          "quote": "Water main breaks amid cold weather",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVJtWlpkWEZXWV9qWTVWc1VmOVpjai1BbHBtS1VSYWhTcVBkaV9XT2lnNF93UWFTVWwwNVBqcGZYYkstZDZReDZsWEFJZ3BYa3g1VXJ6Q1ZEOVJzajFQc3I3SGZfX0NaSFlyZkluUEN6dlNyX2NmbkRYaGF4Z1lzZTFOUDJUMExqRnpGQnRqY25iVXZQUzNVNEw5S2xWMXgtQnRwN0FlRVViZEcyaGc?oc=5",
+          "date": "Wed, 28 Jan 2026"
+        },
+        {
+          "quote": "Lawsuit over lead-tainted water in Benton Harbor",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjRHMkN3aHhLbGlmSzUwSzVhRXFRYW5DR24tVzc2eEtJdDU3azdTX1pURnhXMlZ3UDRwUUFwX2ZTU3dLbEZjR19PVHpJbFJwVzBnaC1hNVFncHBpVnpHYlNqeXdMOEt1c3piRV9VMGhFRHZxbVFfNmN2NHA1UnIycUFyMGw1X1VGcENnZFNleFlSYjBRMHFWSkh6Q1FzbXE0clJTY2htYVlFdGdsN0R4Ug?oc=5",
+          "date": "Mon, 23 Feb 2026"
+        },
+        {
+          "quote": "Tenants evacuated due to power outage; residents without heat for one month",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xZXV5Y1FibUx5ZEFrbm1IQVZseTAzRlVWWE1ZcC1ibU02bC12bllaMklVbjNWcHB2d0JKSkRFd3dwUVJhREJCU3BKVGhSQ1VZc2tHazJLMEw4Wk5KOHFXZWc4S2xFZGEz?oc=5",
+          "date": "Fri, 12 Dec 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 15,
+      "pct": 11.9,
+      "samples": [
+        {
+          "quote": "City orders tenants to vacate unsafe building",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPREJVT19McjFxZ1d0bVg3Z2RXMWJmc1d5ZllhcjVaVFhOZ01XWTVJZVVMQjgybWtYQTZ5azlyS2E5aW1IaExQTUd3RTJZV0FlVVdncFBWX3o1ZkhLRWVqVDVQbGFQV2tHWEgyX3g0NWM3ODJRdlZoVTNxVG1UOWtvdU1qU0VkTXpTbnM3d2Q4Q2U5dkJ0bVpES1F6VkJWRG1Fd2xmYjdHay1YNVpwVjRINE85ZXU1cjh2NkpGdGdZanZiUHpkMndmajlrTF9jZw?oc=5",
+          "date": "Mon, 09 Feb 2026"
+        },
+        {
+          "quote": "Residents urge shutdown amid odor complaints",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdGtOVzJ6ZmdZVEdtOHdlQk5lS3JRZDBuQVA4cF9wS3c4M0w5OVZMVEJKM21PV2pIMlZfNnl6a0t5Mk9fbFVSRGlnOTh1RE5SS0hFV2ZuejhVbTE0azhycXllQ2JFSzV1WmpISWtMRkJNaE5ldHBHZUhybDBYc0hnUkg5Rm93MnlNUjhkd0tmVmVZTEVZdVVrbnlXV3ZCT1VnYVJsV1lndFp5TXcwajBLb1ZZUTBEODRWLWdmYmtkRlFHMnNzRFhwSTduVEg3UXd2blY3ZE5OVUJUWjg?oc=5",
+          "date": "Mon, 01 Dec 2025"
+        },
+        {
+          "quote": "Program targets noncompliant senior housing",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd2NVaVVYZzFSVjdfQy1PMmdRb3Rwd2M4WEVwX1RCbXhIcW1jY3hKQkRBai1JMzhmWGY5cktUdEEtc2ozUlpBQUtfcDBrYV9TZ0UwdkUyX2h1cXg1RTVyZmlOSjkyM3dla1diNkwzVlo2b0VCOHpyR3VMS0RGM2M5c3E2azdmQ192LW8zSm9YSm5wR3hCVWdkaTN1RTZaV1V6eGRVSnd1ellxa3FyeTN4S2piQWlqaW9COFRBTnZmQWVSaEVLU3VJUUhSZkZreC1pNXc?oc=5",
+          "date": "Tue, 27 Jan 2026"
+        },
+        {
+          "quote": "State city officials address growing concerns at facility",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOE1maWVBWF8yVmdkWTVPeHpKNTFvZnJ0MkV2ZW80dmRJTG42V0RSME1hZGowMkVUYklubDhTUlhySDZxVXhWRjBNYUFmbDhhdk5rcE5fUWIxWmRJRDRMaEVKWVpMMEtmYkdCczk3VUM4a2JkRVhOZ2JlYS1FLXYwQXpzU19ZelJZNDFxVUNodzkxSkF5SFN6QjdOSjlzWUZTUmVMdlBINFFZUmNpQ1FHbmpiRVFWMUJROWVQNnNsZlhMNlk?oc=5",
+          "date": "Thu, 29 May 2025"
+        },
+        {
+          "quote": "Employees expose alleged abuse neglect at facility",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ0xKMWRRVzlBQWdmUkxwOTZpWXRnRDczbFlSY0RQRGRUWTFMLWYxelVvMlBncU1rOG9HMjhZOG14YXVqSkxpclQzeW00dlF2UVRGNV9yeXg4RnY4NXZ2Y2g3NHF6RjFDd2dLQmg1TkhORjlUWmRxeDRiZ0pTb1BTT2NUR05zOUlocVp3RTF1Z3Z3YWw3Um9Jc3o3NkNJYTNzekx3dWxna0czVzJCcUZ2UFA4QjZRSS05SEdDTWxsbjdtZWF0R0FEbGV5MU1sQTdsVUlWb2NlOHlfeEktX25BRnMxR2JfZw?oc=5",
+          "date": "Fri, 18 Apr 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 12,
+      "pct": 9.5,
+      "samples": [
+        {
+          "quote": "Residents fed up with Priority Waste service",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVVJlNE5rcVk2RGcxTHpuVGZTak9KOGlCLTA4ek9ORVdLY3hueXNfUFhaZmRydHhXQXBQOEtnUjZOVTRsdDRHdFVBVTJMUEUzNGloVlNfR2FmSWcyTy1sZGhNSGg2bFhnQ3JQUzRqVVlWRlFxejd1M1dUZEMtTDI2MXotVGNYcDl5X2tjRXY2Y3FYYWJteHpDQlpabjFrSy1iZHlYRDhHekd6Slp4aUVrdEI5UklFQkt0alJGbl9MS1BRWFhPUEZv?oc=5",
+          "date": "Thu, 10 Jul 2025"
+        },
+        {
+          "quote": "Trash company put on notice about pickup issues",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbnJ3U25VNUd6aDZaYTFJMTVjeUtkNURRWXpyRjVfVEQ1VFhBWG1fUlZaNDk4TUkyZjQzbzlrZDF3TjVabDhGaXB2WnZtcTc0Qlp2bVRqeGxlMk9hSnowMVpsMDRFX3pMeUtwamQ3UXFUQktuUm85Zy1jLVBMUXRKclNiNmxMS1o2bTBvYXBEYUd1NDB1WW5Hazc4aXV2RTBMQXUxcF9uYklWako5dlREOWg3ZlhIZlM2ZG5OdEhuVVc?oc=5",
+          "date": "Sat, 12 Jul 2025"
+        },
+        {
+          "quote": "Township penalizing trash company for delayed service",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZk5GeG9LZVk4eDhrQnFnSFBhTm5LazJOb2tHM2dqamxsaG5oTEl0Nmc4a1loUldoMC1ob09sUmplOEk4X1ZzeHZCMzJOdEpMNGVTaXFjdjhSbmtybmJTVUJiMHJFbjBtUDlOdHlaeC01OXBaZ2lYVUJIckl6SVhjVGtfcktKbXYwSU0wbDZQcG5oRzlXcGpydDZZVF9LRmx2NmJjTGd2U0dXbGE2cnhMSFRkZklocE03Q2F0bDVHM3FwODI5emRfTWIwSzFwNURnR0NsdkRRdw?oc=5",
+          "date": "Fri, 18 Jul 2025"
+        },
+        {
+          "quote": "Macomb County issues notice to trash hauler over pickup delays",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcFJseTZmbF91VFdDRS1oU2FlQ3h4ZVlNM1ByczUydjhwc3FYb3BHQ2NqZkpmXzNsbXdxWkxZYmp0WEpHdkF3STl1Z2M5RTRnNGxpRWFSRzI4R3V3MEhtYm1Eb3FvdlNoVHhSV2JlYlpseS1iRm9KeUh5aVowMjNJZ181bEdiTTBJYm9ScGtSVm83a3NaWHVrdExqbk91WWQwMi1QQVk1aDB0TURJUlBPUDAzYjFWTzg?oc=5",
+          "date": "Thu, 10 Jul 2025"
+        },
+        {
+          "quote": "Communities still dissatisfied after Priority Waste's takeover",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS2tCemtSbGJRdWR4dkpaM2I0NHBlRFFGRzBIaWdGVF9SOEtvTFU0MlJWTjFST1Q4V0R6MTZwazMyUTZLV0xVQVE4LTFrN0hGdmZVQWlqVkRyS3RJUTU4Y0N1SWxlWjdpcmE5XzhRYnY2N0FDRTFTM0RjWl9qczNadlhnNW5oTmJHT0g5eVJ4bG50LWhoa3dEZ3A5VjNOeDhqRVZkcENybzR3bWw0U2dRVHBXM0t1d2pjRS1STXlLZEN4X254eTFzU2RPSUJhQXNPcXZEcWdwZEtlQVNWeUE?oc=5",
+          "date": "Sun, 17 Aug 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 7,
+      "pct": 5.6,
+      "samples": [
+        {
+          "quote": "City urges residents to report potholes after storms",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa1RhZzJrRW9pS0tsNWFTZHhYWEU4YkVtbmJjQU95eUVpZ2k4UjUtWW94eVJIUHA4bEJkRGI4UzhsVXN1aFNkV2pKVUNyVHZ3cWFNWjhpdllwa1F4UjlXbXQ1OWRLczBod0wwNHFWNFpvd3d6anI0eE5LV2l0alNvU3JUMXJnSHBYUkVCRzdQY3V0XzlMSlFQXzcxZ1FaMlhKU1hNXw?oc=5",
+          "date": "Mon, 13 Oct 2025"
+        },
+        {
+          "quote": "Michigan's pothole predicament waging war against weather",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVEx6MVJNRUVzV0twdmxleFZyN1pMOTFEMHBCWDdyWlA4RzB5d1Z2UmdWeExnWUVKSWxrTU8xT09uXzRxalVSREN5cEFKTlZfZ3hGYUhwME5Zci1oSF90SE05dDhOTXJ2T3JydkQ2S2VGb0plOEFqejlDNG0wSEVfc0pPZlI4ekhqQmk0U0RLWWtXNjE2ckNoRm1IT2dqcVY3?oc=5",
+          "date": "Mon, 06 Oct 2025"
+        },
+        {
+          "quote": "Michiganders can get cash for pothole repairs",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYm1pQlFxdHZBUXVaZXhRTkV6Z0RvVGNCUGVxQXZDdmt6eEZOOGNNaEItMVFvTGdBRnRFMXdGb2wtcUpWM3RId1BKYVFkQkwycXpMaWpDOG02bnItbTdCS3NaN0xFQlR6UWpxNnFja0dWZnY2cVduZDVGQlNWekR1UzlIdVViQWd6YnFyaW5KemFkcXlUY0ZjYV9QNHlfVmFPOGx2MlM4M2zSAbwBQVVfeXFMTUhYYmlTcDlNbnBhNUc3VER6UVZrZ2txTkpPMnd4Rk5JX0QyQldZRVg2LTljdXR0QVEyLUF6TnhWSUFwNUNqbDU2Tlh1YXBhY19qYUhnU25RZWJRZ0xaVkFOWkxOUFh0TWZ1eVFfTGlfTVhDeVBya1BsemRpN2IwZ0tWWDRfZXQwYWZOMGJkc04xWHlLWTlOVEZSd3FQdHJUTjlmTWxEX2x2c0lRX3RzQkE2cl9FLW1QdUJHRHo?oc=5",
+          "date": "Wed, 02 Apr 2025"
+        },
+        {
+          "quote": "Pesky and frustrating potholes in Michigan",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVhSOFRSOVJBUktmVzc0Znl5VlpzZ29ISGo4WDBCR3NtZC1razRYdlE5VFZSRjdfS2JzZ3BpX1Z1bGxCaVU2Rm1SUlBSanRnckVJWXQ2dGF0ZVdlY0lMMFJ6Ulc1b05seHNvRjVBczZyYzdWMGpEWDFOMDFHbk9aTw?oc=5",
+          "date": "Fri, 30 Jan 2026"
+        },
+        {
+          "quote": "Houston has a pothole problem",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjRSc0tldDdCbEtpb0JuWV8ydGx1RWlwby0wUmxoTXZNYkFUWU9wYl9zM3JnNEtwVXFaV1NEdFlKRnlPQ2JWbnhVdVJaQUdIZE1qbk00b21jRmpfdWljWXB1OEkzNTBKM1BJY0dyWGhDOUhIV2V6aEJDb3VlODVHWC1LaTh6LWw4UDZKdG5VcUc1V2UyeDR1U1BGX1RidWlzeVlRREZTTXg?oc=5",
+          "date": "Fri, 26 Dec 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 5,
+      "pct": 4.0,
+      "samples": [
+        {
+          "quote": "Police face scrutiny over use of force",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWjJrdDkzUGF6V0NMUHhkeUdWakJqS0kyRHhUd19mb2Z4Z2pORTNyMmtUQVpNbmxGYWpVa1F3aHl6MTJ3WnVqMHF4eGVlcHpkZlYyX2dDcjdaLXFwOU1jWC13WEdNQ2JWdmhJWVRuU3F5X3JBY3NVRGlqeTEwS0VjeW9ZSUtuVU9LU0RXUktuRmt5eUhwRFpWNW85S3UtX1VEMnFOSkt5d2NxOEhhUVJTM3hNTjhFOUZzRmJZNWlkU25EX1pENGxsbGhTR3hxbm9VUkJCYl9xY0ZMXzZEbk5PV0JGZ1VXS2Vm?oc=5",
+          "date": "Wed, 22 Oct 2025"
+        },
+        {
+          "quote": "Oakland County residents report increase in coyote sightings",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZEx6ZjRDNVBsNzNlSzlqWElINDdzME5jUkhzZVVHN28xQzFndno3T05WSW0yeEZIOFV1YUxlT0c2SW10b0xFNDcxT0xJQkdtNnNEMkttMUtaWTFWS3lJb1NZMnFnVEF1WjlGWTR2U1RpcXVEc3FPeVdrOTlIVTdob19YMUZaZU5jOXM4dWxZLXNHMUctSzROOE96LVFRMXJobVl0UmVGbEpHemYxVTBIU2h3dHU3M2FMXzhKaWxlNFVKQQ?oc=5",
+          "date": "Mon, 08 Sep 2025"
+        },
+        {
+          "quote": "Mother raised alarm on shelter safety issues",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaUdxcWVWX19yMHhtc0JndGRxMWhBMFlLZGZTWldfWVd4MGg3aTBWTmxqTndMeG5aNjZkaWgwbEUzckRaZUpVUEhqdlI5Y1ZXcjZzWXFGV2xJRDA1RnNmRVBDalN6RFdtRGI3LU14VjhmY2toel8tMlF2ZG1qZWJIRm01YWt5aVIwSG5adEVPWUFHY3JGX05Xb1NLaVJEYkF0X1hCTVpvaUwyWEp0QXlOZDlKenp6aFJLQXdfYVA3Q1NaTVhPMmRXanFMdS10NHUxLUJCT0RQamVMempGNzNmWGdkQWs?oc=5",
+          "date": "Wed, 31 Dec 2025"
+        },
+        {
+          "quote": "City must act against Aevitas oil treatment facility that caught fire",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yQm5MUjFkNGpiUHJTbHZOU2Zha2lldXd2MmVsa3FoUTdza2hZNVpTNVAyY3pSbnIybzctZEVUeVVEcWs1VG5qa0NPUFNHbUF3dWk4djhsMk9HbnZLbUJ6UExzYS1xbjhtejNfSldfZ2VBZmk3?oc=5",
+          "date": "Thu, 30 Oct 2025"
+        },
+        {
+          "quote": "Hit-and-run incident raises questions over police response",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUHFwaXBFYVZHazNaWW9SLVJxOUxCNnp6dEtDVHRhcmtPUlZ0VUdFS1Fnc1dwSE10Q00xQ3J3LXpQeFp5ekx6c1JEQmJGc2c2Q0dmZGoxaFZWVGVGcGZMQ096OTk3OUNYRjhjc0swOW5LNVY4RFNWbXY2UURCOUJ6dGhZdUpFS09wMU9LSjJjN2xERk01cTY0bS1CUHJoX2JCN1UxWG10WFp6SUVDeUlBdUdiamFjN1AxZDMxcEpqTGpMTm5qanc?oc=5",
+          "date": "Fri, 29 Aug 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 2,
+      "pct": 1.6,
+      "samples": [
+        {
+          "quote": "Residents report nauseating sewer-like smell on east side",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONlRRZ3RKdXEwazFPelAxdDdFRVZoYmRPdGQzenRIU3JaSEgtWWhwSmt6MUlrUEtSZUhudUI5YVZrM2ptNFdDSENxMEw2MjJ1NHVfSThfM1ktd1VHOEFhR0dueFM2ZVo5emVjXzlJZGhPYlJtTjRZdFZ1VTI2bEF6V3dfR2VCY2s2X1hXQzQ2ZEw2T3FmS2JUQm9qSFBuemZfN1lvZVF5NU1VZVYxZGFaUHJwMDBlSkVqMllwLXZIU091UFg2OTZXVGRuWXM4R2pOd3Z4QkpFanc?oc=5",
+          "date": "Fri, 19 Sep 2025"
+        },
+        {
+          "quote": "Constant flooding on Detroit street has residents fed up",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOEx5MHhtUDNod3pnOThCR3VHLV9WMnBtTU9JTHBWU0NsN0ZwRXVuNnpzcWlDN0xYNkxhUHdMOHVYTWdZeTN5U3NidHB5ejF6OGFkdi1GWS1VU0FRWU9RdXllVHAyRzFRU0hUVFpUcno4cjZlbHdGOTBONmt5UnNIbVlBTzNlc1ZtVzJKbU1oSUs1SEp0ZEHSAZsBQVVfeXFMTkp0X21zZldkNVZwS0trTTdDQlZrWVhpUW1HUDFYVEFDNmVsRXZyZ1VsVmlYTmFQZU5WYVpaUWNvblpXNEJvUld4RGI1OVVMYWxZTW1qN2pXWjRwd2xpSklHZXpKb2FiaE5BVExEZkJCYmV3bTIwVGMyalE1LWdtMDlmY0RiWFJiblVaODFmbUdPMHAzNzUzbmE0R1U?oc=5",
+          "date": "Wed, 09 Jul 2025"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 2,
+      "pct": 1.6,
+      "samples": [
+        {
+          "quote": "253 police runs; nuisance action against sports bar",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNckZrbHpBNF9DdU01VjRmWTIwNlhoUjRrQ0NmZTN6akRoWV82dzNhY3BMRy1zY3Rsd0FoQzRRa1dQbW9aNEM4VGI1WWI1UVdmU084bHJ5ZjM3SzlkdFdBV3VIc2NfTzZvZWtnWk05SlBrWXlPTzBLd0pXUUZ3ajE5endMYmxabHdMUkJtRUhWN2VPVVFSb1BsNnZCYzBKWWd4UzNxLTdFVmoyN1ktTktDZkpxcWt1NnVVdHhzZTBUMk5DTjNtREl5R2w1MGlaLVFGOXRnM2JHWmt1WWJzdGZPX2Z1UW8?oc=5",
+          "date": "Mon, 12 May 2025"
+        },
+        {
+          "quote": "Dearborn residents raise concerns about loudspeaker used by mosque for call to prayer",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcEZJMkdTSUhGRVcxcXh3MHJ5TFE0T0s2ZHBsbzFlZ1YyWUxTeXBVOEp6WkNHaGpGTTNDVGFpV1pPVERGTjljM2wzVW1UMWx1Yl92dzBZbDZFeEcwOE5iNnh1LUtYc09raVNGZVlOZmZlOU83TlBuRlowMGhLN193SU95MVFueFg3bEJlWA?oc=5",
+          "date": "Wed, 01 Oct 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 2,
+      "pct": 1.6,
+      "samples": [
+        {
+          "quote": "Park revitalization balances safety and community concerns",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2o5eVZpWHp1VmNQOVV5UzJ3YTVzQ2lWVTVreFA3bmh6bkRsaVpScHBUR2h3NU5Bd19TMktHd2ppaUp6NnhlNTJVUlJBdGpnNVNMUXZEbXBtY0hLZ1hOakx5SXYzclZYb19WaS1kem0weHhncmctVGYtaGRaTDEzalY1Ukd3cWVkVl9QQnc0alZuVHFRckRXeVlMMVg3VndZcEJHcmpIcjQ1M05uM0V3?oc=5",
+          "date": "Tue, 27 May 2025"
+        },
+        {
+          "quote": "Clark Park revitalization addresses safety and community issues",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TZE5XamNUczNScEVZZFBZY19XRGVuWHltSUtqZjdBSHh2MG5SYWYxNXJPX3MzV28yODZuUVJKT2pyeTAwQm00c0F4dlkxX0htbUtIMW43THk4alpEcXhCTjlDRUJueHdocnU3YjAwaWZ6U1R6b0xYeGR3?oc=5",
+          "date": "Thu, 15 May 2025"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 1,
+      "pct": 0.8,
+      "samples": [
+        {
+          "quote": "Streetlight woes persist as LMC gets over 1K plaints",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUXRwMHYwWUxzWThKTGtpVnNFSFp4anlNZk93elpsUEhNZGFvTnN2Y190TWptSENWZi1HNzJhRDMxOVdqODAwNHBZXzlHRGtubVFrS1A0dFNXWUFicmZMQ1doQ2xqSVJVUU9DekEyQllyX3lHZElLSmNNRER5UndOb0VBUFYzT0Y5ZlU2LVZwX2x2eFVmMW5hdEo3cTQzSDJEYUNDUW5CWnBib250M01QOFFiVU4zWnNXSUFHSzNsdmpVbjMwQnfSAcsBQVVfeXFMUGJnTWJqRHZOZFRzZGtLS2ozbWRaVThld3pka2tKN2o4TU1CMjlEN3F6clVRU3VZYTc5QlJJRUxjTzUybkJGM21WMjR3ZE1WLXVDbUZKSGJFVXFhTExXSWdhQVkxZVp5ZHdUZzJqOUJ1cEJOVEh4cUVVZWVRUUNWN1ROa2RmYzFxWW02T2dmRmFOSGZmaEhkb3JnYkVJYWN4YmdnVVoyS21nODI0OEZXYVh1eHBNZTBLaUdLTXNYNTlqcENCeVplOE5rYjg?oc=5",
+          "date": "Tue, 23 Sep 2025"
+        }
+      ]
+    }
+  }
+}

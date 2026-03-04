@@ -1,0 +1,143 @@
+{
+  "city": "Charlotte",
+  "slug": "charlotte",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 62,
+  "total_complaints": 36,
+  "complaint_rate": 58.1,
+  "categories": {
+    "Water / Utilities": {
+      "count": 22,
+      "pct": 61.1,
+      "samples": [
+        {
+          "quote": "County concerns about city's water service",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeFhlRzd6aW1MUndkTHBtdnh0b05OWnBqbl9HVnBKVWRYNHVkRlVWQmoxTWN1Uk55Slc3OEpqd0YyUEtjdzE2S2FuczJyZ1BoeDVKeUVlRmQyZ29KVDEtS2xkLXNWbm9Hbk5aRDVleE5ZUkN3V0RLaWpoMHN5TzhDZkM0WUdqbnExU3RnR25QYkZfS1lMY0JfdzVDSHJySHhGYVkxRk1QMlh2LXJTLTNqTjhLNUVNYk11TnBiZHJPX1BFR0s3YVBYaUZyUDhHWm51QjBfZVEwaUtLVktzdVBiZHpB?oc=5",
+          "date": "Wed, 10 Dec 2025"
+        },
+        {
+          "quote": "Residents demand action over foul tasting tap water",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnFZLTFqVEFVRnZYNmVRQ3NCdm1QNW50WThvaVRQSmF4RWFrVGJROGR0NGd2M0RtY1lXVU80NVBoUEliand5T2hsTEZDek5LMDVJakJxcWRLRGllNzhYcndBc29JTHFQTDFYUWZMRU50ci1tcDJGTHlKZ0hPa0s5dmRkN2l0bFduQkt5Unl4SDNJYmFfQXBtU1dYU0tsa3l3THFPalR0ZEVPb0dBb2dXM0RvaWZXa3hJbWc?oc=5",
+          "date": "Tue, 15 Jul 2025"
+        },
+        {
+          "quote": "Water main repaired after week of outages",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1BZdHRTZDJlWUVaa1VSZzdacDcxQjRvSGx0ZDhGVnZLRW96VXVzazcySms2akZPZ185WkZFUUU4M3ZpOUo2NU55ZzItekI4RVpvU0QzbkI4bmNXUDVPdG4tS2V3SzNldEt2bDIyaDlWSFRvVDJxTDJITWtsSVA2MnFIYVNyWEdVS01naHFuVDlzWnRjb3ZyOGRuRWxqeUZNOTZwMTVFRGJad0ZRUUtWMmkwT2lkbjg1cFhNVHFha2s?oc=5",
+          "date": "Fri, 07 Nov 2025"
+        },
+        {
+          "quote": "Water main break floods east Charlotte street",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeU1JbWl6ZFdHRjJhcVJIZXoyRXk5M0NxcFRhM2RlVFN2bWN2OTVYb2djUmgzZWg2NmducHBtWVl0Vm1yd1VUVzJubFZXaXNWZ1Q4ZmU2TWEwQWg1cVhrRmp4T0dJX2xVY1g1YVk1VkFtVU0xYlpBR1V5QkloUjUyclVqSURIb0JSSGkybTkxRl8xQlRvVHVBZll4THU1eXpyMG1SOTFtZHk2cFN4OUVYN01rTDJKaENxbXNpWmpOYlIzVW1tcm5Gc1FvSdIB3wFBVV95cUxQZFYwdTdUd0RxRmlNU21RNmJyOGJHNDFLdTh0YUxOSGdRQ1NRa0hkTVNJWVQyZkt1emFqMEhQUm5ORWFqWmZJRFRydy10OGQ5Wm5BZmtoX3NPcHZsUVpEQkVGS2k3VTVQNkdXdXd2Z0ZZam5Sc3pJZDU0djRzNGNiN1ZKSFVXTHpYajgyUDM3XzlPMmVDWVlFS002bGZ3amZ6TDBjbjhEQUFPbVVFMzRELS1wdGdUU2tlZlpFcHpvaHVuZDhuX0ZfVzd2d1VkWlZEZ05jdFBSQW9wd25RMzEw?oc=5",
+          "date": "Wed, 23 Jul 2025"
+        },
+        {
+          "quote": "Water main break closes stretch of Highway 51",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmtOT3ZZVVR2NEtZeGdEeTFTU0Zkc25BcTZEc18zSTZ4a1o0TlpOUzFWZGtST0twMmx1anlCRUdBM3BTUWVnU2NWLTY0RXN6d05VcTBMOG5LdHhVQmZZYkxMZkVDcnZpSmwwdDZYZU5CX1IyS2Jva1l1OWIzeHJZR3pKTC04eFZLS0Zjd09sWHJPc3lTUnJmcWhtbEJiLV9Na0R2MTVTWXBJWFpHTWp0YW0wdXFvdUJpTEtPVUZ0T28wZzlUd2xuSG9DdTQ?oc=5",
+          "date": "Sun, 25 Jan 2026"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 6,
+      "pct": 16.7,
+      "samples": [
+        {
+          "quote": "Homebuyers report water flooding damaging property",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWlN2Z1dLWDdPWFJkOHZSLTg4R1ZnTjBob0xfbDYzcDJmcF96dHFaNVV1QW1kUUs4T0VfbVJ5NVpuSzhBaS1iNUo2UW1ONGhTZmRnUlplbnJadUZudjUtRTY1NGdpQVJMRTZ0bFkxalZaVVczbUFVQWNubDVCVUxHaVQ1emxndlkyZXM4?oc=5",
+          "date": "Tue, 06 Jan 2026"
+        },
+        {
+          "quote": "Residents demand action after unprecedented June flooding",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQnlOZnAtUGxNTkQ4VGJtWVZ6Ym5QWXBORnBlTU9yNlhfMHRlSEtrZjI2TUo5ZUFuQld1YTBsUm1ZVFNNRkhzY0VqYVpLU3pMQlBKU0xnalR6U25EbUtCVlhpMTM0M0xxRU9QNWI5RDJUUmZycUU3eV9MY3o4ZGp2UU1IQlZaQ0tXLVhGdXBFVFlHZGpjRG1zUjRJWkpzVG5zLWZQSHdLOGRCZXNxdlY2NVY4TGttTWI4YWkyRzNSRk1VTWl2RTZ6SVpBbkxxZnNZVWc?oc=5",
+          "date": "Thu, 10 Jul 2025"
+        },
+        {
+          "quote": "Wastewater overflow impacting Lake Wylie area",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMEtrQ0N2NmNvYWZzVmE0X181UDhGbTl5QkJsdzI1WnRIcFBXbG1ROHNNYnRLZTN4UVc0ZVdZNmNEckthUldNUkx6UlpBNW12WGVRVEl1eDhlM3RFbWMyeGpCZTUxdjhRN3N1NENOOHBjczZaNHg1TUlka0Q1cUdSa2tDZkQydU5OT0NSLThuVEJzZzdtQTctQVBld3RzX19jUy1VSm0wY2c1ampmSmNHUE9sQk1MenZrTGJTTGN6ckpOWU1kenc?oc=5",
+          "date": "Thu, 14 Aug 2025"
+        },
+        {
+          "quote": "Sewage spill in Lake Norman",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN0UyV0ZVQWF6Wk9USkZlQzFDa2lhN3lHVG5tNWxFbldxRy1TRU5PcFh4N0Y3bkRsemlSRE15dmRrV3dBNF9oNjZaVm92WjZjeUxHN1V1bjNWS01ROXNoVmo0OWpoVEo1V2E1VWhEYlJKVVVFR1VKZnNuMkNNX2Y0RmVsWUNnR3UxR24ybDhfTG02RExkZTVjWHQxNlZKc01XV1VJemo5WllIZWNWQ3luWEEtUnN2RzNYWGxNWmYyNHc0aFE4Tk1wX2s3ek80U28?oc=5",
+          "date": "Thu, 04 Sep 2025"
+        },
+        {
+          "quote": "Wastewater overflow in south Charlotte",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVURSanA4N0pZdzBoRjhaU29tMTBmbi03ZmtYX3p2ejlQdjh5RlZOTjVYSEpqb0JTdWV4SGZHMEVkR1NYNjZXV2hLNm10NmVWWTJScERmb0p3LWNoOEFTMVQzR1l5YTRoMFJWeC04X1Q2RE5XbWtYSUc3X3ZKU29YOFhuMVRWUXdvcU9TYkJvb0UxUmNVOEZwQ3VEQWJ1eXc3WWZrWjRBS2FvclRzcnZjVU1pQWpDRGJzRTg0WHBKMNIB0wFBVV95cUxPWDZyMHJab2hHcm01QkRqR1ZEcWRKdWQ3c3BYQ003dWRnNHVULXBhVURrQ01zUFZoT08ybVgzOXpqcTd5aXdzNTBlTFNaUkM4Umcza0hkLW15emNZa0NacGF1dTZsQ1pxS2NBeEVrenNqQnlXdFlwMGtEcU9ycldSQVYzanpvLXNXRjdkR2tYRmVTb3paMmh6U0JzVTRCOVZ4aEkyQ1U5aHd1MFFQSGJ4d2xhZWtVYldFNjZ0Mmh2anpxV2RKS1E1QzBIMWI0b083a1RR?oc=5",
+          "date": "Tue, 13 Jan 2026"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 3,
+      "pct": 8.3,
+      "samples": [
+        {
+          "quote": "Red dust and rumbling trucks disrupt neighbors' lives",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSSXhpRUdtbWhSODRDdUw1Y0EzNjhvU3pBcFpjdlJmOVJMU1htbFlpQW9LeHZrOGRTWU1XWDU3SDVfYlREaDM4blA0V3I2NWI3bzZnbnpMaVh6dTVLVXRzWjhRcmNIY0dYYlBZSGtRZjVCTThsUGtQR9IBeEFVX3lxTE1BaFloMzFmcnRfMlBnaWZqUFBFLXpvV005dFdJb0dZMjNkTHplMzFLT1FiVE9JUVhqTHI0ZkdMOTVoMXM0UmxfNEN6cFdoczVRS1hLTTNBR0Vaek9OcG5LSnhjUDdjU21VVXhXLUJxbUhFa0VnbEIxUQ?oc=5",
+          "date": "Mon, 03 Nov 2025"
+        },
+        {
+          "quote": "Charlotte has the worst DMVs in the nation",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96TDFKMDJTdzA1R09YUkM3VVlFVkRaSDVMNVhBUy1BODNXa2lBNTYwTHVETlFpM2ltMzQtOGFlbE5TaS13NjhGY3lSXzl6YldSZDZHQlhvZVlKbXdPdmxqSEtvcG16THVfU0stOEVMU01pTlps?oc=5",
+          "date": "Thu, 15 May 2025"
+        },
+        {
+          "quote": "Exposed, rusted junction boxes line Gastonia neighborhood",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeWFDOUFlaUNGUktvTlhWSjhBMEFIYUZRUWZKbVVlNm1ZM1F0T2hjQ2stYmdlbXZKcThfcEFsT3ZUTy1mbEd5RXcwTEU1UkpwZDZtajZJRmVvUjFaSTZyWlVaRUtEWThKYTZpb1RJdnk0bVdlTlZRNnFCaDFJTWhzakJ1SEhqQ1RWajlPR1pHSnFxNV9BZkE0OTJWZ21iczlXZDlUODd0LVlsTnM5VTdOREJQcmlfTUhROGZVY3VrT3FmSGdoMEczUTZwVjd3d2dwZVdlMjhCeS1ScngwMjdZTmtNNkMwOHdyT3VHR2NQTktRY2MyLWloeFlQQQ?oc=5",
+          "date": "Tue, 08 Jul 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 2,
+      "pct": 5.6,
+      "samples": [
+        {
+          "quote": "Potholes worsen across Sheffield streets, safety concerns",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNzZzZVBXaXNJQjlYQTlyZGxHOVpLSUdYQmM2Zl9YUDNHYjc5TU9MUTRncElVUlJFZXBhMm9haEZFMTFiRm5PWE5zNmlfMGM4LXlLXzhaeVYybVo1ZkE1UnZmZXdueDh0NVRKbktvZk52TmUyZHRieDAtc0trZjdIbG5SMkNTNWhObTMtR2F0VkpBU0xUMUZFeVNuMFRCSkxlVktUR2NZTVhBUk13S2RpQnVVdGZiQUUzM1JtRzQxWXBILWtjTkdZdWc2d3ZEUQ?oc=5",
+          "date": "Thu, 12 Feb 2026"
+        },
+        {
+          "quote": "Residents protest road conditions with tree planting",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLVYwMHNTT2R2WTVkMGhNYnVFSk51NWVOVlIwRTFHME9kUS16ZVJQamRPdnIzbVE3ZnEtZHI4QWdVZDRXOGV6M3IybWsyS18xQTN1NlpiRTgyVmxDM3I2SWxLd1VsVTlidDIta1UtM1pDQ2lYTFpKbGZtLWlaZGIwWFNjSEMwRC1mMDhhODZPQWJVUG53cjVDbDNVUUI3TTd5SHBVZTRXdE9iQ2x0ZmpWS2s2akRhSU9lRGZ5Q1k3OGxuTURuMFZqVWprazFGenJEMzNRLTRydUtjdDFtVUHSAeMBQVVfeXFMTXRfb2R1eWdYcm8xUFpvMHYzbTBtZGZKX2FPU2xPMnNqRXZheVdiUTFHUkFiYWcyRlFJbmxUVTFueUhnelkyOUl1b2M1NnAyZGtiWWlabVRLZTZlRnBCV29nbjJmU3dXUHFDVmdlTGlDUzVfSlA5U2xQTmd2TjNXX0Z6WkVxclNDTjlKZEd5WDhTODBpTFpIOE1kMkNfZmo3VUlXb0tZR0J5VFVhYXItWG5wRVZERkwzTHd2YTBzMXlKVFpNWl9JR3J0S2VvelliRnZOdXI5OVNqWUNfckxOUFJJUW8?oc=5",
+          "date": "Sat, 12 Apr 2025"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 1,
+      "pct": 2.8,
+      "samples": [
+        {
+          "quote": "Streetlight complaints up 41% in Ahmedabad",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ0RrNzRvMkJIN1ppYnpsRm1mN1ZGYWZPTUc1MFpycVpma3pwbkxMRThmQlVYajJRa2gtaVIxME9rd2ROWnpnN2JtQkl4OXJSZDVaTTZPQ0VLekNqVU5ETzR6bGMyMjV5Mmo0Tzcxa2tHZHg4d0hRLVZQQlRVbW5oRHFGVUliclUyYlBOcVVndDdhT3A5dDhGRU9TaEY1ZXN1VW4tOHFjY1V5QVh0Q2ZoVG1nWWxGLVpCbXFUWXY5azJBUlc3eU9YbTR4dkkxaHItb3Z2aG1GVTJxOV9OWkhETlZIQdIB6AFBVV95cUxQbzBCRC1RZmpSSXd1dDN0UUtKdUhKR1VjRXNWRmlscnluWTBUZmZjUTk0eDl4MG5FNjJ6UVRkMkk5OUxTT1ZITjRaWlR4ZFhpVjhKaHVPSHI3ZVlYVVllV05Qdk0tY1dFUWRtdC1ZelhOQ2xqUlV5X3BCY08xTFFXRTNOM0JraEJRS0tEUkRPNXpEcC1OWlNTS0FWVzBxRVZSa1h0eTJCT2ROR0lkd25FYXFyMGdsS250akpfWGl5eWhTc1kxVTRpWUZVRWt6bE8xaVg1blJSTTFhSDZCemFXQm9zbjFHS1Zl?oc=5",
+          "date": "Thu, 13 Nov 2025"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 1,
+      "pct": 2.8,
+      "samples": [
+        {
+          "quote": "Car show driven out after residents complained",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NTEVjLU9JUzA4TXpQbVdVRGJQdUtmNk8zQXZBQ29mY3VRSGJTb3MweXpTeHBzcDNsczlzbEd5SkRLSnBhV1dscF90dGZ5QzhTZkNFUVYzWVpBY0YxSDI5a3lLTFdoS3ZObUV2MlJja3JBYy1u0gF0QVVfeXFMTlpZTUVsMV9YM2diNmVteEM1TVhxLUgxM09PenZVRjhPZEs0VG5KdEdtZmpMZUxaSTVtTTVkSUNRNHo5UkNDRWFrNkRJdC1hQkJIQVJ3S3FXTW5LNTJUTmpLdmY3Ni1WVGlrRklJcWx0b0s2Y2o?oc=5",
+          "date": "Thu, 23 Oct 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 1,
+      "pct": 2.8,
+      "samples": [
+        {
+          "quote": "Pickleball fee complaints don't sway council decision",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaklGRHdYMlMzVnZGZjYwdjQ5Tml2a1hWWC0weXlobkw4R28wdW9oVnpxVHg1cC1GVzJ5bDlFYUZrcmJrSEtjUW5ZMTMwc3dQSm5UaVdGSnZJTkhpRUhVVlRvVTlfV3FIX3BqMVhOaW1QRjdKeG5SWndfa2tOS3ltdXJ3d21sRVNJcDJyaEVGcUNtYjJ5QkRqb05BaUNDZFlfSnBMSy1nT19XS29ndV9ZYnVVcnVsY1VjNTRsYWJWNF9ha2JDTlZ4UGktMXJCbWtENnRuYTl5RGxUeHdCNnJqWTM3WQ?oc=5",
+          "date": "Fri, 05 Dec 2025"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — RALEIGH
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 73
+  Complaints found  : 43
+  Complaint rate    : 58.9%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   31   72.1%  ████████████████████████
+  Other City Service                   5   11.6%  ███
+  Trash / Illegal Dumping              2    4.7%  █
+  Public Safety / Crime                2    4.7%  █
+  Pothole / Road Damage                1    2.3%  █
+  Noise Complaint                      1    2.3%  █
+  Downed Tree / Debris                 1    2.3%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Attorney General sues over $200 million cuts to water, sewer services."
+      https://news.google.com/rss/articles/CBMitgFBVV95cUxNNTRaTjloLTJ4TDhJWnpBVnlzcGR1aFVfclhrZU5jcmh0RG51aGFLcjFLbUllMk5aV3RFak1UNk43amRUbURDQ0FsQXk3T3JfOHVyeDQzMGxhbENlb3lSa21oUjRib3FWblFrZmg4TVBsWGhEX1RxUDFiR0IwcE95TEoyRUc3c2wzdmZfYzFYbGZmaWJRYWdOdHY5ZS04RWEwMUJZeldvcUZORm5iMk5MX3ZUQ0RQUQ?oc=5
+    • "Residents claim price gouging by Black Diamond Power"
+      https://news.google.com/rss/articles/CBMiogFBVV95cUxPTnYxZUstX0dGOTNVa3lBWThORDJNZ0NrREZFa290SG8xYUlpeUxaTDlYRFBLT2pvakdLVGx6RDZyTHNoanpCNDRjOGZTQTdZU2pzUzBzdmJuamlNVHlZZUNUOUdNR1Q3OU5zWVFLVzNBNlBfak5FSE90dllwUjZaRlBjN0J3a0dmNWVhMUJaY3FyVndVOUwyZlg5NVRzS3IzU3c?oc=5
+    • "Raleigh residents ask for answers after spike in water bills"
+      https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYkhpNzhTbDRnSF94S2gyOXlReW1iY3hVZE1WbWpFcjBvZXA5NGo0QzBwZzZUTW82b3ZrNFhHblBTZkZ4eTRhOVFOeE56TE1JYjM4VHB1MXZadXdoVWUyVGpVV1NkSVpqX1d5a3ZkenF5RENLYXB2Y2IzTS1GYU04NEZQYzlWa3psSmZB?oc=5
+
+  [Other City Service]
+    • "Residents protest civic neglect, waylay PMC chief's car."
+      https://news.google.com/rss/articles/CBMi2gFBVV95cUxNel9FNndjbUgyMVlrZkg0c0l2YWZrZURtUTY0Zng2c013TVJocUtZMUF1SmZ5ZW9fVFoybHhrUXUybHpUdF8zbnFFUzA0UG9GVTJabGtENlRveXBSczNDRFZHcjFPaVBaalVMUzI0NXpOZGVKQVpvbGM5ZlB3cW5WQnl3ZlFJOXZkZXZsRVc4M2Q3S1puX3k2OXpKZTRqVXlkSXZuRzVpUXl1T3FLWENtdy1ocFZNcXJ2bV9qSEhlWm1mYk4yS0RPSUNaZ2ZRSnNtR01QMXFGeWpoUdIB3wFBVV95cUxQWXJUYWFteXNpSDhtSG5Wb0N4OElXNmg0WlQ1VjNQMzJsVEllZS1KMmtnalRqZFdhTTJjeHhqUFpDaHNkblRHRGRxTFNGcjNfbklJS2poSjlwd2l3WGJ1MDRPLUdicU9BdkJpQXNaWUM2eV9LLVpvcExzNWZuVnVFcnFlOG82TkczTEV1MWZyZnlOZG1BNmh5Y210UlZaOFJ0WWRJUVVzbjc3OG1uRHY5TTdONjJLREw3Sks4NV9pVWp5QS1vZjVWc0JYa1dSWDRpZ0Z3Z1pGRTVOdk95Rklj?oc=5
+    • "Memphis 311 call center overwhelmed; residents face long waits."
+      https://news.google.com/rss/articles/CBMioAFBVV95cUxPV19OcENBSDZyVlJXTUJna05FblpaRDhEd053MVJGdGZYc0FkREdEd0JQMktTVlhoNjVyUGNDUkJncUxPd1lOMWdoWS1neDBsUDRaakpZQ3R0QlBSdWY5dVRUMloxVGtoODE3Z2ZGZ1lJaE9YXzdsTHM0Sm1ybmlRMmNhVExXZHc1ckI3ZWpnVW9yYnZvNjMxSGJJeHFZaks40gGmAUFVX3lxTE5QaFAxUVFPeHdSSVpfREw2dHhlYmhtdmowZkMzWk5CU3oyLXFDMFkzcHlUaXdKLUxwNXpHSVM1bmtvQmdNeTlBb2UyLW1TbUhEN1ZnX2VVM0FoaXVlM3c0S3hQckJqdlpkNzdtS19CQXdOZXJxblNDbS1DRjduNXhfUGYxbVZFaFVRcHg3eWVaMmRrT2NzNV9iSWZYdWhtT1YyOTMxalE?oc=5
+    • "Loose-leaf program troublesome; city ending after resident complaints."
+      https://news.google.com/rss/articles/CBMiigFBVV95cUxNWUpuTnc0ZFNzWWlsandsc2ZRSjEzenktYVI3eVh5Q1RsT2E5N2c2Y3FUa0xVa2hyX2JuV3VkYVFnd2REWW1uLU90cGc0M1R0T0dfd3ZwSGZsVW1BQmUwVU1SNXUybkNKRWxGWHlHU3NmOHdxSXQ1M3BaeXVCOVFjVUdEZWRBb2paN0HSAYoBQVVfeXFMUDluTkhNMmF3N3hlR2RIODBIa3dVb3R0MjlacjVSNkMxcnBIMzZ6bG45cVJwSnhpNWVVbER6ZnNqTno4ZVRNX3RwNHJUSDZTdXFIX3dyb3VUdmtlSjBaZVBLRUZkSGhjTk9PQTdZaEVaRm9ZR3ZZa0VjaDlqVWlVX3YzVkE5anFRaUt3?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Wake County residents demand action as landfill odor intensifies."
+      https://news.google.com/rss/articles/CBMihwFBVV95cUxQcW4xWXV1R0R6cG1HVkFYd3cySGg3ZXBWNDZiQnZVZzBjRVhoY01yNUFrNmxZMEpzcWpSUU9lZnVtM1lSMjdIbHMxR0k3aWFfdHBfWElSd0dFcjVHdFhnODJiTTlMRUllTFV6STRZRWxHU0k4TUdkSTVGUEhTc25CWUhkMTV2LTQ?oc=5
+    • "Frayser man fed up with piles of garbage in neighborhood."
+      https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY3h4LUJjTmpTQ2QzTlk1SWVaLXpKT2xhaFl1dE83Z2dWZVBwUEVBWE1HS2NvdktXTVBpbWJpOVdlYXZOT2xHM0RfTjRSNU05Rm5RNnpsdUpkMk9XbUFkaURIcXd2Rmg2S1pmUXJQZjVXZVhCc0NhdUR5TkY3U0huSmVncHhYUXo0aXJ1eTlBcVBzOXNGbnI1V2lZY045eDVFdTJoNGlQOE11bmtnVWhPV0RQZGd2bnZTQnJV0gHAAUFVX3lxTE1sSVZHMWNYS3l6VjZmQjFyMGxZUm0zYnIyNkN6ZW45S09kaEVrN29POERaZWtydHNaWmVYTDBlbkZGQWhnWTNfczM3dG1jdDhwcmJjc3hsS1c3cnd0dDU2YjFoejVLLXBaSXJXVHZ2U2Y3SGJxelZ0d2ZraFdWOFkwTWZtTU5mcVJnTU1nb09zM1hGWTJUSWd6dXBQeHNyWjZTQnJvSzFfMDlPbXpKQVhmbmdKMUxFQjgwNkNXWHhXWA?oc=5
+
+  [Public Safety / Crime]
+    • "Man arrested for series of larceny complaints in Raleigh County"
+      https://news.google.com/rss/articles/CBMizAFBVV95cUxPOG5pMU9wM3Z4WlBFZEZQWnJfbndCb203XzVyaU9PMXVvUVZVdV9iT0NvTkFSUmRUZFl0X3dmbWhzVGhrQk56cHN6cXVFTkMtRkZEZFJNY013cHhjWnIxYzN0U1EteF82SmpIUHhtakhiQXJodVduNWw4WG1zeXlBM2R4cm81ZDlySC1UMXczQ3ZUbkxWWjRlR0tiM09zbjB5dkt1a2RHSkM3YlZtYTR1SkxsUVRKQ2kxLUVvR2tvelJhc3ZWbzZTQUJVNF_SAdIBQVVfeXFMTTBqdlZOSDRUVUhlNHpDQ1VQYWxLQXZsNy1yS1JPTkJiWVh4eFQ1QTJJdzJrMWx3OUZWTjFGT3hpczFzQlB3VTRsYlFMOTRPNTlqZm1zcDREUjVOaUpRWUQ2S3RBaF9OaFdjeFE4Wkh0RFBUQ3R6akFpZldEWk9pVEFIWkNlX19scXpFTmFIYy01blFJYTVfUjBwRjVSQ2ttWVBsTW1JeEo2YWd4Y2xjTlpOa2RsRmswT1pmSFJiRE9UU2ZQTFZMdWhSRXprWnVjWFFB?oc=5
+    • "Frayser residents frustrated with ongoing violence"
+      https://news.google.com/rss/articles/CBMizwFBVV95cUxNNnc4cEJSb21BLWh1bTFRbEVsSHRYZC1GU0c1M1pmd2VWeXpvc0xJOHYySk5BSWNMbXR2aVN4UG9vZzVLTERVUUpQZk9KN184TjdBUFNxZmVMNTNNb3hTVVhaTXpqcDVEdGdEWW5GVzNERGRmSU43NXEwZzBSZURsdGIwcGJOLVpibVQ5Y1dHNjBLUl82RVJEN0xqbjBnTVdDYno4Tklic2drZnZDd2xWNGxhMERPTkNQUHNhLXg4MVcwXzZ5SEFudlNmWTh3ck0?oc=5
+
+  [Pothole / Road Damage]
+    • "Resident replaced nine tires in one year due to potholes."
+      https://news.google.com/rss/articles/CBMiugFBVV95cUxQSjZsUHpEVHJQZW1jd2Q1ZV9EUnEtOWd2eTBuWGt1Q21iQzYwd3J0NmVEcTNIRUdudHV0WlRpQzVUTHg5c0Nxck9QVUltZlduZW5fSGI3TUt2S0UtZWxmWFY2QVlGR2taczdPWVlNRGx1N2dYM1pRTnRjRm0xXzloMmhKQklFS2JWSEZicC16bWs4V2EwQlo5d09KTFgyYjBWTjhHX091R2dvNnBuOHZuOUthMHZpQUMyeXfSAc4BQVVfeXFMUGJxNEtncW53a1B3RjlnMUcwcWN5RWl2YXRwVmtpQzVXRE1fUlRCUWM5dDNYZGxTVG9sa2xfcjdzN3ZuRkZDcFM2clRFbzZvRjBncHJBS1ItcGJoSVdRSHRkcXRXQkdvbGxtenMwQ1MxX1h5OXk1S1dMZzRwSHBaWk54SkhtNGd5QmxaUXZuOVFYS0M3ZE5tcERxa1o5UlZpbjI5QjRnVEZVQ1BwemZsUjh5bGprR0RCVXg5NnRhSVlqWGNJUWN2SW1UY2FPZWc?oc=5
+
+  [Noise Complaint]
+    • "Early morning Dumpster noise prompts Raleigh to consider penalties."
+      https://news.google.com/rss/articles/CBMiigFBVV95cUxPbl93c1FidjVaaWdnMW1BSnVTTlA2VmdrX2RfVlpHYW9kdDZTd2s5dGJXVExUWlR5LWFtUGNmWVBxamthZnVJbnBZYXhiV2xfU0xheng3aVI3MkRtVlZQdE14bHRmV3I0OVk5US1yTmlsWUs1czBMREEwdVhMajFESFJtU0hLUTRsc1HSAYoBQVVfeXFMTU9vZ3BINUR5NGhrVGlERUxtUjZOWER2TzBkOXViWHBxcklfcWdaVGRLWV9PY1FGY0RaZDBoZGFWWnBTWnZhR2JFTWVsQXd4ZXhweHl1NWY0dHJzS2dvX0xWRldJcEtjSVMyNUZFV00zUlg3R1BYdmg4Sk4ybmIzYnFpNHNQaGo0WUZn?oc=5
+
+  [Downed Tree / Debris]
+    • "Tree brings down traffic signals, hundreds lose power in Raleigh."
+      https://news.google.com/rss/articles/CBMingFBVV95cUxNY2VJeHg0TmpqTFBjUk12NlZrMDBOeTJGYkE0dnZkT1JpS1pwejB1dGcyZDdfMWVHNVl1MHNfV3p6R3VkVkJYWWtRUENoY2p6eHdHX3BDS0RfSVNWczM1RHNBSmZRU2hwMXo1TUJOZjRzd3l6b2tmVDhoMWRlS1gtWnFpZ3B5S00tcERDY3JRUlVrMldDbHJtNjB5WjEzdw?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 43 news articles reporting
+  citizen complaints about city services in Raleigh.
+
+  Top issues:
+    • Water / Utilities: 72% of complaints (31 articles)
+    • Other City Service: 12% of complaints (5 articles)
+    • Trash / Illegal Dumping: 5% of complaints (2 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

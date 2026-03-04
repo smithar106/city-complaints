@@ -1,0 +1,215 @@
+{
+  "city": "Miami",
+  "slug": "miami",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 81,
+  "total_complaints": 46,
+  "complaint_rate": 56.8,
+  "categories": {
+    "Water / Utilities": {
+      "count": 18,
+      "pct": 39.1,
+      "samples": [
+        {
+          "quote": "Miami-Dade sues Hialeah over water debt",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ3BhYVVfeXVId3JiR01sUkpFQnREMHdRSU94azdVTG9kZFNwZUZQX0NOalFNTEpSbHVINkViTzFVWkZWMDFCbnRBS2Y4YXpvUFNsaV9TeVhtV00tV1NaV0Q1MkZlcnJLYmxHYnJDQ1B0bmtBVHYtRXpxTXdJdnByNW1iWGN1NkZndEsyR2JGVlAzNGvSAZMBQVVfeXFMTUdBQ25udUNva2w2aUF0OHE4SnFJd2tGN0hzWU9Zd2lsOVRUWWJJSm5oc2hkQWZLekZZLUZ4NmxCUG1LQVpkbkk3WUVnV0JVTjJWUmdjQ29NdmZmdktkaVF6c2ZFN05Ed0ozUFVwVlVoa3BiaFdLUzVFOXhjUUFvTmFHZlp4YVdTaGFwX1VsOWY0LUlJ?oc=5",
+          "date": "Mon, 25 Aug 2025"
+        },
+        {
+          "quote": "Water main break impacting service to some residents",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLXdydHhPYmRPcmM1VXRrbGdNQTZEbDdVb2tnekQ1TTAxYllvUjRGV3M3b1NLdDh6S3UxcE1zaHJRa0VndEIxNVN0X1R3dnc2RWF0UExOTGdYWHVZLVlZWWVtZ3dCdXd6UFpqSV9ORzBoVWNVYVc1LXk4VFp3cFBwNk1fdW5JblRtc1NlT3ZiTUZrdFJGdHBUNWJ6TERvLWd0cV96U2xHbmxnWDBMWWxtX0pUcEZMdFFX?oc=5",
+          "date": "Fri, 20 Feb 2026"
+        },
+        {
+          "quote": "Water main break floods roads, shuts off water",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdV9YMHU4QzNVSTVVWjIxV1JKbUZ3X2JfaHJRLWJsUTJ4ZWlpNFYtT01sZHNxU2l3SlRoSV9OX01oQkhUaUdCUm9HeDNmd1JvdTNSd2FZTmtoRTVBTTV6UjhJUVhrLXJ2R3FBekUwWTF0cmJ4NUxrREIxeHZFQzJkYjNzNW9LM0JPMmVmM3lZcTE1NUg4SGxSUFh3NzNpNDVDNG1BWFhRem5hZ3cxeWhXc20xQ1JDeVBpdW8wZXZJd9IBxwFBVV95cUxOSGc0V0xIcW9QcFpOU2pWS0hpTkpZcUt3Rm9xbjI1WF9uVDFNb2NZZ3g4V3J6OVJwRlQ2aFBWY29vNmE0TGczOEJZQ2lWSVlXOTJEczlZY2I0Z3psRjNyRHhGZmJvRDRCNmxpQ3g1bnd6dS0zcFRtWlZ5cW5OTVFhcjlQZjNmUWhtc2NjbmtfTkJueWJsb1E5YU1iWDB2cEFheWFGSkh4cmFjUFpUakVGc3ItZVpfQ2NhNDNRZ253Vnlob1hBRzMw?oc=5",
+          "date": "Fri, 02 Jan 2026"
+        },
+        {
+          "quote": "Second water main break repaired, boil water advisory",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd21tSEFwbnpCMWJZQ0NBWWt4MThOQkoyTlZoaTdzOVBLQmRSSzVxODVuTFVBSzlQVTR4dGpBYzBnMFk3ejRkakQzakJJMm1KTG1QYWpPYmpxUW5aYmZtZ3Y5ckhtMmpPNjZjUV9JaElrRnRjTHpjQkVjbmY5ZUZDLWs1UFNNMlgxSUlJZnpVZ2JSc0ZaNUY1WmZRNHljRFE5VnROLWZR?oc=5",
+          "date": "Wed, 15 Oct 2025"
+        },
+        {
+          "quote": "Water main break causes water spew onto road",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYXQxTjB6TGt0NXBaUDc5LXB1ZXM1ZmxkWW16M3E0ZThEZVRCYWMzbVZ2cjNYRWhfQU1oMWgwMkJKcnZtam8xMkVtSGNDNm1hbmMtaTlscXdVYU5mX1dNWGpVeU5VR00yT3lvRlhuZTUxQjBLWFVTR1VRY0tINUMtQmlPN1JsS050NFdHR3ltaGk5NlRENG9qem1RN0t4WG1NcDdQN1JmU3dJWUVaRkdz?oc=5",
+          "date": "Wed, 18 Feb 2026"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 7,
+      "pct": 15.2,
+      "samples": [
+        {
+          "quote": "Fort Pierce residents smell rotten from Miami-Dade trash trains",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMlo2NE5xTFRxZ1YzRkFZcjJwclhuYmd0NExHWDdwNTBHOXh5dWtWSG1oUTZyYmhrYnlSYXVacDhJLXYzRDFyWDA3ZGswZWoycnRhc3FFWWFJS3pUR2ZhdVp2OWhyZUhlaUxleW5hWG8xWWNvTzVVRWZoaFU2Z0FDdGF6ZEEtZ2xhY1lZckp1eVR6MTFPWTQ5YjhtMWxpQXRhZkE?oc=5",
+          "date": "Thu, 15 May 2025"
+        },
+        {
+          "quote": "Fort Pierce residents oppose railroad shipping Miami-Dade trash",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNODEzNEZ4SUFFb0VUNlhRSTVkZWF6SF9lQnZ3WC1vRXZzNVI4TkI1azR4cUF2VnJJbktvdDhYelJmOHMxd0E3RDg4OGEzdXAtX292dGxnQkJIanFTc0cwTERSV3VkYldLSWdMLU5seWZnUUNIdTVOa1RjcHlsbG9WRDFraHo1bUJVeUFPNmhoYWwwUHZQUlR2aTN4bWI3WHRZNTlWMktlLUtTdHhuYklIUW5iVndkaTVPV3NZU2lFZHZ3T2czZmlObTFRVlJjVkVmVmo1ZWEwZFBBNXRTRmNRZkdPVQ?oc=5",
+          "date": "Thu, 08 May 2025"
+        },
+        {
+          "quote": "Study Airbnb trash output; possible pay-as-you-throw model",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ3dTMkZfd2k2dmpuOUpzVkI2dVpYdEhKX0xxZjhKc0NIUUNNMGptRXp4Z2ViUk92QWVJZzZ4SFpBaDF0X2ZrUmF4dEw3RmNZNllKakFlUmcyYlBsZ25KVEtTYjdrWVRibGt1d2o0MVRnMURqd2FmYzlsc2FjZ3BwMHN6NkNKaEw2VUoxR2tTQW0yOXJtUS15OFFYZHgtS1VkWDZlcUpXNVlKdjRVd0ZPQTh3OWROMWVTd0RyMERqMTJhV0xtTEhZTk5CSER0d0E?oc=5",
+          "date": "Mon, 12 May 2025"
+        },
+        {
+          "quote": "Moving Miami-Dade trash trains out of Fort Pierce soon",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMkhIQnJxQUhySWR4alA2djJQVlJLUHVtQ2dIRGpTRy1mQjdFMzBYQ0hmd3pOOUptWWdBbkVJVnZvZnhtTTFSbnB3MW8zcTlNUkxRUTlMSU9XdnMyVmJyck5sYVJIRE1pbnVvSDhvQWdndzdYOU42Y1RLZ1pLTEpBc1U3R2VUQlVjeXhHX1pUOTVTalFLWlRHQnJsQ1NQbVZTZ2RBajJvZ1RCTlNrZng2eDFLZklZaFVJUjc2NXduaEdpaHRBSXVXX3RUZmV0V3BFNTJmR015Q3J5amNXcVBVelNCeFpFckl2NTkyS1FMRkJsNnZxb2dkVFoyV2FiTXdFR0FVMXU5M2FwYzNr?oc=5",
+          "date": "Wed, 21 May 2025"
+        },
+        {
+          "quote": "West Kendall residents oppose proposed waste facility nearby",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR3VvZnlVZXBITWJ6NENoRnROcGJZQ1V4am4tYTJ5clhhNi1PU0dUdzdQRjRZeTdzZDYzaTUyaVhNTERLby1vbWVNbmVHYkdGd0RMa21yWmtqRmZqOEY2d2pzc1ZHQVVQakJXcHJCTU9FdVlSeXZIbVE3OXMzdmU0QTFJbkE1TkpPUFZ1WW4zWUp6cTJLQ0s4Y0tCUXNnYVI5QkhKX0pUdnFzMGhnMVB2M3JRWkR1OW92aEdsWWRB?oc=5",
+          "date": "Thu, 15 May 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 6,
+      "pct": 13.0,
+      "samples": [
+        {
+          "quote": "Residents report potholes and flooding via new civic issues app",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYkdzOGJFU1RzTXZ5cWZSaUUzTTVvRzM2Q3V2UXJKVHppLTg4Wk90UVNmalpDdmw3SDFlOWhhRU0yZWlZTmozckhoRFdkZEZ3VmtTQUJ1NW9hWFU0R05JbkJIV2wwU2psNV9kM3ZObEh0dU1DRVZ4aFdBNk1TbUc5ZEJ5SllqUmdIOFlITXNjMC1SQlBwNW5DQmcwUHVKZnRfNDhNMDNNN1hzZ2VrR29uM3M3Y1ZaWHV5UzdWTWt2cW55WjBjQlVXYlBOeEE2em0wYVZBeGljdG3SAd4BQVVfeXFMUFpHblNtMVVuYzVsN3ctSWxqN0E1R24tOVpTaGlIbFZ0S3NkX2FESWtDWEZYcFFvYkxiMUgxVmFmcnE2bm0wYTB0T2t6MDZYbEtFZ3VBNVFtUWdGeWwxRE9iU3ljemQ4MHVOQmNkQWpXNjFZOHNTR2k3dVhzZHppSmNOWHRDa3EwNkh3VEhRV1ZhREVwcjM3SGxLb2VpTGRxZE43X0VRQk92aE9PT3pkZUFBR2l6NGt4UERiN0tlcGxOaEhPak1xaVByX2g4emNWTWxLZkpLR1ZkWjVJck1B?oc=5",
+          "date": "Wed, 20 Aug 2025"
+        },
+        {
+          "quote": "Disco ball on West 86th Street causing extremely disruptive",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXZHNjk2Um91RFVianBuZ0t3aUdha3QtVENNUHBCbDBJakxIcUJzMnZ1QlpyME0xcHJ0eE1tNGRNb1dLV0k4WU5TMlZQLVJMdVdIUnNjTDd1R3lpWDNEWldBbEpUQWFuS09lMGhPbmhqa3lTV3NSdGp1RERyZElIcGVHQXloNGI0R1N6cFVLbW01Y0F0SVVmUWhxRUF3aWtKVnRYeXFtUU5Oc1VMVjRJcQ?oc=5",
+          "date": "Fri, 05 Dec 2025"
+        },
+        {
+          "quote": "Traffic lights at Route 51-Interstate 70 interchange lead to complaints",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGg4UnpTTUFEd2ZaVUUwR3k4NnczU1RieUlwa3gyLVY5MmlRd2d5QXdyUzByaUZjM3ZidmdMaFY2WFRfMlF6cGdiX0JxSVp5Y1pqVFMyaVZOMC02dnFrN3F6R2RqejdRWXhGdl85MUxDdGc2MUxHT2RiSGdEVTVCMGFXemVRcG9LdVhEX0M2dUN0LWhI?oc=5",
+          "date": "Tue, 29 Jul 2025"
+        },
+        {
+          "quote": "Residents ask for turning light, more signs at busy intersection",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdk5veDlJRHdrLVRJSEJ5UzVEcTk0ck1lbWI3Y3lMVFVNODFCNE1VYzdxOF9EQkpvMjZvTEpjWDZaZkluUDJ4MEh1MVdnZjVweTB2TVdUajd1Wkd1SDNTeTRuVUhIMFRISjB6Q1pLYWI1MmJrLWxoamdiNzhUSWM4Zl9rV1UwVnFrNE84NHo2TG5CX0RtVU92c2loNXFYTmhva3l3Qm54RlNRcGdsQ3pJUzlscDlKVktfZy1tUjdSRVpKLU5WYVBjddIB0AFBVV95cUxNZ1NqRWp1WC05cjdDRlVHbDFERkV3Um9mMjdUS0xhcllObVRsZkc5al9VbFVtX2ZmN1VBUmVsT2RSblo3ZEpaV2JncXY0ODdVTmpSblVCU0t1bGZWR0RLOXRsbTVfb2tEWG1RWUJsVlVrMkMyWXY1QWxnT1FndEFBMlBsY0tNdWQweW5NbHJJVXc0aGRfWVBqM0ZNbDdVMllxSTd0VDZEcTBJaXdYOGI5aXdnbEE4Wm5kM3JpakhYN0lOSW1CeUo3ZmljdmNReDZV?oc=5",
+          "date": "Mon, 12 May 2025"
+        },
+        {
+          "quote": "Miami-Dade residents frustrated with DMV appointment issues",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDI2LTVqenJlaVFnQjF3aE5LenhLVmdVNGdUVEN4WjNZRzlnQV9GVW96SnNXR2h1MWJLeVNqOTlJS0N4djJuazl2Zlc4WFhVYV81bC0zMDBnZHpQQWlsM1Z4eEc3VlpjaHh6N3dLa3VYQk1WNkF5ME1YMG5QckFyeDNWS1RnaW92M1gyMTVRTV9RcWhTVUFpS2F6MXZLb2lRMG1QenY3SEtBTGVQSlJja1ZsdEJQZER4YXpNTy02c1Q1ZFM4WGUtVVdR0gHSAUFVX3lxTE52dnczc3pzQ1pKb1pSOHBVVEVORkdKM2Z4c20tVk1hSGNJNk1kOWxsdWRHamxoMzNPdGtxSGlyZlFSLXIyR0hRS2NYTUxHcGxpbVdBbUltQW4tcTZhWmtqQnZYWmZjSFpJMGZ5NUR1b3RCVDQxOV96VXhFTmVyVkxBQzlSQldES28zdVBaa0JrNnhuc19KMEU4U3pQZ3QxVmk4RWhaTUNpbnRGMXhtX052TEdOTVRqZUlHeU52R1luZ1BUQlBsWGpXMjJNc0pjNHp0Zw?oc=5",
+          "date": "Thu, 10 Apr 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 5,
+      "pct": 10.9,
+      "samples": [
+        {
+          "quote": "South Florida street flooding; how to report to authorities",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2lJQ3lNLVRqMVZCQ0VOVDBDbklxbUhFVkJEY2F3VVVNTVVNVVNyYVBDakhNREhMWi1ZenhsSWRBb1cwWkZNUFFpTnpkaks4cWh6eVE0TFg2X0ROdDJlQXNPN1ltSkc2b3BoTGZjX1FQRkdTcncwTmVRUlJ1b05LTHQyNnQzclFEOUxwOVFBVTkwal9rLTRBODRB?oc=5",
+          "date": "Wed, 12 Nov 2025"
+        },
+        {
+          "quote": "Mapping reveals flooding blind spots in South Florida streets",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNEtVcDFHNFRUcXA2X0sxWHYzNEl1d3ByTUlXWl8wYmI0SGU5aVVHSkhzNDF2VVhHc3RlelBXdnI4TTFUTzlHYjdieUQ2b042X1RJUTJ0Z28yLUs4M3ZpVkkwR19LTVpERVBkY3E1UGYyMU1uMDhfcVR1anFqRTkteHVfTC1FVHFWUGxGT1I2RnNfN3BiRzJpWHYxN0pzRVpYYWZ4S2tBMA?oc=5",
+          "date": "Wed, 12 Nov 2025"
+        },
+        {
+          "quote": "Chicago alders call for action to prevent basement backflow flooding",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMjJXZUtHc0NncHR5bFFIY056SVFBUmdwdUhFX29SU3ZJV1VMX2pWQWp1RDNELTFWTTIyT0ZGQWNwRWtRbmV0SnhMaGR3VnlkeWJSVWVSMDJ1aEt3alFLSkx4STgxTlJvYUx3VnljQkFUNndIbFk1WGpWNjhxTVcyWm55SlpMSHk3MGZpcFU3MnItNWI3MjVkNFI5U3ctZVJTc1RMOQ?oc=5",
+          "date": "Tue, 19 Aug 2025"
+        },
+        {
+          "quote": "South Florida's many flood complaints mapped by Herald",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR1FpOWx3cmluWk1MMVpZMTdGLW9UR3BvU0NSclJ6bzhKNU5KcGNhZE5tejRDV2pueWVVYllrU1EtN292eEpwOGRkUTF4QXZURFZwZTBNWUZWZ05XVjljRXByeWVTVXJ1bmh1bnV6WmVfRzdVX2xESkRUaHlaUkk2STFfaUh6eklvMGVoVjRlYW0?oc=5",
+          "date": "Wed, 12 Nov 2025"
+        },
+        {
+          "quote": "Street is lake, urgent flooding blind spots revealed",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDJOUk5vX1FxeGtJb1dVeTRPcUhTVy1PXzVxb1RPdzQ4bzd0VDYxQXpRSnBzSDV3VmJNdVhWdzRIejFXc3JBNE40c1ZhaVRfNWN4TzZ5UkN1cE9NcHR1WlJXd21ZQVcyME0tX0VMdnQxMkVFbTVCMnJJRUU5NWU4bXg5dEh3VXRtYk8zdXFJb04?oc=5",
+          "date": "Wed, 12 Nov 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 4,
+      "pct": 8.7,
+      "samples": [
+        {
+          "quote": "Graffiti ringleader arrested for VITAS building vandalism",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0t1aEdiTFlxN1J4VlNkRzhzbi1HOHRsZzhsX2dUS003V3oyVWxqQjJ2ZlZKVzZwTU93WnduY3R2UzRwMklobDItenRIc1h5enBZbFZFQmptSk5yMTdxMjNCNTBsQy15Q1diVGFTOTVNWFE4LVZ3Z01jOTRzRHZZUjVjSGZqbXRlRy1LZDhjaFd6SVRYVFJ3dHNMc0s0UkU0eER3emItQ1VpLV91NmV1R2c4bGtHaU5iaThRazNLWDV2aHZhTmV5U9IB0AFBVV95cUxQekMwQktNUFJha01LZmNwS2ZFbXFFUVFuQVluaUJQVlhhcWhTbzFZZk1SSjJ4R1h2V2Utd3FXQVIyM3Y0VXJkbTh5N09STFlzOVVYLS00ZzUweFA5Zi1oeUx0LWloWF9SZVdKaWZETUZaU1JjaUFLUThvdW5qTXJVVEJsSkFzcGpqS2I3d3AxbllMeWM4UjdMdW85blhYcHRDcjVLQ1BoX1lUQklKOHlIQmZrbUxyaUt1dUZVWWJTWDQ3M2lXamZRM2E5Sms3ZE93?oc=5",
+          "date": "Wed, 29 Oct 2025"
+        },
+        {
+          "quote": "Graffiti ringleader arrested for VITAS building vandalism",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXJaX0R2Sk1kaFhaS3ByYXQxQ2VFRUdZNTgweFZybC1UOGFaXzdXaXRqUU13ZFQteTFXamlxQlpuY2kzYWp2bHVEWkY3UExDbU5MU1lqakNjSVlSUXZhbmo5WWhwTU5YMTNkQ2VqWVlVN1cydU80Yi01eXZtUUY5QXExOUtKb0JQOUxuSUY1QUh3RXJVc091VndPUnAwODAtblVHcy10U2I4cnQ0cTJJVGRLc3NpbFlpNzZqVmFB0gHGAUFVX3lxTFBlQkV2SkZYYTZvdldfblRuMzZWZXl1YUNBRktKcWNVOVpXQXhIcGxZTnJvYWlMcHdJTlRYOV9OalNtUmFIUC1oUVFrb1MyTHNNdWlfbUk2b1lZM09mVjlHZU5HeHFuMmpTSzhITW9zRFliM2pLQVhQVGdnblJudzZCX2FrV3RKd29QQ0ZEYjU1ZjhQNXM1c0tSUW5DNU42QVl1eWZrdkpvNDhJbEJjcThIVGhDVzlJM0RtQTM3c3F6a3FwTjZoZw?oc=5",
+          "date": "Wed, 29 Oct 2025"
+        },
+        {
+          "quote": "Jackie Robinson mural defaced with racial slurs and swastikas",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd0REdjc5RmpKTjBhU1BlUzNHQk82dVNoeVJyYlBXR25OUUxrd3hDQjdmenV1UXk2TWFaYmlTN1FxVnRNbWstTmYwTGZ6aVVnUDVfZUVCNzJZbEVIN2phUERfVmRoLW9HU0l4RHJ2cEJnRXY4amJaY0xKRkV3NHFWbUxnMG9hOVhYbi1sUnpR?oc=5",
+          "date": "Sun, 08 Jun 2025"
+        },
+        {
+          "quote": "Mural honoring Black history icons vandalized with racist and antisemitic graffiti",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaFgtcmtYUkpWU3UxekQ2alhoTWNIV1pLZzlYRHQzV09Rdzk1RlVoakoyUVN3YU1VUDVnWHRwU0Y5cUNYZi1YTjNsUVlVZjh0aWdsY1NsdFBVc1BCSDRkX3F6dGt6eERXSThGcWpSellYMVpQR3RzOFNoTW94YTdiNzZxbzRmLTVvWFc5aFEzWlVCc283V2hjVzdpYXN1TVp0eU1nR2pmQUFEWFdUa0Ewd0xxTndpbzcyc1VGNHVSZjRGZGZ2Z3dEQXZQYVVHUdIB1gFBVV95cUxQSHE1dEZkc2FLYmczLW1BOHpCQklzM0xvUlZtanR2MjVwc1NGNlEwbV9LTmZlSzRoT0wtbm9OdEtXZEFBUVN0NTFseDVMaUhPN2hhTGVVR3lvd3FxZGY4N2lTLUFDT0hMLWdnU2NJYXNqcHVIRHBqMmIwRndfQWRGQTdJMkJUYWw5U3JaNmRHX3BVR2xIOVpZX3RTcGF0UUZWaUVvX3g5UXkyMl9JdHBZbUVobHhyQnlTdldzMXhZX1B4Y0FXRnNQSEhLSzZNNUpzdjlQZERn?oc=5",
+          "date": "Mon, 02 Jun 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 2,
+      "pct": 4.3,
+      "samples": [
+        {
+          "quote": "Resident cheers road authority for swift pothole fix",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWmxBX1JZWU42RTFDbjJ3TWdTclVkMEJvUGFxdTB4Nnp0X3VYTnlsMHRIcGJpX2dEN3dMSGZOalRYMHhmWkttMXNqSnNTZXQxM2RfQXExRzJQZ3ZjbXNzdWEwbVFqUXVXekRfU25wOGpiRGVrSWx3TlU1a1Nrb0RQcTBvd2RfbVlVYmxCZlhRUTRuVExsS05Db3p5MnVSRmlNSlBnZTJvTlRWNUFOU2dDanFBeXpCRDBHWmhIN1ozYXh3bkZidTl3ODBqTl9IWXlkNjJsdzhPcDV5SDloRFJfVk5CektLTGJNUlVKem1Ka1hZQm85Si1wOUVwVWXSAYICQVVfeXFMUDZaMDVndFhFR1VDMTBwZUZRX3AzYjMzNFVQckxfX1BFX1oxLUF3TWhJMFA0ZU95bTJfZDNYM3ZRZmlXSDBaUGJkZnN4U3B4NW5Oa1RsU0w2endLVWhyekJQXzJ2aG1pSms4OERiTVZBTHRLMnFXUmpxOElvdFRGVTlhZkpPMWFBWmN4bnZOUldpV3JSQUtTeFVVQWg5dERiQWhPNWJZZUIzRnFPdUd3eGppamZBeFl2UlV4eW1vR2Y1dHYzUk5Xdl91U1lYdlcta0pNXzh4d3ROZDk5ZXBlUklpT0hKNDBxdUNIVm1JMGZNNnVjWXo1VXVYOXhqMVREcHh3?oc=5",
+          "date": "Thu, 23 Oct 2025"
+        },
+        {
+          "quote": "Residents demand quick response to pothole complaints via app",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTnN6Q3ZtX2YwakhRWDNLS1kyMTVOWUktQkotb0s5aE9NbGdaY1F0R3VZSFQzX2VKc3lNS0VGd0FVbkhuOW50ejkxU0ZIOUIyZjJKZHE2VEd1QmRYVVVnamhnWDYzSi1JcXFZWEtyTGpCLVRtMl8zZnI3N1JQMTZ0NmVDcUZFRUNUTWFtaGlxV3dVM1l1SUM3SjNtemoxZGk0RzdTSkxUcHRWS2E1UHY0M2lTaGJqUEk3eTJoQ2JQRUR1TDZoTHNCQkF1SXh4dlNBeW95MnN2RTJ4Sll6Z3ZqLUh6ODV5QTdJUFdIaTRHNWllSEJkSFpTbzU0Mi1pcTMzWDlvMDhVek5MUdIBjwJBVV95cUxQSkE1NFJKZmVpUWNnN3oyQmN1bFVYcDYtOXBSWENjalVOYVJZOWNQcGVqUjZLX0IyVDFKMzk1dkdsSnhlb3JuZWVnTDBBaUFlRVNrb09aQ2UyN29XZlp2NjRLM25WbktqWDExU0NMc3dGZ1AwWTJmMWZZSlU0OXN6M0QtWk9fQlFUb3Y3WDNqNE94TVYyZmc0U1M5alFpTXlJTkJsX0JHVlVpRC1Rem4wYlBLRDNLeTVBVkVwYUdjUlc1bDh4TE05YnJWbVc0MGVXRFhoSnQxSUJXdWhLZWVZOUp1cGFaekw4RldldmRIZlZNNmpDZDhtQTduaHNfQjl2S2xpQXlDUzJKYnRnYUp3?oc=5",
+          "date": "Tue, 03 Jun 2025"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 2,
+      "pct": 4.3,
+      "samples": [
+        {
+          "quote": "Downtown Miami residents discuss noise complaints from Ultra fest",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlVlcTN2cmx2Uy1TZFpGb3gxUENJSUZqVlhBZF81S0hTbjBGYUJFY19odTFFN3FSalJKNU9uUHZkY3RLakV5ODVvMmVhYXRhSHRpMWRnVXRWdkowWnl2NVhzWE8ydDd5MzJSa0k1RElJd2M2Wl9wdU0wS0ctSDZqRFhqc05JNGxPcVdjOE5KcFdnZDRScGZRV182bGt0bGF3dk5teEtvWm0yaTBtNjFNTEczNkJlbk5KaFdnNEhVRzJQREgtSEFUUTJseFFXaTJDSTNfMnUzX3g?oc=5",
+          "date": "Wed, 05 Mar 2025"
+        },
+        {
+          "quote": "North Bay Village residents complain about early construction times",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOclpfdHZMcmxadFlLd2t6MEJsaGo1VlZpOEI5bG4xNXY3MmNpUDNPdnc0c3ZfRC1KZGxVLWhuN1RNdmphSDBOWTlJcXVKblNCcllfNG84RGZWS2dOSmVIeVZsLXFBaHNJN1pOa2pmUXM4VW5KVDlpWjFPT193MFRZR0R1eFNXSVVsMHFrU2xBMEdJXy1lVFBGb1ZFOGh4YV9keU1iSHk2V0Jpc1FQQThFLUFOUXlHQXM1TmNVaEh3?oc=5",
+          "date": "Wed, 18 Feb 2026"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 1,
+      "pct": 2.2,
+      "samples": [
+        {
+          "quote": "AMC's 15cr streetlight project blinks at failure",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORWQ4VHlLMXBQc3VTcmhrejBuT0FBdktUZ1FhS1B6bFgxSGY1UnNwVEQ0WjhsbXQ5ZkRlVkc5dnl5WUFBR05SVGtnVFBsWFJRcGRsTlF2VnRmbmFUZloyRGtTN0k2U0NQYjAwUktNa2NiaXp4ZmU2OTBGc19LV1oxQUszRWdUNlhZUFkzWXdxakxhTndfb1Zwcy02V0JLbHRfMFpjemxGR3ljdk5uVVVQeEVjNUFHS1RLbHNOeEZhMnVYQdIBxwFBVV95cUxPN1U3bmFjbjdlcnVqaUlCM3lRTzZITHNSRWFHTkY3SnctWm11OHctMGF5RFdyWkd0S19JajJ2S2tmcTBVQjlvTW9WeThjMDdrNW5tcjEwdGFzMmNUZGJFRDNEa2FGXy1nS0J3eEZmR1M0MVVIN3N0OGFaa1BWaWNQY3FlZGFIMWgwMEptb3FKMnQ5WFlLV2pveTNhSU5fSlJLVUhLWXFKMjM4cXJfZGVpTDJjdFdYNk9iT2I0bWdmcXh6cGQyOVlR?oc=5",
+          "date": "Fri, 02 May 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 1,
+      "pct": 2.2,
+      "samples": [
+        {
+          "quote": "Tourist scammers persist despite years of complaints",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRTlUUWx5amVTVXhLbnR6dUdpVVlHMVZRTUs2LXNsTHNJU3JJSUllU1poNnp0TXZXUDFub3dzRzhSRW5oc3YxTUZVbld2UmowOHpzTjlaWE8tQjJRNWJDTUVqdGNndElnaE1RMTVCdzAxSmN6MTQ0TkN4a1l1OHFRQ0x6QUhTZkJldmYtMmIyQmJhZFA2TmRjN1RUV2lIMVZLcV9GaFBTVmV6ejUwUThhTUhyOW5Hd2FFc0hOOVdVTQ?oc=5",
+          "date": "Fri, 28 Mar 2025"
+        }
+      ]
+    }
+  }
+}

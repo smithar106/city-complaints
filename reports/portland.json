@@ -1,0 +1,207 @@
+{
+  "city": "Portland",
+  "slug": "portland",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 105,
+  "total_complaints": 51,
+  "complaint_rate": 48.6,
+  "categories": {
+    "Water / Utilities": {
+      "count": 29,
+      "pct": 56.9,
+      "samples": [
+        {
+          "quote": "Bacteria in local creeks and beaches threatens residents",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYThhWVNDRUh2Uk9KMk43by1CajhnazdGbEVkbFJHVWVoSk90a1BCOURqb3gyQ0l1Qm05Rmo1cEY2bWc3aFg0aGIyZnRFZnUwLXpBaDlTd1JyNUNUVm1Qb2N2QmF6V1FrczF1YldfV0VDWWNIY1RCUW5tRVNTczZEMzdRUnR0ZGVYSVJnNkpHa1J2LVFVOEVEbmZyWV8yRzRnZHNSRzJUT2NEWUdWbFpmazNHSHBhRkFZVEZvNk5FLV9wcGpLYzBIZEpkX3lKNXdFOHE4UE9uTGtodEc1MGRB?oc=5",
+          "date": "Mon, 10 Mar 2025"
+        },
+        {
+          "quote": "PGE and Tillamook Creamery contribute to nitrate pollution",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTkxjcEx0OTVSaE9xZ29xeWx6Vi1QcU5mRHVXb0M0d3VrRElpbFBBMWc5WU5QemJhVUNMMi1raFllb0RTV3VaY2J6M2ZEUnlYcVQ3VkxEaGpaMERYelhqcHZFbzBNOGk3U1duNjM5Wl9DNmcyb25zMFh6YTZJd3hwR2hpeE1NUEIyaERycU9GYXlReEZmM2pGZ3dIMGFWMGdTWXZCdVpJR3g5UHIxTmUzTXE1enAwaEJzSFJZclpXR3FBaTFJYnczRUh3?oc=5",
+          "date": "Mon, 08 Dec 2025"
+        },
+        {
+          "quote": "Water main break prompts boil water order for Maine island communities",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPejdqLTlMNHAtcUVFS3dObkhzRk9Fbkt5VlNJbGIxQnY0M21jbG9CNWpXU3BXbDNPYzlkWmItX05wV1prSW9JTnBmel9ObFkyc3VFR3Q1UmpCa05nYS1XdVlEcDI4ZkllNldhRElhM2dHQ19DWURjSlNVR0NuTXJ6QUxMNGlkSjRqb2UweWFXV3YwaEpPczRHNkNKa1k?oc=5",
+          "date": "Fri, 20 Feb 2026"
+        },
+        {
+          "quote": "Water main break on Broadway disrupts South Portland traffic",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR181eF9SYlJuZTVad1VfRU1CWTZVc3hpU1hqOVpFaDlqeFhoRnlHVUZMMjFXNGFPSGx2blg5Sl9FQXNZSWVneU1aYll1eUVUanF1a2d3U1JGZlhCTjRUUXFzTHhuWHNSUC16U3pRYnZEbGxEYW1jdmFOMDIzZ2JxeGRac0FRNUtmZ0R0RElQSUhicDlXSlpOSzU0MGwwSUZreEc5RUZUQndXVThETmRuZkNjTWtoLTgyMW9PXzVZTkNleWJEUVZKcnY5bkRnd3M?oc=5",
+          "date": "Tue, 26 Aug 2025"
+        },
+        {
+          "quote": "Bridgeport families affected by severe water main break",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc2JNYUxaNW5pTzBhOFdSNTZfYmJxbzhFTnhoOGl0MGd0am9aRDd1angxUmEwLXIzVUZBeUZSME4tZ3A0bno0bDdKVDZGVkxLSEhEZ1llbVdPLXZUQksyNURITERmZExyTXlvbF9PaE12RlVHVDRvT29yOXllcHJsMnlibWtIdXc5WDlBb205d0ktM2xQeDU2X3pvTWFpanprb0JxS0dwbE1icmU1U1otc2VkRFdacHJPdThveFMzSHBNUHVhc09GVmljR1BjQQ?oc=5",
+          "date": "Thu, 30 Oct 2025"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 6,
+      "pct": 11.8,
+      "samples": [
+        {
+          "quote": "Kenton residents fed up over loud music, trash and RVs",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVnI2RHpuUTBjbzFlX08tUlRRTnMxNnR3aUdtVGVVNVlNcEViM3ZzTjRFamNWc3J0ZFp2UEd3QlFUdEdzWVVxOUdMMUxTNjVpR1pzS25kZEtGdWFnUHpORXNpeTczVEo2ZV9EdG9Qczl2RnZ6T3hhUkRDbGtuTlRta1VGMzRaTGNuM29mTDczZXo4TGZiVm1zUG5oQXpjeGRtSldnOWYyYw?oc=5",
+          "date": "Sun, 17 Aug 2025"
+        },
+        {
+          "quote": "Government helicopters over Portland rattle neighborhoods",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNGJxbk5DT2xXYzBvSi1DMllkOGl4eDdreFItZUVkR1NKNjhENDBQdDZadEtPenp2eVpkYUsybkE0QW11WmpxcmJQQXNzbnM5WWJ4dE1qNXFNVERLVFBuNGxSMFBObWJjZjlsckNXazFFXzZmZThpdWhNRF9jeFhjRmUzWXNsZmN4ekcyVHZwZTZ3VjJKTzdCblNoSnc2XzR4dkJqZ21VWTV5OWNPWjRWakZ5S3lOWlFzU2FldFNTM0IwNHpSS0HSAdoBQVVfeXFMT05SNmlaNWdlNEJsU21xRXN0bm9PU2d4NmxuOUlaeHZ2RGNmM1JwS282em5WUE5uR0N2QUE5OUpBNTR2QlFETHlYbXFqaGVvdFNpb2xfU19TRkxBUGRMaEFPTTNicUFqYS1kT09CMFV3TVVmbkVoTFV2Z1lIUkQyclp4TFk0ak15LTFNLTdfZE5XZ215eWFUZDNNbXF6R1BkTEM0QU9FdkQySEVMR29IbDlkcW1SYmdIN3Jrdjk1QnlITDVEQjBNd09yeENMOVdUODQ2RVFNN1FTSVE?oc=5",
+          "date": "Wed, 01 Oct 2025"
+        },
+        {
+          "quote": "Federal helicopters cause increased noise complaints",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdHJWTTNWeEFQVXp2NDFzY2twdDNtSkhUaG5tZDN0eklwTldNaF9BNmlSb1Y1RFYwME9lLWZPUl9LQUxiSkNOWjFTQVEySVVFVnowWXZKMVlFU3RQTWRwOW9kZF9ybndKdEdxWXpVZEc4TTdsZHNrVnU0TVVxRHB2b0hKSnBFN290dDF6TU5SZ255UDVoWExWdkNPeFk4MXR4LUJSdXZRaGJ4eXJnRUJvTTRMbW5GWFRsU1Z5RzVFbXJWV1ct?oc=5",
+          "date": "Thu, 02 Oct 2025"
+        },
+        {
+          "quote": "Portland noise control ordinance revised for community",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS2VKcUhCbmdNeGN5YkJINzNJVklHNHNqOG9PQXJmSmtyRlFHWGNJMHc5T1FiUUhXcmNhaUFqTWRXdXdwcDVFZ1BLQzJPZE9vRnJKWk93T19lcFpUQ3ZYRGhteTdYLXludUdLUTJPMFFjUEZfdm04clB1YVBuRU9YTjdwZzU1ZTg2a25jU2NlV0dtalRPelZsbUltN2o5YXFmbTIzOHQ5bVQ0TkJKUGVjZ2lRRmczMVdZdWp4TTRyVTFBRW9UT1hXdDhKRTMyUnJu?oc=5",
+          "date": "Tue, 08 Apr 2025"
+        },
+        {
+          "quote": "Residents allege protest noise violations near ICE facility",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRWI2ZWZocVhCMlVsbnpvbE9qWlFVSVdaNHhxRV84Q1ZoMDNaSGxZdjdtODRTNDBQUWo2SWl0TjlFWkpGRHJrV3FzcGRxUFY5eU5NSktBMEx4V25CcVVubjFWUVB3LWVuTTV5TUdVeUdBRTJuWm1NTkVWa2RWNFh5Y29WSEdfWTFsZHpYX1pBdklXVUpudjVWUnVyUW05ckloLWpMdUxHSlVnXzYxQ2VlaFhIdThIbHZaMUtpcHpxN0duaEtNZTRTRmpYalNCc2llcnNfTmNVV1ZuNFlmTHZIaTBMTEQzWGJYYk9YWGlieW0wUmYt?oc=5",
+          "date": "Tue, 01 Jul 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 5,
+      "pct": 9.8,
+      "samples": [
+        {
+          "quote": "Portland residents say city does abysmal job delivering basic service",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcUN6dzk0emc0U2djWHdtYlRNMjBFQUZZem9WR2xtRXp2UWpnS3g1UGNwejB4WFV0cHB0WkE1QzNma0VDN0ViM09YSFJUNkVONmZEdkNOYkx3NkE5LVc1WGNNZjJzQ21LYWJpQ01ydkVpa0I4bTFMUUhVWWF5MFRCRUlBUWwtQVFUMU9aUEd6Y3ctMzVyZ0VwamhadTEwWFRHbGJnVm1zdF9yX2RUQjlMcU04OHJSd1I2aXJRSmx4UUZxdVBTeUpYeDNR?oc=5",
+          "date": "Thu, 17 Apr 2025"
+        },
+        {
+          "quote": "City halts residential street sweeping despite $10M bike lane cleaning",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTDZXVkRVN1ZzUTRzUlFVUjlVSnBHdElMalZ2QzdHSV9PQmZQd0FNejltREZwSUhjbVpTcnJvT0l6cFlfd0VHWko1emtQOHYtYmpBeTluNEJBckhhMjRMZGloaElNR2UzX3UyaWlFQ044aG5oT3lDbEFjVmlMQTlZU0FUOFNfTnV3RWx0TjVXOUdXblZJYVBoc1lVUXZQZUpCdlRfRG5vVnFtVVo1MFMwVHFCbDNtN0dvWXBWbDVJb0NNWXotcU5keHRscF8taS14XzBuZ1piNWk?oc=5",
+          "date": "Tue, 04 Mar 2025"
+        },
+        {
+          "quote": "TriMet caves on 82nd Ave transit plans amid business opposition",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWlQ3aVdqRlBSWVByVDMxT2Rxc3phYWFMYmtPN1hmVWtZZ0p2U01GN0hhNG4zNWtRRk12eklLYnBya0xBR2p4UnNLRVVadDVqVS1VMDNxVVZCN21IWmEwZ3BFc09hUkpnbUJ0VVkwRmpMVlNscWJuVFAtczZuZjR2d0Q4Vk5teEx1ZGpRbk5NNG13QzdsY0NCejFMMWxBblpWOE02eHRTbXFfbmpxMWhUeEdVVGZHM0h3b1HSAb8BQVVfeXFMT0RhQ1B3c3p3U2JPb3NVazJ5dUxMaHhvTEh6QTIxZWMtQWh4bVZqUGZyTGRiay0xSkVZWlBxandqRW5tYW82bkdTVnVxdHNVZTJUYVdnSXBCRTREWU5PZkRCRTJsc3J4VHRKNDhtTURSeXU1ZDUzcEk0YTdGYnFFbDFoaEJ2U2tpWnh3dzluSVlHLWRxRldhOS1zWWE1TlRkRkVuR3VHdHdrY01WRjllSm1sSjRIejlRbmdHc1pFRXc?oc=5",
+          "date": "Thu, 16 Oct 2025"
+        },
+        {
+          "quote": "City alleges clinic improperly sent elderly homeless woman to Portland",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNekhPTVlScG5Udi1VOFllU0o2MXRuRUJUZUQ0akExYTNra08tOEkzWUNvT3RXRjVnNlJiWldWd2luSkhET1lZbFlGOC1iMnF2Qm54S01aY05hbGZha2FvMTE0ZGhEQ2c3WjVwOExUbTktNWNJdWFLVDhXdnluRTN0anVLLW9tTEJxUG9WeEJCY0N0Yk9uNG9fZWhWdjdNdzNBU1hpUU5EUENWc2owWXdEOGt5Z2JtSHZoOGszNDlvcmk2QXE3aGFvRTRxb1dUTVpMUXI2U1pDak1zWEFM?oc=5",
+          "date": "Tue, 21 Oct 2025"
+        },
+        {
+          "quote": "Road maintenance at risk due to failed state transportation package",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTHhRQVdTZmpTeWRNMkpXM1hqdi1CUVlVQmFzd0x0a2hkUEZhWUJ3eWlvbjUzUmNBdWs4Q2o4TFY5eDJDQlA0WUNMdVgxTnBwdkdiOHRGRmhUNVZKYTBUblpGeUtJcTBJRkRlOHZLUG5SVlNMRjhtN01WVXRTcGNZeEpia1dPcEdsMnJ3UkNQNlFySjNwQmQtamhWSTI2Z1djWVp6dzExLVlJSkN1dVM5VFdGbUduNW1hZlVvcmpoM0ZmWURUQ1REcHFIMA?oc=5",
+          "date": "Mon, 30 Jun 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 3,
+      "pct": 5.9,
+      "samples": [
+        {
+          "quote": "Potholes and homeless camps leave Southeast Portland residents feeling forgotten",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPelhVUmRjVzVFdHJBQWxJc2p2VVdSRXI5SVlBbkEwSFNuZ2dDUTVpM05ldXVsank5Z3B2TFVTQU5OT0hMVEN2WHpKTEV3bTZBeDYxd01WajBUZ29SVXQyZTk0YmNhM0lCTzFaaVR0V0RqTjczMTFuUnR1b0s5SnBJS184M3VQRVpJZTNwclY0QmZEX3llYTIwbU1YbWIxRnFUcGRBVUFFSGhHWVJLbGJBM21rOGhNcE0?oc=5",
+          "date": "Thu, 11 Sep 2025"
+        },
+        {
+          "quote": "Potholes with genital graffiti fixed, City urges online reporting",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMW1KMi13Yi1WRmxoWF9ES3BoTlN0V1diT2lQS3AwQk5vRFhuVzhzUHlTZllzT2EteENfTGxxT1ZEd0xjYkhfbUlfS1FEQzBMVm54UlU2YlREYnEwSEJZbjVsN0V6TGZMbDFiT3RmNG5BSWpidmF4T0twR3BLOVRmNkJCRDlqVWZqVkYxNGdYOHBrTFdLV0dxUm45WW82b2VUaTZVbjZrNUhWd1JIV1pDQ2pn0gG3AUFVX3lxTFAyREVQdXZPd2xiQk5HdkNVNU5YelEwSEhxR1hkRFJFSEtZeGhXMDVpWXBsMlExeTJNMUJCTThxUE5rd3pQMnNMVHZLcndWRlNFX3lDSktpRVN3RXR4MzViRUNEQkVtdzlFVDFDdTJFQlJ4NGNtM00wYW44TFFTYlVFZFR3TU5zUlJoR2VNSnJ2b1pFSWQtMjZTb2d4UUtKblgzc2p1OUJTOU84MGJpWW9uaEs5N2FFMA?oc=5",
+          "date": "Tue, 29 Jul 2025"
+        },
+        {
+          "quote": "Councilor sick of potholes, launches road funding effort",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQURrajJkZnFGMEtvVDhQMXVkQVJkZUVHUWkyOGs0bjBOSENhbXBwTFFDTHd6NWxIZi1aVjJXbmc3Ujc5LXM0bHptRXNhRVIyRzhCdnJvaEZvclpkYkJZWU5Cc2ltOHRyc2xPNnZtaVJYLVZEOFpsbWVZTGNTSVNqdkcwc0NFMUFGWmdETDMwNVRwSTVmei1GRkd2bUhWWlUyR3oyTkhzU0IwUm02b0NN0gG0AUFVX3lxTE1ENDNxc0ZvOWZycjlkTWVXbnZZSFFDVnNoNmxCWEVhTU5HREo0REJ3VHk0QnBqMHllc0RDbl9TNnFBWkhRYUhDNWRNRjI2RlFTT25xRW5fam9OTk95QXhkNDJXN0huOFhMZnA0UURYeWdocVpyRUxDcnZ4alNlQlRCWS1vT1lleHgtQWU0Y2xQOHZVT1VydjB6UEFfVGRmTHViMER5cVFHRVZ3dXgtTDN0TmxvVQ?oc=5",
+          "date": "Mon, 15 Dec 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 2,
+      "pct": 3.9,
+      "samples": [
+        {
+          "quote": "Riders file complaint after Hillsboro PD pull over Critical Mass",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUx4X3FVc1NBMUktUkJnYVBxdEZaUlNDcURNTDliSTBpbzFMdDJqakRoSGE1ci1iS1Y2SGVXYTd0TnhKU1Y5UmNqVncwR0xvOWloZWROVDF0bHZzWFBDZ2pETEc2ZU9CMm5NZk9JbXdxM0IteWFhWnViUENZSlBwZFE2djRFUEszN0ZlbXRWVG0wSV9qTnB0cGc3Y0lrWTFoWnNzdHdPYXBoSkpBaFRjb3V2VlRmRVHSAbwBQVVfeXFMUGVNaEZwM242SXJMQkdPTjFGVnZGeFJhbXk4TURRVlhoMEdZT0NRdXpuNklhbEQtcXotbmItaGxvWGQyc0NqcVYtNXFWMTd2WnJDdFlVNlpkTzZIR1I2Z3FRdE45M2VDWlEycGU4RHBrQUlVYVJrNEVCa0M5azBoZDNOOGdoVkVwRkZ4QjZSeU1FMXNoOEFpSGZUT25mdVdqZkdia0xXOXlZcUhIMENaUTdGSF81THJTYjNfNE4?oc=5",
+          "date": "Fri, 03 Oct 2025"
+        },
+        {
+          "quote": "Fatal collision in East Portland bike lane raises safety concerns",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVlWaWxvOEpxM0pVeGlwM0pKeGpoVUlvQXhxbWwwYmlhU1VZbGUyekFyRkdUOHZjbTN2ZUxuVDhUeWl5TUpZN1c2N3FqY1Q1eDNsb2tnU0ZCbmFIWTZZckdRbjd1a0I0dGxVZGsxSnUwSGxXRVRFWktwOWVMN25wNm9OOFBldFkza2dLOFB5UkR0c0I0V2hZbUFBN2s1ZGU1UmwwNFQ3SHBEcWZNZUQweDhkRkFpQdIBuwFBVV95cUxNT1F0Q1c2N1Z4d1ZtelVkdnNOY0pHV2RPYm1vanlDeTJfWGRCUmQ3MDZ1cGlnanJGWm9WdDh3TXJXSVpLeVgwVmYtckhsMElJbUFOTjFGc19Mb0Z4RFV4TjhvTkxSNlY3VjRRdFVqVFJxQ0RvWDZ5Vk55N2x1UmZxLVFBNXBTd2R0LTFzRnZQZFpreUpkYU1hYzNpRC10WTFVdFo5aVJORXFKRDVIWjNjbTdqeXF6RjZ4RUJn?oc=5",
+          "date": "Fri, 16 Jan 2026"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 1,
+      "pct": 2.0,
+      "samples": [
+        {
+          "quote": "Citizens working to help clean up Portland's Monument Square",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdzlvdjNURFhsM3JhcUNkdWxUV05sTS0tbzBLTERJN2JGc0RQVDEtQWpsRXZsVTV1bUJWY3NVSHNkS243S0VoWTBTdlpuY01IUlNzdHhYbjFUQlR5YjBULV9uM3I3Mll0NlRfNWhsTmJMa2x0NGlrc2Z1YVFGamhISUxuTFJmSUk5bVY2Yk9n?oc=5",
+          "date": "Wed, 09 Jul 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 1,
+      "pct": 2.0,
+      "samples": [
+        {
+          "quote": "Syringe buyback program reducing needle waste in Portland",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMV80UkNGaFl5anZFWkF3NnRlbkFDRUQ0WmpEMWhCQUxuSmRYaE9KbmRoNjhpMVdwR1hpRHRKRVo0VkxPaFpNcnJyT2hSVDFXcEtEUGVSY1gtSDNTelBSNndseEM0NXQtaEVrSU5JRGtCNVQ0T3JkVHRmNmxpZUVYUTBzZmpNQmdoVGRfcENJMGtWdXQ1ZUlDRjVyTmY?oc=5",
+          "date": "Tue, 11 Mar 2025"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 1,
+      "pct": 2.0,
+      "samples": [
+        {
+          "quote": "Streetlights out, nights turn risky in neighborhoods",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ05vVXZEMjUzM0pic1RKTDA0S3NLSDZJcVAzTDhjOGlwYkd4cFBNN01IM2xWWWd1WW45blMxallnampTM1JQNDZIVmFTT1NNWjNTLWhnNzRNVFh2RXh4ZEVxU1BaSnJzUXg5QzlMcHV0S3VKbkR6X1FuYU5rbXZhRkc4YzlkOC1kMGRZUUZkTDdtcE5WS1VwWTE4NDlaRllhaVUwdlZfMWZ2N0JWU3hLODhVWGFGbnNZWVlKOHRMaGhSRndVVnBGVlFGV19uT3gxNDRuR1RiYzh1Q1plMGfSAeMBQVVfeXFMUFE4YTAySWdhdFBIUWdIcGxPWmp4Z0dmQk5IMUF3ZjBPemJTTlpuSFNfMkJOQ0RPRDRscG1RS05lOGpjOHJhV3BXSVFOcktwOVJ5akR4OWx6VC04QkttYkdvUWRvQkxGajJkNEJFeGxfc2VGbm13T2JvY09rYjhDV0xfTzNYRnN0ai1uT1pFM2thQkJxTlVJNFA3ak0xNjlINjBPUmI4NTBPM1JXZS1fZjFrMG9hd1hPZXVqMGt6RklZVklJOWFDLS1USjczT095Ujdza2RfMUNGQVVIc2lkdElQNUE?oc=5",
+          "date": "Mon, 02 Feb 2026"
+        }
+      ]
+    },
+    "Abandoned Vehicle": {
+      "count": 1,
+      "pct": 2.0,
+      "samples": [
+        {
+          "quote": "Derelict RV fact sheet addresses abandoned vehicle issue",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uRXF0d1RZbXQ2WlZKVER0bVIwaHlWU0lNWmN3dl9ianZDeVVqSnRLd1FtQmR1VnFjRUlPZnc3dUZ5QlhCRFRsQjZZNnQ1endveDhsS2tQdVM3Q00?oc=5",
+          "date": "Wed, 10 Sep 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 1,
+      "pct": 2.0,
+      "samples": [
+        {
+          "quote": "Residents prepare for flooding, stock up on sandbags",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHYxTWFXNWdjeEFuSDRhU2hTc1NhZzkyQ2hnLUw4T0FraDA4UGk3ZWl0QVZWbHZPWjJFMy1DazJ2NXh6Vm0zTExKYl9xbDBYS1NuR3pSVkl3LXB4TkFLY1VxNnEwdkZtMGdkOHdGQmZ0dFBINTVOTkdKWTJxS3B0ZEFtWDVkYXN5MHhrWUJyaTRXQXN6Snk2U3hETXZCQdIBsgFBVV95cUxOSnI0QXJvdm9iOUlUNHFwMTZfTENLMEVxM09uV2tsbkZ5ZVJ5VTJvcXpXaDFyUHkwLTZtYXBlNE5BdTJvYXlPWnMzUHl3SkxzMmktZzRtOHpXUWhObEoxaV9NT3VXNk1UcC0wLXVXZS1JUDZyTmJ1UndDdGNCOFFmdUs1M0h5YlRJZHlNcE9yQW5CSGwzdXpSRWVNN2UzcFE0cUpZaFpsbnpxcEo4LW1SOHFn?oc=5",
+          "date": "Mon, 08 Dec 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 1,
+      "pct": 2.0,
+      "samples": [
+        {
+          "quote": "Councilors to float $100 million sidewalk funding plan",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUk5ubW9xQXJJbXdUNTEzV1dUVFBlcEw5Ullwc194c25mdXRoNmpFN09GSXFaRFRUUXdNU3lTR0JPakFIRWJSazBJZUpTQVZjcTNJaXkwYWotQ1ZNZjBUTWNUanA0M2dLX2I2VXQ5b0NtN1VTTUk5clRZNzE5a01ZSW5nSWZYTldLUUdQN2c1T2hxT3BGWjJKNldHVXDSAaIBQVVfeXFMTzhQMkFjT3psanNtOUphZWl6TmhUTlRjWElWN013VWFwWnpsdDNfa2R2XzQwWHJwWFItUC1IUldSanczcDV2R1ZRRnowS1V4WXNNWGxEZDBxeGdaTTZyY2tOVEt3M1haZk5SY1JId0JkVGFiQjI3eTBsM09EM3VtdHgzVVIxOGVOZ0ZNSkJqRi02bXV1ODdLYS1JQzVpYnlfdmNR?oc=5",
+          "date": "Thu, 20 Mar 2025"
+        }
+      ]
+    }
+  }
+}

@@ -5,20 +5,19 @@
   Source    : Google News (past 365 days)
 ==============================================================
 
-  Articles analyzed : 107
-  Complaints found  : 67
-  Complaint rate    : 62.6%
+  Articles analyzed : 102
+  Complaints found  : 66
+  Complaint rate    : 64.7%
 
   CATEGORY                         COUNT     PCT  VOLUME
   ────────────────────────────────────────────────────────
-  Water / Utilities                   39   58.2%  ███████████████████
-  Pothole / Road Damage                6    9.0%  ██
-  Trash / Illegal Dumping              6    9.0%  ██
-  Sewer / Drainage                     4    6.0%  █
-  Public Safety / Crime                3    4.5%  █
-  Other City Service                   3    4.5%  █
-  Graffiti / Vandalism                 3    4.5%  █
+  Water / Utilities                   45   68.2%  ██████████████████████
+  Pothole / Road Damage                5    7.6%  ██
+  Other City Service                   5    7.6%  ██
+  Trash / Illegal Dumping              4    6.1%  ██
+  Sewer / Drainage                     3    4.5%  █
   Parks / Public Spaces                2    3.0%  █
+  Public Safety / Crime                1    1.5%  █
   Abandoned Vehicle                    1    1.5%  █
 
   ────────────────────────────────────────────────────────
@@ -26,78 +25,70 @@
   ────────────────────────────────────────────────────────
 
   [Water / Utilities]
-    • "Lawmakers raise concerns over residents' utility bills"
+    • "Indiana investigates utilities after lawmakers raise concerns over residents' bills"
       https://news.google.com/rss/articles/CBMizgFBVV95cUxQWV9HUHpCU201TEtlYlhDSXRCT1M5VFQ3cFd4VmZpV3A5RzFfVE5xMjlwdDN4VGluSThaSkdzOEpMd1ExcHJ5RjZkM3p3aDlOdFQ2YVBtbGd4ZHVuMVd6dzB4eFdkTWxLV2hEdmUzak5zR05VVklfbzBnTjA4SkpmR0EzVVgxX1BpUmhQbTlxQWdhSlJJSFFJNWx2R0RHdlg2OUhzUzNxMmlZSlNOeGYtRXJaN2NVT1JVbFozVmF0WUxkamdMcGh0b2F6X0xwQQ?oc=5
-    • "Residents complain about rising NIPSCO utility bills at town hall"
-      https://news.google.com/rss/articles/CBMirgFBVV95cUxNMXFqaGc1cHh0QmZEV1pNakl3VEhiWXRwNHp6TlFSeHFadHNjcnUxTWtMWWdvd3hkOUtBbWFCNTQ3d19pM3dXem5HemJvZjNRUFkxbE9aNE55b2xXVTFuR1VVbG5PS1gxNll0SnpJaGZydWgyc3lRelFJaksyQ2tGMnNqb0Nxdl9aRkFlSkYwUEtMc24wUTlEakVZVnlzQklKQ0syLXNKNEJ3Ukh2NmfSAbMBQVVfeXFMT3BXRnM4b1I2dzFHemQ4UUFlX3FQa3ptOTF3QWpycWxaZmhFVGdJT2RXbHdveGY3NThlUW9OQnhKUVgzXy1FdGthTnpfYWVKZFhfZTRWcFlQMXkyZ3R6Z053dk1aZHpKRDhUWS1La0hYVXBkRkVxdkVkSEt5aTN2NmNUZWlLQ3FfTnJaVENwZzMyN1I0VDh5enFQLUJoc2lGVVFYTUlKdDNmZ3hBRkNILTdiSVk?oc=5
-    • "Water main break affects North Haledon residents for nearly a week"
+    • "Water main break affects residents nearly week later"
       https://news.google.com/rss/articles/CBMisgFBVV95cUxPdE9vR1A5NVFlWHVKN0RGTTNOeFBHaDlFNnVQOVVlWlAta3pSU1RvS21NT1U4cGJZVkVMUnZHYnFzbDJTaVV6cEdzenFUQmFnMThCem9WVDhIRzB5cGFCTlpWOEUwN1U3TkF0bFFFQzc2VkVvd3lkU0JqSkVUMUFIdmhpUl8yZEc3WDBjNnJIcjB4WmN5OXA3VmxQdjNSVlljaDktSWhBRGt6QmhNdktHRm930gG3AUFVX3lxTFBVMzhyRXVHTVRocVNMRmhGRHVoQmw4ZDJzT0EwX21Ram1MRGlGVFk3c2ZhcnNnbzBIYTZQV2xDSmxMZC00X2h3QVA0bTJGRVlhSGV0bmNOZnhRUGFMWUE4YmMxOEZ4TTh1ZV9RS3pLNEdKTEtqRkNobHU5NUY1ci00SXZfamJhNHFYS1lEdExJT1AtVU90NmRlQm1DSUU3U2ZncGc1T2h3a1BQa3V4ZmMxcXRvZklCdw?oc=5
+    • "Water outages reported after water main break"
+      https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYWxFZGR1SnFhY1p2RzNIZlNVN3BvVks0UlpPZDhoUmV1NUlqd0NUd01VZy0wQTlBbmd4M284Y3lCdkE2ck1hVm1QRUZ2a1RvMTlRbmR0aV9iSUdZZ2xkalNna0VNZ0JrQllKNVFUYlp3VVA4X0tfR2ZLRVBTd2Z0SFZtc0diOEx0UGhtWjNDODUxbmZwMnlCc1U0RVEyVkxzcmtONFR4TWdPLWt0cmNpbTJqQXdCWU10SURxUTlZNVpGNEw4czVoa2NNLVVBTF9iNlZOa08tNUZYM1pRNUY0RFVBbnBPR0Z4?oc=5
 
   [Pothole / Road Damage]
-    • "Pothole season is here. How do I report potholes?"
+    • "How do I report potholes in Indianapolis?"
       https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYWVTb0M2NkhJZ1hDVzZmMkc2UXc4MGZkMnF2ZUVDQ2c4WHMzR21xMGp2Qjg1TjFpaGw5akhlU3FRZzhTRk5QUkVwQ1EweWlhdW9DU2JteklCY3ZjZU1UM0wyQUhvanluQmFFS0hPejN5RlFWRGVROXVwbVlFMGdjRENNemtQQU9odXp4aW5HZWFwZTZVLTctcXhTMjRnZXY5Z0pmdTlPaGFNMmMtUXJWM0g4NGhEV2JEOXJld0thQTdZYlNFWm16ekpVdjdLTVY0WnJjQnRwNVhDc0VmZEtNbHFRTnl1b1E2V0V4VVFSb3VRZw?oc=5
     • "Massive potholes on northwest side worry businesses, residents"
       https://news.google.com/rss/articles/CBMiowFBVV95cUxNLTFtTW9UVENLVEgtdm1WaHQwR0t3WE4wREJDdXdzbjVxMk9GcW1CbWtHc0hFcGwxeG1MYlRBNndSS1FIOUtGYXZDb1h3M0VYUHRMTnk1M18zNFJVRUV6azVXcjAyelpPcXlkZVhhU3hfeFRCeWNMWXlXcnc2M1o4U3RyaVRuQ2Q2RDA5cU5oXzNDS01QUHVITWRjd0t4MDlZQWFN0gGoAUFVX3lxTE5DdHV2YjdUNTVUbjd5SlloeVF5aEtVMFF1MnRxbC03SXRrazE5bVJNbXN4TWJxV3ZjdHFHZU1ZWXZxT21lUnVXSzdkVW1nUkZ0Z1lkWm4yUkgycVljMmlTSmJURndMNFMtZWxNbW9teDl2UHIxVnZpa3d4MTNHc2c3OFp3eFVrSmxkSmdJdzB4M1YzSVdTVEZlX0RIanVkYlVlVmljWWtMWg?oc=5
-    • "Swerve, duck and dodge: potholes plague Haughville neighborhood"
+    • "Haughville residents say potholes plague neighborhood"
       https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3YtcE1fUGYwY2tYQnVHaXhtazJXaFZzQ2lUbTZnQ0FnbnkyUVlqdFMzRWNabEc4MFFfUWxzUUVnakoybFVwX2JSQ2RQWVc4MjduYmtzQTVLeHJwRjZsM2w3T01XaExjUXZiWWJpeHRFZkNkMFgyVW1PbGhHU2JZR2RweTNTRVZnbjZzcDY0NW04SDVINTg0N2dVTm5aaXBwTlpDRHNlcjNGYndlV2FzREVn?oc=5
 
+  [Other City Service]
+    • "DPW clears neighborhood streets under new policy after historic snowstorm"
+      https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZHp2MXl0ZjE2cnUzRWRzM3R6T3F5aWJTM3VKbC1adGN0U0FPektBQVA5TlN4WjA5OXRLWVZjZ2hEVmhaS0Z1Nm5TVG9teEJPbllFZmN1a2lwTU5HV0NJMmhsMElUMHJGeGpNUkN1WnVjX04yTzYyMHN2RDFFV0JBOE1KX1FOQ3NvS2hBcHp2d1REai01WHdaNy12Y3FVU2tWcWNBRS1VWGZJeVRxNzFkdmdWMlZONDJTNXh0M0NINThmUjBURnVWRkVXekFNSnd2N1NMWmpBTVdqdk5jaVNpY3hXMmItZVlCYUgzT0JVTzdZTFFPWmIw?oc=5
+    • "Bed bugs, lack of heat at Karl King facility cited in complaint"
+      https://news.google.com/rss/articles/CBMidEFVX3lxTFBOS19CWnZTRzJDUFVqT2pkNXl2Slg1OXFVWWl1eVgxZ05pR2NjYUt1NVBnd3V6dzBOZHp0eXZaSnBzYnowRGxTUlM1dTZ3NVM0c0RJTjR4YWxZVnJaRGwtQVFYaF9fSm14NlRBTl82d1ZDUkpm?oc=5
+    • "Council discusses enforcement options for nuisance property"
+      https://news.google.com/rss/articles/CBMigwJBVV95cUxPd3VjaVh5MkhjNjVGMnNBMERpX1dyNkZTakFDdURVUGFCYWJpSkF2Vk1BWHZBX05wMXZudkNWTzhXNjVjX3IzN01zbW92UkpZa3JCRGlPSjJpc05sOXJXb0VHTjd1VFF2LV9hSFc2V3JiQXFTWS1rWFJHY3lqRW1xcUhFXzN4dThPbUQwYmI0VHQ5OFQtX2w4MTJyeDJsOTlLdnE1a2pON0RZZFVwdm55R0VrSDFJbnVNVmNLMk1vbTkyNUluWDc4UHRMLU85cTFTNnZ3RmgyQnpvMV9YUHBOMWM1S1BDOWJxUHZtYlBYU3IySk9sdVYxSk5PdDE0bDRiU3JN?oc=5
+
   [Trash / Illegal Dumping]
-    • "New trash bins criticized for banning yard waste policy"
+    • "New trash bins spark criticism for banning yard waste"
       https://news.google.com/rss/articles/CBMizAFBVV95cUxOZkpIdnE4ZFNab09vWW5ONXZST0FsMUNJMDZHOHZ0ejhiektzV2NkcE0zTThGc1VUeHh0RXItVUNzYVdGbllqYjBTUU8xeDZ4c050TUgtNVZ4YUJTa1lCbG1wT1k5OUZ5aGE3UWZYRzYyWF9VamtyTGZrNmxJdDlsOEk3XzgzeG1JUzJEQmdQSFQyOVFoSm5ablJOc3J1a0NtWHkza2V5cTRKYnpkdGVPU0VvQUNOUldEbDFrWk00V0hJalQzMlBVSmVwWDA?oc=5
-    • "Garbage piles up: Harrison Trails residents demand action"
-      https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSThEaG5zY3JsbzZBRERtQWF4ZFBsTS01STBBSUVCV21EV0lrZ1JTQklRZm9JbnU3dEd4SWxMZzNkSVhEOGVGdnNsZWM4SjZIdVlCN1c3NlFkMENkNVpWekNjQkplMGRkYlJvdk44N1QtYk8wb2NmYmlRWFlHVEdMczhHRDZKX3pD?oc=5
-    • "Apartment tenants raise health, safety concerns over trash pileup"
+    • "East Indianapolis apartment tenants raise health, safety concerns over trash pileup"
       https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWpQLWtCU2htVUlZbk4zaEFrWmhQRHRURS1jT1BCNjZuck80VXI0WTg5VEFlVmVCdnlueDVHZHBDX0tVM2tTbzl5UGVTSEV6VWdrTndQN2kxNmVZRnk4b21QbnZKXzliREFWWGdzVjU0b01fcVRtNEpkdHN2Q1RBSXR5dWFza25vcU1neUdSYjE5Z2JfM25IM2lfd05WTHNocmdNdXVEZE9pUdIBrwFBVV95cUxNWVN4dERKZGszMlBVMGVteVBFVDV5WGNzcFZERnhzUjdhQjRMaC1GMXl4Q200WkZjcG5tZE0zUU5PTDVZSXJkRlhGUk43NWVwYVNRVWFJMXJKQjRoTTdicUdZYkxaQ1ZQNlZicmVJSDFpcTVxcmNNeWNOX2FZQUdmUmZsUmJEUGs4Nk1tLWR0UG1fa196R0hQc2ZkTEIzelpJSU81SnpuSUp0bGtidENv?oc=5
+    • "Harrison Trails residents demand action over garbage pileup"
+      https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSThEaG5zY3JsbzZBRERtQWF4ZFBsTS01STBBSUVCV21EV0lrZ1JTQklRZm9JbnU3dEd4SWxMZzNkSVhEOGVGdnNsZWM4SjZIdVlCN1c3NlFkMENkNVpWekNjQkplMGRkYlJvdk44N1QtYk8wb2NmYmlRWFlHVEdMczhHRDZKX3pD?oc=5
 
   [Sewer / Drainage]
-    • "Lake Wallace continues to frustrate Indy residents with flooding"
-      https://news.google.com/rss/articles/CBMivwFBVV95cUxNMEVBbmd0RUtCb19TYzJ6SnpESnRrOWs4WEo5and3UVVPUEdOTEZFRHFLWG9yZDNEQVMtRFdmSVM1bXd5MnZvZVA5RTl4V2xZMUlZbU1OdVhZenFFLUtid2NFdUdmOFlTZEVTMFVIQ0w2MlF2QVFKdGYtTjhjU3dKd24xVldHbENfRDVPTXNBemxTWGNDV3owTjVzdTlFZkFENVVPRUNuRGdEMElPZGRfTThwZVk0SDdGZlNRT0ptSQ?oc=5
-    • "Chicago alders call for action to prevent basement backflow"
+    • "Repeated flooding prompts call for action preventing basement backflow"
       https://news.google.com/rss/articles/CBMipAFBVV95cUxOMjJXZUtHc0NncHR5bFFIY056SVFBUmdwdUhFX29SU3ZJV1VMX2pWQWp1RDNELTFWTTIyT0ZGQWNwRWtRbmV0SnhMaGR3VnlkeWJSVWVSMDJ1aEt3alFLSkx4STgxTlJvYUx3VnljQkFUNndIbFk1WGpWNjhxTVcyWm55SlpMSHk3MGZpcFU3MnItNWI3MjVkNFI5U3ctZVJTc1RMOQ?oc=5
-    • "Indianapolis intersections prone to flooding during rain"
+    • "Map shows Indianapolis intersections prone to flooding during rain"
       https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV1l0YTlCdnd3UXNWOXNfMy1NdzJMcHlMSVk5Rk14T1JUcGdKTUU5RmdpTmZCNEp5OEZfSnc3VHYzRThldGQ0bFNsNDBhTUQ3UFJid0JqTTUwVS10R20tM0QxdUNxbFd4UVVsai0tdVBSNXpOZ0c1c29YTXJveFhuTUh6RmNGQ3loSXJvUGRGa25XX0hMTXlyV1BwbmlnYmRVazFNYkgtVVJKdlY3SXMwR2Vsd2FPejNkdGlINlVadXhVaWtwUFEwaVhoLVQ5bVF6MHdmbnkzQ3Nudw?oc=5
-
-  [Public Safety / Crime]
-    • "Frequent gunshots, scared parents, minimal security at apartments"
-      https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa2ltYld1dUZqbWpYUFdxX0lNb0Y0bGh6T2xiMzhra0JoTlJyTEJHZW9taHVRX2QyWWVBWndxcG1rS01yQ1hOWmF3NXdoeVN4ZUkwRExlcF95ZmhHT3plOFItbmlHVmUxc2JXNWgwLXJBcUFITVlXR21FYnBKbFM2emhjUlE5RUFpLUpINDZHQmpwVFlMSktqUVZOa2ZYTkRsMHQzcldsSGlNLW9UNi1PNkE3VUxzZ0NFVmhJLXU4MzJRRHFCeFNJcjBMQ1owRWNCbWNwcXJEMF9ySm5qVFA1UmdWbUM5WHVZLWxsbEc1S2xqZ3U5?oc=5
-    • "Downtown apartment residents sue over safety concerns at housing agency property"
-      https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd3pzRnFDM0NYMU1qdndsbmZjY1MtakpPb0ZONDlyWUZiRDBvWVdpcXFqTm9SVHhEN3VhREJKVGhMQXc0WXM1SDZMOUtLR2dXOUxEam9wanBlN24wRzREN1AySzBJZndfSEpjbFkyOGlZRmdlU0ZiNk5kdXI5VWpqTmtPVzJMMGlsZ0xFQnJZd0NRazNwTF9TMGhQUDBoajNCUDJLLS0zSlk3b1BmYWJMZlVzZVAzMlVhejlUdUNXZ0NZbXB2YW1ISUxPcnFwR1VKY1RXaWtqUTZ6R1RlOXdaWTJ5UGJhdzg?oc=5
-    • "Rogue police officers targeted Black community"
-      https://news.google.com/rss/articles/CBMi3AFBVV95cUxObldvQl8wUGM5bFVrOEJkeXlNVThyVkQyblNMTFdYR3JXUzVVTnItSklrQl95aDRzUTZmbVQ5SWc3MG42UkJ0Nng2ei11Rnd3Z09iNmlrV2dKY3JNMldBRzZIMHRPVTRzM242S1lKVEllUVhRek9SU3lkcURxalprTnBkbUthSW9CdlkwaFgxbl82dnJubXBpVFVuZm1nMU0zYTlCcHpWc2gwTUY3NXppZndvT212RXphVm9Vb1hEbnpKbWRtcTJhc1BSNVQ2Znp1a2tPM0JGbGluX1pC?oc=5
-
-  [Other City Service]
-    • "Bed bugs and lack of heat at Karl King facility"
-      https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVXJqVGloaW4xU1Y5VGdOLWd3aFQ4bTJORlUtbXV4QXZXMVBBWjBHdnFnVU9xZVpNazMxSEhJY0pDNG5GaDhWSFlrQzdPS0lWR3pYUWJqcEtPTGZPZWZCSVdXZWpWSUxIRS00d2VWUnRTSldxa0hXX1dESm1Fc0hReTUwdXIxYUJwVjlybDVxRm11VHJfNjF0aV9kZXJvaFFOU3VhZkMwNDhVcjdtaldqZFIzWVJPTjQwc01PRWg0cktIb081LVkwa3JYRVcxWEUyaThMOQ?oc=5
-    • "Housing Agency properties found in extensive disrepair"
-      https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTGxpSnZkUmRnTXRhR0I0Um5jOFBpSy00cHZpejFHSV9QM0ZfUkVONjlfQUppNENManNmMTNGYXQ5aFc5OHkwMWd0dkRCQ2ttcHNWdXZSQ2JaN1V5XzdMLWMyM0h2bEcwMTlEZDg1YTB2MUhPcVBlOUdSSmFYbXFCZFJhQk9TRGVuYXBV?oc=5
-    • "Repeated utility line hits raise concerns over Lumos crew oversight"
-      https://news.google.com/rss/articles/CBMiggJBVV95cUxOUmNuR1hqcFQ0UUg0YTA5Q2FXb25VS0VIbDUtVmw3TXVidnYxRHVBNmZCOFpuUmJoTndPWHFocjVMeVoxd0ZjZU94dlBvNTJXbk14UmpwTzZGRVJkOC1NX1RvSUczWnd0LUp4dkxYSDA1OTJTUlpsU2Y1alp5b1VIUnpsQ3VKSHNLbXJGWlktS0NBRDQ2aS1aVmpVVzV0em1jYWpiWmU5eFpIQ0J3M0w0eWJyMW91QURjQlhOSFVXRUlaYU16Y3hjLU1CODZGMlM1dUdMdjEzODZDb1ZLS3BMRXBqYk4yVHNaeHQwcF9vMmxkREswZVNUNmlsVEpKb0VFelE?oc=5
-
-  [Graffiti / Vandalism]
-    • "Hindu temple vandalised for fourth time in less than year"
-      https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbFltMTVaSFdYMU1iaWV6Ui05VThmX3ZBNV9CVEpseHFzd1RsY1haNDNCYlJ1dTRsa1UzcUt6dklBX05sNjB6RzEwcWotS2Z0bElZZkZKOHRXY0RKem9zRGZNWkkwRFljeEFxNVgwS1h6TmtycUtZaTBvcGhpSERHZUlMSEdkQy0xVzRWYkE2UUo1WGdnN0tEdWZySUc5cXhBNjh5T196aUdlcEcwZ0VXX1o5VjIteFM3WkFick9zemlFYnYzRjhaVDlyX2M0bFViZzBRQmljQjBKcEZMcXVteE5hMVZqUnNQZ0JGNDE2WFljQWxvaS1IdTk0aFVleUnSAYQCQVVfeXFMTUlocm84cGJYcXAtM3V3TzFVa3hjN2JZcU5VZzB0cUpNVlhObGstenNZMjN5anVOU3pJUHRHbXN5blNUVm1KSmpVcS1ubWJpU0pCSW9Lckx1TzUxX1VWWlJSWGo1ZHRDdDJCbzc1QmZqcmFVWUsxT0l3WmVsTkNjdUtlbVR0ZEhLOUxwUUZYdXJTWFFaVHk2b2pzRFdnVUtzTUtjWUZqMmhSRXItTml1akNSbWsweV94ejdrWm53aGQzbEdyYXZOaG01U2hHYVljZk5GLXhZRVFqMlVYR0ZodDFIaXV4bUo4SlZRd2VFVTVnUVZxajY2MnZTN04tZTNhVEtSZWg?oc=5
-    • "BAPS Hindu temple vandalised with anti-India slogans"
-      https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZHNoMmFTdV9aOG5VU2JuWG5sVDdMdzVNSE1Pd1VMRGp6QXNBYU9vR2VmbmFDQU5wWkJJNnBuaDBlM1kwbUdER2JzZC1aVkxsdkdPRTllQWlINDVCRFRSVzFhSGlvbHZOcVFyemMzWTJ5M3IxMTNBOUNHQUN5REFGTzBPM1d1WkpjSEVTOHRONmpvSHo3LUcyZFVwQWNrNnpIb0Ezb3U0Mnh3LTlkSVZkZTg1SkpyOThWaWg2S29HUC1pY0MxZ1pEczlqcUxFYnJUSi1vaVcwNXVtcU45ZnVSNE1GYXk2ZEZNU3RrbNIB8gFBVV95cUxNbjJfWEp5RXlEVktINzZUUEZjbXpzb2FPZFBiWXFFSkNmVE40MEpxTDRqNUJtSlV3Tk5iLXA5RXMwUWQ3a2stQUozQWJzOEhLcWM1UURUZmt3UWdQRldyNlV6b09EaVZqcFlnVXpHR05FSmZJXy1ucm9VYlp6TDN4eXRJaEtDdmRDSFN2cHItNzYwQ0NYRkd6T2NsTUJBQmVfaUIwTHhmUFRIX0E2M2dsa1hILTBaRlo5WjBOdGZ3eWp4LUFkQWlLcWQ5OWJ6OFJrZU41RzRTOU4tVV9MZGI5ZXNJeW5wVmd1cTFtd056RTBpdw?oc=5
-    • "Pro-Khalistan elements vandalise BAPS temple in US"
-      https://news.google.com/rss/articles/CBMiygFBVV95cUxQa3JNaEQ5SEdXbDRiUjljYXVBUW1iOGMxZzNlWFotZkxBVUdwbW5xR1Roc2xCNi1PU3JNQWVBLWY2SEg4T2lUclBnZU50Ujh5dnhIRXo3RTROVm5UNVlFcjVrNV9NRklQQlRfdEJTVDFWRzJOVWYzRE9GdUNjR1RUYXRYWWcycW5iWWpBclNYTG9jN2V4Sm5TMlhzYUhGQk5JWER0ZERManBMYjI3Y0dhY1NuS3VyeG00eDBTNGdReVAyMWdCeVEyQ3ZB0gHPAUFVX3lxTE9TTmxld2ItNk5scDNqNmRyX1h1MVVqN2MzejV0ZU13bWlzaTBkaS12UnNKRGhXMnMwcHpyUE5DUHA0NHB2YlI3STZrRUc1UHFmaWMtVlNKLWozQl9KR3h6UlRQc2Y3SWlBNkRPZ1VrTG5aSFZWdEVnYUZlRjExUkotZ3d1S0ZoZEVqT2lTWTVyWjJmb2l1VnFPdjM5U0VHaDlnUG1TQm44OHpuOVB4enlmUTNkdlk2WGNVMmJqVzNLZ0JmYlZoRHdONVQ5N2tUUQ?oc=5
+    • "Sewer plant under water; officials warn residents to limit water use"
+      https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUEJZNGtYbEtoMmJUaW9iSUJ3b2I5SzFIejFLdERSRzBGbTdKT21ZbWhsUXNPMHNySHYzWnhvSENTaXZiTTFzSm1lR0xTZGowS3ZhMHNGamVxZENNTHVlelM3Q2dHU0s0WlZ0Z3AzUmMxWGFLOS1OZU1HTlZQbjVscFNfSEtCNGhQVWhWMk5yQVNpLUpHZFJUa2RkakkxMnZlX0RUaTl1Si1oelEyMXN1YXpfaUU3OS1HZDFKS3E2M1diY2FjYVVEa0RXNmtvOFpJcDBIb2xKdkJHeGt5YjFTdFpEdTJ3SGdQX3oyRndn?oc=5
 
   [Parks / Public Spaces]
-    • "Residents urge city action amid expanding homeless encampment"
+    • "Fountain Square residents urge city action amid expanding homeless encampment"
       https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNDE5M3FwM2djX09WNUUwYW03SWZRYmJwNFc3U2dzaldhc0dzUmxncVZORDZNaVd0XzNFcVBGWGJWeVdnTVpfQXJjTi1LTDJsRFhxVk8zdV9KTVM0WkxzZjhNeW5rN3B3cF9ZeHM4bXhfR0JMSWtCUG1EZEpOTTlyWk85QmJKV2lYaTd3amZhTHFhdDE4REtORXpMblFnSFY5TnFqQXE1dW51YWdpN01UclJ3NFZJelRYTzBOOFpLcE8ycW1NYklFR3hmck1IQU1WU1NTMzR1QTVIVk9QbUVN?oc=5
-    • "Budget decrease concerns about impact on park maintenance"
+    • "Budget decrease concerns for park maintenance"
       https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0phbnpMR1NWeVQ1QTA1aWdZVHJCc3FHZ3Z6azhUclZTN205YmQyWTl4YWpveWE5UTMzMDlEZkYybGQzS0ZqZWFwUVI4NkpWekZNMjdfeXpkYnJ1ZjVoMjZYb1B4aGx0Zy1iWW5uT3dsS3hYMUx5Z0cyUVdYTTMxQTRJNVBRRzNybnh0ckFvQXRmNk8yV09UUWRTTlVxZnk1b1RxTXBJTEJLRVY0?oc=5
+
+  [Public Safety / Crime]
+    • "Frequent gunshots, scared parents, minimal security at Laurelwood Apartments"
+      https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa2ltYld1dUZqbWpYUFdxX0lNb0Y0bGh6T2xiMzhra0JoTlJyTEJHZW9taHVRX2QyWWVBWndxcG1rS01yQ1hOWmF3NXdoeVN4ZUkwRExlcF95ZmhHT3plOFItbmlHVmUxc2JXNWgwLXJBcUFITVlXR21FYnBKbFM2emhjUlE5RUFpLUpINDZHQmpwVFlMSktqUVZOa2ZYTkRsMHQzcldsSGlNLW9UNi1PNkE3VUxzZ0NFVmhJLXU4MzJRRHFCeFNJcjBMQ1owRWNCbWNwcXJEMF9ySm5qVFA1UmdWbUM5WHVZLWxsbEc1S2xqZ3U5?oc=5
+
+  [Abandoned Vehicle]
+    • "City addresses abandoned and inoperable vehicles"
+      https://news.google.com/rss/articles/CBMifkFVX3lxTFBGY1JuT0JoN0lHRDA3SzdXOG8xVFpoc2tUMWZZR01Gb0tPVkdwb3IyNVdlaE9jYnVBZEdYc25aVU40aUpfdkJkbHd0VmFNV3ZOZ2dOcklYMDFpZGdHS3k2TlY1SUthSXBwZllKUkowR0o0M3Izek1wdFlNQ25RUQ?oc=5
 
 ==============================================================
   PITCH SUMMARY
 ==============================================================
 
-  In the past year, Google News surfaced 67 news articles reporting
+  In the past year, Google News surfaced 66 news articles reporting
   citizen complaints about city services in Indianapolis.
 
   Top issues:
-    • Water / Utilities: 58% of complaints (39 articles)
-    • Pothole / Road Damage: 9% of complaints (6 articles)
-    • Trash / Illegal Dumping: 9% of complaints (6 articles)
+    • Water / Utilities: 68% of complaints (45 articles)
+    • Pothole / Road Damage: 8% of complaints (5 articles)
+    • Other City Service: 8% of complaints (5 articles)
 
   MyCity311 turns scattered public complaints into structured,
   trackable reports — giving city staff real data and giving residents

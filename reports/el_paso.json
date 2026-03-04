@@ -1,0 +1,194 @@
+{
+  "city": "El Paso",
+  "slug": "el_paso",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 129,
+  "total_complaints": 90,
+  "complaint_rate": 69.8,
+  "categories": {
+    "Water / Utilities": {
+      "count": 65,
+      "pct": 72.2,
+      "samples": [
+        {
+          "quote": "Second water main break as EP Water raises rates",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82MVFlWUV6NnJLQ2ZjOFFYZjVDa2U2UUF6MWljS01kN1U3YmprOG9zSXRSNU5FNmxVdHFCRGdoNXNPUEwzWk8xWFU1b0Fzb2hLSUwwNg?oc=5",
+          "date": "Wed, 14 Jan 2026"
+        },
+        {
+          "quote": "El Paso residents react as utility rate hikes add up",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQWw4Z0RCaHZ0Zjg2dF9rdlhOcmRiR0pnZlZNS1dJSm1Bb21TT01kenNqLU9BRnFhQUZlS0xwQmJNNmF1Nlp5WEppMngtdmdsNzA5dTlQTG5xbFZMV3d1SHc4aDZ6enVaUF9wd1ZQQ2JTMVlTdnFuMDRvVi02WjdReTBieU81OThNSlE?oc=5",
+          "date": "Wed, 12 Nov 2025"
+        },
+        {
+          "quote": "City council to decide on gas rate hike",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTItYW5iZzlRbWlHcG5laEFXUGpPaUR6b0Vmamdwd0RZTjllQi01YVhqc1o5eVoteEF6OGVDZ04wMk1Sdlc1ODRndmtibWt4TlMyWGxnVnNZaTBJZVFTVUhoS3dNeXhkdGJrSTVOMi0tQUN5Rnp5Z3MzRjRYQktkLUZrZEZoeVVvTVkxT1A1TlVvMTR1UzRCWUVLMXRCQ2cyYVQ5TmtIeTZyN0sxWWl2R01HRnE?oc=5",
+          "date": "Mon, 17 Nov 2025"
+        },
+        {
+          "quote": "El Paso residents report natural gas bills nearly doubling",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYVFycXZYQmNCMHBzTF9WZFpaMk4tTFItWGFld1RmUHF4VTNkdnhMa19zUElWdEFYMl9qR1pEOFhqa3hFVGVEaWI3ZFZfTmd2cVNXdTJ3RXZLeDYtcXRVYVhfemJzWUFBc0d2Z2JNUWFaX0RFQVJzdUJoQ2c4X0VmRGRYbEVrTS11LXR5X2VkZlRTaDMtbHZVWklwZExLb1N5VFdXMXpVbnJiMk85Mkl2eTE2ODd1ZkE2ZUZrZzd4elIyT2ZCLUlnc2JKSDBacEtoSDFibzZiSWN3bGRhRDl3SGkyR3Jwdw?oc=5",
+          "date": "Thu, 26 Feb 2026"
+        },
+        {
+          "quote": "More than 100,000 El Paso residents left with no water",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZm1tWjkzX3VWS3VCV1lpQTBDUlRWZDdfVlg5M1ZOYmlsaTVnM3VLYjBVTVYyRk52T0VZVlhnTWMxa0w5dFZzRDJKWklvQ096OWFyQ2lPa3BxSFowb0RvajJZRmNIV0VfWmd3ejN0Y2QxU0pvY3ZCMGdja2hibnktT0dqam9la09fR0tFcVVVb1E4b2xtak1kRWM5YXVVU0dpSkFWVElUQWV3UE1sWXUwNzZoOUt0UVZXbzVfRE5SbWo4aWIyM2VpRFk0T2ZTdTg5eDJmZWFR0gHbAUFVX3lxTE12U2FiSnhsVlpPeTFiTXNVYnFHQ0I5NG4ydkRlWndESFAxWDNHSXY3ZElNLXNZU0o1WWZlcDVOQ1lKNHVuUm1NRDZjQlRncDltMm5OU0xuWjdSeWNpd3RDQ3FsZVBYOFJtWjhIWmhTWG5vYzN1ZDBVakR0bk1uVnV3QUJRLUthT2R1LUlES3BwSTJwWDZlR2xVUHZDSTkyTTJZZWw3QWVpOXo1LUltakY3SER6YVlZcjdGdFY4R2ZNbGxCcmZqcUxTNEc4a3N5a29TR0pZNHVHMGNFOA?oc=5",
+          "date": "Mon, 12 Jan 2026"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 8,
+      "pct": 8.9,
+      "samples": [
+        {
+          "quote": "Potholes rank among top complaints in El Paso",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPanN6M2VwZ3lpQUdfZ1hvT1V6dHVZNHQzSkFJWjFLWEdEbWJmSGJjRU1MTjc2SEJkQmRzLTdzWGdJaGR0cjVPcnNOa0dxcndjanhkTmRzTXpodG12NjAtS0Fwa3Z1Q0Q0OTlDOEFhMkFVUWNQN2NkV3V5Y2RZTGUtTWNzc3FWbGJDZUxhZ2tTTUFqMUlnR2xyN2hScDZHTWlXa3MxYQ?oc=5",
+          "date": "Mon, 23 Feb 2026"
+        },
+        {
+          "quote": "City urges residents to report potholes after storms",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa1RhZzJrRW9pS0tsNWFTZHhYWEU4YkVtbmJjQU95eUVpZ2k4UjUtWW94eVJIUHA4bEJkRGI4UzhsVXN1aFNkV2pKVUNyVHZ3cWFNWjhpdllwa1F4UjlXbXQ1OWRLczBod0wwNHFWNFpvd3d6anI0eE5LV2l0alNvU3JUMXJnSHBYUkVCRzdQY3V0XzlMSlFQXzcxZ1FaMlhKU1hNXw?oc=5",
+          "date": "Mon, 13 Oct 2025"
+        },
+        {
+          "quote": "Street repair plan addresses pothole frustration in El Paso",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBha0gwT09JZnFGVjh5dmNnMzBkMUFWazZrRmhqd0RGS2s4bVhfWGdybmVVQTRpYXVxTDdDNU1EdzNTVHEzdEFNYTVjMnd6RnhHZVdFcks4bjBVZEJ5Y0NmUUpnSQ?oc=5",
+          "date": "Thu, 05 Feb 2026"
+        },
+        {
+          "quote": "Drivers report vehicle damage claims tied to potholes",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcXpmaVlxWlhTd3ROc25ldkd1WlRHbDJRX3N1S3gtbEZKV09sSGZUVjNiVU04eTBhcU1BeFY1VWJoOE9UR0kxV1VzVXpzaG9Eb3Z4X0FnNnVfaUZKaHlMMGdQREhPUXRyMENtVFgxMGpxSllXZW03THJJb3Ytc0d6azY4LUwtbnpaVUtTV1Q3dlBDOUxsOFpR?oc=5",
+          "date": "Fri, 30 Jan 2026"
+        },
+        {
+          "quote": "Drivers report pothole damage across El Paso",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdTBOTHJjSWJpYXBMVno5MW1Zd0hXOXlrLTNaRGtMSjcyOHMzSHdIaTRhQ1NxeUctd0cxV3BLOXNqUGlPZU04eWU2aHZSNHdkZVV4WjY4bU1kRi11SmZoTEdEM1ZhZDVQYU9rQ2NtSkpoR3RWRHl4aDNCR3VXX09sR2otdE9YMG11SDUzS21nV1I?oc=5",
+          "date": "Fri, 30 Jan 2026"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 5,
+      "pct": 5.6,
+      "samples": [
+        {
+          "quote": "Trash services improve with fewer missed collections",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlVmWXhfSzlmSV95UmQzRTZpM1B5VDR4b3k5NnhvRFVCYWtUOGVhd0tlV3ZwUDVSal9PRlNMME1oX1R1RllnVUMteEVGbGNnSUtYTU9CTUV1NTEwV2xkb0wzZWltLWluYm9UNW44UngwS0lIc2VsREpOLURmZFZtYVlSdC1pT0VhLUg4NFE2UHFnMHpqY2tWbndVM2UxMWZ6NGVhVGRGTEdBdkF2NXRYd1VuaTZfZXA0TjB2TWJPaVJvRzlpNENsM3FQWjU?oc=5",
+          "date": "Wed, 28 Jan 2026"
+        },
+        {
+          "quote": "Municipal waste systems leave gap in residential sanitation",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY2VmeFEyZWczaXNaa0JRd0R5aTZJNVNqRDByLWhNZTE5VzIwUkM0NHhIby1wUHlmX1pFMm1taHYxTmt6SGJiLVN4VHBLdnBvQmQtTFNKb1lHb2xHc05nM0JzbWVZc1pvOWUyNzlITHJwU2JoUnhTV25KNWRsUmQtQXVEMDlqbmRKZVJiTW9mX3pDbUViQ1NCdjBaYUktY1pvT0RHWldfNk5reG1CblNkLW00QnpLQ3hvWnV2VHFqVy1hbXRKc0hmaS00Rjl2cnF4b0JhN1JQSkszeDVzM01oM21Gbw?oc=5",
+          "date": "Mon, 09 Feb 2026"
+        },
+        {
+          "quote": "Fort Worth trash pickup improving after months of complaints",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQTF4LW14R0pxRXhxLTdDWlE4Um1RUHdCQUtTS1R0ZVgtbmR3RkVibnZDdTQ5bEtwRUw5ZkpMaGQ2dmlncXZKZk1UQ0F4Sm1Nc0hSRDVueENPc3BfaXhGOW45U1YyR0E5UjZSclhnelZ1TTF3RGRvbld0ZjZQZ24xSTdzX3pvNTJOc1lSYVE5RXlUMDhDRU8yTnhJc21Ub0xqb29ZWE0yLWpld0dZZGhj?oc=5",
+          "date": "Thu, 07 Aug 2025"
+        },
+        {
+          "quote": "NE residents upset about junk-ridden home",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMTVrM2dtdzZkN1dxdkJNX1UxMGhPSG96N1NHdXd1eW92Q1dWVUhhck5yQzdwY3BXelo2dnZzUERSQlI5SGpSWTNuQW5jVzBzOWoyVFpYcHFiVnZKU21ha01nUVpVTlVHWmdjcVVlRE1ycjk1clYyNVphT0dJUWJkNTBkMHFZZTRUNHpHX2NYMnlIVTJ6YVc5ZTZn?oc=5",
+          "date": "Wed, 12 Mar 2025"
+        },
+        {
+          "quote": "Fort Worth evaluates trash service after contract changes",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWm9kWFdPWV93bmZzRk5nWDk0VGxISDYzQzdtTElaN010eU5TWFI3eEhhaUZsY29LbTZqcElTVjFqbWVaOVcwbDI5TEpqOTZzRDFDanpGczlydmlZYktiTi1ZU0NPSFdmOWowSVc5ci1YYlZtMm92Y2czX1RJSl9PRFFKUkQwZE1UWVl6YllVZkZwWlctY0FfdTgwc3Boc1libk9QQ2xDNzUwZy1wdDh1YWt0MWE2ZjlRRHRqVFpSVE1RWEdwWnNtVA?oc=5",
+          "date": "Mon, 10 Mar 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 5,
+      "pct": 5.6,
+      "samples": [
+        {
+          "quote": "Texas city tops list of US's smelliest cities",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcXdvRUdHVmFaWFY3aWxNU19OT0Z6ZFNWS2xGVmp3UWNhUmxzdC11R1dBeE1icTk3SzRxOExxQnduT09ZS0hwVkp3SGZNWmd0YmE3cERPRTBTak5rbVFMUVc2aXNEMy1KM0NwZTVYRGVGYUk2Q3Y2OENBR3RCZVpoYjhYcTJwYTV1eDQ4Nm5CX2JUYlM2UHRYVW9zY0EzNWg1eHlV?oc=5",
+          "date": "Wed, 13 Aug 2025"
+        },
+        {
+          "quote": "Socorro ends bus service deal with ETA, impacting local transit",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSnVWeGRGcl9SSzI5cWtpb0JSTWlEanlONkxndGpzNWtSaDVpYm5Zc3Z1NkhwNkRpUEJET202eEhRT2Fsc3R1ZzJhdHNjMkdBWG0tUWVocHlNTFllOE9VeVZxUVduUWI5VTh5ZVU4SWpkTjZKZnE2T0dudGFuck9GaEpjU3dURTN2UEdZRUJrYVFyVDQ?oc=5",
+          "date": "Wed, 21 May 2025"
+        },
+        {
+          "quote": "El Paso residents voice concerns over proposed Texas Gas rate hike",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdlNZeVFyUkcwSFFyR3E0SjN6cjRDd25zZk9ZTktfYTNDUnd4djJjV1pEY0k0REF6UW04dTBNdDhtRGN4Q3c1ZnlRYVVzQzNBZjRYVE5CNTJJNk1nTVZiMDRMZi1CUjFFWHJya1R1LWpKc1ZRbVd3Q1hmejZ0ejhReGtYRjNqU2RXUHAyRFo4NVUyTE01MGZFZWFqSGVXUXJkOGI0VVduVHhZTUZMMzgxVGttWV9UZG9kM0E?oc=5",
+          "date": "Mon, 10 Nov 2025"
+        },
+        {
+          "quote": "El Paso residents face rising tax burdens amid stagnant wages",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakhDd3d4MDgzdVVSdlJnOE1QaVlBM3E0cXhwX3loMzZWc3N6dklzVzVSRjNQeFA0OFpiYVFjbF9sVXJHS2xRd245bmFqSzZZNGZGaEw5cUpScnAyZDByLWxFOEpKRHhOZVNuWkVEMV9zWXN5S212WEdtNmhEM2pRNXdHTi1PcGlrbl9MR1NQVk9hYUpLMFE?oc=5",
+          "date": "Tue, 26 Aug 2025"
+        },
+        {
+          "quote": "Residents face chaos as strong winds cause widespread damage",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN0RvOEJoVXA3SE5Ca1RSNFhXajAtazM1bFhBV1FpZldhMTlkY0E5VEpULXE4Y3hyN1pKSnhDRnBoYm9uQWZaMUY0YVVHRGVycWNuS1dlaVRhUDA5aU83Z1ZrS2ZlNlBGUHVESkQ4UUtFZFowV0pIM3ZLZTduNXlQbHg3b2E4TTh2ZGdmVTV6QnMwV0xWZ3o5ajEwWjRaOXVWN0Z4ampjT2pWdkcyQ2JsS0lxNDhndGU5TTItdk9kZjZqRkJuRW9FTHhCY0lnOUJlRkhCZHdqVWNYd2ROUEM2SVVnUVhycnFyNzVxMDl0UDQ2cWczVTRXZklRUjVHZw?oc=5",
+          "date": "Wed, 02 Apr 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 3,
+      "pct": 3.3,
+      "samples": [
+        {
+          "quote": "Residents urge action on squatter crisis in Magoffin Avenue neighborhood",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeDZ5elNSbldhY3VueGRSZ1RwVUc0RUhnUzJBRHhrY1A3SkNjd21ZLVp3TjdPYi1SVHhpNEduREZqc1pvZUt2Ukl6WmhQaGY5TXd2ei1ocjBxaHRnT1IweVplRFozYVR6aXhBSmZnSFhiNG15SW9fZV9iZHEwQWM0aktjcWlvWGJ4TENsSEJHMHFrMWRPSlhwZDZZZVZCUERPSzV4M0h5TTJQN0lWTy0tTDJfMDlqdzdxOXVNYmNB?oc=5",
+          "date": "Fri, 24 Oct 2025"
+        },
+        {
+          "quote": "Police force stretched thin amid city growth, 300 officers near retirement",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZDUtUF82a09wcFVzT0ZmalpXdDM2WFZseHdmRHFsMWhWU0JNNXBoWmRxanlkU3ViSTZtSU5XUVFlZUVrcFZEOHJoamV5NFJiRXI2Mk1NM3VTQTc0TE1oQ1ZxbFlQeUtoT3d2Z011UWJkVTBnOUU5blNvNktWTkVhc0ViRkVfRWUtMDcwcjBTU053UWxKeFZtazNaem1OUQ?oc=5",
+          "date": "Wed, 21 May 2025"
+        },
+        {
+          "quote": "Downtown residents outraged over crime hotspot, city struggles for solutions",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRGVFRnVkc0xWSm1LeHVuVmhGVnZSbmZaSHVrRVdnMy1XbVpkV2dkTnZKUUJBWUtxbzQ1aHhBNThZN01DWFhUXzhvWEtVVE9MNmtaYzN3aFR5cENIeXd2aElNVVhMdG5YY1NMaDFXR2I2a2swYVB6NktEMTZPb0Y5b2xEZVkycUFyTi1xaVdXWWdPX3YxbnY3RzJIdE5CWnZDZ0N6TkJ3eWdiY1JMdFJBYTlwRnlRRlh5RnFONA?oc=5",
+          "date": "Thu, 01 May 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 2,
+      "pct": 2.2,
+      "samples": [
+        {
+          "quote": "Sinkhole in Far East El Paso causes evacuation and road closures",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR2dwTHF4QVlxWWJzRXNEYktkVC1IQnZER1BYVHVpWDZxdlRmVTU4MUdmQXJtN3BoZlNBSTk3OFlpekhuLTRjWklobFp4OFBaN1Y0M2tQeVc2RHZTaTZWVV9RdWk0U0o1QjhGT0M1ZGEzdUwyZmNpekRkcXVTOUp4YUVkUm5yVzVZN1cwSHB1Rk1mdUs0S2doTmdXcDYtVmUyTmhHZWF5WHFWbk1yTS1ibjVHbw?oc=5",
+          "date": "Tue, 27 May 2025"
+        },
+        {
+          "quote": "Flooding impacts 600 homes in Vado, emergency shelter opened",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEpxQXVUUjVCYXlXQzh3cTQ4R3ZlaU9YbkYxbGdDdTNoeXBWb0lyT1lrQUhFNTNORmViMGx4bks3TFhyQVZHZFZIOHNTcDRDT2RyUkFVUEJCd1RneUZmZDh4QTZFQWFSQzRvVnItdUxoZTViVHBNMWFkc0ZFOTQxSlhzNVlHcTdKOHJXdkx2amRLNlpGUFlaa3R0MnhhLUhSSlRJbzR5ZGNZQWF4T3lCZll6ZEU2Zw?oc=5",
+          "date": "Tue, 22 Jul 2025"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 1,
+      "pct": 1.1,
+      "samples": [
+        {
+          "quote": "County approves streetlight plan to brighten dark areas",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVVh2YkhKRnNaRkllU1NzYnNYSF9kamJzVTNHZHFBSGk5clFPeFhBMmx6Mno0NjgxdmY2NVhCRG14WFhJdURjZWctZ3pFaG9NN01Rb3dHYjVLWnpsZ2I4UEk4a2FLLWdnQUMzQWtHZHFuZUFzY1RMLWFTcXg5dGM1anBGMVBpaWhKdXoweGR5dGQ5MkRJXzZaU1RycTRJSU42ODVhNDQzWQ?oc=5",
+          "date": "Fri, 22 Aug 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 1,
+      "pct": 1.1,
+      "samples": [
+        {
+          "quote": "Muslim leaders increase security after vandalism reports at mosques",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX1ZSYWxSWkowbTNHYmQ5RjJNSnV1MlFhZ2NYa05YQzR2SmFscG5lRUJrRVo1bE5aaXkxVFlRX05XM1QtVk54dVhvZVZGSzJsRGtlcjdtYkpDMWpVRXJnYVZtUzZRMzA3T08wV1N4cVZRd1V2M0hZZVFicmtYSy1Ncm1Sd1dQWVd2dHhUQ1VJVEd1eTZfMlJ1NFd1Zlg2QWptbHNnU2hB?oc=5",
+          "date": "Mon, 28 Jul 2025"
+        }
+      ]
+    }
+  }
+}

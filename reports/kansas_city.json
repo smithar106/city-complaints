@@ -1,0 +1,249 @@
+{
+  "city": "Kansas City",
+  "slug": "kansas_city",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 126,
+  "total_complaints": 67,
+  "complaint_rate": 53.2,
+  "categories": {
+    "Water / Utilities": {
+      "count": 25,
+      "pct": 37.3,
+      "samples": [
+        {
+          "quote": "Double water main break leaves residents without water near Westport",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTnhMOThpSXYzYm9EV0tIU2E1T1F0czlmQmNIT0pKMldhNTRGMndTcDgxdTM2a2hZeG9GU2E1UWVGdzFFN0FzV25xSGhGRFpoNkFWbzAtbXZMVFdrN05KNWNGQU5meF80aXpIYlJ6SEItcTJ3UlJ1dnlHVFJ6N2pNS2NzMGwyQzZhOXpNMHBNc9IBlAFBVV95cUxQM1NzUVQ0MlNlVHVFZ1pzdUNuenFadGxtUzA4eGd5QWVWVkUySXhHQUl5WFAzZWFNem8xUnRMVkxDOVRWTnF5QTYzeUFEc1ZEc0RJX3JMOFpiSXNIZmxKVXI3NDBuTHNUYmVKZlZOdXN4Ql9tbnc3UXlvS0Z1b1lrVm42eDg2Z0g3V1prSmMtTEdKTGhT?oc=5",
+          "date": "Thu, 19 Jun 2025"
+        },
+        {
+          "quote": "West Plaza residents without water, KC Water working on service restoration",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnNFUUs3VUxWcDVhVzRoS1FOSnhhT2UyYmFPMFJVOU9jNi1wQlk3NGZKdDE1QThDVkVtY1lsYVlGS2xpaWRaN1RkNV9WRWhHZkd5QWU0cnBmWkMzczZNYUw3ZlRxdHR2bnRRSGRtdzkzNDl1a1dGOS1Xb0ZTTURwZUhqWnJPeWVBQXMwa2JMU05neEdHcm5lOXZ6UHYxYzI0OHp5cVd5Z0hzN3dVQUxVS3V3?oc=5",
+          "date": "Thu, 19 Jun 2025"
+        },
+        {
+          "quote": "Water main break disrupts service for Park City residents",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcEM5XzhMcnpXVnc1bVJOY1JJZS1Sd3NtTjlrb3Zuc3hVTXZhdWwzS3E0LVVKQXZhTGFobHRsc1hub2tjcktCVXBBOWFna0ZOY20yNjZxa2dqU25kOUdBdG1yQ2dpRDFFX1JOWWVvNm80eTEyVmdzb3ltdW4yRHRoMUE3WGk2WjFCc2pCQm5CQzFlV29wQkRMMjlRdmU?oc=5",
+          "date": "Tue, 09 Dec 2025"
+        },
+        {
+          "quote": "Water main break forces all Junction City schools to close",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRGdQZVUzdnJQUF9DbTl2eXdnY1lnVk81R2VyRVBkTXJjeGJrNDNzd0RKZjRvLTUyczNpMm4tN2x5YzdvNDBtWTBrbHRraUliNlhkci1mbEhNUUtHeFFGeFgwMHJyT1hNOFdYQlN2OUFCeEhKOVp4QkxPUGM5Mndpbm5wUUZxZmVEaDZMa3pXSmd4RHc3QjlQbG0xRGhrVUJrSHphVFA3NNIBrAFBVV95cUxOODRNNVp0dno2cHQ0YmRuZXFtTzJ1UFF5dVhteXpuVlB2Z21aN1NqYmtQQVp3aHRqTHZraUswTHVzTXQ0S0ZYbzIxckszaGdLR1lsWlBmT1p1eWltWjZId21objNKOHViVEVnY2FnVzVYSml2d2hIdXNIbmIyZ2JJNDl1VGYzelBRUnJHQTRLOG5NMEk4R1dERnNPa3JRcUItME9rUHdMRzREbVNX?oc=5",
+          "date": "Wed, 12 Nov 2025"
+        },
+        {
+          "quote": "Northland water main break causes damage, erosion, growing frustration",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaG41MGRoWGZoZ3lXMHdkd29hMzU3NVBkVUVJZnN1U0pPSVF3U3U2dzRiOXZIUV9mbllVQ1FBTjdkMXNBdG1rbGJfaXBLN1AyMWtSX0E0N2xzMTVvYzR3RVpkcWVMOEF4SVZxOXlfdEdjUGx6anNkWDFPMTItaEtXOFJnV1pDU2wwY0Fzc29TN3F0blIwRnNvWFViaVE3eXlWR0JYbHA1V2dwUW5HV1HSAcIBQVVfeXFMT1hTS1dTT0xaS0NxNm05YUNlcWxtMVZJNGIzNGpxT1N2ZUpKemFSYnZ3N0otSGNKa19iY1d2UVVFUThuakJFb01Yd2UyeXZBUGg0Tl85aVFBTVhJS0RiOWszd3F2T0lQVTh1aVhPcm5PaTRtOU1mcnEzTC1PZ2ZtNmVTTVZsbm5Kb1VldGdLa284MUp2U0xCU1dpUHYwN3EtcmhCV1J1WXl0QkxZVlA5S2hKWk1VSDNDWklqTUpOS1gzNWc?oc=5",
+          "date": "Sat, 21 Jun 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 13,
+      "pct": 19.4,
+      "samples": [
+        {
+          "quote": "Kansas City leaders consider proactive pothole repair strategy",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlE3b0JPSkt3ZmJTelcwVTFyTEdicm1WWWJXOE9Yc05Lc28zRElqQ0dINTljTXZMdkZjZTF3VXNsTWNRQWoyTFdWTm1MUllqZHU1cFRBeGlqazZuTzNNVVEwT0dDN3g4Rjl0Y3RzU1p5YTNvUnhTMHVBbmNZRTZLSEpESmtpQ2QxaTVaWGFCbUc2Nnd0MDZhVFpxT2NaQ2pMR2VHS2JsSVnSAbwBQVVfeXFMTXBicDFMZW5QaHFUNDkyOVhSUXlrRWpKNVVpblNHTER4alpHd3AyejZ3MmtVRElta1pPeW43TDU4WHExR0dZemZORVZyaTYyWWtIUkh6REFNOW9WYkxhdW1tTDVZNDhwMWljSnVjcndrQ2t1Z0s2M2hiVm93czJtNmE2Rkdmd0xnaVhVY0dJYUVEVFBZanFWdy1QbmtXOGtIRk8zY2FEUzRQZmVIdDBCVzViZUFpaklUX1RFMzM?oc=5",
+          "date": "Tue, 21 Oct 2025"
+        },
+        {
+          "quote": "High-tech tools to fix potholes; experts aren't sure",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWGZOSUlfamF6TUs3emZ5XzN6Y29KR0Nmd0JNZTBwQVhCZEFTNzNqZU1PMW1SVi1YQ2p0azJXSlZhay0tYmk5RVYxYUxvRVZIeFVyU2s0N2hMQ19tRGtOZ083YTFQZDhXaGxpMk1sY09LVUFGTmZldDNIaG9LWE5IWnJPd1pSdHVWaHlnY2h2VGFNN3g0OVBkbnE1OVRqMmR1dFJCSGczOXpNaFI3QXVQZjBGOVl4dWdoaTlodFBxVVVCVHVDMVVpOUN5NUk?oc=5",
+          "date": "Thu, 29 May 2025"
+        },
+        {
+          "quote": "KCK residents say potholes are dangerous, not just bumps",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPem5IeDVKbVQ0ODJzU1R6eWhPT1NrNy1qcDdwaWpTc1BhS1RXQnpvQjgtcEV4Nm9SWDVaSkEtc1NCNnpBd3F0YUhxSVhGZFhFTTBUc1dvU21Uck11dkN4czItZmhGUV9Yd2M5X0ktR3MyS2RVQVdsM2JOVFk2RmZJN1lfTHRua2lieDBDTTdQdDZrTVVsV1VDOWo2ay1CTGlEbkpUc0otaVhpNHd1eGJBbDlSTkxfWVp6aXJUazU1N1VNVmM?oc=5",
+          "date": "Mon, 17 Mar 2025"
+        },
+        {
+          "quote": "PCMC's pothole complaint app fails to gain traction",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQnJnbGVnY2Rvdk9PeDNBZ1hoZS1qTmlqVXdQMHF5NldqYVBid0xlMkE4SHVsTk40aEd0R3BQZjJ5ZHhZLXN3cDRJeTNiN3ZjNk51aU81aWtpRGVxM3BBNlVpNDZMN20takRudUNkb1lfRkhVQnlNaENTbi10V1YzR1BhY29vZFdaT1MxX2FqclZWdXFPa0VlakJvdGo2dlR5alUtZ0RweUE1RmRqV3k2eGh0NzNDMW43QUp5LXJHNmFtRG5z0gHKAUFVX3lxTE5Od21DRTRNdnU0MFlRZ1VfbUM4VEFoRTUwVG5yTE8wQWxMZ3dxUW5NMjl3Y2VTcXI1Q0VXUWZaRE1haUlWT0ZZQm5haXg4c2RYSGlldUpJckxCck9BeHUxcVpvODVvOTBDTFZEMTllVzh5VnMxdnhIb1NGMy0yU0FPWlRrTUw3bkxkMFdnZXBpYXZubGNQczFITzF2SFp1RExscUU1NDVPMEdpMGJZaFprc3p5d2xPamlILTVqX05BZXV4MHFjQTQyZ0E?oc=5",
+          "date": "Mon, 07 Jul 2025"
+        },
+        {
+          "quote": "Spring temperatures lead to increase in Missouri street potholes",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQb21tdWNyYUVZenlNeWpobUM2YkpFcDVHdFhiellCQ3ZJZGt0Slg3X1FTbUltUVFpa1hZUDBld2ZTMWRWNEVabFQ5eUZLMGZpUTFXcTVJUmhLQzRqLThJSWYxWm5aYk9UUmtHOVZ5UXM5U0F6YnRzZ3pHUkNuOWNuZU90TVR0RXJ0SFpRdzlkZFZiOHRFYTFnaUJ5RXV6Y0dKcWYxYmFQRGJRZjRoNmhZQXhyQk80MGNVd252UUt5eFBseDdmY1M2U3otUFpNbExJWl9SQno5WmNDQ05DVHNQM2lPcGFyTlU0V2JoREtEYnNvTEdwcndRRFd0OWJOWlE?oc=5",
+          "date": "Fri, 20 Feb 2026"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 12,
+      "pct": 17.9,
+      "samples": [
+        {
+          "quote": "Wichita residents voice common grievances via report-an-issue app",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTYzUHJMNjRwbWhIVFJxMzRzOHY2a01OV3piVHQwY3oyV0h6bTFuQktKaXlkVW1iQlk0eFR1RFptQmcxdnl3TFhodmZIdmxpWDE5TVQyR0lVaS10X1RzUXZvRFFtTzZYOTNya0hPV0VZcnZnYTdtYWdRaVBJeG5WaktQMjQ5WjUtVm9hSjFWYXFLZXRtTDlja25SbW9iclhfaWd3MzdCb2wwZ1J5VG1Fa3hCTU1VeTZMclMxWDFydF9MU01LbzZR0gHbAUFVX3lxTFB4TUd1QzE4eHpSZ2F0UjdCb3VqV2p2bWxiS2lhTjdibUU1b2tScVRIXzF4V1Q4bHdMT1FFZkFFc3BxNG14YzR3cjc5OG02WjlMaVJGU0NYSEVMc3o0UHhjOW5JWWQ3bmhOY1dJRnVFbE9iTktmMUpPMmdma1VBV2hGZ2pjQXIzMW9WUEhKQmYySVlPYjg1QlpUYW1keFlYbW5pZW5sVW5sd2xRMkNQWkt1bmp4WkxVdmg2cVZRS0tHNW4yMzczWWlxTFJxWDN3MTVWdDJ1NjhMWFJYTQ?oc=5",
+          "date": "Fri, 25 Jul 2025"
+        },
+        {
+          "quote": "Residents question quarry expansion and city revenue use",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSUZDZlkxOTI2SmtrMmxpZXZqZjlySTUtQUlUVnVWTEpJekxZeEo0YXZxZXB3cy1YdVpNZTNiM0YwQWxuX3BjWjNOQ0ZMSHcwRDFDdU9uRVpUV2tiZVpOWkp5bWVGVTdJRkZibDE0Z0tUNFo4WkJOam5yS3NmUWVGbE0xa3U0c0FKTmpnaGlMZWVKdUo4TlZFREdWRWdaZFJsNlhYalVEZjQ1bVp3d0pN?oc=5",
+          "date": "Fri, 23 May 2025"
+        },
+        {
+          "quote": "Wichita rarely fines negligent landlords for property maintenance",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUVRTZU8yZkhCSWV4VWdpRk5aaTVRV2hfX2g4WWxBeEFlWmJKMWFxZ1BBWUIwRFFveEVaMUg1bHNUMXZkM2Z6WU5IemVqSGpvZ3FIcnlKYl9GNXkyM2plQ1pIWlltRGNFQ1VPUmdhTTNkVTZYSG5FRHYzQU9nei1Ka3F1N1VodTFIUkwtMTJsVFlBTGdJOG5heFdLUHdBLUVMRTZJYWJvMmk3OFB4UW5zTUVR?oc=5",
+          "date": "Wed, 02 Apr 2025"
+        },
+        {
+          "quote": "NYC city slow to fix flashing lights on thoroughfare for weeks",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORzBMbVdMUXhXQVRYS3BaVnkwTWpLX2hIZ0lMYnRKR0tuM1F2RVVNekJTbGZJUkxVdC0wOWN5blNUR2VOSlhldFVxc1dzWHhjMlB2TnE3SHE3WmZzaHhTUEZ4X01FTUZpQ01nejBEbV9pT3pwUy11QmZPODJuMlpWQ1BZLURBSWZHYmhOSlA2QnFpS2pRLWJVbWdVM19ydWtnZERORnUwbzVoRmlyUXFfSzN0Z0JKRnFkSzJuZS1BSng5R2V5SVBEcEgxbUdNLXpQc3BwRlBOQ1YtNW9zZHo4RmsxTWhCMWs?oc=5",
+          "date": "Wed, 21 Jan 2026"
+        },
+        {
+          "quote": "Years of complaints before fire destroyed vacant Kansas City apartment building",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3UyUzhJVGppcV9CUTlSSGtDcGprX0JVazN6dzFxUWUyZkZBUXdtUkZvWUhMMXlMMnJOWUdOSWRteTh2emFEV3dhRkdUN3ZBNEZoRzhiZTg5bXNBc2k3bF9IMlNjZzZNOW1McDktN1ZWdU5SaWpBTWdoQkFVMXlUaUhMU0xIbnAyZW9XN1c0N1F0WHpKbEJfOVY5NGxmaVljNWhRVkIzdThRR2RuWTE0RnhfQU0yU2tqRXpFSk5LNDXSAdQBQVVfeXFMUDVrSFhmTU9kZ0FQRC1aTVRGaFVxWnNucTZ3UDNQdlFOaEdmd0hRR3pObl9fSlNlQ19UVHdXMHFDQzN5akwtR3VCcWRhOGVOMDZGVnBUX3JSRmVPRXpBcW1KaDlGejJYeE10YVU5MzVHMEtmNnhPM0htamotbVVqWGN2YkNRZV9XYXBtXzZ1Q1IyOTNPUU5ka2VpQ0kwVDNidFN4ZnE2M0JkMW5qNkE4Rm1oV09OR0N1anM5cmdQZ0tvMDRrMGZ3NXphaVNzZGVhcDR3SHo?oc=5",
+          "date": "Fri, 24 Oct 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 3,
+      "pct": 4.5,
+      "samples": [
+        {
+          "quote": "Two suspected graffiti vandals arrested; thousands in damages reported",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FRzNsZi1VbXI4SG9ZaTVnVVVCQkpUc3dIWHRmQmpMWElNS01sOWtVVTMyQzlxcFR5c2lwQUxrd0NzQUl5czIxemZfOXJIalVZR0E?oc=5",
+          "date": "Tue, 27 May 2025"
+        },
+        {
+          "quote": "Police identify two suspects in recent rash of graffiti",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS2dDRTNtU3ZfOFFBakJpV3ZkSFBnUnJsMmlXb01tRGIyVlFCVm56Q3NtQ3FXWjZOT3JHbGptYzU0OWR5d3VhYXFzQ25NSG9GTW1ybE0zQ3lSN3gwQXVEQXQ2NFRKYkNZNzdkUTBtMXZMSTc5U2p1WjB3Qnc2T1VHQ0hOM3Z5OHpxYlE?oc=5",
+          "date": "Tue, 27 May 2025"
+        },
+        {
+          "quote": "Family upset after child's grave vandalized at national cemetery",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYmRhMm5rTHQ3SzdOZ0dYZFpFQ0hGMUtRRFg0MFpXLW9nWUxMbFJVdXRmWVFLSU05ZENkcE9WeURDX09WdU80bVFSMkRkamxBSGFiTGs1S3VmYWJqT19jREd4dUdZZlhRMVBCczZKdHZ6MEh5M2QtMnBvTVc5OTRFNjM2Y3JtU1dNZWRyTnZrbHpBSFpNR1RicWJVSTMwUUlfY0HSAacBQVVfeXFMT3AyN0ZPb3Jic2szWDM3aFBZVzJRTmJfU2p1TUwyUnFOakVkWUd1RGEySFMxQkMwQnVXSU92d1ZSZTcyaFpPOHNCLUZZUkNjZHpkSHc0eXlIODl5NXhiR0ZDVVVVWTNFUzNtT1JhQ1UxV3l4eU5hYWUwaE0yRWV6NUF4eDdkbDBFZGJmM1JnYWx6SEItWGkxeWwzWE01YlBpVFJIWUpfV0U?oc=5",
+          "date": "Fri, 14 Mar 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 2,
+      "pct": 3.0,
+      "samples": [
+        {
+          "quote": "Olathe home floods fourth time in 8 years; city action needed",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmQmlRb244cjBzdG9QMWRLaDhSb25oaGtHQ0d1ai1xUGc0b05BYXBMRlN6WDF6aVpsUE9tNHNWUUwyMlAzX1pLY0xRcjViQUVscGJ4RTRZdHZBN3o3MlVrbFVqdC1ZbDZJQnNJ0gFrQVVfeXFMTVBQZGJDa2llenVxVF9DWS1vTTlfREk4TXh1b2wyZWFsSUZCX3BUbEIxcXN1ZXU0NW5KQ2xKbnB2alN1LTAxYkNNWk5qTEpGX0FEQmRjVTV2WFNCQ3RXU25nYlFxWGd1U19ybGs?oc=5",
+          "date": "Fri, 05 Sep 2025"
+        },
+        {
+          "quote": "Sanitary sewer line break prompts public health advisory in Olathe",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlZLTEhHSFd2RnVSaEw4XzdKX1RyVlBGeVNNdHNjNEVGMl80MmtBUGFfUHhjVXRSTm5yb0g3RGM4Umo2VnY0ZzVSZE90ZXhVTTZCVmpzR1JNY0lVRzRLekt1VmtoTHlBZGp5R1kwSmRWZUtGT0pKcENLVG8tUmRfcHY2d0xYbVBNSEpIc3pHX0N4VHV1Z05oVFJEdm50ZmlIVVpoRUJqWkk2VDNxX1dNaG9Odmg?oc=5",
+          "date": "Fri, 25 Apr 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 2,
+      "pct": 3.0,
+      "samples": [
+        {
+          "quote": "Kansas City trash, recycling services delayed for dangerous temperatures",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHF1OXJTYi0zTlZ1Q091bHVFMWNkbkMxYVJmRHdXbGFScS1DQjdaTjNCZ3NjQnZ4XzdqS1M3aFdxd1Rfa1oxTmFyYWlYOENQeEpUeVlMMlBGQnJFY1BvdDBUVjNWY09jbHRvR3hHUjRXRE8yOVRWWDNVREJOc3lLbTYwa1R1UDlMMkxvU0ZIaVNiZFdCeHJoMmNmVFLSAaIBQVVfeXFMTW9DandjMGxEcnpROVdQV0U5TzZ5aVI0ZnY2YlN5RnRxVWFNWnctbzhzVmpsTEVWcmZXY1lQd1lCZXNHNFNNdnlWa0M3TDRwdGd4SmZ2Zl9ZSFI2NndaQWRaODVjVjdrbnhMcWJ1TkduaFlQY1NONGhfOWsxb1VLMFNMelc1T1c3UG5GUXpfdXh6YkNIa1o2elVMQVNwa0JLSWhR?oc=5",
+          "date": "Sun, 25 Jan 2026"
+        },
+        {
+          "quote": "Pkl residents demand garbage collection charge refunds or adjustments",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUzVUNnFoOHNMNnFHeXFYVUtVZlNSUGRUbjVmSk1Jb1VTdEtUWXo2RUhDTVVHTzB4cWVQb2E2dXlaTFBEanhzaFduNVN6b2xsZXVacWQwWEhQZ2p3bDBYYlBIVWhObFRwVTJqdWNyU0RrRTFkanhEX2hxTnNrYVMxZ1ZMb2dGbnhBUVZZbkF2c3RPSFg0Y0xiMVNSNU12S3JYZWx0NXc3Q09PMV80dEEtckxjU0FfWHV6WDFnNlgxd0d4TEZlZ3RuaEZmTUtZOS1QWUlUelVCdmg4QUpsSWZ5NnYtU1lsLTVJOFc1QUp5LTR4Mzk5RzFB0gH8AUFVX3lxTE9VSF9Pa25qZ0ppUGhLWkRoTGZYWnNod0t5a2NsekJoOGJQcUZVOFMzOXFHUGJPLVhDejBhbGc1OXZBeDBjYnZVWHdqc2F3SjU0NVh1MkdMWVpFRWdYSkNkbWIwQmd2X0hTaWRUNGo0QnBBeklSNDRYekhydUg2cGd1U21Qdy1PVHRpazN3M01hQXpSb2U4V1RYZlFiVmJHc2JDSkdFTkVJX3dBSERHM0FCYUV1UVZEdWhaeUdoQTQxNDFPM2xWMmRNcUE2MEFGdzdZSHg3cUxRSDdqSk9hemlIUzJCbjlWTWg5X0Y0M2RPNm4xUk93aXhiN1I3cw?oc=5",
+          "date": "Wed, 11 Jun 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 2,
+      "pct": 3.0,
+      "samples": [
+        {
+          "quote": "KC's Olive Park Village residents displaced, buildings boarded",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSEZMQjdCN1U3RmZreGllSl8tc3BhbjRKdlY0UVVwbFQyQWNUSk5lMTZLZmhrZENEYXRRdENBLW84bFYxaFpqZGYxb2kxN05GTnU3SkJjaEpDTTY5ZHYtNVlCdFdMTWZ6QWJCWm9Na3NlX2EyR0tqUlVVb3ltQmFCRE1iZFF6clEzc2RJbklER3puQjNvQmdPNUg2MlZhS04yVkE?oc=5",
+          "date": "Wed, 07 Jan 2026"
+        },
+        {
+          "quote": "Vietnam veterans upset about disrepair of memorial fountain.",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZG4xUVRVTDBrUG9mZkE3RXRJVlJmYWc1WVdmYzdPa3pxbVlWal84OWxhR1owcmVlSnU4bnVxZXMtcFJqS0RaS2R5QnpaeWpQdW1Fa2RpRHNkZ2UwVE5ocXhWbmFZSndILUw4R0FJYUhsN3YzWkRLUDN1NGdhbFFvdUFDX0Zmb3RFVkIxeFNmY1QxTU5Ta3dvQ0NONEdYY2R6Rmg4M19hbTFZbFFVTXdzMFFoUnVQbzFUZnRr0gHAAUFVX3lxTE5iWlpGTnNuSGFDdjNkRHdRZGt4TnQ3TWhBNDRWRkJOdGxhV1N0QnA1SXY4VGVpRUw4MVkwczRfVlRHeTR5ZmxCeXkxaFR6N1JCU1JjSlVheGVZZVVjMFgwVFkybUtQRWtuOFVwMEFEbHFHSzdYY2ZQLUJidTU5QUliUU93Z1FrcjdQSnJuaVdNeFFSam5DMWo0c3Jab2gzRUVST3RZdjNid0lRa1FTcm4yZTJuWm94Q1NTaUNNSFhHMw?oc=5",
+          "date": "Mon, 10 Nov 2025"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 2,
+      "pct": 3.0,
+      "samples": [
+        {
+          "quote": "DoorDash drivers packed Kansas City street at all hours, neighbors fought back",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56Z0pXM2lGb1pDcjhueVVZeVlSNEd2eDNyNTF2bnp4SG5Qa3htZFFJQXcyRnc1T1lIOUZ0TkozNHRmOGNJRVp2TFZKZWNlQ2o0LVlhaUJHbzlZTlF6d19kcE4tS0J4dnN6Q0FB0gFrQVVfeXFMTXFrazhOajFrU2NlX0E3MUVfS183TzRuTENUbVFPY0kzUEYyUGVUbFhmZFVYVVJoWW05TnZITnVKc2VsVTNadnBqUnZ1MUJDcktyRE9jOTN2cGp1S1duLVZKUEFKV0dOdm1sdk0?oc=5",
+          "date": "Wed, 19 Mar 2025"
+        },
+        {
+          "quote": "Popular live music venue hits sour note with Westport neighbors",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OTGNHdmljN1UtQ01Kb3k1MGpvLUU4czJvUzdDRTVTUHBXN2NFTElEeWd5X1RoSHNnYkxzRnd4Wld2NEcyR0JhZHBBRjRIMXR1a243cjVHU3k2Q0MxT0s2a1NDci1ua1pLNEtn0gFrQVVfeXFMTnFKd3VtOVpJckZxUmtiRUV1amFDcFRsOWlRdlZ1Sjlxc1JLSWJ3Z3BrT3FjQV94c2lEekplWElIU2N2SHp2SnhXT1ltNFY2aHhuQ1RKTnZELWtJS0JxOTBHMHoxMGZEZlZnajA?oc=5",
+          "date": "Tue, 28 Oct 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 2,
+      "pct": 3.0,
+      "samples": [
+        {
+          "quote": "Neighbors shocked learning they foot bill for repairs",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM190bHVJMlhfUDhDQ1d0Q2NrckExNXAzR2p2VUtMY2k0dFJySEQwQTJXeVRiWWtxTldyTUNEOENZUTF6VnRTV3pHZ2U2b1Y4cERaWGJwX19hcV90eFdLOXpmVjJETklRYmIxR3k4WFM0bWdaSXVuSTROdDFUNklrc3J0LUlicVFxTk5tVXNkS0I2d2xNV0x0UnFOWFBJRFRQcEE3bG81YnRwNHRMRnBGd0ZnX1N3aGPSAcsBQVVfeXFMUFpwZlN4cF9rU01xemlSaW4tTzFjaE9xZko4MFp1UF9lb3BQb3FUTnAwNVBxUjRrUGwtazVLbllYSUxmWnBoa1J4cFU5NF9rQ3JnWENBeGxRbjdFZGZvR2VuU0pGV3VweTE3RmV2RC1tMy1KeV9DUExucmtsaWRKY3VJTFJ4SnBJRWo1WGhvdzJsSGpyNFd2REczU25kZWoxbUwweG8yUXRDUWNsbDAzRDNlTlZpUmZsVlVpSkRhRGY1NW9DV3RmeUZPS2s?oc=5",
+          "date": "Tue, 15 Jul 2025"
+        },
+        {
+          "quote": "Organization sues city over damage from sidewalk widening",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeGFzMHQ4ZXBhbU9sR0hYMW91Q1dFWWNOZzdmaUdnMmJ0aXJBanJ6RDN4YzUyWTByTUlfQjd5anBqNXBPSy1GTjFldXRBdUNabGtobnk0c3ZGUjl4VHFfSEU5OG52cHZxRGcwMVZILVlGb3p6NE9nN1hZRGxtWWk3eTA1TEZQWmxLNUtlLXFxTUw5c283N1NITG1zNmpxbi1xRncwa2xyS3ZTUkVIN0tMRkJ6V21Delc0Wms0ajMxNnk1TnVyTWlxanBvMHZPeEJ2SFJGTWlvcEI3V1E2UjBxVkh5cnZNQQ?oc=5",
+          "date": "Sun, 10 Aug 2025"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 1,
+      "pct": 1.5,
+      "samples": [
+        {
+          "quote": "Strawberry Hill residents got streetlights restored after outage",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbndyYTJfSUdta2FhaTdITVhJdVg4UzhCX1lWcExPWDk5X2toZnVLUGFKUG1PZ0JjbzBHRnN0ZXYxeFVYNnFBcl9Gc2stUDA3VGZQTnhHaEhmTmJrY05jNVlQTnFKd2J1bFFOZk9jcWRrVGZyOFZvYkpzRzVPNlNHeHJfSTZ2NkJJZm95NzV4MkpNOUc3cEx2b01PQnFFR3lNV214NkVkQzRScXE4UHNxZFNZYkpReTJfSzRuWjhB0gHDAUFVX3lxTFA1Qk5WR0hveGh2d0NmWGVJWngzdGJKdDN3ZFVTSkRMMzNucHpGTEJ2d282NXMxeExtWWprcUhjOThPWDM4Ul82RkJ5RTQ3N1JZa2hIT1c3T2VIdGdXR3Jxb05rVjVaNEJNR2xoTHYwTFU4blB2c1Q0ZzFOVnoySXgwQTFEb3U3cDBpcVZITkJ2U0xJUFdzUTVnTU1RazhzZ1I3UTV6VEpLYzA5V2tqVE9sMHduejlMUUpPX1JPWmVaal9LRQ?oc=5",
+          "date": "Mon, 29 Sep 2025"
+        }
+      ]
+    },
+    "Downed Tree / Debris": {
+      "count": 1,
+      "pct": 1.5,
+      "samples": [
+        {
+          "quote": "Kansas City crews clean up debris in Indian Creek after resident complaints",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMEFIWWtud0R2bHZRWVpmZ21hUkRxalhKNnZUYndlUURyNlJBSXNlZ3FsSFpvUjg1SUwwbldhS1dJREZsVjNmRmtLZm1zQ3g3cXF1Wm9feVJ3dWlWR2VuRGhpNGV5Vks0bFRlMXVkOFpyRTZBX1JUWmhBU0Y5ZW1OWGxBb09HcUo4NlczTDZZeDZNSm9TbTk4eEItNkNGSUNHYWE5NVhIdllaYUnSAb8BQVVfeXFMUFhBVWQ3VVJYNmFfNjdtNWFGRFFocFJnb3BZQUtuODJsOFFuZ2Itbk8tMnNNZmZSMndzTGVoellrMDhZUnhmZHYySldNRTFKOEM1NE9BRkdtb0JHeF9QdW8wUEwwdnROMUczVDhMSVY0RnFtWWRkRXVtYVFLSG5EY0tvQnc5SEd1azEyOVNSMjVaS2VzeGpvR2JoQ1B5S3dhcHc0YWlDX1UtbjItU2dtYjFyUVZ1NVpPZlhYUFJTWUk?oc=5",
+          "date": "Wed, 21 May 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 1,
+      "pct": 1.5,
+      "samples": [
+        {
+          "quote": "Kansas City reconsidered animal control policy after fatal dog attack",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LQmxkVHJPZVlPYWZJUzdEUGF5MnctRXNaVTBjN2I2QXBSZE5xc1RRRDhqTm5hNllZLVBwckxvSEh1TkdQUWJ1ZXNjLWI4ME93YjhoVkdzaDZvQmFvc0VoMHZNOWlPYnVEMlVV0gFrQVVfeXFMT1kzTEJVZlBBenB5TDFJNjJWSWFnVVQtOWVKMWZQOXVPbXlVSFFsb0w1SUV3NkpJYVdOd0U5SzJoYzdEYVl0YnVwUGNuTVd3OTlFWHNfNjhNT0cwNnJFelQ5M0M5ME44RU5uc28?oc=5",
+          "date": "Thu, 24 Apr 2025"
+        }
+      ]
+    },
+    "Abandoned Vehicle": {
+      "count": 1,
+      "pct": 1.5,
+      "samples": [
+        {
+          "quote": "Car parked in same spot since April, accumulated $8,660 in tickets.",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR3ZfcmRVRU5kYk0yME0tZ1IzeVF2VzJZWEF5YUMyeXd5RFJrWVlZZmhWalRrNm9TYk1vdjM0bHA3WGNYaDhqX1owTzM4dVlHRU4wd25tTEZ5b3RrV1R3RGJCX1dFLUpOUWtzb2FfVk5ULUVFd0hDUnlxSVZIM3NwdS1za0FMbUZPYW5qZ21mYjRWMm56c0c4T3A5YWJadlJJRVFuNnR1R2NTVDTSAasBQVVfeXFMT0d2X3JkVUVOZGJNMjBNLWdSM3lRdlcyWVhBeWFDMnl3eURSa1lZWWZoVmpUazZvU2JNb3YzNGxwN1hjWGg4al9aME8zOHVZR0VOMHdubUxGeW90a1dUd0RiQl9XRS1KTlFrc29hX1ZOVC1FRXdIQ1J5cUlWSDNzcHUtc2tBTG1GT2FuamdtZmI0VjJuenNHOE9wOWFiWnZSSUVRbjZ0dUdjU1Q0?oc=5",
+          "date": "Tue, 03 Mar 2026"
+        }
+      ]
+    }
+  }
+}

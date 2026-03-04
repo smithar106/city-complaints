@@ -1,0 +1,292 @@
+{
+  "city": "Boston",
+  "slug": "boston",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 152,
+  "total_complaints": 94,
+  "complaint_rate": 61.8,
+  "categories": {
+    "Trash / Illegal Dumping": {
+      "count": 21,
+      "pct": 22.3,
+      "samples": [
+        {
+          "quote": "Medford trash pickup change sparks outrage",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY0hodTFoU05qSTJDM0I5YzR5VTNBRjVFYUFndF9OX0FmeENfUEdwdmNnSzNWZGR2Q3FnTzkxR3lnTl9odFZ6SllabkV5M2p1endOX0VuYnBLNVF3WlJ2aTRQNnA3MEplNjNjQkdYeFllVWhTWXZ2eUhQellMek9FM2U4RWRSeVJyNVVVaW9yRllJR2FDZEpMRWU2WVpLN2VOVmlwb1ZyX3ZZUDZNelMwX2VUZDVyOGNDVDd6U0JfYzZ2ZUpkb3JwbmlQbkl2ZWc?oc=5",
+          "date": "Mon, 24 Nov 2025"
+        },
+        {
+          "quote": "Boston progress on rats, trash, street issues",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSndVd2ZGM2hTQ3hTU3NCUUt3U3NRVVNmU3JLQnRDWmQyakc3dWZkVi03VkdreEhWZTZTY0Q5b3FlZl9xX08tT1JkX1J3TFBHUzBaV204djFCcm1uWlllQ3ZZbzlKNE9xeU5oeXpVY2NsaG1Ddmdma2tRaldQTmRaYXVFVFM1a1hmUG5CeVI3aDlXYU0?oc=5",
+          "date": "Tue, 09 Dec 2025"
+        },
+        {
+          "quote": "Trash piles up as North Shore mayors seek to end strike",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZGVhNVJkUnBlOFhDT2xybWJQZ05Wd1hrSGtDdjYyN3ZhZ2h4V0RXQVp6MnNxUkM4OXpKNF9xMGdpNlB3dHpJZjFUZmtDUlNMUFVveEVnUXA0RXNYZGVUcDRYMlpObjlCZm5NYk05QjhKeERmMVpVQmtsNGRnU1RHUGZWalJfQ1pleDNUQzZxQ3Z2aGE4bkZyeXpic09hdFZvUHp6LV9ycXXSAbABQVVfeXFMTUgxc1FLYkFiNzlFYmtXamNwUEM5LXpKUGRJX016VGxVeDQySU5DeXJDeDN5U3hpMzhPbkM2U2R1WFlIMGwtZ1JkdGlBMzQwR0R1NjJZVmZCN3VlQzNaU2IwUDFFVmJaR1lEMGg4SHloMXJoMDhrSWMzQ2Jmc185NlpKZnFSQWZieFRZaXdjeEwtUWNQYlpmNksxY2gtNUV0eFl1NTV6Ull4QzFHazNHa0M?oc=5",
+          "date": "Thu, 17 Jul 2025"
+        },
+        {
+          "quote": "Communities ask judge to intervene as trash strike continues",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM1ZVc2ZUcUZiV3piandQRVRPeTFyLXhWeDBNYTJOSmZEVTFlUjVqNmFpeFpqV0VaU2pIaVNSc245NkJQMFM5QnBTN1AzbnV6TTd1YUh1Qjh4enZYNkMzbzlpQTZLdWhSRVUzUU9RaUpxQURGM29rUmc1dHZDSUhyeVA4ZzhZNDdXLWJfZDJRYXVIQ0FXbWthdVEtOWRabUQyOVZIdXJveEZSLTdCRzhGeDc4cmdiZlljQXBULXBBY3ZLYVh6d3BrdWxKSlBpOE9ZQlFF?oc=5",
+          "date": "Thu, 17 Jul 2025"
+        },
+        {
+          "quote": "Six Massachusetts communities file lawsuit over trash strike impacts",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNjdJbnR1OVZLaU01dExSVmFaTzFRdDZmcWFyQWc0NzNoc1M2TVJIZmRtMmk2aE1hT3QyeWlqdVJsZ2w5WUduNldrXzdNc3kyT09GcXFkakhJUzRTLXY2UE83ckljYzV0VzFna19xX1BoUWh4QTJqeGxQaGhYWkFGQVloeTl6WVhyYVRER1dpajdGbGM?oc=5",
+          "date": "Fri, 18 Jul 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 18,
+      "pct": 19.1,
+      "samples": [
+        {
+          "quote": "311 complaints logged in Boston during 2025",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91bzRzUFJaTTlkUmY2OGw1eDlINXRQZnphZlB1Y0Y2ZHJFOTd0dm9WT1VUcEtrWjV1VTVKaFczeXFqNW91Qm5CR2lqcTF0TGx4Ti0w?oc=5",
+          "date": "Mon, 29 Dec 2025"
+        },
+        {
+          "quote": "House smells like donuts from Dunkin supplier",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSG9WZVN1blhscnV3MFBlWDRqaG5EU0NvSms1OUJodnRzSE11VHFWLXEyRG1BREZHWmhIaTZvMmlmZ3JHbXY1ZW5LdnUwLVV0dVNyME1oT3FMVUE4eEZjd1F5M3VPTjZWdG9hQllSUHN6WmhGcThpWkdkTmwtUm11Umt1UUdrUGhFc2NIQlpRVndmaGJXSmcxZDhnUDV4MjYwSXJJdFNGYVJtaHhPcUZreWRiZm1hbExtQkdBcDc5Y1Ewb1U?oc=5",
+          "date": "Tue, 23 Dec 2025"
+        },
+        {
+          "quote": "Republic Services work stoppage with no end in sight",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlREa1gzdHVLSlpEZ3hLVlNnb3lWc2Fwa3hPU2FFLXgybmpPblQ5NEhNbTdUWUlMaU5feG1HRllPTTNYWTFhQk02a3V5YVpuMGwwY3g3NHRxVWpUZHczeWNEd082d2hCYlBHNGQ4MWVpd1YwWkdmNGg3ZEJPc2ZVU0NlOWhZNkhPM0NqQ0o5d093MlpqRnlXZnNjeUM?oc=5",
+          "date": "Fri, 18 Jul 2025"
+        },
+        {
+          "quote": "Broken elevators at Boston public housing left residents stranded",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUWFTdmRtVU1kM2x4UlZva2xpLWVIWlFYcEpUMklQeWRGRmhJejZpc01vczZjd3d2MV9BQUZuNm42bXFjVDdZdWhvUDkwSVVscWFkVDdLNGtmMW9RNFQtVEZKWDRfRTdsUjB6Sk1sb1d0TWgwb3pZX255dm81MndoWElEN0JsSUlFZXpIQ1NQVmExWFUyLTI0Yjk3SUhHaFlPcmtXellKT18wU1ZWVDBaVXB4M0tVWjRjdmJzS0ROdzZZdk9uRWpBUWpmMUx6QQ?oc=5",
+          "date": "Fri, 28 Nov 2025"
+        },
+        {
+          "quote": "Mayor Wu threatens to bill residents for snowstorm cleanup",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1A2Z3FzWThpa0NNbWN4V3JKVzVsMlNuX1BQRkxHTDZQNC0tX2hFWDB0VS1HVmNhN2pWOHh2X1RpUDFfQ285NkRnc2I3eUxGZmlTNmdPaXhUU21Gc2Y3Y1lBTjBBazdMYUh4RkRKLS1MU190SDJtY04yRVhhU0phRG5CQmxiaXN4Z1VKZzJsQ3pyYl9UTThVanJkNjJRUGkxYjFvSnc2cTNoOUpvZEFmMXRtWTRjSXRHX3Z4M1h6ckF6SHdwUmFUTDVqYTJVWjQ?oc=5",
+          "date": "Fri, 06 Feb 2026"
+        }
+      ]
+    },
+    "Water / Utilities": {
+      "count": 18,
+      "pct": 19.1,
+      "samples": [
+        {
+          "quote": "Town of Winthrop dealing with water main break, power outages",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamxvTk13VEVjSzFRSVJ1MDdyOWkxdTBkSk8tTjZ6Y0IySS1jUWdQUFg5VEpUVWJtUGFva0ZtMGI5SWdjaG83QzI5Y09uR0swLWozblZpYTBXN2pnWGNKd05WakdsUW54TkdNSXZyT2s5c2VBeDRvUGRPQWdkTU93enBESkxvLVMyWThuMEE4M3FYNUNCaXY2V1JqdE1jeVd4dEJzcnJsaF9yS1F3WUQ4aU9nWXc2M29KblNvajJyNVRYelXSAdcBQVVfeXFMTnNnMGtmakpYRWdZUDFBMzRmODk3eTVOU1JhMXBIVW5EVHhSaC1YV19halZUU3dTYW9hVnBxLVcwZkNHdlpUNVJndVBQWlRLckRPLWdNVDJ3S2RJbklVaVpCeHdnTmI4cmtJYVNJdnpKV2VGNEpabXpXb1VoRGRVUlN2SGpNNUV1aFd3NlcxZGo4Ync4ajNFUjFJRmN1YmNJYkFudEZjNnVMbWZWVkFyNWNsTGc2Q3hkc3dvSjFfUUluYnI5QWdjcFNqLW50Ym5sSVNFcG0xb1U?oc=5",
+          "date": "Mon, 23 Feb 2026"
+        },
+        {
+          "quote": "Thousands of residents without power, multiple water main breaks during blizzard",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbU1wMElhMXZNVVFYQ2dFTExHU2ItMkVFXzlTNGM4a0UyMWg1ZWZYMDhnUzhCeW5jMDhWTWdjbTFOdWdPVXlUeHRSQVlWZm5SdkhoR3VHNzJEZ3VHRkhsWGZ2SWpBUXZ5ZW0tNzkzdXBjUkJnd3VtNlpaMGxYWGhPaVZqOHJWalZxc2I5LWxLV1FRMkZ1dWFGUl8tQlZxY3hCNHJVQXVWdS1tZVUzejB0LVN1Z08xdjdHR3p5WDgzZkxUNDY2VnhLZzNub3RiNE1YZzdkaHRVc0pCT3M?oc=5",
+          "date": "Mon, 23 Feb 2026"
+        },
+        {
+          "quote": "Worcester water main break disrupts service for Shore Drive area residents",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWNLZkhQTkVTLWpkM0FaYVNFQ1MyMWhoeUlscExuU0RYTThYRjdhUVY2NHlOWWJrYjhuMzQyTTk2dHdwT1BXYnF0TFA3ME5iLWwxV1pXUnVWbExJZWlvWFo0Mk8wM3BLTkpOZ21VXzkybVF2a052a2MxbTBHQmpTX0I0ZXBJLTNBZTFZVWVSRUZQUUJOaVVjWHN4S0dGUF9mN3dKTEJoRFkzX3lvUXluV1NxbTk4WE5GSlRQQU42dw?oc=5",
+          "date": "Sat, 06 Dec 2025"
+        },
+        {
+          "quote": "Water main breaks trigger boil advisory for Brunswick, Strongsville",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFR1UjJxTjZ4M051c1hFb05USU5GR1prdnpQT29nbVVBWjVUY2Q1WE5kTGJ4TlZSamNMMWIwdFhlZ1h1a3hrbGZxWElFdVY1bUdaYVBZS09URWhlMmdxWHBlNHctaUpNN2hXT0paVlZYd1NyTjF0em1qbTFIcklqbm9IOFVXSFBXWnI0ZVFCUVNGZWVxSGVuRm92MTVYdDlLVlNtU2huUHRzcWQ4bF8zd2pzaGphM2UzY0dGNW1kWWXSAdQBQVVfeXFMTTlESENBU0QxVGw4UVJ4cDBTUjFDRmtXblppNkliYW5Vd2xDWVNMVTBtMU1ud0VyOXZfRFJWanNvNlg1dVQxNzNoWTlZdzVZVjluT1FYZXVSTlBjeUJQbzFzRUlMdUpCLTA1YXB6MWxMb043LXJaWnZBZE9DNHVlUDJoRDRaYTdONXVIbE9CeXJMZERGbmlZSTY4SXc0S292NEp4MXNtSHJRSG9mbG5ENENxaVkyZldqYzZYZXhVa3hVWnUxbzBZTnFESnpHbTFRNk9PbHY?oc=5",
+          "date": "Sun, 25 Jan 2026"
+        },
+        {
+          "quote": "Water pipe breaks displace dozens of residents from Duxbury condo",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZWNJdGRzci1sSVptUVRLMEtpSHpuaHhPRmFySm5scl92SUhKX3d6VUhkY0hzU0dlS2E5YUhma3U3U0U0ckFjdG5kY0FTbDdhMjdmbDVrYW1ZaU0tT1BGN0JqVzh0MEVxSTJOaldMckhES2R2eUE4c2MzWWh5VDkycFNWMnJndmc?oc=5",
+          "date": "Mon, 07 Apr 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 9,
+      "pct": 9.6,
+      "samples": [
+        {
+          "quote": "Italian flag colors painted on road removed twice",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT1dFZ3ZfRG1qMHB2U0xPUWRSdUZkc3RPZzJKMEMtQ0pVb0taYnFlRFZmT1VlS3ppRU5hS2NUb015eWFKSkZnLXNrQlFQRHFYVzVJX1pPa3lCRHZfcnRyYi1QSEJlNUJZeE5qck5zZGZGM1BQZjdMU2tlNkF0X2VhQTBIYjFoRXhC?oc=5",
+          "date": "Wed, 27 Aug 2025"
+        },
+        {
+          "quote": "Virgin Mary statue vandalized at South End church",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVUpwZTNpdmN1VEZFLTllM25QYnIxQ0FjNmVyYWcwbVVWYXVnRlN3Nk5XUFF6dTZFRWg5WFNFVGUxdWEydVhyc1p6TlEwUXF6cTZwN1EtM05XODViaTdwYVk3U3N3M2lfSXFGQ0JoWnBJdklMQ2FaSmZqSU1jcmE1T2lHREFMdVg5bXZCSWpCVG4tOUdrYzVhWHFiSEI0bXV6WW5aeFlSMUtUSFhlTFJPLWc2VzMzWEduU0dzUnJLZWRHYUl3ZXFEWmhwNUwtUkJsMHNkRE9hOGhvOHMwUFlpWm14RlJ5cFk?oc=5",
+          "date": "Thu, 14 Aug 2025"
+        },
+        {
+          "quote": "Anti-Israel slogan spray-painted on MIT building",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObktTX21VakpuOUN4alFfMnNpQ19OcGZZbms3cEJEWHlvREZPcXgxMUt4NmV3Z0JTSy1QZ0cwMzFGS25uZGhVRmZEaC1jLXM3MFVmaFhrRl9ZQWlGVVIyay1paHY4dXlRUkFaNVVfVTlCMnVNWEx6VmFLMDhJcmlfYTFOeDNud1RXamZHVm1OMmE5Y0UyR3VtZy1UOHUwYVRGUF9RcTlqVjVmRUwyU3QwSjBUMHl1dlAwOG1xMXBSeHZKMHhzb1MwRXBXZkxScVJTTlBYZF9Lb3FCclg1OGczUEhNb0JjY2c3YU5n0gH_AUFVX3lxTE9HTTFuQnJ5UnNhX2taNkhXa3E1NzdPekpLRU9waXp6T2wtUXhESF9xRE5nQzM2T2tlTjJMWlFpckJRQVVsOGJneEJ1aXl1YV9vdzJUMkpIRkl1SG9kQmt3d3BJRmlaMUt5RVBHdWNJOE4wX3IxY05IbTF3SE5ULThhenBnRTNrUlFiUGcxTlBScGxqTGplcnZoakRULUJIQ0d0dmZuR2RuOFhaQVJCZkpXM0lMd1dNNnc2dnRlNDFSbFloZ2ZDcDVZZUlxNGxJYnhGd0k5Vk44V3lzYnJSaXRmcUd0WjdGS2Z3M0d0cHdHZ1Y4Qmk2RXdYeFZJVnZpaw?oc=5",
+          "date": "Tue, 08 Jul 2025"
+        },
+        {
+          "quote": "MIT building vandalized with anti-Israel message",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS1dYVzR5d2lNelFSR1QwY2hTNXA4Qy0tc0V4bVNWV250MXVpeE83OWtLU0Z2dVNpdFlKSmFQaW1UM0d2VzgyQkhWeUdaT1paWmJGYUg2dGtiSUF5WkhnUFV4QmJVcXlUcU9QQmt0NWsyREJ0eUx5cktuUHdoQVM1YVZudEFWQVZYWV9DekcyOVA0WHpFR25mOQ?oc=5",
+          "date": "Tue, 08 Jul 2025"
+        },
+        {
+          "quote": "Massachusetts State House vandalism incident under investigation",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdm1sNHRpQl9BdG9GRTlQUGVLbjBUY0NmYkE4cFNpMVBQbjFMbS1VTnlpX0dxUVg5a3dSNDY1MUo1d1VYN0s1Vkc2dUtIRnNuVTJqLWMyaEl0VXlHZzF6NVc3UDhxQkd2YUVudFFWRWNhR1l5eTlYN09GUG92eXVSTGVGWjBKenBxY3BGWkx4V3HSAZgBQVVfeXFMT29hZWd4ZlI1eU1TSnF3NFpJVEpLQzV0RG5NdGJVQ0FiN3lZa2ttMDNQWFNKWExmU2ZBTVh2MS1CTUxZM29RYS1fa09mQVNqOFlzcWk0UzNSNVVtczdFYkd0UlNWY1d6N19HUUpPSHNrVzBYbDBBeW1SUUNZVjZfb2dNSURiV3gybWN1WkRKaTRUMV9OcDRZQ0w?oc=5",
+          "date": "Mon, 11 Aug 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 9,
+      "pct": 9.6,
+      "samples": [
+        {
+          "quote": "South Boston resident overrun with rats infiltrating property and backyard",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSGdXRHhwbkZWekRuX2taVnZicmd2TXlXczhqenhQZEIwSTFhcnJWWnBUTjRnNmFKaExXOWwtZ3JfT3h4WDVIV3pWak01ZWNPX2VMOTNya3FfNWs1WXFnc2tuaUZVUENVckVFN0dhVUtFaW96Tnpyd05wV3pPUjJBZTJBMUtHdUFGMWJwX3pnVVU4NUJQRkRERGUzRmtRcmNxQzlsVVU4NmtBZXp6c3VGeC05RElBMEplc210TEVEcXB5eEx5VGlmd0l1Qzc3ajhzQk83Zl9wWURDQQ?oc=5",
+          "date": "Wed, 16 Jul 2025"
+        },
+        {
+          "quote": "Drug crisis at Mass and Cass worsening city rat infestation",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFRGT0luOV91Nkdjc1V2bzJIdlAtLXlTZ1Z0MWhQOF96N1Z5dDE4R3F2STJ1SWQyS3lmTWVySkQtNzk3WVRrN09OSTVyaFZuSmVidmNpRUZNcV9UdXYxTWUxU3JIci1ldTVxRTExamlBeEFwSk5qZEp1NkdDcmZHM0lWMG9wdWdaekxBMjlpVklnbXZTVUZjRTA5amVIVXBDeVdJUDd4Si1lRVZudHN2Y1lVTQ?oc=5",
+          "date": "Mon, 21 Jul 2025"
+        },
+        {
+          "quote": "Boston officials address growing rodent problem in city streets",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZDFTSnpuUWNwU1ZKYVlieUZGdVg4VlZZMGJURUpGV1lPLUlRWVlaS0FKXzVobF9aSmxkaDg1NnRlMV9MdEJEQk5WdE01bDdiX213dGN3YjFzYk03blhNMG9Ja2ctcmJ3dE5uUFItbXkzUVVVWUlzV2c5OGtyY1EyR1gzaFNvMGF0bUlmTmk0WXJWSTNrNE00Wl9wTEhqQlV1X3otSUtrNVBEV0lmTXNTcnBDT0JkTlMx0gHAAUFVX3lxTE5EVWFVaFhwaEk4X01XaVRhSll0Q1RuWm8wM2tJSHJWTGpVdEdMVVNoZlVQYlJjU1lSUzdURXQzMzM1MXNJUXoyS3JBTFRTYkR4MURaclgwWjJMNmdWdG82UzBMZU9HclhCZy1PT3RvMnFvT0ZaUFNUSzFiNDlCZGxnN3Q5TV9jQTdNSmtQQ2pQaVIwc0t3UlhSVFFFS2tWdmY2M2xmUnVDN29IMFdBZ2dyUm95U1Nta0xVbjdyY0QtTw?oc=5",
+          "date": "Thu, 23 Oct 2025"
+        },
+        {
+          "quote": "Police crackdown planned at Mass and Cass amid crime surge",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV1lKM2o3aUJtUHQydzNqVlV5ZHVMenlFRmEyWWQycnBvZDc2VjFsbURlek1QNUhCVzhCVUd1Rm1QaDYyaWRGay1uRGNzYTZvWEoyelV0MW9vUUprZlBlU1lNbG02b2JXdHppVGxFMURtSFI4RFo2dlBEUnRKSTNIb1JoSU1uTk9TOTJGS2FaMDBTS0lpc285OE9LZU1CMXNDRzFGSi1rN0xFTFRpclEwY2FZR0M1MDkxYmphSFdKUkhGTk5r?oc=5",
+          "date": "Wed, 03 Sep 2025"
+        },
+        {
+          "quote": "Boston Common revitalization planned after crime and drug use complaints",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YUDZHOVVrTDBnVENVUXM2YlZLNFZtOTRMaXIxTDk2VFhORzNHOEc4NUFaUUNPb3BzdHY5Xzk0M3VlSWlOV0Y5ZGFRVGFwUGk4ZDA3Nnd4N0dKWkRHY2k1cGp5Wmk4bndVR0ZmUXo0M25WTmc?oc=5",
+          "date": "Sat, 08 Mar 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 6,
+      "pct": 6.4,
+      "samples": [
+        {
+          "quote": "Walkable city trips up fixing sidewalks",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ROXNZd0FQaUE2bVVmNEdJX1ZiTXp0SXVqakhWV2I2S09zVjI5U3otTzJVd2hndFZjdzlSWkpaYk9sTGtnUW9WZmRGTDBjNGVaaHFOUmU3MEQ1Z2hUeW85R0ZGYjdlbUVDb3BMaVgxVUNic3hKTUtlOTB3?oc=5",
+          "date": "Fri, 18 Jul 2025"
+        },
+        {
+          "quote": "Thousands of 311 hazardous sidewalk complaints backlog with no action",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdzJBYlU2T2MwMjBFM1VYRXAtWlFqWGNSS0lsckNqYTVKZl9vWjhOaF94aUxOX2xERzdWNm9zVTh5M2VFdGFPeTJNR1Q1cHVnbmxvRmplYk9ZS012UXlOeUc0LUpTV0VBWk9TSC15b1I2cjhfZF9CLV90Mmg4UGNfaVdkS2hmUU55VVBsOFZHaktUNUp4d1NYM1NXeUVQcVQ1ZUZkZWtHNTRxUHAteDdnSXVNT1VoMDJRZzVHNGxJTjhQLTB1M1d6YWZmSl9hN1o4YW5VdHZkaU1XNlZ6QWR1bGFiTmJ2a0VTWFU3dkhB0gGCAkFVX3lxTE9UemRkUllxRzNLbVV1UnhBMnMwV2VxU3hEZlJtcGZLem5qUUh1b3ZmTkxnZjdJRnNsc3ZHQ0tZT3dtRGh5U3NXcmltVllHcVFkcnVSVFJXWms2UTRBdWhaYmJRczV0WHZJSU9SQTN2eW1MMHR2UUJzZDFnZ2VBbWNLejc1U3dQUDd6V1VPVHRlOEJXcjNNRzFlYklhc0FGbG52b0NCeEo4cEg5c3FmZnluUDV0c1FpUDBMWnZqd2MzN1pQZDR2UnVRWGxpYVoxTGFEZUVCYUNQWk1nVzBkRDBtX3YxSVdTN2N4OFZsY3M5aXFmS3ZycjcxenF6dTFqQWxCZw?oc=5",
+          "date": "Tue, 22 Jul 2025"
+        },
+        {
+          "quote": "Icy crosswalks and unshoveled paths making travel difficult",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFbDdTWWhUM0g1b0kxakVDN0lmc25GMjBYRWhVZjh5am5RbFdxSkVtdGg4Q3NRb0J1UENPbndRQ3VsdnlCTGlGZ2QzeTdGM3VlaXR2QkhKcW9oN01WWTIwX3ZWX2FaWjlMVktHUkZnUUpZMlNCUWZyLXVsVQ?oc=5",
+          "date": "Fri, 06 Feb 2026"
+        },
+        {
+          "quote": "Boston has many sidewalks in need of repair",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95dTEwMEFkWTdVOEYtNl92ZV81aVhlMVdFVmpYZC1iZ0NEbUl2aWwxTFZxYlpGN2QwOFljelVZLUg4enROaTh3a0VrZENZbGVCV0ttUnphRDVnTmlxN0N4SkpMaWdEYXVMUm43eDFaeGR5bW52?oc=5",
+          "date": "Thu, 04 Dec 2025"
+        },
+        {
+          "quote": "Boston sidewalks in need of repair, city infrastructure problem",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS081dVVkal90S2Z6WVNtbDVRZVFGS0lmMS16V1N0Ui11blVQRzQ5Ukl0dnByOUpyRXl6OWRvWUNCYVlQajZ3dXlOMnpqbk95MUJwWEtWaDFKcmlFc1lfWk80MTNoSmpzdzVuUjhYSUhVNUp2MnBQSUxfd01RNDNteUVBWng2UjFnYno2TVNzSjNlMGs?oc=5",
+          "date": "Thu, 04 Dec 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 4,
+      "pct": 4.3,
+      "samples": [
+        {
+          "quote": "Pothole problems worsen with weather pattern",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVjgwMlV0b3B4dldjQmJCZzRmLWQzVFVoV2hhdldVMHJ1Nkl5OGZsV2M5ZXd0SWhhWmtLX0F1djc4LU90dzJUREdpZ1JENi1zeXZJZmhYcXF4VEZGeUl0b2R0ZXVPeHg3QUZmOUtLb0JqT2hNMTE4cU85NlM4TUR0RHZYYS0tSGZMbXoyZHkwVTF3Qmg2eXBMUjhmSmFXVlBLTGFwd0wxUWR2blnSAbMBQVVfeXFMTS13cUs4aERoMi1rYlZNWW5hM2JIM1dwbWNtazVOUFVBSTJWb2s0V1hSSlpxUjlsUHZxWm8wN2xxOGkxTWp2Q3NBN0JWRWkwRmgwYjBRdG9BMVlUZ1A5OGVYeVlRMEplTW1DTmVXNmM3WHEwZG1xdVUxLUZ2cm8ySDcxWkszLU5sc1E0Wi1MX1NCYm1yN1R3dzQxa2tHUUZsU0ozbWM2alY4Q243Y25VSUNnQWc?oc=5",
+          "date": "Wed, 18 Feb 2026"
+        },
+        {
+          "quote": "Melting causes potholes and ice dams",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90Mld6ajRsZU05UFpTanZlaHRvTkFNYUgxX2JCdzh1dTRGdXFPQjlEeEd3REdkWEJ2SGdzSEtmN0ZWNlBDSXBabzRPRTJZMW1fUHhjbDVGQnZGZnA5aXNoNktNdjZCdktkMUkyM2U3MkktOHg1Q2ow?oc=5",
+          "date": "Wed, 11 Feb 2026"
+        },
+        {
+          "quote": "Potholes wreak havoc in cities",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUEVqQmFpSUtBa0dMLXJMd2R3aWFoekEyM2Y1b0h6NnlqZ0FzMkZURjJWVW1pa2lQZnVjTUlSbzNEVjNXYjVrUHhBU0xwWUhBRFF6aVVlMVhBbFpIZGhvN3p3Wjl6TGt5dDRJcE9JYWE3ZTBpRGRMYXo2OFNMWnVsQ0hHQURscVphTldpb0VlWlFIdlFhcXk0NVRGMmRuUHc0bXVmTTJEemVPMEtLZkU5NkhNX0tmV3Zob1BiWkNpTQ?oc=5",
+          "date": "Tue, 25 Mar 2025"
+        },
+        {
+          "quote": "Decaying bridge over Northeast Corridor tracks in Roslindale shutting down",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcnhlbVdlNjdGeW9SY0F2ZUJoZGNQMnRrWkp0VmhIR2ZDbEVoQUx0TTh5bEtqX25tVVRDNjJ6QkxWV2I0cmRWMDJ0ekplaWcyS3VfRmt6ZldiTGFUS2U3QzFmYVZTNWpTNk1fU3VvU0dRTndyaTlMdGgydWVaTHpNSnpLM1k5UFBMUC1Na0xnX3oyN3NGa0xpU19fME5rdVJf?oc=5",
+          "date": "Thu, 11 Sep 2025"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 4,
+      "pct": 4.3,
+      "samples": [
+        {
+          "quote": "Two council members work toward better streetlight service",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb0JpTXVCV3UzY1lHQmhHOHZPRVlEWVFBNmFzRWJHZ24zX1B0UzBKZ01wLUw4UklFeG5ISW1qak1oM1pCeTUxcWp0bndLRk5iTW9aYzQxc3hiY1F2czhzQnozOVhGSkVRWFF3VldweHkwX1JnTHY3RVNFbXhBWTJPdkM4M0NadjQwNVZCNEwyWGJNd0FhLXJ2SVRkSjcyem4xdE9GRGtzeWpuRXRuc215MXZfRk55UTdIRVBGOW8wMVNXQQ?oc=5",
+          "date": "Fri, 05 Sep 2025"
+        },
+        {
+          "quote": "Cracked streetlights leaning over Boston road",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeURrMjcwNkFvSDZKa00wWklVNmhBVmhlYTNLY2JWYVJwMVdZQlczTmJXUEdISlpoN2VMMHZGZ1d3ZlJsSnd3UU1RM1NtWDJaeHF5NXBYdHBDNHRPNlRabU1nSHBUTGNKSFFwWEN2NHkwWFFwR2VZand5dWhuU2dkMWhyRkIwMTB5MWQ3V241Y0I?oc=5",
+          "date": "Fri, 27 Jun 2025"
+        },
+        {
+          "quote": "Streetlights out, nights turn risky for residents",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ05vVXZEMjUzM0pic1RKTDA0S3NLSDZJcVAzTDhjOGlwYkd4cFBNN01IM2xWWWd1WW45blMxallnampTM1JQNDZIVmFTT1NNWjNTLWhnNzRNVFh2RXh4ZEVxU1BaSnJzUXg5QzlMcHV0S3VKbkR6X1FuYU5rbXZhRkc4YzlkOC1kMGRZUUZkTDdtcE5WS1VwWTE4NDlaRllhaVUwdlZfMWZ2N0JWU3hLODhVWGFGbnNZWVlKOHRMaGhSRndVVnBGVlFGV19uT3gxNDRuR1RiYzh1Q1plMGfSAeMBQVVfeXFMUFE4YTAySWdhdFBIUWdIcGxPWmp4Z0dmQk5IMUF3ZjBPemJTTlpuSFNfMkJOQ0RPRDRscG1RS05lOGpjOHJhV3BXSVFOcktwOVJ5akR4OWx6VC04QkttYkdvUWRvQkxGajJkNEJFeGxfc2VGbm13T2JvY09rYjhDV0xfTzNYRnN0ai1uT1pFM2thQkJxTlVJNFA3ak0xNjlINjBPUmI4NTBPM1JXZS1fZjFrMG9hd1hPZXVqMGt6RklZVklJOWFDLS1USjczT095Ujdza2RfMUNGQVVIc2lkdElQNUE?oc=5",
+          "date": "Mon, 02 Feb 2026"
+        },
+        {
+          "quote": "Street lights out, safety concerns rise in neighborhoods",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObmxidEppaV8xOUplS3NMSUVXN3UxT0U2YnF6NmN4SmN5R2tpYkRWV1M1N3RHQXo2cVhoTnNNM094SHJmSHRDUDUtdklZQlF4aHBIYmZ2b3liOXZpcDNBczNyLVhOb0ZHU3VvRUNLcFZpWUpoeFZlMy1yY2Y1cGlpemNnQmd5U3pUS0EzOVA2VVpBVHprdmlZdlY3eldOczQ0NzRpSFU3MHFHbC1lNWJlZGdJeVRDbTAxVmNZc1JEdkdQQzhoUkpSR29YbkFsUFNRak95TXgwZVdwZHdPR0Z5b2dKV09FQdIB6wFBVV95cUxPTnlpXzl6ZXVTX2o1cUMxMnlXM2EwMTVrVHVzNU9xMEVQYW1DcjdUOXdUaEkzQUh0dDZxWnZ5XzI5MTNUNnNXQl84YnBUQ3luR1NJbWwtQWtkRS02ZUdjcWVpT1djNHk4bnl3ZUhldmtlMFZBUTVFX25yd1ZIejVvZS1ueFlnOGREVGJXblV3emdvMWZBZjMwQk1GMzhvU3AtRFhEc0pKT2I1MUwwQzRqaEk4cTZCQXE2VWdNN0xHOUVTOFFNdzhYdHlaYWRFMmZQOEs5cnNKaXZoc29hbGlnWTRNWUh2MzRxLXF3?oc=5",
+          "date": "Tue, 27 Jan 2026"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 3,
+      "pct": 3.2,
+      "samples": [
+        {
+          "quote": "Sewer overflows problem in Connecticut",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16SGZoMVhvbUlMV0oxLXM3QktkUllTeUR1bE9pb2NuVmhNM29zSy15WjdYOWdrVGNWc2JYcGJDZU84MHMzZVVYMmRoZDNRMjVsa0JlbmRadlhwSktfdnN3ZWNsTkNNVUlYbGpnT2dtRjZDTklGTkE?oc=5",
+          "date": "Mon, 06 Oct 2025"
+        },
+        {
+          "quote": "Town sewage system making residents sick",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOC1KVGZiN0kxYUtqdFVNNUtublFlNkU4R1NZQzJ2WDlDeDRtcnUwVVlZYWJUVjhMWGpWWW9pR2xkeG03LXNzQ19NRzVIeDFzN2RwZEJkZzNibU5YUWhBQWxnaHpiVDJUMF9YSVN5bTU2b3ExYVFaZGhmMmJLV290OTQzOVJ3c0tQX1JsUnVQOUpndGJLdjRqXw?oc=5",
+          "date": "Sat, 24 May 2025"
+        },
+        {
+          "quote": "Parts of I-93 underwater, flash flood warnings issued as heavy rain pushes through",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcFYxZUE3Wl8wb3RTRzI5SEJPTGhwNDZnb2lNNUdmbzJiLWVlS1ZNbndNZ3ZibzZLSW9xd0dNQm4wYjJ4WHR0U2Z5ZUpWdHNJaUJ3YTlhZkliOWVpTnhJSmh0YzV2RThfR01OWUFJSlJBR0JmbDk5bEhpeDEyZnloYzFKY9IBiwFBVV95cUxOWmk5LUJhZXBBRFhRNXIwSklBc29PWTJkUXkyeUpHVEZFeS0yRzJ1VTFGNjVxeUZOSlJsSlUzY2o3MjZhTVk2WU9fR3VGbk1ra2V0U3ZBT0NVeE5HZy1ZY3dtZDllaDhVbTlTakp5N3dlTndLSUxqLUt0SV9naFhZLTVZQTdJbWs1YmVr?oc=5",
+          "date": "Thu, 10 Jul 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 1,
+      "pct": 1.1,
+      "samples": [
+        {
+          "quote": "Shade coverage complaint across Chelsea Creek area",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbGxpaVJzdzhVUnY4WkxjbEcxY2ZmYmRzZF8tTHFhakdDYnlMU0Y3N2pVenZZdUptZmdxdHY2MmJDSmVtNXQ1a3AzWjJ1b0xweFhyUjBaT1FxZFF6TEN5cC1mcF96eWl5cGhMUW9pVnJzMV9FOXgwSm9Gc3RqbndlZjJ2enMxRnJ6VmxDc3o5QnZMand0RXc3Mm1CZmdsOFVJ?oc=5",
+          "date": "Tue, 18 Nov 2025"
+        }
+      ]
+    },
+    "Abandoned Vehicle": {
+      "count": 1,
+      "pct": 1.1,
+      "samples": [
+        {
+          "quote": "Bizarre mystery of dozens of cars abandoned at Boston airport",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWVBtRmhSVi1iUk1SNUlHYWUtMWY2dUtDRmdqQ1ItcFp3aHQ4bk1VQWVaTnpKamVfU1p3QjA1emRsajFEY3ozY0p5ZG9rNThwVnFFVEtLcnE5eE9VT3dxS29BVDd3bnN1VzhFbFhLWVR3Qm82ODVSRUlyajVFcTZTUUlNclczYjFjbjBra2tYVGNEbkk4MVpnME5IV3lhQQ?oc=5",
+          "date": "Sun, 16 Nov 2025"
+        }
+      ]
+    }
+  }
+}

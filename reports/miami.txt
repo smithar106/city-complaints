@@ -1,0 +1,98 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — MIAMI
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 81
+  Complaints found  : 46
+  Complaint rate    : 56.8%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   18   39.1%  █████████████
+  Trash / Illegal Dumping              7   15.2%  █████
+  Other City Service                   6   13.0%  ████
+  Sewer / Drainage                     5   10.9%  ███
+  Graffiti / Vandalism                 4    8.7%  ██
+  Pothole / Road Damage                2    4.3%  █
+  Noise Complaint                      2    4.3%  █
+  Street Lighting                      1    2.2%  █
+  Public Safety / Crime                1    2.2%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Miami-Dade sues Hialeah over water debt"
+      https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ3BhYVVfeXVId3JiR01sUkpFQnREMHdRSU94azdVTG9kZFNwZUZQX0NOalFNTEpSbHVINkViTzFVWkZWMDFCbnRBS2Y4YXpvUFNsaV9TeVhtV00tV1NaV0Q1MkZlcnJLYmxHYnJDQ1B0bmtBVHYtRXpxTXdJdnByNW1iWGN1NkZndEsyR2JGVlAzNGvSAZMBQVVfeXFMTUdBQ25udUNva2w2aUF0OHE4SnFJd2tGN0hzWU9Zd2lsOVRUWWJJSm5oc2hkQWZLekZZLUZ4NmxCUG1LQVpkbkk3WUVnV0JVTjJWUmdjQ29NdmZmdktkaVF6c2ZFN05Ed0ozUFVwVlVoa3BiaFdLUzVFOXhjUUFvTmFHZlp4YVdTaGFwX1VsOWY0LUlJ?oc=5
+    • "Water main break impacting service to some residents"
+      https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLXdydHhPYmRPcmM1VXRrbGdNQTZEbDdVb2tnekQ1TTAxYllvUjRGV3M3b1NLdDh6S3UxcE1zaHJRa0VndEIxNVN0X1R3dnc2RWF0UExOTGdYWHVZLVlZWWVtZ3dCdXd6UFpqSV9ORzBoVWNVYVc1LXk4VFp3cFBwNk1fdW5JblRtc1NlT3ZiTUZrdFJGdHBUNWJ6TERvLWd0cV96U2xHbmxnWDBMWWxtX0pUcEZMdFFX?oc=5
+    • "Water main break floods roads, shuts off water"
+      https://news.google.com/rss/articles/CBMivwFBVV95cUxOdV9YMHU4QzNVSTVVWjIxV1JKbUZ3X2JfaHJRLWJsUTJ4ZWlpNFYtT01sZHNxU2l3SlRoSV9OX01oQkhUaUdCUm9HeDNmd1JvdTNSd2FZTmtoRTVBTTV6UjhJUVhrLXJ2R3FBekUwWTF0cmJ4NUxrREIxeHZFQzJkYjNzNW9LM0JPMmVmM3lZcTE1NUg4SGxSUFh3NzNpNDVDNG1BWFhRem5hZ3cxeWhXc20xQ1JDeVBpdW8wZXZJd9IBxwFBVV95cUxOSGc0V0xIcW9QcFpOU2pWS0hpTkpZcUt3Rm9xbjI1WF9uVDFNb2NZZ3g4V3J6OVJwRlQ2aFBWY29vNmE0TGczOEJZQ2lWSVlXOTJEczlZY2I0Z3psRjNyRHhGZmJvRDRCNmxpQ3g1bnd6dS0zcFRtWlZ5cW5OTVFhcjlQZjNmUWhtc2NjbmtfTkJueWJsb1E5YU1iWDB2cEFheWFGSkh4cmFjUFpUakVGc3ItZVpfQ2NhNDNRZ253Vnlob1hBRzMw?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Fort Pierce residents smell rotten from Miami-Dade trash trains"
+      https://news.google.com/rss/articles/CBMiogFBVV95cUxQMlo2NE5xTFRxZ1YzRkFZcjJwclhuYmd0NExHWDdwNTBHOXh5dWtWSG1oUTZyYmhrYnlSYXVacDhJLXYzRDFyWDA3ZGswZWoycnRhc3FFWWFJS3pUR2ZhdVp2OWhyZUhlaUxleW5hWG8xWWNvTzVVRWZoaFU2Z0FDdGF6ZEEtZ2xhY1lZckp1eVR6MTFPWTQ5YjhtMWxpQXRhZkE?oc=5
+    • "Fort Pierce residents oppose railroad shipping Miami-Dade trash"
+      https://news.google.com/rss/articles/CBMi4wFBVV95cUxNODEzNEZ4SUFFb0VUNlhRSTVkZWF6SF9lQnZ3WC1vRXZzNVI4TkI1azR4cUF2VnJJbktvdDhYelJmOHMxd0E3RDg4OGEzdXAtX292dGxnQkJIanFTc0cwTERSV3VkYldLSWdMLU5seWZnUUNIdTVOa1RjcHlsbG9WRDFraHo1bUJVeUFPNmhoYWwwUHZQUlR2aTN4bWI3WHRZNTlWMktlLUtTdHhuYklIUW5iVndkaTVPV3NZU2lFZHZ3T2czZmlObTFRVlJjVkVmVmo1ZWEwZFBBNXRTRmNRZkdPVQ?oc=5
+    • "Study Airbnb trash output; possible pay-as-you-throw model"
+      https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ3dTMkZfd2k2dmpuOUpzVkI2dVpYdEhKX0xxZjhKc0NIUUNNMGptRXp4Z2ViUk92QWVJZzZ4SFpBaDF0X2ZrUmF4dEw3RmNZNllKakFlUmcyYlBsZ25KVEtTYjdrWVRibGt1d2o0MVRnMURqd2FmYzlsc2FjZ3BwMHN6NkNKaEw2VUoxR2tTQW0yOXJtUS15OFFYZHgtS1VkWDZlcUpXNVlKdjRVd0ZPQTh3OWROMWVTd0RyMERqMTJhV0xtTEhZTk5CSER0d0E?oc=5
+
+  [Other City Service]
+    • "Residents report potholes and flooding via new civic issues app"
+      https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYkdzOGJFU1RzTXZ5cWZSaUUzTTVvRzM2Q3V2UXJKVHppLTg4Wk90UVNmalpDdmw3SDFlOWhhRU0yZWlZTmozckhoRFdkZEZ3VmtTQUJ1NW9hWFU0R05JbkJIV2wwU2psNV9kM3ZObEh0dU1DRVZ4aFdBNk1TbUc5ZEJ5SllqUmdIOFlITXNjMC1SQlBwNW5DQmcwUHVKZnRfNDhNMDNNN1hzZ2VrR29uM3M3Y1ZaWHV5UzdWTWt2cW55WjBjQlVXYlBOeEE2em0wYVZBeGljdG3SAd4BQVVfeXFMUFpHblNtMVVuYzVsN3ctSWxqN0E1R24tOVpTaGlIbFZ0S3NkX2FESWtDWEZYcFFvYkxiMUgxVmFmcnE2bm0wYTB0T2t6MDZYbEtFZ3VBNVFtUWdGeWwxRE9iU3ljemQ4MHVOQmNkQWpXNjFZOHNTR2k3dVhzZHppSmNOWHRDa3EwNkh3VEhRV1ZhREVwcjM3SGxLb2VpTGRxZE43X0VRQk92aE9PT3pkZUFBR2l6NGt4UERiN0tlcGxOaEhPak1xaVByX2g4emNWTWxLZkpLR1ZkWjVJck1B?oc=5
+    • "Disco ball on West 86th Street causing extremely disruptive"
+      https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXZHNjk2Um91RFVianBuZ0t3aUdha3QtVENNUHBCbDBJakxIcUJzMnZ1QlpyME0xcHJ0eE1tNGRNb1dLV0k4WU5TMlZQLVJMdVdIUnNjTDd1R3lpWDNEWldBbEpUQWFuS09lMGhPbmhqa3lTV3NSdGp1RERyZElIcGVHQXloNGI0R1N6cFVLbW01Y0F0SVVmUWhxRUF3aWtKVnRYeXFtUU5Oc1VMVjRJcQ?oc=5
+    • "Traffic lights at Route 51-Interstate 70 interchange lead to complaints"
+      https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGg4UnpTTUFEd2ZaVUUwR3k4NnczU1RieUlwa3gyLVY5MmlRd2d5QXdyUzByaUZjM3ZidmdMaFY2WFRfMlF6cGdiX0JxSVp5Y1pqVFMyaVZOMC02dnFrN3F6R2RqejdRWXhGdl85MUxDdGc2MUxHT2RiSGdEVTVCMGFXemVRcG9LdVhEX0M2dUN0LWhI?oc=5
+
+  [Sewer / Drainage]
+    • "South Florida street flooding; how to report to authorities"
+      https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2lJQ3lNLVRqMVZCQ0VOVDBDbklxbUhFVkJEY2F3VVVNTVVNVVNyYVBDakhNREhMWi1ZenhsSWRBb1cwWkZNUFFpTnpkaks4cWh6eVE0TFg2X0ROdDJlQXNPN1ltSkc2b3BoTGZjX1FQRkdTcncwTmVRUlJ1b05LTHQyNnQzclFEOUxwOVFBVTkwal9rLTRBODRB?oc=5
+    • "Mapping reveals flooding blind spots in South Florida streets"
+      https://news.google.com/rss/articles/CBMipwFBVV95cUxQNEtVcDFHNFRUcXA2X0sxWHYzNEl1d3ByTUlXWl8wYmI0SGU5aVVHSkhzNDF2VVhHc3RlelBXdnI4TTFUTzlHYjdieUQ2b042X1RJUTJ0Z28yLUs4M3ZpVkkwR19LTVpERVBkY3E1UGYyMU1uMDhfcVR1anFqRTkteHVfTC1FVHFWUGxGT1I2RnNfN3BiRzJpWHYxN0pzRVpYYWZ4S2tBMA?oc=5
+    • "Chicago alders call for action to prevent basement backflow flooding"
+      https://news.google.com/rss/articles/CBMipAFBVV95cUxOMjJXZUtHc0NncHR5bFFIY056SVFBUmdwdUhFX29SU3ZJV1VMX2pWQWp1RDNELTFWTTIyT0ZGQWNwRWtRbmV0SnhMaGR3VnlkeWJSVWVSMDJ1aEt3alFLSkx4STgxTlJvYUx3VnljQkFUNndIbFk1WGpWNjhxTVcyWm55SlpMSHk3MGZpcFU3MnItNWI3MjVkNFI5U3ctZVJTc1RMOQ?oc=5
+
+  [Graffiti / Vandalism]
+    • "Graffiti ringleader arrested for VITAS building vandalism"
+      https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0t1aEdiTFlxN1J4VlNkRzhzbi1HOHRsZzhsX2dUS003V3oyVWxqQjJ2ZlZKVzZwTU93WnduY3R2UzRwMklobDItenRIc1h5enBZbFZFQmptSk5yMTdxMjNCNTBsQy15Q1diVGFTOTVNWFE4LVZ3Z01jOTRzRHZZUjVjSGZqbXRlRy1LZDhjaFd6SVRYVFJ3dHNMc0s0UkU0eER3emItQ1VpLV91NmV1R2c4bGtHaU5iaThRazNLWDV2aHZhTmV5U9IB0AFBVV95cUxQekMwQktNUFJha01LZmNwS2ZFbXFFUVFuQVluaUJQVlhhcWhTbzFZZk1SSjJ4R1h2V2Utd3FXQVIyM3Y0VXJkbTh5N09STFlzOVVYLS00ZzUweFA5Zi1oeUx0LWloWF9SZVdKaWZETUZaU1JjaUFLUThvdW5qTXJVVEJsSkFzcGpqS2I3d3AxbllMeWM4UjdMdW85blhYcHRDcjVLQ1BoX1lUQklKOHlIQmZrbUxyaUt1dUZVWWJTWDQ3M2lXamZRM2E5Sms3ZE93?oc=5
+    • "Graffiti ringleader arrested for VITAS building vandalism"
+      https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXJaX0R2Sk1kaFhaS3ByYXQxQ2VFRUdZNTgweFZybC1UOGFaXzdXaXRqUU13ZFQteTFXamlxQlpuY2kzYWp2bHVEWkY3UExDbU5MU1lqakNjSVlSUXZhbmo5WWhwTU5YMTNkQ2VqWVlVN1cydU80Yi01eXZtUUY5QXExOUtKb0JQOUxuSUY1QUh3RXJVc091VndPUnAwODAtblVHcy10U2I4cnQ0cTJJVGRLc3NpbFlpNzZqVmFB0gHGAUFVX3lxTFBlQkV2SkZYYTZvdldfblRuMzZWZXl1YUNBRktKcWNVOVpXQXhIcGxZTnJvYWlMcHdJTlRYOV9OalNtUmFIUC1oUVFrb1MyTHNNdWlfbUk2b1lZM09mVjlHZU5HeHFuMmpTSzhITW9zRFliM2pLQVhQVGdnblJudzZCX2FrV3RKd29QQ0ZEYjU1ZjhQNXM1c0tSUW5DNU42QVl1eWZrdkpvNDhJbEJjcThIVGhDVzlJM0RtQTM3c3F6a3FwTjZoZw?oc=5
+    • "Jackie Robinson mural defaced with racial slurs and swastikas"
+      https://news.google.com/rss/articles/CBMijgFBVV95cUxNd0REdjc5RmpKTjBhU1BlUzNHQk82dVNoeVJyYlBXR25OUUxrd3hDQjdmenV1UXk2TWFaYmlTN1FxVnRNbWstTmYwTGZ6aVVnUDVfZUVCNzJZbEVIN2phUERfVmRoLW9HU0l4RHJ2cEJnRXY4amJaY0xKRkV3NHFWbUxnMG9hOVhYbi1sUnpR?oc=5
+
+  [Pothole / Road Damage]
+    • "Resident cheers road authority for swift pothole fix"
+      https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWmxBX1JZWU42RTFDbjJ3TWdTclVkMEJvUGFxdTB4Nnp0X3VYTnlsMHRIcGJpX2dEN3dMSGZOalRYMHhmWkttMXNqSnNTZXQxM2RfQXExRzJQZ3ZjbXNzdWEwbVFqUXVXekRfU25wOGpiRGVrSWx3TlU1a1Nrb0RQcTBvd2RfbVlVYmxCZlhRUTRuVExsS05Db3p5MnVSRmlNSlBnZTJvTlRWNUFOU2dDanFBeXpCRDBHWmhIN1ozYXh3bkZidTl3ODBqTl9IWXlkNjJsdzhPcDV5SDloRFJfVk5CektLTGJNUlVKem1Ka1hZQm85Si1wOUVwVWXSAYICQVVfeXFMUDZaMDVndFhFR1VDMTBwZUZRX3AzYjMzNFVQckxfX1BFX1oxLUF3TWhJMFA0ZU95bTJfZDNYM3ZRZmlXSDBaUGJkZnN4U3B4NW5Oa1RsU0w2endLVWhyekJQXzJ2aG1pSms4OERiTVZBTHRLMnFXUmpxOElvdFRGVTlhZkpPMWFBWmN4bnZOUldpV3JSQUtTeFVVQWg5dERiQWhPNWJZZUIzRnFPdUd3eGppamZBeFl2UlV4eW1vR2Y1dHYzUk5Xdl91U1lYdlcta0pNXzh4d3ROZDk5ZXBlUklpT0hKNDBxdUNIVm1JMGZNNnVjWXo1VXVYOXhqMVREcHh3?oc=5
+    • "Residents demand quick response to pothole complaints via app"
+      https://news.google.com/rss/articles/CBMiigJBVV95cUxOTnN6Q3ZtX2YwakhRWDNLS1kyMTVOWUktQkotb0s5aE9NbGdaY1F0R3VZSFQzX2VKc3lNS0VGd0FVbkhuOW50ejkxU0ZIOUIyZjJKZHE2VEd1QmRYVVVnamhnWDYzSi1JcXFZWEtyTGpCLVRtMl8zZnI3N1JQMTZ0NmVDcUZFRUNUTWFtaGlxV3dVM1l1SUM3SjNtemoxZGk0RzdTSkxUcHRWS2E1UHY0M2lTaGJqUEk3eTJoQ2JQRUR1TDZoTHNCQkF1SXh4dlNBeW95MnN2RTJ4Sll6Z3ZqLUh6ODV5QTdJUFdIaTRHNWllSEJkSFpTbzU0Mi1pcTMzWDlvMDhVek5MUdIBjwJBVV95cUxQSkE1NFJKZmVpUWNnN3oyQmN1bFVYcDYtOXBSWENjalVOYVJZOWNQcGVqUjZLX0IyVDFKMzk1dkdsSnhlb3JuZWVnTDBBaUFlRVNrb09aQ2UyN29XZlp2NjRLM25WbktqWDExU0NMc3dGZ1AwWTJmMWZZSlU0OXN6M0QtWk9fQlFUb3Y3WDNqNE94TVYyZmc0U1M5alFpTXlJTkJsX0JHVlVpRC1Rem4wYlBLRDNLeTVBVkVwYUdjUlc1bDh4TE05YnJWbVc0MGVXRFhoSnQxSUJXdWhLZWVZOUp1cGFaekw4RldldmRIZlZNNmpDZDhtQTduaHNfQjl2S2xpQXlDUzJKYnRnYUp3?oc=5
+
+  [Noise Complaint]
+    • "Downtown Miami residents discuss noise complaints from Ultra fest"
+      https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlVlcTN2cmx2Uy1TZFpGb3gxUENJSUZqVlhBZF81S0hTbjBGYUJFY19odTFFN3FSalJKNU9uUHZkY3RLakV5ODVvMmVhYXRhSHRpMWRnVXRWdkowWnl2NVhzWE8ydDd5MzJSa0k1RElJd2M2Wl9wdU0wS0ctSDZqRFhqc05JNGxPcVdjOE5KcFdnZDRScGZRV182bGt0bGF3dk5teEtvWm0yaTBtNjFNTEczNkJlbk5KaFdnNEhVRzJQREgtSEFUUTJseFFXaTJDSTNfMnUzX3g?oc=5
+    • "North Bay Village residents complain about early construction times"
+      https://news.google.com/rss/articles/CBMivgFBVV95cUxOclpfdHZMcmxadFlLd2t6MEJsaGo1VlZpOEI5bG4xNXY3MmNpUDNPdnc0c3ZfRC1KZGxVLWhuN1RNdmphSDBOWTlJcXVKblNCcllfNG84RGZWS2dOSmVIeVZsLXFBaHNJN1pOa2pmUXM4VW5KVDlpWjFPT193MFRZR0R1eFNXSVVsMHFrU2xBMEdJXy1lVFBGb1ZFOGh4YV9keU1iSHk2V0Jpc1FQQThFLUFOUXlHQXM1TmNVaEh3?oc=5
+
+  [Street Lighting]
+    • "AMC's 15cr streetlight project blinks at failure"
+      https://news.google.com/rss/articles/CBMiwgFBVV95cUxORWQ4VHlLMXBQc3VTcmhrejBuT0FBdktUZ1FhS1B6bFgxSGY1UnNwVEQ0WjhsbXQ5ZkRlVkc5dnl5WUFBR05SVGtnVFBsWFJRcGRsTlF2VnRmbmFUZloyRGtTN0k2U0NQYjAwUktNa2NiaXp4ZmU2OTBGc19LV1oxQUszRWdUNlhZUFkzWXdxakxhTndfb1Zwcy02V0JLbHRfMFpjemxGR3ljdk5uVVVQeEVjNUFHS1RLbHNOeEZhMnVYQdIBxwFBVV95cUxPN1U3bmFjbjdlcnVqaUlCM3lRTzZITHNSRWFHTkY3SnctWm11OHctMGF5RFdyWkd0S19JajJ2S2tmcTBVQjlvTW9WeThjMDdrNW5tcjEwdGFzMmNUZGJFRDNEa2FGXy1nS0J3eEZmR1M0MVVIN3N0OGFaa1BWaWNQY3FlZGFIMWgwMEptb3FKMnQ5WFlLV2pveTNhSU5fSlJLVUhLWXFKMjM4cXJfZGVpTDJjdFdYNk9iT2I0bWdmcXh6cGQyOVlR?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 46 news articles reporting
+  citizen complaints about city services in Miami.
+
+  Top issues:
+    • Water / Utilities: 39% of complaints (18 articles)
+    • Trash / Illegal Dumping: 15% of complaints (7 articles)
+    • Other City Service: 13% of complaints (6 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

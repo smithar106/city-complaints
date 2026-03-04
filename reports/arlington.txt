@@ -1,0 +1,94 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — ARLINGTON
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 67
+  Complaints found  : 35
+  Complaint rate    : 52.2%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   16   45.7%  ███████████████
+  Trash / Illegal Dumping              5   14.3%  ████
+  Other City Service                   4   11.4%  ███
+  Sidewalk / Curb Damage               3    8.6%  ██
+  Sewer / Drainage                     2    5.7%  █
+  Pothole / Road Damage                2    5.7%  █
+  Public Safety / Crime                1    2.9%  █
+  Noise Complaint                      1    2.9%  █
+  Abandoned Vehicle                    1    2.9%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "100k people impacted by water main break; repairs continue"
+      https://news.google.com/rss/articles/CBMiugFBVV95cUxPWl90MXVVM2hNTHp0UURERXI1eGd6WDJNVl9Kc25ndkZIcm1PNWhzel82Tm9WRXBtRmdIZVhGdjVzcE1TYzQyNzExQUM4dTN5UlloS3RVenVxUDAtMU84bGhTNjRGZk41TkVsSDhQVkVabGMwa2V4T0t4U0FhUzZ0VGlxTUU4cmpLSUJwRk9oVkVBd3ZUMDR4bkdId194V0JtNzVjZ29ZVlloRXQxYVNESS1Say1RNnRtUXfSAb8BQVVfeXFMT1lRMl95emEyTnZXT3huQVNhd0lGWENwVDBWQk9TeEFjQ2xkakVDVGtQcEF2TEExSzVrOWo2WV9udnR1ZXpmb1NrZ1ItX1M5dF9ZU1dBNGdKRG9kZ0RYX0tKb0VCVHRCYlpHYkZicGtiOHkyOU1mODRzZFBTNDJTVGhoU1dSTVZRaFoyR1BGYVA5emFvVXpLOERfMjVVOUxfNXdWcE9mclhwS3NXUTFUVDVzT3lSVS15UkZac1RPVFk?oc=5
+    • "3rd water main break this summer in same spot"
+      https://news.google.com/rss/articles/CBMitgFBVV95cUxQSldiZlJnU0tyQlBzQ2ZSTkZOYTNRYU1KV2xoQWVwd2dTY1VpSS01d3hMUkNNM2t0dk1WSHhpMDJhQTFNOXFzZUt1S3JGd1dMSDJyWFFSa0VITFl3ejVOcm8xUGduZEhYTUdwSTVYV21KS3FvTS1qRXFNRzJkVEFnSGJvMkxnenpWQklCbklhakVaOWxjMFZsQjYzT3c5S3NWT2FqcURIMzJ1bC1zZ2dHemEzZW1rZ9IBygFBVV95cUxOTXdreUVxNlRpd3dxZFJZVVhRelJaVmNidjF6bjNlN2dIbEg0dlkwZDhEM2Q0QmpFdnUtZm5RNnFzRkdUNEJIUXVSSGo3S0JTckFUa0oxWVA1RmVxb0VjSWU1Qm9rRV9qeXVVS1ZfTjJpMUxncGVJNGVCUVk1ejNHZVYxVFBnX2NtcW8zemhTVFl6MVFDeENmVFI2dFlKeTQwRE53S3kzQzJvUFY4b2hUWmFfOUp4RnFDVktKVnRQTUFlQk1EYU0tWjJB?oc=5
+    • "Water tankers deploy for neighbors impacted by water main break"
+      https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnJENUJJM2tFQ3hxMDBuRnpKdzRFeFoyeHdSR3FPOUNSNnNrT3RRYjBmRWNWSkIwdVlmdVFGT3dRWHl6Zk9HdjhpdENJUU1DSVJjdTN1NGFycHgyUHRsR0RuNjdLYUlndXoyOWZJY041bl85WkFjc0tUc2J3SEN6LU1YSEVVUGNubm15X3J1OWNQWGR1MC03SnJvTlh2dVU2SEpDdng0b1JiNEZHOTZiOA?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Residents complain of late trash pickups after new contractor"
+      https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXpRYnZiT2Q5MWVwWDVvNDNDMWU0YXBidjlvTGctTWk2dnR0OHVKeXZJRVREd0xqMVVKZl9hMWt6dHRJVDNuNFI5clJKZ1dCNlk4NmlESlBYdXlMMzN4YnN1Z1JEcDRRZDRMdUR3RE94X0lMYmVhQi1meS1fTmJvcW5iWXVGTmthVWQwcC1JUFV0djVFTjlvUm42dEJXb3IyZFB5ZjE5R3gzTUwzRHRYN1dn?oc=5
+    • "Communities seek relief as trash worker strike continues"
+      https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ2ZkeEtIOXVydDRrY08yckhHVzFnMDdBQy1rb0ZrM0NMYTdDdmJRVENNY3dsX09EVm1sb1BGSG9JWElBRFhvaFNIOXNMbnNlclM2TGpPblJ2dUdQNEZveWhOXzVRNkdUNWJMbXNFU1ZDT1ZaVUJ3NEFOcXgwUDFYR2paMzZnbjgyX3RwZnRCUUZGYVBtbDc0Q2RHZ055RXpKNHpJdUw5TlpNSGhVTUc1Y3FIaGlsQlJ0TV9HODAxYlFrUWppckNmWFJLbE5xOTU2NFHSAeYBQVVfeXFMTWM2NFFjSWJhUmZrMTBfbXBsdFlJZjV2YUhxaTZlTHVTUGFSN3l2V0IxZElxVnlZYWIwNC1rVG5weFpQWDB1Y3F6UFljdEZFWmF4RGFkRnNiN25TTnRPdWFWZlptUHNHY0NIZUV4cUhaVVNMVUVON1JTMW52bFpMcEhiVl90MVZmekEwcDFDa0JWMkFhdklFRzNkVUNBc0dwc0RDWU1kMnJGNmN5WEo5b29hZHVKY3VXaDFHbFNKc0MyLWNZTVlMQy1HNHZubWNQZko1elJ0UDFNb2QyYUlnb2dMcmJuMXc?oc=5
+    • "Trash, recycling workers go on strike in numerous towns"
+      https://news.google.com/rss/articles/CBMiogFBVV95cUxPclFSeVpXZTVPUHRpY3VGSGp0YmUzWTYyTzYxOXExTFdGbTBWX09xN0h1Xy1vOTVQa21IY2dhWVN0QnpmSUQ1UjFWWWI3OW92RkZPak5tbUVBQ3FreVFoQXc0TUt0c3g4SnhqVExtdUo5d3VVSlhpblNJTWpTRHE4QnVySDZrSU94MXZhbWg5STJYR2dybnlkR1hvWVJuRklHanfSAaoBQVVfeXFMUHE3ZFpLdDVnckhRU2dPd3c0WFNaNnVESmdGek5GdUs2a09tT1hEY0NLZ3dmNTdNOExrYnd6NVhyMFJuWmVRM3NTNEpnSUdybDQxU1VhYXNqSjBpeUk3ekVtc3QyYW5vblE5bTdlWUEtSFM1NmU1dVg3dGFBRDNJTnE4Zlp6SzZjNDVxdXJOcm5LX3BTRTZ6ZHp5Uy1VY20wMzZvM2lNaWU4c1E?oc=5
+
+  [Other City Service]
+    • "Residents air grievances: 'We have been neglected' over sinkhole"
+      https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaWtvZmI3N3lVS0N4Z1E4ZGo5QWVpRGZfa3ZXZEJSSUtxOHVaNldtR0ZoajFGWHdUYWV4SHVLVWEtcW9yOTJEQ01KS0VuWVpQWHFHZ0FqbEFodzFmRHJxWkR5bXp3YXUwZHJGcEF0N1VydnFZeXc0UmRaT0RzSVNuVHd1ejZfbVEzMVZ4ZGtrcjRVX1I3VVFpRE5TRmF3Yl9rdjN0a2I2SHA1V0xuVUxpYWVDeFB3cWl1MzR6TEV0RFl2dHJGZi1NWkRYekZidDlodXZCaXZySFUyOHdEdGdLNF9OSjJoX2h2RGJXeA?oc=5
+    • "Residents want changes after transit overhaul sends buses down Arlington"
+      https://news.google.com/rss/articles/CBMijAFBVV95cUxQWHJEY1REaGRTNlFxTkgtTE9PbWNOWXBpMFlxRUdVSjRNMmY0MnVveFgyZ1FTcURiUnpnQTFOVy1pdHAxVHMxSjVNZGQ1ME5sazR1MzNaMDQydVdjcWVGak5XSVQ4Ulg1RjBLOGFnMUtaOGRTcld1UG1ZSnlaMDUwUTVzdWhEc2h1bkZHcQ?oc=5
+    • "Homeless shelter staff complain about late paychecks, lack of supplies"
+      https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2pDcEE1VXVrYUQzQjlKemFpNFVJTWdxRTZkeWQ5Y1U4XzJPejlRMEdCMHQwR25QU19DN2hBZ0VsbTltNVc0Y1FCVVk4T3JxWUtseEIweG9JMnl0SVJUOC0xZ0l2RW96QkNfaTdrb0JMRV9oNlRQQ0F1bmFCSkt6amNEYUNsS1ozb1hEa2Z1M2thVzdhYm1XbjhGZWNHYUJ1OHc?oc=5
+
+  [Sidewalk / Curb Damage]
+    • "Snowy sidewalks and ice mounds persist as plows continue"
+      https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVdwcnhWQzhiTEdEMjJYa3BZZXhnNEZUN1ExNF8xdjhQdkhBQkhJOERHNGNlTWhQeWw5bFRRcGFvYUZNenI5RUlYd1FhdElQdkVzT1VrTG5Wdk5qVnJlSVdnZ2pvM2F6Y0FZaVA0Nkp5RFc3MTE1R0VYT1RWbW9YeTNPMV84bmtheDlUcEd2YVB3VldLTnFrbUUtZGphWjNzbHZpSjFfcFRHbjBaTXN1a2pGUC1qekZTekotYjFtYlBPUQ?oc=5
+    • "Sidewalk-clearing ordinances have mixed enforcement across suburbs"
+      https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0RuY0VicFI1b0ItT0pHX2llM1NEMmYwMUpxaEYwbDJBYlZJOXJmLVJ5YVZDOHlGVDVzUmQ1c1hTTmt6MUV4eDA5V3Z2YlFrT3BzaHVLRm91elVPVjdYbWd3Yl8wUm4yTEZnM3lPTlcyajZsb3JqSEIyMGkyeEpraF9ORzJpQjhhWmJ2QmtodV9pY3F6YlFwdWo5RW1hOE53cWYzeE5NbTFsM3lfNVNMYlg3bk5lbUxkNFpwYlN3LUY?oc=5
+    • "Neighborhoods may lose say on sidewalk placements"
+      https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmp5RHdQaVZjVGtnSW9FTEcwNmJCS0VpYWFuVUtuVUFkNGhEUG1Jel8yV0IzVnNxUUx6dnIzbHozY3YtSW0yTkNpU254U19Na2lJRW1heWxiZXlpQV9fYzNXWlpQOUNDRFkwTlpBVTlXcnVvS2NoUm5EZHJjc1MycV9TYXlMQXJXc1Mwak5Dck55cGZ4bDFjRXBkOE9GWDNMNHI2R19R?oc=5
+
+  [Sewer / Drainage]
+    • "Sewer overflow at Delaware Creek following Arlington collapse"
+      https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0lZMFhWUFNlSGtFcjlFYk5ZV2tyOVgzOWZMUFdwcmNCVkJSRW5KSnBDSjF6ZC11emkwSk03S3l5R3F4QnRidElYTHZxR0FDVGk3dF9mSmIxS25IaEpDMnZ1c3h5bTVBWDFLdHlkRGI1c0hTRFplWDJKcEJURWJ0Mjl0bVBZWkFFZWQzSUsyZTYzVkRlZWRNMlN1d1hGTkFmNVkwVzlhYjNIMnRBSXRWTXZJSUlLNENLNHJmeQ?oc=5
+    • "Boating home on Skywall Drive amid flooding"
+      https://news.google.com/rss/articles/CBMimAFBVV95cUxONzh2Y1RDMlhNTk9SUjFjSzQzelJQakZWNmFMdDgxeUlwTENrUld0d2tzUkdyUHhJQWxKUGJEOENfLTZMNGFRQ2g1cHpHVzQzYm9aSVA2WDB1Y3VkaTFlTkRxeEdWeGNvenhmbjVPdDZDUkg0TXRRbGhld0xzamtiQ25ZZzZ2dW1yajFWbjlxR1NfMUN6Q1FCZQ?oc=5
+
+  [Pothole / Road Damage]
+    • "Resident replaced nine tires in year due to potholes"
+      https://news.google.com/rss/articles/CBMiugFBVV95cUxQSjZsUHpEVHJQZW1jd2Q1ZV9EUnEtOWd2eTBuWGt1Q21iQzYwd3J0NmVEcTNIRUdudHV0WlRpQzVUTHg5c0Nxck9QVUltZlduZW5fSGI3TUt2S0UtZWxmWFY2QVlGR2taczdPWVlNRGx1N2dYM1pRTnRjRm0xXzloMmhKQklFS2JWSEZicC16bWs4V2EwQlo5d09KTFgyYjBWTjhHX091R2dvNnBuOHZuOUthMHZpQUMyeXfSAc4BQVVfeXFMUGJxNEtncW53a1B3RjlnMUcwcWN5RWl2YXRwVmtpQzVXRE1fUlRCUWM5dDNYZGxTVG9sa2xfcjdzN3ZuRkZDcFM2clRFbzZvRjBncHJBS1ItcGJoSVdRSHRkcXRXQkdvbGxtenMwQ1MxX1h5OXk1S1dMZzRwSHBaWk54SkhtNGd5QmxaUXZuOVFYS0M3ZE5tcERxa1o5UlZpbjI5QjRnVEZVQ1BwemZsUjh5bGprR0RCVXg5NnRhSVlqWGNJUWN2SW1UY2FPZWc?oc=5
+    • "Bridge over Four Mile Run requires repair closures"
+      https://news.google.com/rss/articles/CBMitwFBVV95cUxQZWszZjJXVEk4RF9kbXBWRXh4d0dKRW5kV2JjRkU1Z3A5aTNfUTBKMk51ZS0zR1drOXpCdGtNNU8tNmJkam5GTjJQOXd3QVdJZDFXNUZVWXBJdjJZdUlSVU5PWm05WmxxSDRQUXVaaDBVOUtmMXNqZS1ITXFsZlBQU0YtTVRGeTR1VzE4UE1xLVoxeHRIajNVUWQxLXRNdDJLWmJXem1zMmxlanJsTVhUREVWa0c3a3c?oc=5
+
+  [Public Safety / Crime]
+    • "Officials mull rules after complaints of loitering downtown"
+      https://news.google.com/rss/articles/CBMivAFBVV95cUxPeVZKekxKRHUxeEQ0bHEwWUVjRFFiTHNQTWFnUTlySWt3LXRFN1RBQjJ4eGMxWGtXUHFJYUtzeWRFdURxaVpPSnNEV2NhU0g0RUZ2YktCR2s5dlIzR1YxNUVCblYtM2FkZ1FjUG1wc2dLU1pWaWoxbHYzaEpMb2NZMjN0OFo2c3dzWlRZMTFpcVBlZ29IenJPWTJHdWFOaUdsbDFGU0VVYk9jUXRxblZvWE82d2hZQXpjbXdJMw?oc=5
+
+  [Noise Complaint]
+    • "Residents concerned over industrial noise levels in North Buffalo"
+      https://news.google.com/rss/articles/CBMi-AFBVV95cUxObVBOMDhXMjVma3hqS1dCYlRzc0k0b0Uwb2M0Sm5JdW82QzRHZkxZYWlfaGMxdlRUMEZKTU12MjJrMlZmQkZ2WnF0NUMzTlpTTFZkYk5KeUZnQmlVVmpZUUlZckx2RzB1TXg5ZEhDeUZqUTZvM3BxNjR3aXpXd2xXV1ktYXZMNzNKaWFZZm92QzZ3YnJuT21MNUhBU3ZYVElDZS1mRF9vbFV6MEd5a1BPSFlyZENZMWczem9qdW5NbURCR2YzS25KMUNUa2tWTmlIOWhxNmxOZm9BS3Nxb1FRSGhIekpnbDNXYkZnRHpZbDRhbmRodnBjZw?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 35 news articles reporting
+  citizen complaints about city services in Arlington.
+
+  Top issues:
+    • Water / Utilities: 46% of complaints (16 articles)
+    • Trash / Illegal Dumping: 14% of complaints (5 articles)
+    • Other City Service: 11% of complaints (4 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

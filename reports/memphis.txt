@@ -5,27 +5,27 @@
   Source    : Google News (past 365 days)
 ==============================================================
 
-  Articles analyzed : 72
-  Complaints found  : 41
-  Complaint rate    : 56.9%
+  Articles analyzed : 75
+  Complaints found  : 45
+  Complaint rate    : 60.0%
 
   CATEGORY                         COUNT     PCT  VOLUME
   ────────────────────────────────────────────────────────
-  Water / Utilities                   16   39.0%  █████████████
-  Pothole / Road Damage               10   24.4%  ████████
-  Other City Service                   6   14.6%  ████
-  Noise Complaint                      4    9.8%  ███
-  Street Lighting                      2    4.9%  █
-  Trash / Illegal Dumping              1    2.4%  █
-  Public Safety / Crime                1    2.4%  █
-  Sewer / Drainage                     1    2.4%  █
+  Water / Utilities                   16   35.6%  ███████████
+  Pothole / Road Damage               13   28.9%  █████████
+  Other City Service                   6   13.3%  ████
+  Noise Complaint                      5   11.1%  ███
+  Street Lighting                      2    4.4%  █
+  Trash / Illegal Dumping              1    2.2%  █
+  Public Safety / Crime                1    2.2%  █
+  Sewer / Drainage                     1    2.2%  █
 
   ────────────────────────────────────────────────────────
   SAMPLE COMPLAINTS BY CATEGORY
   ────────────────────────────────────────────────────────
 
   [Water / Utilities]
-    • "Holly Springs Utility District fined for providing inadequate service"
+    • "Holly Springs Utility District fined for inadequate service provision"
       https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd2JJTzE2MzRwczYxNDN1cDhqVkxCTjlFUk9UZGN0YmpwVHBmQmZPMEp3RExqWGVKNGNfcU5UbDF6dkxnZ25uM2Z4d1p2OUhZTzNnam9Xa1lhUVNXbjBHZHVla0RmVS1NOTRpM09oYm4zaDJGeG5ib3BGUkhDWnJXaEc3N2w5dE9OdkotOXpiTFF2RXVjVkxnSDIyUkdSdThDbFRKLXdhd1Nha1hyVkp0Y2JFUXVmUnJOZ0ZIcnh3N2xGQk1fVGhPbFVBRXBUSVkxR0FrTzc4UnhGb2pFYnc?oc=5
     • "Water main break leaves residents without service for days"
       https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeHhXYmlfbnlmUjNWaml2YW9qSlpuTEtxRmtwanE5U0pROEU5Z1NDdkhKb2pydmxSOWd2VTRtYzRGNmxRRS1NTG5wcTlBRC03SDJMX0dvYUFVNTRXRk0tMUFaQUpHZ2pySGdLR0JKUVBvNGJoX2xoX0V1WDBGRm5jMndMQ2dzb3g0X09qeFhleFNhT3hXVTdXemJOek9PNTFNMUhtcmpJVmJtTGlLQUJNbkFzbkJKMDFXcGZYQmtkRlozMGFPbHZnQU5ZU1RMRk11WUJsZEo4WlAwT3M4SHN1Z0lRX3RFZ1g2UHlZa2VwczdaWWxJ?oc=5
@@ -33,25 +33,25 @@
       https://news.google.com/rss/articles/CBMiigFBVV95cUxQQUh1TElOenJxNnpTQkhCcUlaTEhMVVVHWEkzbjdUU09TMV8tMnhZREY0MVNfZkVkN1VEMkw0OFpEcFZodDFvYmN0RHFHckpIMTNoRWk5blFZdHdOZG84SG1pcE9NbGhHMEsyWGZMQnJXQzRpUlZWNzZRaU4ycFZla3Z2VldvWWoxMXc?oc=5
 
   [Pothole / Road Damage]
-    • "New potholes expected after ice thaws"
+    • "Residents in south Jackson share thoughts on city's pothole efforts"
+      https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeE9ZaV9rY3VUSm9wNkNSaXRPWnk0aVpla2lMcnFtRkhvVVV4WFo1TWpoVThSVDhPTTdGWjZZSkZCdWhiV1FoUkVXS3I3d1NPaUhHN2h2MEdlUHNSSWh6ay1nMzcwTlBrakpXNjExc3g5OHRLN3h4Z1BqTkJOdG9CeHdMSTE3UThFaDBfR1pMclFBNkh5WjlOWDQ2WlJGdnotbHV4R1YxaXU0NjlIaHJJcmtmUTdlR3UyYUVvWXpiNTVWY2xMUVVEWmtXcXRPbkNWYy00MGtmWVdkX3NMdWFubUU1eVNBMElk?oc=5
+    • "New potholes expected after ice thaws in Memphis"
       https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWtzVTVVOE5Jck5qNDYwcHRrUGVDbVF6U250UnhxMkFXdEh3Q2tmY2VLQ0R1UEhwUTRkSkR4TFlzOVhxTzF0SFJ5UERSWnZhX1pEeXJkS3F1RTFiMHR6ak9DS21GZjdpTE9NVlVLV01GLW1qOUlvQ0lMRm43OU16Z2wxQUpzdEtrUk82RHI2eWpGd2VvUWcxNnA0Sy1JdW9vT1pKM3VWajk5a1NtM2FFSTNiWEM2ckppa09IZV930gHSAUFVX3lxTE5zeDM3M1Z4cVVLQWJqTGFwWW5admgwZUxNbTU5TDNyZjBaNmJLQ3kwZ0dHVEFZbjFtOUJMelpLNk5wb3VVenQ3VXBjTkptX2JXb3ZwcmRRbFhIN25YX0ViNmxxS3pzSlJNN29LR3FQMnZWQ2xPTFktR3dOMWkyZUVibmNKTWhJX1JjbndEX09lQW5sc1E4d0ZTa0pVZUtEQ19hZ2JQTnZIMWRza0JvSUFyaDEyVU1scDRHdWtuQmZLc3dXUk01S2pQNXprY0p1dFVmQQ?oc=5
-    • "Large pothole near Memphis airport being fixed"
+    • "Large pothole near Memphis airport being fixed after report"
       https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT21haDZMZVJ0VWhBSlFRNjBybmpfd0xwRlVfSEFhVGplV1NOX2g2LTh3Q1pFSGtacDVfbElRMkRobzYyOHplY0Nja0F4V3MzYUFNTHhFeGhDUUlabzRTbzBqRFdMU05Bd0VJSDZieEFRWnpWMEpjZVpsVktHRm9IQk8zcEVFTXY3a0x4elJidk5kTG1fcjNndE1ibkFuU3lQdUVfV3dkV2xrYWZJamgtMjBIalIyTFMtcE1KdVpVUGEwMG5KR0hJSHRXc0k1VEFSeENJckw1Ni0xOWprU09ybFMyWQ?oc=5
-    • "Drivers frustrated by Memphis potholes as city fills thousands"
-      https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXE0enRjdFh0X1gxaWwxaVJOMC0yN3RQUWRucWhoZXNCaE12NzN6ZnJjaFQxOHotNFVDOWJMWTlKZU1LYW92S3VSOUNuVzB1WkVmQjFNdm50dFF6RTdHMFh0Nkx1SExid25oeU1hemR2ZjhlUEZOVFlvd1BXRThMakJoamV5Q2R1NGpPd2JRT2h1U09OLVA4WS1Hd0g4ZjdidW9qejRhZm81aENWM0lkTnlIOA?oc=5
 
   [Other City Service]
-    • "Commissioner addresses blight issues as complaints mount"
+    • "Commissioner addresses blight issues as complaints from residents mount"
       https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTXppSGw1cVV3WXkwV1Z6NVJnNDhxSjl1dUVlaGIyems5cGh6Qmh3OG5UM0VTa21tazVaVzcxQXBUdzVKcTFnbllDV19LZ1BsTnJpcnJ6QmxJb0w0TTF0blJaY0xHM3R1b3R5MzF5Mzk3NGVON2psanJwalZEbHNCdzRaMG5pQ0l0bTFxaGtIU0FTYTRINVdUT3FmZTlPck9OVU1lVUNvbUhycEF4X1FNVXI5SGxJVE9ieGJmZ29BeVFmMUs2b3YwQjNzY0hrZ1R0SmFmaGRvZVdzVUVsZW1VZnFNeEw?oc=5
     • "Memphis 311 call center overwhelmed; residents face long waits"
       https://news.google.com/rss/articles/CBMioAFBVV95cUxPV19OcENBSDZyVlJXTUJna05FblpaRDhEd053MVJGdGZYc0FkREdEd0JQMktTVlhoNjVyUGNDUkJncUxPd1lOMWdoWS1neDBsUDRaakpZQ3R0QlBSdWY5dVRUMloxVGtoODE3Z2ZGZ1lJaE9YXzdsTHM0Sm1ybmlRMmNhVExXZHc1ckI3ZWpnVW9yYnZvNjMxSGJJeHFZaks40gGmAUFVX3lxTE5QaFAxUVFPeHdSSVpfREw2dHhlYmhtdmowZkMzWk5CU3oyLXFDMFkzcHlUaXdKLUxwNXpHSVM1bmtvQmdNeTlBb2UyLW1TbUhEN1ZnX2VVM0FoaXVlM3c0S3hQckJqdlpkNzdtS19CQXdOZXJxblNDbS1DRjduNXhfUGYxbVZFaFVRcHg3eWVaMmRrT2NzNV9iSWZYdWhtT1YyOTMxalE?oc=5
-    • "Commissioner addresses blight issues as complaints mount"
+    • "Commissioner addresses blight issues as complaints from residents mount"
       https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdnNxVHZET2Uwbnp6bjd3Xy1tSjZXSndNLTZqTDFwM1NLQVl5a0w0NHh4WXpibjFDS2hnUFFPblI5RGo2NW1YZzgzcHIxYkRFa3ZiTU44cUYyYmRSYXdycW9lTG1rV0UxVERBY050bTdHeEFZWHZPRWtDT0prUHFNOEppLTFLOXBUMk1QeGhqZzJNWXdJb2h4dl9iQ0tsWDVUeVpJbHdvV1Rjam9CUG5sOEZWdEFySkxaZmRUb3VrUmNNbU8xMXRvUHJqUWNvUWRaSFhZWUFIcmhwZWZaT3hhUkZWbmR6RzlmSU5ETmtDVXFyb1FjRjB0TEVjQndQZw?oc=5
 
   [Noise Complaint]
     • "Residents raise concerns about noise from xAI turbines"
       https://news.google.com/rss/articles/CBMimgFBVV95cUxQdEtaejVMelkyMWxnZG9pZDNKOEpaQUdYUURUWmxxXzk5Q0otNTlySmphdTVtT2xUeVNIc1hicDlMWmc0MGtKb1R0aE9xNEVHWFJNal9ZN3ViaW1UOG54NVVSNzgzeW9vMmJFN19IRURFOUEzLUpzanFaOFNEX2xYR3JkdUwzU29BcFVDRTFBVG5ldk5jbXBKdU9R?oc=5
-    • "Residents complain of noise from Elon Musk's xAI data-center turbines"
+    • "Residents complain of noise and pollution from xAI data-center turbines"
       https://news.google.com/rss/articles/CBMizwFBVV95cUxPY05SMHhuTFdzZEJJendKNmZuV0dTUC1fSTBnU3B0Z2loMDNZSjhKazBfcFlQOVd6QzNuS3p2Ni1hRnFFejR3VW9pN3B2b3RJX1RKaHZUcm96SFAzQ1hRVWh2V3VwYWJPQmlkLTBLTDExbzBFZzBCOUE3OFpRcDdEdlB2dm9fU1k1dVZ4N0ZFQ21WZWQyUklCMXhEcXV3aXEwYjRZNHVFN0lGTi1YQWd2ZGprTy01UnZJc0JhUTMyeDdYUFU0MXhuTDJoSWs0Mjg?oc=5
     • "East Memphis residents call for end to rowdy house parties"
       https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlBqVk92NXhXeUNoVVQ0OG1YNTluSEhnWGprRUNLeWlHQ29hemF1dW53dTc4MkFLYngzUFZzbUk1U2Rxa0FnZjlHalRkN0g1RGpzS0tQUzZHd2p6alB2cHJnV3dKQTRNcVRJRl9WR2dtMHExTHJJMWhVVGZ3TmJCUDhfV3VpWHRaRndqaWg3NHFyVU9xZWJ0LWNB0gGuAUFVX3lxTFBIY2RMbWpXaUhzZXhkUV9VbDgyZ3YyZlFfSnBwaWpTRmVkV3Zka3BfWnlqcmYtWFhYMVZGNmtLamZ2NkJBczdkT2kyenpucDNqNlQzcm9aQ0lFT3k1ckgzVEw1OHk2YmxLRlJna0lHcGkwZDhmRGI1Q2lLenNHblVCbkllMVlUMlg4WjQycS1iR2hZTlJDNG1NbkZBZk5Ld01OdGFYUnd2aWhNcS1JQQ?oc=5
@@ -59,15 +59,15 @@
   [Street Lighting]
     • "Streetlights out, nights turn risky; HDMC struggles to clear complaints"
       https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ05vVXZEMjUzM0pic1RKTDA0S3NLSDZJcVAzTDhjOGlwYkd4cFBNN01IM2xWWWd1WW45blMxallnampTM1JQNDZIVmFTT1NNWjNTLWhnNzRNVFh2RXh4ZEVxU1BaSnJzUXg5QzlMcHV0S3VKbkR6X1FuYU5rbXZhRkc4YzlkOC1kMGRZUUZkTDdtcE5WS1VwWTE4NDlaRllhaVUwdlZfMWZ2N0JWU3hLODhVWGFGbnNZWVlKOHRMaGhSRndVVnBGVlFGV19uT3gxNDRuR1RiYzh1Q1plMGfSAeMBQVVfeXFMUFE4YTAySWdhdFBIUWdIcGxPWmp4Z0dmQk5IMUF3ZjBPemJTTlpuSFNfMkJOQ0RPRDRscG1RS05lOGpjOHJhV3BXSVFOcktwOVJ5akR4OWx6VC04QkttYkdvUWRvQkxGajJkNEJFeGxfc2VGbm13T2JvY09rYjhDV0xfTzNYRnN0ai1uT1pFM2thQkJxTlVJNFA3ak0xNjlINjBPUmI4NTBPM1JXZS1fZjFrMG9hd1hPZXVqMGt6RklZVklJOWFDLS1USjczT095Ujdza2RfMUNGQVVIc2lkdElQNUE?oc=5
-    • "Ranchi Wards 30 & 31 face street light, drainage & safety issues"
+    • "Street light and drainage issues in Ranchi Wards 30 and 31"
       https://news.google.com/rss/articles/CBMizgFBVV95cUxQRkVlc080OF93Ymt1NGk4Q0hGOVlDTk9hbndfdHR2ZGxZME9YeGFwVTVyOHl0R0hOakU3MWdhRGdlOTRLZkNaSnlCeHU3TEhzdUhsWUlLSkp4cDlLTktBVWtfdy1obTVnb3NrbFlnb3BJeDlycVhucWpTV290aWQ1dFpJa0ZKS0pUeG9BdmRvRXhmRzJrc0JqQ21TNDRsQmdHdjFLQVRSdVFfMWJ6Sm9HRTI3eDk2OXI1MkxuYVFRY0haTEVKOHVKRFpna0xzZ9IB0wFBVV95cUxOYlRDaHpnZkhWb3FDcE43bklqd2hfRDVHSVlob0lqNHVSRmR0NG9naDUwS3N0ZkNKeXVYVWFKZVdocENELXo0bjZsYmxadUhtQmhlVG1mWGRkdWljRTlDYlNFM0JfbV8wUEFzZDVEMnQ2b1pBcDF3TXpONW1XdnBuaXlCa1RyOEFoLXRsYm5wTGhueWlHSDBkVXQ2Xzl5VGhyTUM2NVJSNzBNUXowZVJSUWRWcTJCUUhTaVgybnJLdF9oMjNxbkhzUEFCc2ZUbUo3VjRN?oc=5
 
   [Trash / Illegal Dumping]
-    • "Residents report ongoing illegal dumping in New Chicago"
-      https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcTlxR2w5dGRQLVJ6VlFMc0kwN0dDbHhrVnU0c1pNdGFUbVNlQjdkbkxjdk5TdUwtRkRHcnhvN3A0UUszZ1lDUmFZT1FmX0ZFbVpZdXRDeGJ5blpDdl9VVEtUMEgwMFFQUW9NemFCQUY2bkYtcmRXbjZEbEFPNHFQREg2VzJaSkJfN1pyaGpVcWNhU01nbWphb3ZWYUQzd1U5RllhUkhLaVNzNlVQc05YSTRZN1pndUplSzBwVzRSMjl2OXY2eGxGMWc2bDlWaDJUZTdLaHU3S2xjdi1PNXZXWWduX2ZuUzJwTlQwOGxnWEpaTDIzVUp1T1EtNA?oc=5
+    • "Frayser man fed up with piles of garbage"
+      https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY3h4LUJjTmpTQ2QzTlk1SWVaLXpKT2xhaFl1dE83Z2dWZVBwUEVBWE1HS2NvdktXTVBpbWJpOVdlYXZOT2xHM0RfTjRSNU05Rm5RNnpsdUpkMk9XbUFkaURIcXd2Rmg2S1pmUXJQZjVXZVhCc0NhdUR5TkY3U0huSmVncHhYUXo0aXJ1eTlBcVBzOXNGbnI1V2lZY045eDVFdTJoNGlQOE11bmtnVWhPV0RQZGd2bnZTQnJV0gHAAUFVX3lxTE1sSVZHMWNYS3l6VjZmQjFyMGxZUm0zYnIyNkN6ZW45S09kaEVrN29POERaZWtydHNaWmVYTDBlbkZGQWhnWTNfczM3dG1jdDhwcmJjc3hsS1c3cnd0dDU2YjFoejVLLXBaSXJXVHZ2U2Y3SGJxelZ0d2ZraFdWOFkwTWZtTU5mcVJnTU1nb09zM1hGWTJUSWd6dXBQeHNyWjZTQnJvSzFfMDlPbXpKQVhmbmdKMUxFQjgwNkNXWHhXWA?oc=5
 
   [Public Safety / Crime]
-    • "Frayser residents frustrated with ongoing violence"
+    • "Frayser residents frustrated with ongoing violence in their neighborhood"
       https://news.google.com/rss/articles/CBMizwFBVV95cUxNNnc4cEJSb21BLWh1bTFRbEVsSHRYZC1GU0c1M1pmd2VWeXpvc0xJOHYySk5BSWNMbXR2aVN4UG9vZzVLTERVUUpQZk9KN184TjdBUFNxZmVMNTNNb3hTVVhaTXpqcDVEdGdEWW5GVzNERGRmSU43NXEwZzBSZURsdGIwcGJOLVpibVQ5Y1dHNjBLUl82RVJEN0xqbjBnTVdDYno4Tklic2drZnZDd2xWNGxhMERPTkNQUHNhLXg4MVcwXzZ5SEFudlNmWTh3ck0?oc=5
 
   [Sewer / Drainage]
@@ -78,13 +78,13 @@
   PITCH SUMMARY
 ==============================================================
 
-  In the past year, Google News surfaced 41 news articles reporting
+  In the past year, Google News surfaced 45 news articles reporting
   citizen complaints about city services in Memphis.
 
   Top issues:
-    • Water / Utilities: 39% of complaints (16 articles)
-    • Pothole / Road Damage: 24% of complaints (10 articles)
-    • Other City Service: 15% of complaints (6 articles)
+    • Water / Utilities: 36% of complaints (16 articles)
+    • Pothole / Road Damage: 29% of complaints (13 articles)
+    • Other City Service: 13% of complaints (6 articles)
 
   MyCity311 turns scattered public complaints into structured,
   trackable reports — giving city staff real data and giving residents

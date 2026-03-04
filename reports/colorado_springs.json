@@ -1,0 +1,169 @@
+{
+  "city": "Colorado Springs",
+  "slug": "colorado_springs",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 65,
+  "total_complaints": 42,
+  "complaint_rate": 64.6,
+  "categories": {
+    "Water / Utilities": {
+      "count": 24,
+      "pct": 57.1,
+      "samples": [
+        {
+          "quote": "Xcel power outage could last days for some",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWxwTExPbzd1LUUwdm5lWmtZM1VGeEZweXJxT201LXd5cDktN0ZVdVFDZWthYUdQd253c1hFaktfQy1XMzhTTFkxbmt1LWVwLUZUUXdoSUYxbU9UMXBrcnROTjFlb1lRY0xTNVBZTlNUOVZCNkptRVpheUFoYXNJdUotakRITkZwVlZZRnRRWl8zRDZkNlVJdFdLdTRRdFRoTUM4bDlobEFvUkVRYVdfSUpveGxjRm93NGxPX3RDN2Vtdw?oc=5",
+          "date": "Wed, 17 Dec 2025"
+        },
+        {
+          "quote": "Water main repairs complete after road closure",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUG5HVkJRMGtXWG9saURDLVBqSGpiQlN0SHFrc0UzTmg5X1JTTHYwVENTV3ZzSk1wcGRldnBybWVVMGI4akppX2Q3U2ZGLUxEczJ3MHZ0b2ZqbWhsVjFVS3RGV0gxd1NrQ2VOV1ZXdTRPRUxWQUhDbzhMX0ZtRkdmNm8yLXBQSEh6LTRtTtIBoAFBVV95cUxQRDNXR2c3V3BpUC16anJSakNwYmxkRWZoR2xpZ2RDVG5hVnBFY2pMVEluU3UzS21LWVFLam9DakFTXzBuakdqcmthRmx4WG5nU2dQdEw4c0tWeEh3MUkyeVRGb2kxaENVYm1wNDF6SFU1bGIxUm41TThxQW5GSi1QY053OTlsVVNJODNIeV9Kc3drMVZrWFlJWlkwRzVhLXpo?oc=5",
+          "date": "Thu, 19 Jun 2025"
+        },
+        {
+          "quote": "Manitou Springs declares water emergency, stop nonessential use",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnSVp2RV9DWGxqd244dWZEUVBYLXduTFZHQlk2a1V2U0Uyd1FyaVlQV1JWLVJZM2F1bWpOY2VnS19zbUctX2Z2Z0dONGk5UHo1V0dPOTU1VEVzRV9xQ2tLM2p6UGNFT3BQaDZaRzhDNjdGdzh6S0E?oc=5",
+          "date": "Tue, 13 May 2025"
+        },
+        {
+          "quote": "Water main break closes southbound lanes on Union Boulevard",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ0w2LW5QcE55VE5FQWJOSXdHLUNRVTZvQ3F5YXBUYVFQSURNX1N3dDhHZldkT01ScXlPdVpadFQ1ajcweUpJZ1hadWFoZXJIeno0R09DaUxpMHhpUllyVE5IajFuWW9sLURmTl9GWE5lXzRXWWZhQzBQVmZicHowUGZiUFk5T3VSOWpKSmpiMXg5OU1WbTh4Y3RiLVozRngxU3VYUV9Tcw?oc=5",
+          "date": "Tue, 09 Dec 2025"
+        },
+        {
+          "quote": "Manitou Springs water crisis after storms clog main source",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnREa3IxMm94cHpVekRUZnhmb050Mk1UTkxrWWthZlZhQkREUi1hYjVJb3hjRkNkTTBmZTdCM1daeGJPZWtBY1RTLVpLQW5JVGE1NkF2WVI1QVZMVXdSWTUyR0RiLWNsbnItNjctdHF0U1ZxeTRTcE12VGhuTmw0NTF5Z2FIVGhTbmM3RU05VzFkQUpzUlhhRVYycFhTOFJCeGtoeE9EbEtvdw?oc=5",
+          "date": "Tue, 13 May 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 6,
+      "pct": 14.3,
+      "samples": [
+        {
+          "quote": "Dog owners frustrated with neighbors not cleaning up pet waste",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMklfWGxBS3pmVld3c2xqQ1FqRVI1RmJhdFF2Ym0wZzNfb3NubXpZMUw1Zl9FOHpKclF5eC1Pa3BjTTFQUWZhb0JxTWtvaGZucGN5LTRIWjdpdFVNOWRZaV9FcEw5bWVSNko2TmNDTGNsMGp3S1ZONUM3cHNlSGEwakNJZUxRYUtJVVNjVjRZb2UzMDZQY0ZiV2YyVXE2RlpNOFRwNS0xaFBmSlNXb3I1VUNSalRxbW1UM0k1amRUYw?oc=5",
+          "date": "Tue, 10 Feb 2026"
+        },
+        {
+          "quote": "Township paid $1M after trash pickup complaints",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNczB1akdJS3BsMjRjSDBpUlY3d1BFRUp0V0xqZUFranZna18tRUZXX0tmVmpYakgzdlpjOXJwRFRlcDdZOXdXUVo2REFHcGhnU1NIVkYyMXJ6aUpKYi1vZGV5UHQtYnlLRl8tVG9vUUtqNjU2akFjSUdHcDVSWmlfTWpQbkwyb01EdUVpcV9hTkQtNTJ5ZnphTVplUFN3SkhCSjl2STNXd2V3bGVmY1c2ZWtqZEZwSUxtdUh3SVVUV1JjcXdTVVp0dDU5a1NOZ2xNMkNSU0JhUQ?oc=5",
+          "date": "Thu, 13 Nov 2025"
+        },
+        {
+          "quote": "Campaign to keep Colorado Springs clean",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XSnowMy1xM1J5M0tSd2czN3hwRTVOUWFWR1lQOXl6MG10Tno4RDZCQWlpYVZZSm5FQVRRQ2ZFTi1TMFVzc25nTkVkRFUzZTY2Z2xfLXF1NkJXLU5sUFV1YWFsY01YRGFyRl9aLWVxT0lndHFwaVA1Qw?oc=5",
+          "date": "Tue, 22 Apr 2025"
+        },
+        {
+          "quote": "Six Massachusetts communities seek judge intervention on trash strike",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM1ZVc2ZUcUZiV3piandQRVRPeTFyLXhWeDBNYTJOSmZEVTFlUjVqNmFpeFpqV0VaU2pIaVNSc245NkJQMFM5QnBTN1AzbnV6TTd1YUh1Qjh4enZYNkMzbzlpQTZLdWhSRVUzUU9RaUpxQURGM29rUmc1dHZDSUhyeVA4ZzhZNDdXLWJfZDJRYXVIQ0FXbWthdVEtOWRabUQyOVZIdXJveEZSLTdCRzhGeDc4cmdiZlljQXBULXBBY3ZLYVh6d3BrdWxKSlBpOE9ZQlFF?oc=5",
+          "date": "Thu, 17 Jul 2025"
+        },
+        {
+          "quote": "Township penalizing trash pickup company for delayed service",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZk5GeG9LZVk4eDhrQnFnSFBhTm5LazJOb2tHM2dqamxsaG5oTEl0Nmc4a1loUldoMC1ob09sUmplOEk4X1ZzeHZCMzJOdEpMNGVTaXFjdjhSbmtybmJTVUJiMHJFbjBtUDlOdHlaeC01OXBaZ2lYVUJIckl6SVhjVGtfcktKbXYwSU0wbDZQcG5oRzlXcGpydDZZVF9LRmx2NmJjTGd2U0dXbGE2cnhMSFRkZklocE03Q2F0bDVHM3FwODI5emRfTWIwSzFwNURnR0NsdkRRdw?oc=5",
+          "date": "Fri, 18 Jul 2025"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 4,
+      "pct": 9.5,
+      "samples": [
+        {
+          "quote": "Review raises issues with amphitheater sound monitors",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQblUyYkJtVTRIRHV6bVpaa3NrZnc4b2lGRl9Vb0pkbURTbG44dTBCSkxBalNsaDZaajZNazVLemF2NW9uclZsaFZlaUVtbDJSYnFPeU9FUTRQY0o3Uk42bnBzMXV3cXVMcTdkT0RPc1JJNnRXdVpsSVlsNHhCakFuQ2Zqd1EwZUNBenhMTnNPa0ZHOWRwa0FUQl85ekpxODRDMkZQY21icm9BSHZIdDZZQmpENGJwZy1YSnFDT043RFozdw?oc=5",
+          "date": "Sat, 27 Sep 2025"
+        },
+        {
+          "quote": "Outdoor music venue in Colorado sued over excessive noise",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYkR6eHcxTU1RbWk1VGYwRHN0SE5odF8wODNyRlFjYXVqTVNxMVVrbmI3TjBWaWVtaEZDNFdVWS1iZFdMM05nb2RZV29DbUJlbWxoMnBOZGZSMG1QNldzWmpxQ05fZWs0clJ6eV9Zd3lxNUkyU2JWX1NNTjdaRHNoMzZOT0NrLXFfVkN3UVlKTzc4bl82bEtmUmtFR3BqUnVveWlyaEdfYXJqM3BqWWwxeVVKb3Vsa2NoLUdEQmJBdzNNbWlaU2NIT2VGX0pmWDNNU1Jsc0Z0c2sydjdD?oc=5",
+          "date": "Wed, 21 Jan 2026"
+        },
+        {
+          "quote": "Frustrated neighbors sue venue after years of noise complaints",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPel9BY2dfbFJqaWlwR2ZEN1dFeGw5VU9CZThqTmQyaDVOX25kSlE1TGMyVUhDelU4SUhRbzlzYmVBMEtoM3NKcFY4ZXBwMFNyRVF1X1dPVUNpamVxVVUtRnhySVViT1lHaDFGaFM4dVdxSGJpcDdMVVdIT1A4bjItVkhRR1d2dw?oc=5",
+          "date": "Thu, 22 Jan 2026"
+        },
+        {
+          "quote": "Residents fed up with outdoor concert venue excessive noise",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMTRZcW52akk3Y1JaNS1ua0I3UldaNmljN2NkV3hobG5FTUhVU1hpRllXakhhMHZHQWhCOTFDb3lXMkNhdXQ4a2YySzNySEstSW9fQ0VncWNRRDBSdlBxekU4MDZYTWVBSWlnYnFWVXkzcjlaUHVTOHhFb3ZEeFRkQnpCeC16QQ?oc=5",
+          "date": "Fri, 23 Jan 2026"
+        }
+      ]
+    },
+    "Abandoned Vehicle": {
+      "count": 3,
+      "pct": 7.1,
+      "samples": [
+        {
+          "quote": "Viewer concern over abandoned vehicles in Colorado Springs",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUkFCa3htTVlydVpKTVd2a2l5QkU3OEQzQlZnOFR4ekRUQkxvQ2RyX1NiZFlyOUc5OUUydlVjNFZkMVVLaUplRFRuRnZmMDR0Y3JmRGQ5dWdTa1g2MDEzQ3RPSlRLMTFZajNFbE1yNmJmU1dNOVNwWlhQZG9PSjA0anN1alBacTFYT2hQUE1Ob1VXNFZONTA1STlvdG1NRVk2cmphRmU3S0Vrb1U5YkxtRHZWUnpSbm5DNmtqNzJFX3DSAdQBQVVfeXFMTm9lVllySFdjdHYzUjh3N1J3WkYzMS03QmxYSkNIdVNOSnFjT1hZOXBTQzE5dkh3LVpodVl4M3E5RER3eDNoelVLNXl6OERNdzdOR2JuTmxXMHBuZGVNNjZsa2ZRbjlUdzE2UmRSSjJnSE0zTUpwZGRKZm40Q3FBRXhmS1U2U1hxVkFaQUtnNUZ2dW5iVXgteDhsUXdkQzZ3WnNyY0V5Qnp2andUR3VqYmh5cGdFTEVhd2t3eWh5aVNYamN2bDR3cktWUVVMZTQ4WjZLLXQ?oc=5",
+          "date": "Thu, 14 Aug 2025"
+        },
+        {
+          "quote": "Budget constraints temporarily paused towing of abandoned vehicles",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS09OZXMzTEgwZmNtQk5tNktqQTdrTUVuNXA3cFUyYllBYXFwNWYtYnZPWHFKWGxINUtmYVlDcXo0aUR0UUo2OV9lVThXUkFMUkFhVFhUc3NaLU1xWWtWLVJNZnBHcWNZNHRLcmdIbDZpY2NFMHJaendOVGJwMlZQODFBTGU0R3NWbGczU0EwdUpVM1ZoWEx1MFh5Q015M25fUUZCVmpfa2xWaG9FTVpLNmNCSGdkWF9vdVhEYw?oc=5",
+          "date": "Fri, 15 Aug 2025"
+        },
+        {
+          "quote": "Considering more authority to impound abandoned vehicles",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY1N4dzliS2FPWVUwVGRCNU9DcFQ2b21BQkRoMHhNSHpOTk45MWw0U2hIc2Iyc2ZtNFJiUjJEaUpvZWJqYmxuSkxWRHpnc0stQ2RWNkxtMUI1czFLRHlncGV0OVFlRkJRdFlyS1NETHhRRUdZSTdYcW9RTEltT19udll4UEh6cFlkenotM2ZTcE9SdkZTaFlfek5vdXdmUHNFbW8wdHVjSDI0dnlHcDdtUEFmb09vclRHOU1tYlpMX0FFQTFxRnZod1k0NUtkalJrcUV4TXZRLTE?oc=5",
+          "date": "Wed, 12 Mar 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 2,
+      "pct": 4.8,
+      "samples": [
+        {
+          "quote": "Major flooding hits Pagosa Springs, Colorado",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXh2U2RWck4zQWV3TFg3TXNiazQ5UC15b1B3ZTBMb0d5b0dvdHh3bTltZ3doakUzMy15OHhmaW1xX0M2RVdmN1lQd3VJQ1pCd0JqUXBpQWdqZGtzaHBZWEJzWnF3U1BJay1JdkRHbnpHYWdHVi0xWEF2MTZoWHF6SS1vSQ?oc=5",
+          "date": "Mon, 13 Oct 2025"
+        },
+        {
+          "quote": "Raging creeks cut off evacuation routes in southwest Colorado",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGlBc051T2NZUW40bEd5T2M1Sk9URzd4RHhuZHM0NmtUcVRFeUV2SUJlODd6eW5NTUdVZnlNdmhCMnBBNEJ6NEp6OHdtNnI5eHR2N2Nwd05mTUZEVzRiVkQzempxVkM4NkI5dlQ0b0hFbngxRXdkeE1jVGtGdkxZUXBHYXZXeWh5NjlQOEtYNnNqdXJTSnc?oc=5",
+          "date": "Sat, 11 Oct 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 1,
+      "pct": 2.4,
+      "samples": [
+        {
+          "quote": "Budget cuts will keep 10 park restrooms closed",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGlKVzF0bmN4T2F3YkZ5OEllSlRpNzRXSjRfM1FxbnRhRWthTXUtTlJfUkp4emJlSGRzTGE5UFZMWWlzM1Fid0xsX3FnQTViZ1Y2R0ZHZ1lZY1U1b0RBWkxiWC1YdG9waFM0cXg0dGdEMGo0TDVBOWxRVE9RRkJEUnlHQ2hFd3BEdnZ3cXBjeE5WWnpLUmlTbjd5VFhQc3N5YV9jUlJndTNLZ2Z3ZjVRTQ?oc=5",
+          "date": "Mon, 02 Mar 2026"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 1,
+      "pct": 2.4,
+      "samples": [
+        {
+          "quote": "Pothole problems causing popped tires and dented rims",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRTlCeEhtblZMZkFIa2hROUVKZFNBMzdVSUZFWGdJRzU1QUF2cVJzdnVFMmQ0WjAzZWxLbHdtV0lPVGNvY3ZDUFN3TXNJY1MtMFpJeGJ4RWd4NnZxMlJrM0JWRWxsYWVzUWduTE03SUltYmhNbXYwaDZIeDZ2Nmp6VzlCcklvRXJWUHB2cEFYcVdCaEpHWGItODQyaDM?oc=5",
+          "date": "Mon, 08 Dec 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 1,
+      "pct": 2.4,
+      "samples": [
+        {
+          "quote": "Viewer complaint about street project turns out to be normal paving preparations",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTVhYNWdzLXFwLUI1ZXJBUmliTnp1T3NSTHdnaVltWk13bnZBY1VDUGlrcnpGdlZsUnotaGx4WkpSb04xOE9qRGtDWVpocnpOSXRFTmtQc20wbUJyY3UxWjFQcGN0eklGZ2JwR1dmMk93MHVkSU03Sk9vTDNER1d4czNDTDY5bTBQLUxUcTZaVmxyM2ZRY09JQl9XYlZYTU5wU2hyMEZza2hZajVvYzRMUXhUUHVJQWpvaWZ3cW9QVzdENHFmd2lXM2VCT2FndTdmTWJvWjBJb1I5MWpiT05CU3BReWF2SUdXcWYybXR3?oc=5",
+          "date": "Thu, 12 Feb 2026"
+        }
+      ]
+    }
+  }
+}

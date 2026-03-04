@@ -1,0 +1,100 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — SACRAMENTO
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 83
+  Complaints found  : 59
+  Complaint rate    : 71.1%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   35   59.3%  ███████████████████
+  Trash / Illegal Dumping              6   10.2%  ███
+  Public Safety / Crime                5    8.5%  ██
+  Pothole / Road Damage                3    5.1%  █
+  Other City Service                   3    5.1%  █
+  Sewer / Drainage                     2    3.4%  █
+  Sidewalk / Curb Damage               2    3.4%  █
+  Graffiti / Vandalism                 2    3.4%  █
+  Noise Complaint                      1    1.7%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "AMC hours-long blackout ordeal prompts smart grid idea"
+      https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc21kMi05MjZOQnY4Ql9PTEstM2lualRCLXNfUk9NNzNjc1p5Vi1yeHExRGVtYWx0YTc3YzJQOEpDMEZoNF91UHRfT0Z6V294Sks3Rk1tdlR3QjlhV2tLa0JaVm1uODM4bWhfMUdzLXJfRFRSOG9fbkg2RzN0TEE1U010U0hac2NvYl9YOFYwY1U3aVFlSkYwbEdfdjB6V2dvLUI0SHZYZmZaUG9XdjVkdlFldUpCcjFzS0NhWmUxcmNkeWhqMEI0ODZRZW5xc3JOejFaOHhpV1N4N3Jt0gHiAUFVX3lxTE5ocHQyelh1ZEZpWFdZanVPWHIxNDBZY1JyeURuZ2lIZXptN09wWjNiaW8zSTNmOTFhOHYyN3RXWUxWcV8yUnpqSjcybU50RW9ha19keVpvV2dUZ2hVTkFyQlF3emIteXhPR3B0bmoxVENfTnBvZmRVTzJsMFZSNEpHU2VzVWRFRzRxdjlmanhELUg3NWJfZGZUUThiWG9TR0R3OC00UmFPUGNHSWIzd3ZzbmdBVTFFdnZaQWZXNTN3WE9ONVlYQXpMU2dQT0cxc2pmaTkxSmRCdk1lMUYxNDgxZ0E?oc=5
+    • "Water main break submerged Sacramento residents in knee-high water."
+      https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOE9GQkFHbzhiMktPYzRQZ3hoUWlOeEpQUUg0S3lsaml5akdvbkxNZTZidXFWVGgxMURaVVRMWnVXR0hzR0NZWnkyQnVTY3J3azdrSGp3U29ZTFVvVHpUUjM1WmxtMTdMb2xEaGVPRnB3S3JjUDIxMlpIWFN0cU5ZU3BTVmE2UjZZNEM3aGxnWmtDUDJZeTlGOFdNNzFPX2l3WGZvY05OM0RjcV82Y1ZITE1ZV2h2LW4xMTBXekg4TzZzcWM?oc=5
+    • "Boil water advisory continues for New Haven residents after water main break."
+      https://news.google.com/rss/articles/CBMilgFBVV95cUxNLTlqQTktVzN1d3FzRzJROVdRVVdUVWFkYmNsVV9wb05oUzd4QnRSX0diaDVhd05zejJxeHQ4Ml9LY0xfQVpfbjNKRmJVV0VTSzU2WVdvMWUxWXhRZVNabWUwaFExTURNUWVnckZYTEdQNlZpa1ZjRzBhelZFVXk2cHI0cjJFOHltT2Z3M0xPX2ZCcXVKcEE?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Waste management agency bad smell complaints from facility"
+      https://news.google.com/rss/articles/CBMie0FVX3lxTE5sREczMFY0emhyVkF3YWo4d3NlWld6SmU0WU5NajdLbDI4SC1uUExHeTdqRzJqS1Z5SVc2WjBsZ1lzZHRIekNDaFd3cU5SQnNINi1JUFJYUUlCWkZHZkZPZENzbXVYZXM4ZFA3MjdIMnVlV0d3V254b1VYNNIBe0FVX3lxTE1TbmN1cjFnTGJiTUNQSk9TVUF6QVRTbXJNMlZXOHRveE91NTBQSlNkTmZOcEJTRXhMVE5Va1h3bHF0LW5OQjROVVJwLTZFNEtJWkZXeldLYWhCbHJQSEZvb2VqQ2ROakM1T2ZYZW9memtnNTVpTEMzYWVtdw?oc=5
+    • "Baltimore zip codes accounted for most sanitation complaints nationwide"
+      https://news.google.com/rss/articles/CBMivgFBVV95cUxNSDBieWNvcEVuMzVYeTA1emQyLVN6ck1rMmVLdnFDYWEyZzMxQ3YwblJJOV9wOGlIN3czdUg5aGEwT2p0WmZoc1l6NGEtenRaOVlYWE1ZOHpWek1vR3hvNjAzUFV5dG1fWTZOSmhCTnZqVTdNa0ZoX1BBTFZjeFd1VXBWc0hyRWN1LXVDZ0V1N0lrR0JxdW1YS1VDRmdvX3dUTEJaYXdkc2dyc0swSWZIbG9kUkdMVldfOVpFMGZ3?oc=5
+    • "Study reveals dirtiest US city sanitation complaints ranking"
+      https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbXhZWXlReEp5X2xMcEdtRmZTMGVFY1pWMHJoMzdEbFBmNEpXUWJVaFBkb1htZDlCcjQxR1BOVUF4UGRnT2RZM2ZtZklPUXAyQlZBeHBPYmtWMnZ3LTM1SGxJdVVLMUZLUnM1VTFmQ3o2VDFaX2EyWi1VY2cxZklSQXRwWXpHUnZXdkR4X1lJS0ZfbEZNcWtzQTl3aW5xbWNFZndZQXJQNjVjOEgyck5qN1M2VkFiMWVzZTZYTTZrQzM?oc=5
+
+  [Public Safety / Crime]
+    • "Sacramento community pushes for William Land Park crackdown unsafe"
+      https://news.google.com/rss/articles/CBMisgFBVV95cUxPdUtGQ1BJc0RYT1Y0bERnOGljVzdwZVkzbURnRkhvVkZOMXRDSXJqazdydmZOd2IwWHZibFNLUjROUklKMjVpektEQlJHelFHVkkyZFc1bzVCZThOMnUxbFJkOVM0eWY4cXc3Q0hDMURqWjYwcEVmVHU1aktFdU5WOUZHQ3lsdDVkR0lneTZsRXhGc2RFVDlEbWx2OUlFX1Vzc3BLZ2R1T3AzcmtrMDR4NGdn?oc=5
+    • "New Stockton crosswalk aims to slow traffic after speeding complaints"
+      https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXZPM2N2eFU5eW05THVzSUVsNjAwaTNnOUFleGRaSXZqdVh1cFg5bnBDVXQ3R2h5Ym1uMno5cDFPV21ySm5tWWdpajZydmNQS25WSzg0dDFwNTZvTHp2Q256NzhJRzFZR3Q1NlJiYjVHWlpDZ0N1TVJxRjNXU21FcGg4cmlBTkNWMzFnNDZmcEg?oc=5
+    • "Residents sue San Diego over tent encampment conditions"
+      https://news.google.com/rss/articles/CBMihgFBVV95cUxNNmtMY2dHY3R3WnFQM1g1c0E3ZG5ocWNwbjNxUHJGUjc0bFR2emRsb1IwVWRWamduZ1Vhd2lpT2lIQVdFQms5d0hESEZ6TFFCekZzRi00OUk2NFRCc2JndGhRSEJQRmV2dE9OQTc3d2dLVm9lTU5WTjZUbHZkSUctODNiMzV1Zw?oc=5
+
+  [Pothole / Road Damage]
+    • "Sacramento officials pledge to tackle pothole problems"
+      https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeXJfMGJEZUtKem1MdGtZREZua0J3aHlvMnFQb2xkeFRsUXBEdXNNMjhER05PRTdBYlJhVzNtY2h0bGg0ZDh6QzdxX0lLVXpROWFlWnJ5aHozSmZKWGRqaHRqcU1FRTg4MjUwbmdxUXhGMVRWZGxIbDdOQWd5V2RGX2xqSmN0NTlpbC1JTW1Cc1NPZzdqNDhhMDNoRU1ORUZQQVlSNjFMbWE1MEQwbGpUT1NMTFp0WUsxYzZxRl9NVnFNNFV2N2dNT0FRWWdHN29nZ1hwYlVUSktiUQ?oc=5
+    • "Sinkhole swallows truck on Detroit's west side, residents shocked"
+      https://news.google.com/rss/articles/CBMimAFBVV95cUxQM0NGcDBtOXl5SEl6aUpoSFozempneC1EblA4WFQwS2c1SjBfQVBjejU5VGpVU2I0SkF6OEFOQkJkbFFFTjRXU0dSb3A3eEdRRV9ET3VLeWxkblVQeEZ2UGM3Q3ctYm1oeF9zWU1TakFkeldjT05HWTM5RHdPbWQ1ZlV5ZTZkRkNtTlh4aVBaZkNzOU1OYWdxSg?oc=5
+    • "Sacramento County fixes dangerous roadway and sidewalks on Watt Avenue"
+      https://news.google.com/rss/articles/CBMiekFVX3lxTE1LVkpObC1kUmxpWDFTd3hpOGtDV0hZUFBqdmJfU2cxcWxKV0FMX2ttYUFsb00wME5VM00wWDR1RGdHbDV4d2N2MDBGOWQwUHFLaUVtMU5iOUZaQnJNQlkxQzY2ZXV2ZHcxUUZaZjhWU3NIRkhzQ1FpdVdB0gF6QVVfeXFMTW9VS3Q5b2pRTGh1RXphTWVmaUtfMllMSTAzbFhBV09sTUtSMU5iVEFlRmxBbEVWQmF4cmFXYV9pRV9zMExLR2hRR3RXd3dOU1pSenlOOFZDcEZobG5hQmNNUmVpQllFbHdrVWtRTkR6blBDMDlYcjFHR2c?oc=5
+
+  [Other City Service]
+    • "Yolo landfill odors prompt complaints from Davis residents"
+      https://news.google.com/rss/articles/CBMia0FVX3lxTE11ZkdoMHNwMllVS2xObXFtNnJwRURHYU54aE1weVpwRmZ3dUZRZXRabEVMcVh5MkZFT3BXRE9VWHhPQ2lqX3lnN1JzWGFuMVZWMmRXazVuSVFxak9JTXlPOW5yVGVOSXJmY05V0gFrQVVfeXFMT1lRaUV0VHdKR09TV1FJazlEZkEyV2xtQmhtZ0VHRmxZMTc4R0kxc3JRbUpHcDlWMGNZQktfQzc3VXh6WFBITUtyTWU1eURkWFotcy05TlJxYnJ2MHoxZWttTldHTS1XOEhEMzA?oc=5
+    • "Elk Grove traffic signal synchronization causing driver delays concerns"
+      https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkRiTDhuN2tvNGZiMllNRDBGaFc2SVo1ekJqNGZqSEEyVTc4RV9mbF9qU29kV25YWEtDY2hZMUtlb09YR1Z6VU14MC14bHN6Z1plSGI3YXhtLWhGV3pGYmZidllLNGpnUkNrR2JfdmlfVjg1X190MGVudFBjQWZqME9jLWQ?oc=5
+    • "Roseville residents say city neglects maintenance older neighborhoods"
+      https://news.google.com/rss/articles/CBMiswFBVV95cUxONFNXbUloZHBsZnZ4SlZ5YWtva3hRQm1jR05JaUtfSGJiYlBVY1EwMS1tNmNHX2Q5YkdGM0l3NS05bmRyQTIxdmhXR1l5VDV1MDVIZEpMeDQ4a1pidjRiZEdkRUE2UTZvOXQ2d2RjeWFkS24yeHVHbWRFMVprbzFkTmYtcWNJbERiMlpDQVBuajloLXFYNVQzMFVkRDJrMzkwWGZCNXlzalNoYm1IaFVCN2xvSQ?oc=5
+
+  [Sewer / Drainage]
+    • "Repeated flooding, Chicago alders call for action to prevent backflow"
+      https://news.google.com/rss/articles/CBMipAFBVV95cUxOMjJXZUtHc0NncHR5bFFIY056SVFBUmdwdUhFX29SU3ZJV1VMX2pWQWp1RDNELTFWTTIyT0ZGQWNwRWtRbmV0SnhMaGR3VnlkeWJSVWVSMDJ1aEt3alFLSkx4STgxTlJvYUx3VnljQkFUNndIbFk1WGpWNjhxTVcyWm55SlpMSHk3MGZpcFU3MnItNWI3MjVkNFI5U3ctZVJTc1RMOQ?oc=5
+    • "Queens residents fume over massive puddle that won't go away"
+      https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlM3YTFULUJmaFh4aWQyc0Z6Y1ZHdmR0aHJGdDR5cTZIRU9PUlhDOUFfc29uV3RhTVQ1b3FRV0JXLWZfdXpNTDFQcHZlX09uSGtoRTJjTWQ3UmhJTUN4dDhnTnBBbVgyWFgyRkQ2azExcTBCZXFXdW5XM09XQmYtd1Vwa3o?oc=5
+
+  [Sidewalk / Curb Damage]
+    • "Davis pays $18 million to woman injured by damaged sidewalk"
+      https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuWjVzTVF3T01DU2FtX0xBQnY5eVc4OVVaQzd6Ql84dlU4dUxmMEU5Q280TXAtS1dCRUJPRldLdVhQZWtSZm1sNV9iMmNPblgwa3AyWlpXR3ljWGtTclNMMVlYcEpXUdIBZkFVX3lxTFBZM0FURmZ2akI4RUtBenhSTFg4RjM2WlVKaGRPc1JiWGRYbnhQZVFZWU5QT0Nkc093RFJUWFZNaG5tVkF1ZnZfSmJGd2pGMzZuc0hyeUREeXdMZHBmQzMzOWJPTndsQQ?oc=5
+    • "Davis woman paralyzed from sidewalk fall, wins $18.5M settlement"
+      https://news.google.com/rss/articles/CBMinAFBVV95cUxOSTFLUWF4a0pFQW1pc0I4V3BKUWJLQ1EtdnkyRERxaDlldXRqU2RiSmhtY3NlZi1pQ3c4UW1CNmlSQVJlem5aNUlnWWY3RHV3dS1sTnItY2p2MGRfc2lNSEg1bEhCM0cwNkJYX3p5TlZEbU1KUC0yeU4yREdoYmMtVUJCYWVUY1VHR3BLM05zUGhMZ3BzTW1PS0xvUkM?oc=5
+
+  [Graffiti / Vandalism]
+    • "Hindu temple vandalized with anti-India graffiti in California."
+      https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkpDY0l5TnY2d3ktOVJNS1BJNUtFUjVWejY3YUt0NF9lNE5mY2w2YVA3eDFhRGR1QzBCV01KR3lOV3IybW5qZ3hTcHY2TllUUV84X19uYjFBVWRxWU9oX2NNYWYxbmpmS2lvQzVQYXVKQkk4cjlSWWpRWmpMek1tV0V6NzhOeV9Vay1CUmw1TjhBSGh4cGdoYURScTNkYUk2MnRmakUxYUI3WEw2bmJad0wwZXZmQkhHSW0yYXk3UV80VXV4WkHSAcsBQVVfeXFMTzd5dGJiSHZtQndiZ0phVmpHckZWdERNZHl5Nnp5dHlMMHV1V3ozYUVRaWEta3haSzByTHRidkY3OGZqcjZRQ2lHazRGVDE2UVlqT0l5V04yUkxBZE81RXFqNW5BZWVvODNGbzI5TkVKZjJXOTNBZXd6THIwcWJuYS1HelpHbEw2Ui1CRXRuVG9VcmRWZ19LUmg5WndXYW9LWEtURTJMWXNCdlc4dEdESFQwbHpZYnRtY0kzbEh0QVFoc0gxZGlqdnZzbk0?oc=5
+    • "Hindu temple defaced with anti-India graffiti; hate crime."
+      https://news.google.com/rss/articles/CBMiywFBVV95cUxQY2tCQ29fODRmQlRiU2M1VjlYU3VXdkUtNmxVd1M4S0RKYy1vYmR4ZXdYdnAySS12ZHFIclBOMWVqUWxnYzA5cThSNUNfY2kxc3VOUzVZWmM3bTFQWl9DOGc4enZZOXRTT2NzSU5WMWU3ZGgzUFl0X3ZKU2pxeXBlMXRXNW9VOE0xdFhpZWlscnNfMkZrU3FsLW5zTXVqTTFiREd1MjdCNUJ2dU1Ubjd5em8wbDdHMEJZZkhjMWc5OUpVVE5zUlJLSHB3d9IB0AFBVV95cUxPSjdobUhESWdzX0txcWdjSThSLVYtMUxVYXJ1ZHF5c0p3MFE0ZGxBMjdCWm1mY0xRLVAxU0NpUkhMOVVBeUxxZ2hhNWM0VXhiTmtadGRzNmNhVTNkLXdZWU5PcW5OekRtX0ZEX3c1aXE3dGQ0M2lVQVhDZDk2MFh2QjdrTTNiQjAyUHg0a216cVJCLUo3Mnk3SkJiWWg0NWFRdmVsVlVzU1JjSjZnN3dMM1JfQ3dycnpsby1sWF9Bb21LUDltTGIyRlRRdHZ2X2VK?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 59 news articles reporting
+  citizen complaints about city services in Sacramento.
+
+  Top issues:
+    • Water / Utilities: 59% of complaints (35 articles)
+    • Trash / Illegal Dumping: 10% of complaints (6 articles)
+    • Public Safety / Crime: 8% of complaints (5 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

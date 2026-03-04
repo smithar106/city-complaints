@@ -1,0 +1,96 @@
+{
+  "city": "Phoenix",
+  "slug": "phoenix",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 56,
+  "total_complaints": 35,
+  "complaint_rate": 62.5,
+  "categories": {
+    "Water / Utilities": {
+      "count": 29,
+      "pct": 82.9,
+      "samples": [
+        {
+          "quote": "Main water line break prompts citywide conservation order",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWeURkbGticnRydEIxZDVGemlsbTlhd1pYWGdIQ1NlM210WFlKYWlyTEkxU2NYc2hpa0I1aGowRU5qZ1hMR19UR0dCMlFMcjNJOUZJNnJpdDlEai15MWpjVEVDNXVodlBzd1ROZGNUUDNsVENUM1pER2tB?oc=5",
+          "date": "Mon, 04 Aug 2025"
+        },
+        {
+          "quote": "Large water line break results in citywide conservation order",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW1hMVFJVE9CY08wSkhiSERCeWtTSUx0QkpXMHVhUzVBM1p1eTQtVVpLWkM3U2ZBa2hKOWxNZWRqOV8zaGJIUmgtRXNmWlEyeUdRSmVZc3JYUXZkWElUZTlLeDc4bXFuT09OMGJNc2R0aGpkSGtiNmU0aG5WNDNPTjhtRWhGdU1vNE9aNTktakNra2RXcDlKTlNYUWVYMDBCdWFMMkN6OE1pUQ?oc=5",
+          "date": "Sun, 03 Aug 2025"
+        },
+        {
+          "quote": "Water restored after overnight flooding and heavy rain",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR1gtdlVTWGdDYXpOeGlhUHRfQ2xhX2k2UDlRcW15cnJKQU9jQlVPeVZSWi1GR1hZd1FmRUc3NzBnTE9JaWVPbE9RY1dFdTVCbWRUc2JoQUFKYkNYSE9xTkNoWnpuQmJnV3VXS0hpOEFNRS1uVVF2SEJqWl9mS2NJOU5UNzZhLXZ4OVJQRzVOTTJBbkRFd0lXcWp3TWZ6SU9jNEZqadIBuAFBVV95cUxPakFJMFV3QzZpMlVMZlUzdTBUdDdhX3ZwZERTd3ZoRVFQYUZNR2pEdllEa1h0V1VlckdhVTJiZzJKalVwdHNNMlI4LTI4NlEwb1VaVGJjYkJkVEE1NUxfY3RfaFpFZ1Z4Wlc1LW5oUDNrbDBXb2k2ZldjdFpIWEF0Z0RqNmxoU2V5dEhMXy0xckNwUWVFSUhMRWJwSlZodklpMjUtY2k3SjlRTWE3bDg2dWl1VTdFVmQw?oc=5",
+          "date": "Tue, 14 Oct 2025"
+        },
+        {
+          "quote": "Residents instructed to boil water after recent flooding",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVnNZTkpTTzd1elo0MV9ubm80MFo3cktscDhyU3QwN1RiaEt2QjB6MmFjLUliQUE1R25fZzNxQWROQUpTbVN0R2Q4T25teFIxV0JtcE1UYXhNdWRkajJkN3pVdXFtRjQ1S3dqYkFHcjIxVjBWR3BzLUVTTkxXRFowWmdRVFY0Zzg5TkhPa2NoZFZvVU1mbXhXN2h3cnNNUnJVM2xudzFOY2RadUpDNXlVVjZXcVFjeHMtcEdBcEhDNWVuOXFveXgxUTRlS3BzN3BhaDVUOEhMMk1ET1N6V1Q0bG5GTDVzUjQ?oc=5",
+          "date": "Wed, 15 Oct 2025"
+        },
+        {
+          "quote": "Some residents still dealing with water bill problems",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNEp0NkZocGhGN1FSZVdxNEdjZ3duSVMtaXh2MlRyaks3UldmQzBKOW1Ed2YxSnM0cGVaaWY4bU5JZ2FEd1lxbGtrWjZxcU5jNThhenlCVFlKa2p4WW5Gek9pREh0UTZxdTB6c3JnQVhaRjFoRVFIc0k5ODEtWVNDSG5QWWtEVnF5b1hGeXRaN2RXeTFp0gGaAUFVX3lxTE5jVGNPVkMtM1VscDU4VE5kaVlpdmRMUUtUSUZEZGNScF9jREgzbjRnZl9pXzRQbS1QM01MMmZMYTRWRUtiSVgwNXIyVld3RjRDTm9GcVlpaGlibVVYdVl3S0JBZnJMS2NWQ1RUXzk2cmZTQXA4bDJfek1nLWpDOVdrX29XcWlIT05oNGJEZ3h1a1lpeDlVc0ZnMXc?oc=5",
+          "date": "Thu, 23 Oct 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 2,
+      "pct": 5.7,
+      "samples": [
+        {
+          "quote": "Phoenix residents distrust police amid high use of force",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOFU2M0NOXzlzWlo3b25kWmJyTjFiVFd1b2NuZTFPcDNJWUJxSmhJZjBlRHdOWHdXYzVkQ0lTemhLMVh5M1ZSOEZQenhrYnFodWVKcEZuUVIzaGg1aFlLOFh1aDJZeC0taWtKVUVqeGFvNE1kczZwcFpPQzRyWl9ITlA2QmE4V3JXMjB6cUlVa01nbTRZT043OFlMeE1WampVazVSU1Bn?oc=5",
+          "date": "Mon, 29 Sep 2025"
+        },
+        {
+          "quote": "Woman sues Phoenix cop who fatally shot her son",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFI3T3NOZ0FpaDJGR2dwZGxva3B5TUU0LWNLU1NGMFVnLWVUSVU2bGFmamw5QlVvSnppRE9SZUdBR3Ayc3JfQmFxV3czaVB0YVUxRW55aGdfemY5N0JVQkd2MTYxZmJwN2tYeVhsRjJqV2h5SHg1eW1tNkkzVURsd2FGSHh2Z3hQOWdCdFpqTlBJemNZODRRMDRwLWhiV05Xa1JaTU44YmlvQQ?oc=5",
+          "date": "Tue, 28 Oct 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 2,
+      "pct": 5.7,
+      "samples": [
+        {
+          "quote": "A/C goes out at senior living complex, city takes action",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaURpNWRkVXdBNzBMS1g3cU5qdGpSd09wblc1dHJvM25VTTJscm8zeDh6RmdxVkhqUnZ6U09PRGJjNXV3bk9xQW1EVjdVRFd6VDFPSzMySG0wZFl6YWE1Z3RQWTlVLUJVdGhUSmUzeGFXc0RKa1E3dENSZFZXRFRWd0JneF9fRHh4NjVxUzBIeDZwblpkX3VaTU01cHMzZG1zaFBKY1VWWHFFaWE2Z0Jj?oc=5",
+          "date": "Mon, 07 Jul 2025"
+        },
+        {
+          "quote": "Neighbors concerned about racetrack biohazard issues, racetrack cited",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPelF5RkF3MWpYUkFLVFRJcHB2ak5Iam55Z2o0U3Vmd3IwR2pXQUpTdDRyME5xNFExc2JQUk95UFVybjlzUno0OHduLWFsblBfWHd5NnNxTFZHYi1ZcjBxakJEZDR6enV0Tl9Md2dMUEVyNlpuR3JmOFdvYURaVmZxaWhlSElTeVE3dW1VY3g5T2k4eUNRbjJLd0VvUEE0cER4cFFKeDExSFFTNENrX1JxeW53SHdFZw?oc=5",
+          "date": "Fri, 30 May 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 1,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "Potholes and snow clearing: Addressing Saskatoon's increased road repairs",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0hIZU9MVGtYbllsZVlOZmc0YXpoNzNQaXlURzlrQzVwbjVzTktiSHdfenRUZFFWZWtYLTFXZk5lTjZzbzlHUVF0clRRcm5lM1djQk1WMXFWMXpZdjQ0eTVBWjk4UkRjNC0zVnNUMWh3YUJSSEF5MWpWZ1BZeFNuTzFsemc4U2t2Y0hPeE5ReC1fVVdoSThHNVBIZ0xPQUI5T0xucXIzcTVmRmNaM3dNWDY1TEc?oc=5",
+          "date": "Mon, 31 Mar 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 1,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "City tweaks bulk trash pickup system after HOA requests",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd2FEc0JaaEtRZG11TFU4WEVOMndORkF2OUtncmxfTHhVRWMxZ2xpQWZXcjhGazNkOFBidl9kNUZwb21JY1pJREVZQWlsMmtCRTRwZVRtVXVXai02eUROcURXWWRQa05fcDl3cjFwNnR2ZGU0aWtrbmhDaEZHRllXeXdHd0Y3OG9VcE9BUzhmUDlGUnZScHhYd0g3OVBFMWtPSDMzdGNfN2F2QdIBvgFBVV95cUxQYXlaaE1HRjZGeUhSNjNTUm0yZmRSVVJYdmR2Q0h1VG9Hd0lqWlRXWFVIX3RYcHQ5b3ZXMTZ5eWhpVGhyNjgwRVZnRVk2NHJicFJtVFdYSmVva3Y4cFF1b1Z6UHFvMkpMeXNqRTdMNmNqSElMYXlqYnFleUg5VG9qMk5iUEIxUFc1MXR2T1R5bHFkTmMySklBSHV0aFpBOEN5Tk82UU5mSGZIYzk3cjhvSWRzN2duWGRvX21fRjlR?oc=5",
+          "date": "Wed, 28 May 2025"
+        }
+      ]
+    }
+  }
+}

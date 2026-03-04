@@ -5,19 +5,20 @@
   Source    : Google News (past 365 days)
 ==============================================================
 
-  Articles analyzed : 98
-  Complaints found  : 65
-  Complaint rate    : 66.3%
+  Articles analyzed : 93
+  Complaints found  : 63
+  Complaint rate    : 67.7%
 
   CATEGORY                         COUNT     PCT  VOLUME
   ────────────────────────────────────────────────────────
-  Water / Utilities                   42   64.6%  █████████████████████
-  Other City Service                   7   10.8%  ███
-  Pothole / Road Damage                4    6.2%  ██
-  Noise Complaint                      4    6.2%  ██
-  Public Safety / Crime                3    4.6%  █
-  Sidewalk / Curb Damage               3    4.6%  █
-  Street Lighting                      2    3.1%  █
+  Water / Utilities                   40   63.5%  █████████████████████
+  Other City Service                   7   11.1%  ███
+  Pothole / Road Damage                4    6.3%  ██
+  Public Safety / Crime                3    4.8%  █
+  Noise Complaint                      3    4.8%  █
+  Sidewalk / Curb Damage               3    4.8%  █
+  Street Lighting                      2    3.2%  █
+  Trash / Illegal Dumping              1    1.6%  █
 
   ────────────────────────────────────────────────────────
   SAMPLE COMPLAINTS BY CATEGORY
@@ -32,7 +33,7 @@
       https://news.google.com/rss/articles/CBMilwFBVV95cUxPRWlsWmRQUVdGRGVpZmQ3ZkZjYW5ISzhiSGowMEZpYWRJakVxclE1X2RXa00tZVQ4QS0tNktlVVVoWXBuN1M2SUJpNDdYcEZVaHQxSzNmMTNhVl90T2F5ejlXR0RleldpLVBqaC1YdFVDR1pMemFOUmVaSUFfWWxIbDZaTW0xaFk4ZHBKeU15ZFBDcG1ucWNJ?oc=5
 
   [Other City Service]
-    • "COTA program faces criticism for late arrivals and no shows"
+    • "COTA program faces criticism for late arrivals, no shows"
       https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWGFhMVpqam9KUlhWZlRSM0ZRZ2hOU1NnNnFJWVpMcGdweGpXN3lZYUxTUUkzQmtRY0hBYlc2MmNXdURncFZhWmdENTkxZGJqcEdWM0FTaGVGV3RJeGtETThYdDVmNVZTUFQyamhBUHNKcWY1NFFUUnU2Q0J1RFZYMWxnODN0OUh1OFBTdThQVTFSVVpSUUNOelpUeG5QM1phcVFLeEpxZVBCTEdYM1F2aC1aOERpb3FlNnFlNmFvdVRuenNZZ01YaTdTNVM0YURz0gHWAUFVX3lxTFAyWklfeENPZUlQY1kzeHloY21pdk5iMGpvTW5UTTR1OGM0SGlRd21mekhlaUtPV3c4S0dNRHdSV1pOQnpDekp5SXNHNEhQa0tyZjZyeWRMenBubFlxS0xjTmxpMHdZRm9GRG92QW5hNmJ0bW5oUnU5cWpNTVVFeWJXU3F0Wm1mSnF6YWUzeTRfY0Fydmx5NXlSTVltaE81LWNnekxwd3NQLXQtR3MzNUw4RTJtZjVmaXBicGJpcDYxZnNzMERncERUclJQeXNTOVdNbnVwcFE?oc=5
     • "Residents petition to revise 200-unit development plans for Hague Avenue"
       https://news.google.com/rss/articles/CBMiyAFBVV95cUxQemh6NFVpR0o0d2dSbFFqYzN3YXdFQktlZEdkU083VFhqREd5bG1OVWhXZDBFRW1IYk56T0xvR3RLRE1NVVV1Q25PUTU1eFJrNk9ERzVEZUJURmY5dXAwbG9Rd0JiWlhSRVRQTkd0REU3X2lIZEZGNWNKRWpjYV9JMXJNeUZ6TUo3UklYSXVaZFVqWWZvLVpjTUtLN2RiRDV3OFloeG43NTc3Mlc3em5lTTBUUGVZWGtzRnR1emN4eFJyQ2xRMFYyc9IBzgFBVV95cUxPTTRPcTJ4VmhMSFYxUDBuaVVjdDRpWTJ3X2NURUJwUWNmSnh1S2pzaFZFUExnRk5BMEdOallUMmV0R1BKSDJ6b0dWakNKUnpJUmI2dFQzbzl3aEs3bFdXT29aWWVCaGx1UDNpU2xjb0VMTmdQZHJ1MGd3VTNNbHEyZllYaDJDSEJJN2tFSDJtUjY4WktFNFdvTWlycEFZTExwZXZXelhNakNJYU1NWklVMDdEc3hLa1lsWkNoSEY3NmRHNDA4czk1SWYtTVVSZw?oc=5
@@ -47,28 +48,28 @@
     • "Toledo begins citywide pothole blitz on Tuesday"
       https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVZ2U0Zya1dfT3NwS09aSXI3NkQ2eTVrWDZNbGhQaUZnamtPVXVLX2M5d3N3MXZuUUpndmZCTl9KS3pVdjZpQm9zbGhzbTVFaTU2bExuRGR4aEN5eVNZTEpBckR6ZndXS2VwNVRWQjlLbDdWWHdtZ2FWX0dUUEYydVRJLTNCYlpoaXY3V0ZmY2o2eS1PbkVIeFlvQW91YU5mS3hlMktR?oc=5
 
-  [Noise Complaint]
-    • "Rumpke placed on probation for repeated noise ordinance violations"
-      https://news.google.com/rss/articles/CBMizwFBVV95cUxOQjRPNFQ2ZXRvbUJ1a1p1dnNVazRlb0xjMUVaX0VhUUFoaTJyS1Z5N2pZZElmbVZLcjBhTGlnOGJnQkVlVk9sRHVaMXFQT2g4Z3hJX1VCaTJpVzF3bEY4NV8yekt5NWlTdEdETC1wUFdZM25ZWHJrbWpPRElQTkQ2OC1PampGbVgyOUs4NjRGOXJsQ0FUZU9NV1FxTFZkWE9NeGZHSjVoUm5EeHVMS3RNVXNLUnR5SHVOUVUxeVg3dXFmQnNVLWxGWnRvZDg3RkU?oc=5
-    • "Disco ball on West 86th Street described as extremely disruptive"
-      https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXZHNjk2Um91RFVianBuZ0t3aUdha3QtVENNUHBCbDBJakxIcUJzMnZ1QlpyME0xcHJ0eE1tNGRNb1dLV0k4WU5TMlZQLVJMdVdIUnNjTDd1R3lpWDNEWldBbEpUQWFuS09lMGhPbmhqa3lTV3NSdGp1RERyZElIcGVHQXloNGI0R1N6cFVLbW01Y0F0SVVmUWhxRUF3aWtKVnRYeXFtUU5Oc1VMVjRJcQ?oc=5
-    • "Church draws noise complaints from nearby residents"
-      https://news.google.com/rss/articles/CBMizgFBVV95cUxQX0E3X01MdG5BSDN1SjhZN1o0VS0zWW1wdXNEMFZMZHo3V08tOXpnQlVXbVVxNUpsNVdUa0NxeUJLSTlheG9VVVFnMTFPUE1YcnFRU2p0SkFIdDFhdUNNS3dZeGM5cUk0QmJ1NjUwMkZBc1d1RWp6WXBwV3lUSFFGcTZXc0pWRUszSGwxblZTUkVtcHFJRjZwSXUyOWM2RmJQVHpvMUlrUkc1S2xZa3UwOVhuRV9HcjVuUE03RDVkaHlxZ1MxVks4MTRmVm95dw?oc=5
-
   [Public Safety / Crime]
     • "Dublin seeks resident responses to improve pedestrian safety"
       https://news.google.com/rss/articles/CBMitAFBVV95cUxQY002cnpISEo3UjFKWkl6QW5JampNZEgzdXZiWlJLWFc5OHMxTVgybGtHeWRBOUdOaWtEblhybWtTTE5OTjJBdnRZZjZFWkZob0dNMFF3M2JOdjlqb1FTdEQ1N01iUG1jYlBzWEZ3RlJEWUpMOFQ1QVFqclVxNHhveGswOE1rTEl1dEstbVJOdGJaa0pJa3JDS0I1SE5JR0hKRHlyOUFQU0hsa0h2OEU3NnROMEI?oc=5
     • "Over 600 people in Cleveland hit by cars last year"
       https://news.google.com/rss/articles/CBMiogFBVV95cUxPY01ETklmUHRIQ1M4Y21wd0tPWHVVM2l1T2h0SG84aUxPWV81OTkxNV9MM01HdkFzVTkzVFM2WF9sakpYNGZpR0N5cUtjQzVSZV9UdHRlTUZHVnJkRktobEhpN1pvbGFKS3N1V0FQM2pXUkNoQ1hHOHEyMW84RlZJQ2JWS2lsT2hDT0M0UjVGT252T2s1SUppaHNiWGxxXzhLS0E?oc=5
-    • "Residents concerned about illegal pool parties, don't feel safe"
+    • "Residents concerned about illegal pool party trend at apartment complexes"
       https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYjM4WElmNTB3T1NNTV84OXQxRF9OSlhXellGQTlhVTF6Yk9Mc205bnRydE5FZkJiOVZndnRvTU5Md1lRXzEyNlhpVkJxdXBoX05yOWFjV3RiV1N3TlBrazZGclFTN3VSMmNVOXQ0Wm1ONG5Edzczc3c3SDZRUGxOa2JvRDI5d0VhLVRYVlN3Y09DU0NwcUUtV1ZyN1BZZzFvUFJsZkY5azJOaHh6NEpQcHBfcVhMaVZQSlZOeHNfaFJIeWt4RW8zcGdOb0VIZ213ZHFfQ0gxNTNZSl9VTXRYUURMSzRhemVU?oc=5
+
+  [Noise Complaint]
+    • "Rumpke placed on probation for noise ordinance violations"
+      https://news.google.com/rss/articles/CBMizwFBVV95cUxOQjRPNFQ2ZXRvbUJ1a1p1dnNVazRlb0xjMUVaX0VhUUFoaTJyS1Z5N2pZZElmbVZLcjBhTGlnOGJnQkVlVk9sRHVaMXFQT2g4Z3hJX1VCaTJpVzF3bEY4NV8yekt5NWlTdEdETC1wUFdZM25ZWHJrbWpPRElQTkQ2OC1PampGbVgyOUs4NjRGOXJsQ0FUZU9NV1FxTFZkWE9NeGZHSjVoUm5EeHVMS3RNVXNLUnR5SHVOUVUxeVg3dXFmQnNVLWxGWnRvZDg3RkU?oc=5
+    • "Polaris Rock City Church draws noise complaints from nearby residents"
+      https://news.google.com/rss/articles/CBMizgFBVV95cUxQX0E3X01MdG5BSDN1SjhZN1o0VS0zWW1wdXNEMFZMZHo3V08tOXpnQlVXbVVxNUpsNVdUa0NxeUJLSTlheG9VVVFnMTFPUE1YcnFRU2p0SkFIdDFhdUNNS3dZeGM5cUk0QmJ1NjUwMkZBc1d1RWp6WXBwV3lUSFFGcTZXc0pWRUszSGwxblZTUkVtcHFJRjZwSXUyOWM2RmJQVHpvMUlrUkc1S2xZa3UwOVhuRV9HcjVuUE03RDVkaHlxZ1MxVks4MTRmVm95dw?oc=5
+    • "Columbus church roasted on Reddit for late-night noise"
+      https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2laWENsQkhpMVBRNWJmRWVfaXJZb0hOY2p0Q3d6TzlCaHFvRnRhSGpxaHdvN0x1Q2UycHQyVlFpLW1kTlViNWlGRzFqZ0hpNlNfbjZ2Tk1lem1Maml1YU1sQjQxY3A5OHFtZVFENWJyYnV6VUFXSVpqb19oY0R0ejM1b2RSQ0tCcmhQUWgtN2k4S00?oc=5
 
   [Sidewalk / Curb Damage]
     • "Sidewalk-clearing ordinances have mixed enforcement"
       https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0RuY0VicFI1b0ItT0pHX2llM1NEMmYwMUpxaEYwbDJBYlZJOXJmLVJ5YVZDOHlGVDVzUmQ1c1hTTmt6MUV4eDA5V3Z2YlFrT3BzaHVLRm91elVPVjdYbWd3Yl8wUm4yTEZnM3lPTlcyajZsb3JqSEIyMGkyeEpraF9ORzJpQjhhWmJ2QmtodV9pY3F6YlFwdWo5RW1hOE53cWYzeE5NbTFsM3lfNVNMYlg3bk5lbUxkNFpwYlN3LUY?oc=5
-    • "Nearly 20-year-old UWS sidewalk shed finally removed"
+    • "Nearly 20-year-old sidewalk shed on Upper West Side finally removed."
       https://news.google.com/rss/articles/CBMimgFBVV95cUxNRzU3S2JxdEFRMVVYVE5aY19oNEhoMy1BbTBiYnZGY1liNFlyOXQyN3BSczlMeXBzamp0d0Fsdkt2dlZNOVBlMHBtSExoN1BTZVJUaTUxdHljbTFQSzZlZW04MkdPU3F4U3FzUFpiRk0xX2VIVkFtRzNJSkU2UGluaWtvdHNEWkZqcWlfWkFseHA3WkhWbGlMT3pR?oc=5
-    • "Upper West Side fights scaffolding sheds problem"
+    • "Upper West Side grapples with multiple long-standing scaffolding and shed structures."
       https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUDRqTGZqYXRHQWdKYUMwdzh3SlRZWFNienNQbmNGRjd4Zl9SRDlIVmRNdFRQR0pFelZLcWx3QkZ4dVozRjRFejV5RmlUWmJENWlMUk15eXh6TmQ1cFJiaThoSVI4WG9VYjBuWGlManNnRXZYUllqWDhFbm92X2xobmRsdVVEaDFqbWY4ZXB5X1ZtS0g0b0xzdWRxOHVFR0tNZzZXS3kyUk1QV1Q4UUJxWVBfRFpfLTRzWHpLOUtaeGU?oc=5
 
   [Street Lighting]
@@ -77,15 +78,19 @@
     • "City council member works to keep ward lit up"
       https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHBsZ0JFdlBhWE5EcVBaRGl0d1hRUHFLY2ZScXdmUldXanlHbGMwWm5GVWxybEI3T3kzLWJfTkw3QTRtcDJoZmlyYWZ4bUVCc3I0SVZpNVFNTFRvY3JsQ2V3ZzZDcVZTaUhhX084Z1Z5V3VwUVlGcmRDV2VEUmxJNE1OY25uU2dCZE1BNE9VNG52dkFHRkxSazJKT1hRbWZSaGp4SDh5VUVOQQ?oc=5
 
+  [Trash / Illegal Dumping]
+    • "Macomb Township could fine Priority Waste for complaints"
+      https://news.google.com/rss/articles/CBMimAFBVV95cUxQY3RrZ25JV09XWEVycXQ4MzNwMERHQWpJQVJsNk5lb3dBOFhYLXExVGxCVjI3cUFYcnU1UDVOTmZDQXhYc3Fhc2diT0ozLXhXNDFDd3dWLS01czdYVmhZbzB1THRsWnZGYXRnc2pQbVFIUm5TX1dDUFNfN0NpcTBrZlFrRmYyYllzQmFRMVZiOTF3VmxXSndVdA?oc=5
+
 ==============================================================
   PITCH SUMMARY
 ==============================================================
 
-  In the past year, Google News surfaced 65 news articles reporting
+  In the past year, Google News surfaced 63 news articles reporting
   citizen complaints about city services in Columbus.
 
   Top issues:
-    • Water / Utilities: 65% of complaints (42 articles)
+    • Water / Utilities: 63% of complaints (40 articles)
     • Other City Service: 11% of complaints (7 articles)
     • Pothole / Road Damage: 6% of complaints (4 articles)
 

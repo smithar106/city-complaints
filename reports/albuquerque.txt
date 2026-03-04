@@ -1,0 +1,78 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — ALBUQUERQUE
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 81
+  Complaints found  : 34
+  Complaint rate    : 42.0%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Other City Service                  16   47.1%  ███████████████
+  Water / Utilities                   12   35.3%  ███████████
+  Public Safety / Crime                2    5.9%  █
+  Noise Complaint                      1    2.9%  █
+  Parks / Public Spaces                1    2.9%  █
+  Trash / Illegal Dumping              1    2.9%  █
+  Pothole / Road Damage                1    2.9%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Other City Service]
+    • "Residents report fiber construction damage described as 'complete disaster'"
+      https://news.google.com/rss/articles/CBMisgFBVV95cUxQU1NORVVZVlMtYklna1VMYzFWVUVnQmloSGw4X2lfWlZxNTlxcExBSzRTSGJnelhRN2tvNTVhMUJSblp1c0Y0UkhnUk9GZ2hJRTN6NWR6Q3hFQ2ZnVXcxN19hODk0V2lOdjVSTDdSMDlPakhjZHlocU1ER1M5QWxOTktQV0RSRTY2dGxKd2hTalY1OVFIR0Rnc2NYYXFsMVg5ZFhwTzlfdE1EVFdfUktZdGdn?oc=5
+    • "City orders Ezee Fiber to halt construction amid resident complaints"
+      https://news.google.com/rss/articles/CBMipgFBVV95cUxQbEhwOVlYX1ljc3FQdnNzbkNGWUo0ajMzNXg5Vmd5Z3JINjhwTWtJUG8xVk03amEzd1FJLXRrTENvWGwxWG9SUGhJRWY4ZjhFNUJJZ054TlB2Y0t4bHRRdWxfOEU2MjRhSDRuaV9IWDJLY2wwZi1IRTkteFNha0poVlZra1J6Y3AwUEhvQnB5OHRGc2U2TGY2MTQ0Z2doNVBZY3QzTGhB?oc=5
+    • "Residents concerned over fiber installation process; councilor proposes fix"
+      https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY3dheXZGd185Q1dwWkFtS2pwbHRuQVFHcVRtSGdzXzk3OFFmWGpudVFzM1V4cHc3cC1paXBCRXQwTlZ3SWdnSzdEWWhXUks2Q050RU5YU2hwMm5qSXplbXJVcEl3RWZ1N0NFR3g3ZTVnYTdNUC1OcWZMZTNPMFFCMzR0Z0JqZ3BMdmpGWG1GUEh3TjhZaUpXNGJKZ0FOVlRrUkNiVGRyUG1VSWNDV3dXWWRRT1pCeWNDZ0JBRDlGd1NVdm1PSTdMOGtKekowX3U4V2Fua3htOUo?oc=5
+
+  [Water / Utilities]
+    • "Major water main break leads to early school dismissals"
+      https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc19veTVtbF9TY3g3S2xHZFAzdXZSckFPOFh4S3V6NERuYUlfQXVnYTFSaHNuU0E5X2ZweFZDeDBPQThMVTF5LTJXYm9lZUNLV2JrSlI4SjdwbGlUZTdhOFQ4d2dFX0pkN3ljcVdKU1I0WVlrNzFteWJRUEpsNnY0aS1kQUgyd1Z5NUVkWkl0ZjV1aXFOeEVodXRwZUVFdTF0QmlFbzdNY3R4ZXfSAbABQVVfeXFMTXQzUXhNQU9CSmxuSGpqTmlSY0pIQThpbzhfTGNVVEl5dlpMZkhiSmtDbGJWdm9DQW9oYjdxLXM3LWRRU2hIMlZqVDlOR0Vmc2IyNFlVWXZYRjJGQTFORkpTUTk3OVBvYWxxdXRGZGd1b1hrZmYxTE9HZ1ExeUhkalJvcEIyYm5nV2NWNnFnZnh5UzVRd1V5WVJJcDVTZ201RnhoXzR5WTNEYlZKX2s2cDY?oc=5
+    • "Water main break repair work completed in Rio Rancho"
+      https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0tUS2tMUGxubWpOTVhrejh2d2Q3Y1d4ajY5SzBCNWJ6dmFJTWF6aHJtRlZ4RHpYVlRzcWMtUmRKTGt1N25uYjNkY01HdzNGN3hJSTNGLU9XNmZ6al84UnpRSDhWMmVvZDA0SUstZkl0amszbXFkeHpZOUlxOEZGUXNXcUJHN0VmZ2RLUmVB?oc=5
+    • "City repairs water main breaks, requests residents limit usage"
+      https://news.google.com/rss/articles/CBMioAFBVV95cUxQREk5bzhMWE1DRmwxNUtmY2hMZ2hfMV9CaVh2OXZRc0RpMV9GYW5DOTBLUVlGdnlGTUNaM3Q2WVZoTkxueUk0YjFSeWZNanctWUVMQ01OdFp2YTZyTGJiakVlU3RLOXJRNWFMMUNxb2lMMU93T1pHLUxyT3BQb3VPYjFma3JDRk9QLTAtbThZQTk5WWNVVE5ub1NCeC1sN2pl?oc=5
+
+  [Public Safety / Crime]
+    • "City responds to complaints by installing more speed bumps"
+      https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFBmUUdaUWhCVUdVcWM2NkVhdEd2ejFWaFNPZXd6aGFyZXlMb3ROUENGMEl3dDYyYXdrZC1UYUN3aFZsdmtpUkVVbHVFb3ZQMGk5akY4Z25Dd3ZQUmhzNkZaRGZoMWQ3X19qSTBQcUpxdEhodEtKWC00cVVVVHM3ZWE4Q0ZqSDN2Nnozdm8xY0ZRS0FvaHRndDVrSTFld2lHYVo2LXZnU2xWSGdxTjRF0gG0AUFVX3lxTE52aWFTa25ObkNQNUNWeXBpV0RDbkdrRXgyNEh3WE1qVmFpNkpQbmYzS1BlNnE5YWViakx6ejZhQmMxMGNFX0FZekJ1UUhwWW14QWZqS2Q1SVRaazJkb2NFcUxCUmR6UHUtMVprREUtdnUyWDdJc1dzeloxcndmOU0yQXR5XzN2NkJSU2JqSGNsY25PLXNYRDNPWnZ6LUVoRnVFQ1VhcW5GcTVBNkdTTUpnSkVJVg?oc=5
+    • "Albuquerque has a crime problem requiring National Guard response"
+      https://news.google.com/rss/articles/CBMieEFVX3lxTE9JVTlFejA4YkduYTJKYjIzUDBab3hWdU1icXhnQnpTaTZONU9RUDBWRDF2NnlENzJrc1puUXJNaHZDNktuMmlobVpoc3BpT284SGdRRUZka3ZvdVlWLURyNFVIZGJScC1IclRVNE9SRnRpYzBGTzNrdQ?oc=5
+
+  [Noise Complaint]
+    • "Downtown residents complain; city turns off anti-loitering speakers"
+      https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ1htN19Bc001eDNWSVV3d1BWU1BlWXkwckEtbDBROWNMdGpDZnljU2pJQ2hiQ2FNbTktWm9RdGtMb2pzRXROQy1LQldUb1B6eDFRckpqNUg2UTRMdlYtQ0U0UndVT243MVppYlJRVkJ6VE12a1ZGUERiTThaTi1pVGZrYnhybTVaOVlRbk9BVDc5S1BTU3I2RllINk5jTHFVT2VOcEx6MFhqYWlHdk1hTHItb2oyTmRvbmRtaVB4RlgycnBxQnJFRFQ0YW_SAdIBQVVfeXFMTXFTcFAwY1lTbUxoRWZ5ZEdqWTBjaUxEd3R2Z3VqT1BybWRSYkRRLUxMaDJGMklOcGFtdFdtZk9FbU5zZzgzTVpFWnk3TXcxYWYtODBRSzBqQTNYbTJOaWc4SkpCa0FRY2hXeUlEYnQtcVdNOTNVSnJCUUlyZ0owTUhTTWg5VlhZVlNqeWpzOHpvM0hUQ3R0QXJrQXhkN3dkeDBFX1JaNXgwUDBSWmZyWDNTWkxORWdHLVczV3plcGNFbjF4RWEyTmxWLUtxNURsYXJR?oc=5
+
+  [Parks / Public Spaces]
+    • "Residents oppose duck pond renovation at Mariposa Basin Park"
+      https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUDZVTDYtYXhPMmVLYnphTU40U2dxT2JiNGNRRUlKeDJZZzhMZGo1QkxhRkRVSUpTN0RMYjlxaDQ3TGxBakQ3Z3d3NEJFVHpYTmlYNGp6VDJPZllFUE1sYWxiZVRoeWRhWlY2cTRIQW5CRi05czFpYVo0WV85dGkxbG9GZ3IyTjR4Z0h4SVFyMDRkNzZWUUR5bG1DX250ZmxoY2daNW9Nc0E?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Homeowners challenge proposed San Diego trash fee"
+      https://news.google.com/rss/articles/CBMizwFBVV95cUxNZGtLRDQ2aUw3STNZT1FpSG1DNjBaVFo5dW92STd1SUVMRXQ0NDNVeGduUEQ3MF9CUzV6VWk0dnMydkVwakFEcWVjeHUteEZVQUJVaWx1ejFNNHphd0dpc1JPU2xNb1RkMnZ3VDNWVFU4aFY4Z003ZV9fWFJOQlNPNW0wN21HY1IwQUtvVU0tdE00NDRILVgzX2g1YUhIVFR6VHZjUjktUDdFTFVsZUFUVnd6M25LNnRBRVVHM290cS04bzVZRk5OdU1GTl9ScEk?oc=5
+
+  [Pothole / Road Damage]
+    • "Rio Rancho Police Department cruiser falls in sinkhole"
+      https://news.google.com/rss/articles/CBMilwFBVV95cUxORDZXMndIOVZNWkx3eXZzcWxUODNKMnotOU5pdGpBSkwtT2JjY2tBaVpFbUc4eDFpYXMyMlJ5NU1OckFFLWt0ekQ5T1RldTZUTkxWYWtueHNMQTZJNmRwMHFjdTBMd1ZsYnR2bTUzcnBJZy1menIzcnlVanRuQmxNREJuejFHazdNcjZnT2RTWkY5eGdRX2JR?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 34 news articles reporting
+  citizen complaints about city services in Albuquerque.
+
+  Top issues:
+    • Other City Service: 47% of complaints (16 articles)
+    • Water / Utilities: 35% of complaints (12 articles)
+    • Public Safety / Crime: 6% of complaints (2 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

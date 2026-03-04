@@ -1,0 +1,72 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — WICHITA
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 70
+  Complaints found  : 31
+  Complaint rate    : 44.3%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   17   54.8%  ██████████████████
+  Other City Service                   6   19.4%  ██████
+  Sewer / Drainage                     5   16.1%  █████
+  Pothole / Road Damage                2    6.5%  ██
+  Sidewalk / Curb Damage               1    3.2%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Water main break affected Park City residents"
+      https://news.google.com/rss/articles/CBMinAFBVV95cUxNcEM5XzhMcnpXVnc1bVJOY1JJZS1Sd3NtTjlrb3Zuc3hVTXZhdWwzS3E0LVVKQXZhTGFobHRsc1hub2tjcktCVXBBOWFna0ZOY20yNjZxa2dqU25kOUdBdG1yQ2dpRDFFX1JOWWVvNm80eTEyVmdzb3ltdW4yRHRoMUE3WGk2WjFCc2pCQm5CQzFlV29wQkRMMjlRdmU?oc=5
+    • "Permanent water restrictions begin for Wichita area"
+      https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbGU3MkxDdmJpdlV6bC1yVW9xc3RlRmtUaXFVQlNKVl9YX1VfNDAtbHlzMWlSZWY4YTFtTGw2cW9jaHp0VTcyRDJVNFllQlJRckhjWl9ZNExWZHQ4bkgzaFF4ZGM4aUxNRU5rajhaZFRFR1RhLTlpSjRDWU4zRlkxR0dFcFNMcWJSeHd0VFdPaGdYc3N6eFViYThCWmI1NnItNXF3ZVNxejRQakZldmdXbG5Ua0FtSzRKR3FOUFl2S0ozOXRSbmdLbWRRVnpaVnlqTzFPNzQ4WQ?oc=5
+    • "Water line upgrades and temporary service planned"
+      https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDBMc0UwRDIwWDNYSjh5Rkc3VGxIVXhzaVhRa3JYbl9idVNsY2RGMkU0d3ZLRjZWNGxNLXIxRVdPeXFYaVlMbXBNR2tQb2dwdE1fU3d2eFJNMkZpOGtUdW1SR0g2UmMwdWNQRGxuWDgtaFRRTjBRRlh3d1RiWEVJZUdYYkpoejlWUVphVkk0NWVQN2NEeHJzb3BUU0FuZU42UEJWRUF0YmhVb3F0MVR5NUF30gG3AUFVX3lxTE9pX0tyM1Z3bzZ5ZFYzT2NZbGd5ZFJmSFBybXo5WGtnMGp5V0wxVzZ2Vk96aGRkNHJrdWxPTWJmN2FISVdoYXdHUUVMWFctemJBODdrNEM0SE1pRHoyU3dMcURZZWV0Rk5TSThFMWJwRTAyQ2JFdnRpbDVCVkJIZGtCU3QwanNiNjBhWERXX25pSmEydDBnSjV4MVZqX3lYclZkaTRHWnc0YXBaajVNTnF3OVVMREp5dw?oc=5
+
+  [Other City Service]
+    • "Complaints lead to new utility bill payment system"
+      https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdzlsTEVtblNEMlRDcWRIX2pmTXRyeUJDTkJzLXc3bDZfOTdJREJMdWIxZWpMQUUySzlpZm1XUG5xNF91bF85LXFfR19vblN4WTBxZVZGREExbHFtS2FMZm1GclF5Q2RCMHBOUkVVOGNYQ0c4UHIwQ2J6X3RBT3V2TldTWXkyUERYb1VGMVpEY0pRSXlNZWlxVG5Lb1UxOHgtSkIzY3dMUXBiUHdQYUtFUGl6RHZPa3VxYmxDRkZ3ZlNNUnlaaWlmOWtFUVR3bFo3cGFGd0RUMEw?oc=5
+    • "Parking disputes led to restaurant closure"
+      https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcE1PYW9lckh3dEhuRFByM2wtZnZyNWRJQVNaUUxRMjdFZVU5a1NpMDZ5UU02eEI3WVZ4QUtESndGcmtYLTBPZE50eWQ1LUZjWEtzTDZNa2VKaUMyTzdjd1VJV0pCcU9zMHFFZDk5S2h5VEpxZHplQi1uZ3g3MGFLbmFCa1I3TzlWNGZINUw3SEZKYjRXbXRkWHh4SXlNbGVzdWRieHNKa1hFZw?oc=5
+    • "Wichita among worst cities for disabled residents"
+      https://news.google.com/rss/articles/CBMihgFBVV95cUxOMkFKOTg5SWZ6bm56S0I5czlCZ2sxYW9nSUR5QTBVMlkyU25WM1ZORzcyTlVYLUxvZVNzYVpuc29WZ3picGdoY3RURlFEYy1hbGlTS0ZSQ2ZRV3NkUmcwR2pvWVBzUjd0dmljR3dlVVBFb08xQzRXaVdjaHl6YzdaUndYcUpJd9IBiwFBVV95cUxPb25PeFRzQ2sxVThud3NNUVJRLXI5c0hWZkd3RUtzcEZCR1RDMjR4ZFV6bUY5dlQzal9VRGVZSjJUb2xXTU9tYzdQYUJ3M3B1QXlpWjFpVXdoMUtGYy1Cc2w2eTRQS1B4ZkxUZlU2bExTOWpVMV9tbk5JTmcwUUNmMloxcnJvSXNHWUpJ?oc=5
+
+  [Sewer / Drainage]
+    • "Sewage overflow in Big Ditch area"
+      https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uN2V6c2c2N01NZE55WnBNLVdSMVhNbjZOLW5aUHFVM1lJVWktYkdva29Ha1lGOVNBNnUwbHdPQk1WeDhGUFExVEQ5bGFWS2pLQWpSSTJrTGNMQThFdGhIWkVNNDQtZ9IBZkFVX3lxTE5VN3hTTGM3czNzelBodXdGR3hydEp6VWJIdjBUdnlnS1h5NFhTYzVwU3VVMXJjeXZydEUtVmFadTdodUJ5OGVpQnFiR3hONm5xSmFXR1N4WHROSThJUTM0ZHhhcFRDdw?oc=5
+    • "Flash flooding in El Dorado prompts evacuations"
+      https://news.google.com/rss/articles/CBMilgFBVV95cUxPZTRJZ3Z2dS1DZmlIWm9fZzA1b05palNJWllLMXFYRTFGb3hqMVlybmk2SGpBbE5yTnl4aFFRYkc5YW5jY054NzdTRFFsSVNRbDg3UkYwd0k0cXBHWC01SVVMR1hfQktvaEpHdjJoTWtmWU81b3FYUnlEZ3BKZU85SEFyZ0Qwb0ZvVTExbDhNNHVoejcxT3c?oc=5
+    • "Walnut River overflow evacuates El Dorado residents"
+      https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd1hFRWdyM2YtNWZwNGNkQ0JQcGoxemRpNlFYRXZkeGZKZy1QSm1DT2F6ZF81LWlCeG9XbXIxQlFNdXBNYVE4V19GZzEyalhzZmlXenB6TllGTjJpZUgwZjZIVElzc1NQQ01lQ1h4V3BoTEZRanQ4aXZRZWhDSmdRU21xa0NPOGppbC1DMF9aeDlDNDU1UHByUUZFbGJNMzV1bkdzU3h2Q3p5VXIyVmRneUFHQU8tVUdCMUZoTEozYnE5eTY2Rjl3a3l4S1VrQnhfWHFGLWdLZ01lS3JNMERxeHVEbnhDd2VZcjZHLVdLNTM1MXc?oc=5
+
+  [Pothole / Road Damage]
+    • "Pothole damages vehicles; residents demand repairs"
+      https://news.google.com/rss/articles/CBMioAFBVV95cUxQODJwOFh0NS1pR3FRUEhMZ0lvb3pTZlR0VVlHOVNyb2tPOUV5ZTk2S2RCczl5STh6WDlLazhuYm9Dek5HLXpqZUZMYjVtM1VHUnk1RWVsZXFTOVBQakxJSFpRTWp2TXBmd3hkdXRSTTZiOFkxb2Z5eXd4UmR2Wkk2NkluWUxCNmYwa3V4OVpmN1dYZHdpQzFTZUk0S0pramUw?oc=5
+    • "4-foot hole found in Gardner bridge deteriorating"
+      https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0E1YVJ3a2w4SzNBaHNYcXlwRjdUYUdmZ3R2dldiY21DZ1o3dHh5UTlwSGNkaDRlRVpSWDFEOTFSMW1LdWplX2RjUVFwcDlaT2JUVVpHN0hyLUx0SE9SRHFiUTZCWUI1TkUxelF5Mk9jQWljejlJWk9Iand2bmFqQkhRVGpLVDVrVzJoa1lkZ1g0cl9maml1Rk9hVXd3M3hsMzZWUUhuT3FCTjl5OWdBTDAtN0pnUdIBygFBVV95cUxQU09pTWRKOGU4b1lNeXJUQ1pvZHpZRWt2UkhLVmozY25HRFJ5VlBQUktXcWRaSl9MLTFjS0ZYNGVPRVdWTWpRWGRlNDJ5S1NoZGhWWnZkUUNfdFRoUVk1QndCbEdvNUVMVHNva2hweHctOHgyTk9mZzVwZjV3S3RDZTdfd3BvTHNzWnVBQm1MSTB1RHJuMlRCRWNmU2tRWmdFQ2xaTmo4Rnl0bk1aVktsOVJWMWFEYTk1Tml2V1RtNFRPaHQtZGNtRVd3?oc=5
+
+  [Sidewalk / Curb Damage]
+    • "Neighbors shocked after learning they will foot bill for sidewalk repairs"
+      https://news.google.com/rss/articles/CBMitwFBVV95cUxOM190bHVJMlhfUDhDQ1d0Q2NrckExNXAzR2p2VUtMY2k0dFJySEQwQTJXeVRiWWtxTldyTUNEOENZUTF6VnRTV3pHZ2U2b1Y4cERaWGJwX19hcV90eFdLOXpmVjJETklRYmIxR3k4WFM0bWdaSXVuSTROdDFUNklrc3J0LUlicVFxTk5tVXNkS0I2d2xNV0x0UnFOWFBJRFRQcEE3bG81YnRwNHRMRnBGd0ZnX1N3aGPSAcsBQVVfeXFMUFpwZlN4cF9rU01xemlSaW4tTzFjaE9xZko4MFp1UF9lb3BQb3FUTnAwNVBxUjRrUGwtazVLbllYSUxmWnBoa1J4cFU5NF9rQ3JnWENBeGxRbjdFZGZvR2VuU0pGV3VweTE3RmV2RC1tMy1KeV9DUExucmtsaWRKY3VJTFJ4SnBJRWo1WGhvdzJsSGpyNFd2REczU25kZWoxbUwweG8yUXRDUWNsbDAzRDNlTlZpUmZsVlVpSkRhRGY1NW9DV3RmeUZPS2s?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 31 news articles reporting
+  citizen complaints about city services in Wichita.
+
+  Top issues:
+    • Water / Utilities: 55% of complaints (17 articles)
+    • Other City Service: 19% of complaints (6 articles)
+    • Sewer / Drainage: 16% of complaints (5 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

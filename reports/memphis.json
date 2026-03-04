@@ -1,0 +1,184 @@
+{
+  "city": "Memphis",
+  "slug": "memphis",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 75,
+  "total_complaints": 45,
+  "complaint_rate": 60.0,
+  "categories": {
+    "Water / Utilities": {
+      "count": 16,
+      "pct": 35.6,
+      "samples": [
+        {
+          "quote": "Holly Springs Utility District fined for inadequate service provision",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd2JJTzE2MzRwczYxNDN1cDhqVkxCTjlFUk9UZGN0YmpwVHBmQmZPMEp3RExqWGVKNGNfcU5UbDF6dkxnZ25uM2Z4d1p2OUhZTzNnam9Xa1lhUVNXbjBHZHVla0RmVS1NOTRpM09oYm4zaDJGeG5ib3BGUkhDWnJXaEc3N2w5dE9OdkotOXpiTFF2RXVjVkxnSDIyUkdSdThDbFRKLXdhd1Nha1hyVkp0Y2JFUXVmUnJOZ0ZIcnh3N2xGQk1fVGhPbFVBRXBUSVkxR0FrTzc4UnhGb2pFYnc?oc=5",
+          "date": "Tue, 09 Sep 2025"
+        },
+        {
+          "quote": "Water main break leaves residents without service for days",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeHhXYmlfbnlmUjNWaml2YW9qSlpuTEtxRmtwanE5U0pROEU5Z1NDdkhKb2pydmxSOWd2VTRtYzRGNmxRRS1NTG5wcTlBRC03SDJMX0dvYUFVNTRXRk0tMUFaQUpHZ2pySGdLR0JKUVBvNGJoX2xoX0V1WDBGRm5jMndMQ2dzb3g0X09qeFhleFNhT3hXVTdXemJOek9PNTFNMUhtcmpJVmJtTGlLQUJNbkFzbkJKMDFXcGZYQmtkRlozMGFPbHZnQU5ZU1RMRk11WUJsZEo4WlAwT3M4SHN1Z0lRX3RFZ1g2UHlZa2VwczdaWWxJ?oc=5",
+          "date": "Tue, 24 Feb 2026"
+        },
+        {
+          "quote": "Water main break leaves residents without service for days",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQUh1TElOenJxNnpTQkhCcUlaTEhMVVVHWEkzbjdUU09TMV8tMnhZREY0MVNfZkVkN1VEMkw0OFpEcFZodDFvYmN0RHFHckpIMTNoRWk5blFZdHdOZG84SG1pcE9NbGhHMEsyWGZMQnJXQzRpUlZWNzZRaU4ycFZla3Z2VldvWWoxMXc?oc=5",
+          "date": "Tue, 24 Feb 2026"
+        },
+        {
+          "quote": "Vintage pipe broke, customers won't be compensated for water loss",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRTBPdXJRMGh5dzJGUDdTbEtvRXlPdXQ4SF93NHRhakY0WVB0M3Jjb250UWxMY3NyMThQRkVWOWVMRnJkN3ptdUdDVjVidThiZV9iUkExLUZlbmZxNUpZdDRybXZpMXNaQTdaRTJqZzdER0JDd1ZVNVVDeHFaQ0taaHE2TlRoaDBBX20xX1RPYjdNSEFvVlVpUll5YXBEb3pveTRrZ2tYWl9ZLTU3SzFBMFF4S1NpcEFGVEdQSWRzTWxidFBmcXliWFRydmRpTEthYXJJMDhMc2p2azQ5TE9sOEJOQkZhbGhwbGc?oc=5",
+          "date": "Mon, 23 Feb 2026"
+        },
+        {
+          "quote": "Weekend water main break in Memphis affects residents",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMllGT25INVkta2Z6Wk16dnZmc2RReUNNZ1BEalk4MlZyR205aVBJMEFWZFRyNG0ya1g2T0lHcGd0Y0Q2Smd0RzBFdW11M01VRlFIVk1mZ28xV3pCTWE5cFphM0FXY1M0R3ZOSl9OanRXUmQtcFdvU0IwWWdsMzQzSDJvQ2tjWmlFUnNQLTdGSWlPd0FtS1RjMEVHRk5hNGtLR085a2tpQ0pzSHZaQjhDaks5eTdhM1RiN2dLZE55c2tNcjNOSDhTZFJCdHhGLVE?oc=5",
+          "date": "Tue, 24 Feb 2026"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 13,
+      "pct": 28.9,
+      "samples": [
+        {
+          "quote": "Residents in south Jackson share thoughts on city's pothole efforts",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeE9ZaV9rY3VUSm9wNkNSaXRPWnk0aVpla2lMcnFtRkhvVVV4WFo1TWpoVThSVDhPTTdGWjZZSkZCdWhiV1FoUkVXS3I3d1NPaUhHN2h2MEdlUHNSSWh6ay1nMzcwTlBrakpXNjExc3g5OHRLN3h4Z1BqTkJOdG9CeHdMSTE3UThFaDBfR1pMclFBNkh5WjlOWDQ2WlJGdnotbHV4R1YxaXU0NjlIaHJJcmtmUTdlR3UyYUVvWXpiNTVWY2xMUVVEWmtXcXRPbkNWYy00MGtmWVdkX3NMdWFubUU1eVNBMElk?oc=5",
+          "date": "Tue, 24 Feb 2026"
+        },
+        {
+          "quote": "New potholes expected after ice thaws in Memphis",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWtzVTVVOE5Jck5qNDYwcHRrUGVDbVF6U250UnhxMkFXdEh3Q2tmY2VLQ0R1UEhwUTRkSkR4TFlzOVhxTzF0SFJ5UERSWnZhX1pEeXJkS3F1RTFiMHR6ak9DS21GZjdpTE9NVlVLV01GLW1qOUlvQ0lMRm43OU16Z2wxQUpzdEtrUk82RHI2eWpGd2VvUWcxNnA0Sy1JdW9vT1pKM3VWajk5a1NtM2FFSTNiWEM2ckppa09IZV930gHSAUFVX3lxTE5zeDM3M1Z4cVVLQWJqTGFwWW5admgwZUxNbTU5TDNyZjBaNmJLQ3kwZ0dHVEFZbjFtOUJMelpLNk5wb3VVenQ3VXBjTkptX2JXb3ZwcmRRbFhIN25YX0ViNmxxS3pzSlJNN29LR3FQMnZWQ2xPTFktR3dOMWkyZUVibmNKTWhJX1JjbndEX09lQW5sc1E4d0ZTa0pVZUtEQ19hZ2JQTnZIMWRza0JvSUFyaDEyVU1scDRHdWtuQmZLc3dXUk01S2pQNXprY0p1dFVmQQ?oc=5",
+          "date": "Thu, 29 Jan 2026"
+        },
+        {
+          "quote": "Large pothole near Memphis airport being fixed after report",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT21haDZMZVJ0VWhBSlFRNjBybmpfd0xwRlVfSEFhVGplV1NOX2g2LTh3Q1pFSGtacDVfbElRMkRobzYyOHplY0Nja0F4V3MzYUFNTHhFeGhDUUlabzRTbzBqRFdMU05Bd0VJSDZieEFRWnpWMEpjZVpsVktHRm9IQk8zcEVFTXY3a0x4elJidk5kTG1fcjNndE1ibkFuU3lQdUVfV3dkV2xrYWZJamgtMjBIalIyTFMtcE1KdVpVUGEwMG5KR0hJSHRXc0k1VEFSeENJckw1Ni0xOWprU09ybFMyWQ?oc=5",
+          "date": "Tue, 13 May 2025"
+        },
+        {
+          "quote": "Drivers frustrated by Memphis potholes as city fills thousands",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXE0enRjdFh0X1gxaWwxaVJOMC0yN3RQUWRucWhoZXNCaE12NzN6ZnJjaFQxOHotNFVDOWJMWTlKZU1LYW92S3VSOUNuVzB1WkVmQjFNdm50dFF6RTdHMFh0Nkx1SExid25oeU1hemR2ZjhlUEZOVFlvd1BXRThMakJoamV5Q2R1NGpPd2JRT2h1U09OLVA4WS1Hd0g4ZjdidW9qejRhZm81aENWM0lkTnlIOA?oc=5",
+          "date": "Mon, 09 Jun 2025"
+        },
+        {
+          "quote": "TDOT begins pothole repairs following winter storm",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORFJsakh3MHVfN2ptd0ZVSXlyN0dldHFsYjBGbzN1UkVaaVRhRnloSjVHMEdfeWloYlVKUmJ0QXJpSS1HQTFaYjdvbkdfdGJoSXlNRFVGWmYtb01SaEdpbVhfdXpmY04ySFFHT29UdTlBYWlCUWRfYWpUV1dUUGFxeG43Q1VxYlB3S2J1eHYxdmxrV3l50gGoAUFVX3lxTE1JdGJLY3N0NFRiWmV3Z0dZRzhTUGZKREpsYjRZU2g0SUh1eDZmNmh1d3o5V2F2Xzg2MnJWZ2NIMXRrcU85TmlkSDBvSTlmWDhSTnltbHhhOE1nNk9iUXlMQlJfYTZBS0djQWh6NmhZQUhlY1hzRTM4NXkxem1aVF9oSzE5Q2tUUXdNaHE1Wkx5bkpDTWFQNXBaZFFBTGhRUHVJOWFWOU8zYg?oc=5",
+          "date": "Tue, 03 Feb 2026"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 6,
+      "pct": 13.3,
+      "samples": [
+        {
+          "quote": "Commissioner addresses blight issues as complaints from residents mount",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTXppSGw1cVV3WXkwV1Z6NVJnNDhxSjl1dUVlaGIyems5cGh6Qmh3OG5UM0VTa21tazVaVzcxQXBUdzVKcTFnbllDV19LZ1BsTnJpcnJ6QmxJb0w0TTF0blJaY0xHM3R1b3R5MzF5Mzk3NGVON2psanJwalZEbHNCdzRaMG5pQ0l0bTFxaGtIU0FTYTRINVdUT3FmZTlPck9OVU1lVUNvbUhycEF4X1FNVXI5SGxJVE9ieGJmZ29BeVFmMUs2b3YwQjNzY0hrZ1R0SmFmaGRvZVdzVUVsZW1VZnFNeEw?oc=5",
+          "date": "Wed, 18 Feb 2026"
+        },
+        {
+          "quote": "Memphis 311 call center overwhelmed; residents face long waits",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV19OcENBSDZyVlJXTUJna05FblpaRDhEd053MVJGdGZYc0FkREdEd0JQMktTVlhoNjVyUGNDUkJncUxPd1lOMWdoWS1neDBsUDRaakpZQ3R0QlBSdWY5dVRUMloxVGtoODE3Z2ZGZ1lJaE9YXzdsTHM0Sm1ybmlRMmNhVExXZHc1ckI3ZWpnVW9yYnZvNjMxSGJJeHFZaks40gGmAUFVX3lxTE5QaFAxUVFPeHdSSVpfREw2dHhlYmhtdmowZkMzWk5CU3oyLXFDMFkzcHlUaXdKLUxwNXpHSVM1bmtvQmdNeTlBb2UyLW1TbUhEN1ZnX2VVM0FoaXVlM3c0S3hQckJqdlpkNzdtS19CQXdOZXJxblNDbS1DRjduNXhfUGYxbVZFaFVRcHg3eWVaMmRrT2NzNV9iSWZYdWhtT1YyOTMxalE?oc=5",
+          "date": "Thu, 14 Aug 2025"
+        },
+        {
+          "quote": "Commissioner addresses blight issues as complaints from residents mount",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdnNxVHZET2Uwbnp6bjd3Xy1tSjZXSndNLTZqTDFwM1NLQVl5a0w0NHh4WXpibjFDS2hnUFFPblI5RGo2NW1YZzgzcHIxYkRFa3ZiTU44cUYyYmRSYXdycW9lTG1rV0UxVERBY050bTdHeEFZWHZPRWtDT0prUHFNOEppLTFLOXBUMk1QeGhqZzJNWXdJb2h4dl9iQ0tsWDVUeVpJbHdvV1Rjam9CUG5sOEZWdEFySkxaZmRUb3VrUmNNbU8xMXRvUHJqUWNvUWRaSFhZWUFIcmhwZWZaT3hhUkZWbmR6RzlmSU5ETmtDVXFyb1FjRjB0TEVjQndQZw?oc=5",
+          "date": "Wed, 18 Feb 2026"
+        },
+        {
+          "quote": "Commissioner addresses blight issues as complaints from residents mount",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUldVVjJidklBT09wQjFhbDd5TVZIZlpxZVdMV2sxMlRxZW9KSDdjU2NBdF9Dbk9IbW4xRGJ0c1hKMzNwUmxXcHNUcnJkbjdJczFSOGswcloxU2dUOGdQVURPWkJZX3lHdVVfdEJ1NXNxbTBhWGNXbVE3c1pDNHNMYzRyek5vZUNBa21rbU1hTWgyMEpVeFZVSA?oc=5",
+          "date": "Wed, 18 Feb 2026"
+        },
+        {
+          "quote": "Frayser residents concerned over unfinished MLGW project, open holes unsafe",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVkZ3dTBVUWtmTkd1RkpwS3Fuem13YjlQdXVnN0F0OE9QOER2dXdSdWVtSExfU1BHNThUMjdJTURHNmM5MjJ0bm9EUnd6bTZQZ2M4bU41MXpXdGROX3BMTHRERTVSZUpjVDNELWM1WE11MEVVWHVKcnJBWlItU3BhYk9hcnB3VXNGOEZPQlRuRFRwUTJPbGhSMjZIQzJtdXpVLXVCT043OGZ4dWtlV0psRTJXcHRzTkhxVC1vY2VNWnRKT2FQWENzMUVUaTlIQ1h2ZFRNcmZLam41TGJ0bERVX0s3T1FrSnN0Z3BYYXh3?oc=5",
+          "date": "Mon, 02 Jun 2025"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 5,
+      "pct": 11.1,
+      "samples": [
+        {
+          "quote": "Residents raise concerns about noise from xAI turbines",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdEtaejVMelkyMWxnZG9pZDNKOEpaQUdYUURUWmxxXzk5Q0otNTlySmphdTVtT2xUeVNIc1hicDlMWmc0MGtKb1R0aE9xNEVHWFJNal9ZN3ViaW1UOG54NVVSNzgzeW9vMmJFN19IRURFOUEzLUpzanFaOFNEX2xYR3JkdUwzU29BcFVDRTFBVG5ldk5jbXBKdU9R?oc=5",
+          "date": "Thu, 20 Nov 2025"
+        },
+        {
+          "quote": "Residents complain of noise and pollution from xAI data-center turbines",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY05SMHhuTFdzZEJJendKNmZuV0dTUC1fSTBnU3B0Z2loMDNZSjhKazBfcFlQOVd6QzNuS3p2Ni1hRnFFejR3VW9pN3B2b3RJX1RKaHZUcm96SFAzQ1hRVWh2V3VwYWJPQmlkLTBLTDExbzBFZzBCOUE3OFpRcDdEdlB2dm9fU1k1dVZ4N0ZFQ21WZWQyUklCMXhEcXV3aXEwYjRZNHVFN0lGTi1YQWd2ZGprTy01UnZJc0JhUTMyeDdYUFU0MXhuTDJoSWs0Mjg?oc=5",
+          "date": "Mon, 24 Nov 2025"
+        },
+        {
+          "quote": "East Memphis residents call for end to rowdy house parties",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlBqVk92NXhXeUNoVVQ0OG1YNTluSEhnWGprRUNLeWlHQ29hemF1dW53dTc4MkFLYngzUFZzbUk1U2Rxa0FnZjlHalRkN0g1RGpzS0tQUzZHd2p6alB2cHJnV3dKQTRNcVRJRl9WR2dtMHExTHJJMWhVVGZ3TmJCUDhfV3VpWHRaRndqaWg3NHFyVU9xZWJ0LWNB0gGuAUFVX3lxTFBIY2RMbWpXaUhzZXhkUV9VbDgyZ3YyZlFfSnBwaWpTRmVkV3Zka3BfWnlqcmYtWFhYMVZGNmtLamZ2NkJBczdkT2kyenpucDNqNlQzcm9aQ0lFT3k1ckgzVEw1OHk2YmxLRlJna0lHcGkwZDhmRGI1Q2lLenNHblVCbkllMVlUMlg4WjQycS1iR2hZTlJDNG1NbkZBZk5Ld01OdGFYUnd2aWhNcS1JQQ?oc=5",
+          "date": "Mon, 21 Jul 2025"
+        },
+        {
+          "quote": "xAI faces noise pollution complaints in Southaven",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1ZTZnhZbGJab1RReDNBc1V0R0Vic2Myay1fVzh0MW9WQ0tWeWRGYnZyR2pjUUw4SWo3Zi03WVFzMnNkSWhTemtrTzZqdmw5UWRPc1pjUzhhTGVCSUl3bkdMMk5ZTHg0QklRTGRacF93T0plLVdRNGJnUF83MGU1MUJ6a1hUcTNhRnlZaktPNU1FZzR1aTRMUTJRN1NnRVBQVDF5VXJrek5VYVlfLW9sMVZnTkFoTUs1QkFN?oc=5",
+          "date": "Wed, 04 Feb 2026"
+        },
+        {
+          "quote": "AI power plant generates sound and fury in Mississippi",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ085WTEweFlrQVNVOUU4ZjhzZ2NLTE0wM3I1X1IyaTh1d3dVTkN2cjUyT1RjZndnbm9qRWdUOXotY09VWjN0d0R6dTJRWDY1WVZVT1Qyb0dyb3drOXQ1QWxHazhSSFp0ZUl5VDcxM1BxclI3cU1YcDNxNnhSeDlaSXhXdks4Z0IzZU5mYVJWZWktMGhrUTl5VzVFVVd6V2VoMUVB?oc=5",
+          "date": "Thu, 26 Feb 2026"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 2,
+      "pct": 4.4,
+      "samples": [
+        {
+          "quote": "Streetlights out, nights turn risky; HDMC struggles to clear complaints",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ05vVXZEMjUzM0pic1RKTDA0S3NLSDZJcVAzTDhjOGlwYkd4cFBNN01IM2xWWWd1WW45blMxallnampTM1JQNDZIVmFTT1NNWjNTLWhnNzRNVFh2RXh4ZEVxU1BaSnJzUXg5QzlMcHV0S3VKbkR6X1FuYU5rbXZhRkc4YzlkOC1kMGRZUUZkTDdtcE5WS1VwWTE4NDlaRllhaVUwdlZfMWZ2N0JWU3hLODhVWGFGbnNZWVlKOHRMaGhSRndVVnBGVlFGV19uT3gxNDRuR1RiYzh1Q1plMGfSAeMBQVVfeXFMUFE4YTAySWdhdFBIUWdIcGxPWmp4Z0dmQk5IMUF3ZjBPemJTTlpuSFNfMkJOQ0RPRDRscG1RS05lOGpjOHJhV3BXSVFOcktwOVJ5akR4OWx6VC04QkttYkdvUWRvQkxGajJkNEJFeGxfc2VGbm13T2JvY09rYjhDV0xfTzNYRnN0ai1uT1pFM2thQkJxTlVJNFA3ak0xNjlINjBPUmI4NTBPM1JXZS1fZjFrMG9hd1hPZXVqMGt6RklZVklJOWFDLS1USjczT095Ujdza2RfMUNGQVVIc2lkdElQNUE?oc=5",
+          "date": "Mon, 02 Feb 2026"
+        },
+        {
+          "quote": "Street light and drainage issues in Ranchi Wards 30 and 31",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRkVlc080OF93Ymt1NGk4Q0hGOVlDTk9hbndfdHR2ZGxZME9YeGFwVTVyOHl0R0hOakU3MWdhRGdlOTRLZkNaSnlCeHU3TEhzdUhsWUlLSkp4cDlLTktBVWtfdy1obTVnb3NrbFlnb3BJeDlycVhucWpTV290aWQ1dFpJa0ZKS0pUeG9BdmRvRXhmRzJrc0JqQ21TNDRsQmdHdjFLQVRSdVFfMWJ6Sm9HRTI3eDk2OXI1MkxuYVFRY0haTEVKOHVKRFpna0xzZ9IB0wFBVV95cUxOYlRDaHpnZkhWb3FDcE43bklqd2hfRDVHSVlob0lqNHVSRmR0NG9naDUwS3N0ZkNKeXVYVWFKZVdocENELXo0bjZsYmxadUhtQmhlVG1mWGRkdWljRTlDYlNFM0JfbV8wUEFzZDVEMnQ2b1pBcDF3TXpONW1XdnBuaXlCa1RyOEFoLXRsYm5wTGhueWlHSDBkVXQ2Xzl5VGhyTUM2NVJSNzBNUXowZVJSUWRWcTJCUUhTaVgybnJLdF9oMjNxbkhzUEFCc2ZUbUo3VjRN?oc=5",
+          "date": "Sun, 01 Feb 2026"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 1,
+      "pct": 2.2,
+      "samples": [
+        {
+          "quote": "Frayser man fed up with piles of garbage",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY3h4LUJjTmpTQ2QzTlk1SWVaLXpKT2xhaFl1dE83Z2dWZVBwUEVBWE1HS2NvdktXTVBpbWJpOVdlYXZOT2xHM0RfTjRSNU05Rm5RNnpsdUpkMk9XbUFkaURIcXd2Rmg2S1pmUXJQZjVXZVhCc0NhdUR5TkY3U0huSmVncHhYUXo0aXJ1eTlBcVBzOXNGbnI1V2lZY045eDVFdTJoNGlQOE11bmtnVWhPV0RQZGd2bnZTQnJV0gHAAUFVX3lxTE1sSVZHMWNYS3l6VjZmQjFyMGxZUm0zYnIyNkN6ZW45S09kaEVrN29POERaZWtydHNaWmVYTDBlbkZGQWhnWTNfczM3dG1jdDhwcmJjc3hsS1c3cnd0dDU2YjFoejVLLXBaSXJXVHZ2U2Y3SGJxelZ0d2ZraFdWOFkwTWZtTU5mcVJnTU1nb09zM1hGWTJUSWd6dXBQeHNyWjZTQnJvSzFfMDlPbXpKQVhmbmdKMUxFQjgwNkNXWHhXWA?oc=5",
+          "date": "Thu, 19 Jun 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 1,
+      "pct": 2.2,
+      "samples": [
+        {
+          "quote": "Frayser residents frustrated with ongoing violence in their neighborhood",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNnc4cEJSb21BLWh1bTFRbEVsSHRYZC1GU0c1M1pmd2VWeXpvc0xJOHYySk5BSWNMbXR2aVN4UG9vZzVLTERVUUpQZk9KN184TjdBUFNxZmVMNTNNb3hTVVhaTXpqcDVEdGdEWW5GVzNERGRmSU43NXEwZzBSZURsdGIwcGJOLVpibVQ5Y1dHNjBLUl82RVJEN0xqbjBnTVdDYno4Tklic2drZnZDd2xWNGxhMERPTkNQUHNhLXg4MVcwXzZ5SEFudlNmWTh3ck0?oc=5",
+          "date": "Tue, 06 May 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 1,
+      "pct": 2.2,
+      "samples": [
+        {
+          "quote": "Rats and raw sewage pollute Memphis apartment complex",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSm5KenkxNzNqMGJNWDR1cHJTLS0zaUxtLXpQQWNfWU8zVGlQREdnVjZKaEN3SWpMRWFoSmlNNnpnNko2czRCbExuZWFZSVFlUmFnYkdna2NacUgxaFNzY1JhdFpicjlnTk9wa0VxcGxXa2NIZXdobkU1RGViS2o0RUdQYnVMUjlvRlNybURiOG94dEM1LTg5WVpjbkRIQVRGcTY2ck0wMXFBVW1reHprVlEtS0hiQ0R1SWJJelkyNG0wVkMtVjU3OXhyTWpPX1dXSTJ1M1R1TTlnY00zOWV0TnFiR1pMWHFNaGo3NjI5UFBfOFdSVVJVbE1vMHUwMjBhVjZNRjlPc19pN0VKaGc?oc=5",
+          "date": "Thu, 21 Aug 2025"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,74 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — TUCSON
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 70
+  Complaints found  : 35
+  Complaint rate    : 50.0%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   28   80.0%  ██████████████████████████
+  Other City Service                   2    5.7%  █
+  Pothole / Road Damage                1    2.9%  █
+  Street Lighting                      1    2.9%  █
+  Public Safety / Crime                1    2.9%  █
+  Abandoned Vehicle                    1    2.9%  █
+  Sewer / Drainage                     1    2.9%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Apartment without air conditioning since July 31"
+      https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc3FLMUpJZGdSZ19EYmQyRm83MXljc0x0X3JuWHhJNE1TRmJiY1o3OFFUQ2JrX0t5bE9RUnNlOU5aLUktcWJKek1aZVlMbGlNTzVmZmRabWhMeE9iU1dlYWYxc1MtdUJ3ajYtSnRLdGZ0bkgxNlBMbkZjRzM1OUhzY2F4emdOR0ZEeWdhMWxxVHNNREEzVTBxMl8tclRaTDIxSkUtMjM4b2JZQ2NvLWxUUlNLMzhIdGh3UWVsX1FvQS0tcEN6MnV5b0QwREhHdzMwNlVyTUZsSWxuQQ?oc=5
+    • "Broken utility bill system causing eviction risk"
+      https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkdUM1lRcjVjbkdPU0dCVm9teGdYbGoxX3JoTmljcDQzMjEwTktJc24zYjRyalY3MWhuaGZnRnM2WmpBMGdSM1BrU2p5cjNyeVZDUndxeGRzQ25NeXVQWDdKUzdlc3ozXzFTdEY4YVZkdmJQLWg2Ykx3SDRiX3JLelk2SEROZExZMHhMQkZQbXRoeGJaWWJWdVlybEJiQnZnV1VqcXVYSGdwdTdWWllvTw?oc=5
+    • "Mobile home park landlord overcharges tenants for water"
+      https://news.google.com/rss/articles/CBMif0FVX3lxTE5ma2ZMbFU5cUVmOTNsN2NTUUxHcjhIQ3FHbVcyYWs2R0lsMHZsVmEwQ2RHN3lFMEpTMUR1T29GOUg5b01ZLXZ2Si1UbW5vRDRkSHZjRWVwcjFMdkdXMmgxNDc0LUk5SGs0b1NrTnkyZ0J0Mlo4ME1FcVVKWG1wbkU?oc=5
+
+  [Other City Service]
+    • "City rejecting residents' reimbursement claims under law"
+      https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGtFNzdYQmprLWJPdnpJNW5GbFc4VndPbG9mUTJuOXlOWS1yWXk4Mml4S3RXYWl2cWlDSjJQTEh2QjBCTGtGazloOUdJWEZZTnlRM2Z4RzFieXNaa3cyeF9wbXJWenBha2xKUDk0dldIOEtkSGpSNXZyNGI0Y2kxMnhucW5ZNXVPdHpYODhhaUhFMFVHY2FDc0pkdTBYUU9wNkVUN2hkVmdXOGVhcEZvY2FmMlBleDFyV09xN1N3d3BFRUJGaWd0ajVB?oc=5
+    • "City rejects residents' damage claims under law"
+      https://news.google.com/rss/articles/CBMilAFBVV95cUxOODBhZXZwWTEwNkNtdDBvWTY3SzluMzVUQU4weFZrVmdxWFlzZFVMa0ZtN3FwemxqUUdmYmxHRll4X0phSldxVWFEa3FxSWNtYVJFZXNrSF8xMlBHWWQxSXFiZUdoSjd2bWhMYWY5Tk5wcnJfRHBtQk1yRUJQOUYzSHdBeURRR2ZicGc4REJOTnhWeUJ1?oc=5
+
+  [Pothole / Road Damage]
+    • "Potholes across Tucson driving residents crazy"
+      https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcHpHOXpUR3lJU1RVdks1U0xxTWtEOXh1QTVfaFVPenBvNkJGSUVrUklnVkNFTU83Z095WnIzTV84VUJmd1AwR0Y2TW5pQmdPdDd5NloyT2pwSS1NRE4wNU1WXzZGWnAtMVRUS3k4bjNyQXZXSk1QRF83aTFNaEdKejJkS2dJSGxkTG1aSk1tR1ZVbkVUclBBX1VSYjR6TGloRU9GUXBRMm90aUlaNURWSkVTU0VfMmhBRFRfczFxcHFpRlo0OE1MQ3l1cy1nQW9WRm5najJoUHNra2s1RWZGUE1MTQ?oc=5
+
+  [Street Lighting]
+    • "Streetlight repairs lag amid copper wire thefts"
+      https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQm5EOUtrcDE3SVp3enVxdjk2Y1N4Nm5fNHctWUtfdUlaeTA2bG8yTXdNd1NZR3o4QjV1NFdWZ1JIaGF3aWt0VmlmSmFLRTFBLXA2QXNMUHJHT2FfMElMQ3BHQzg2SEtxREI0ZE5sc0NBNnllZlc1TExIU1JTVmV5bExIbmpVaHUzOFZ6UVQtTzJGS0JFbGp5ZENsQ2pCcTF2cEoyMXBCNHhqVExKUnhIUEFmbTFaSFBmbm5FVHh5eGNuVzc4YU1XSzJDdURvQzRjQkpEcW0tVVFZaHZpODVOVjJQQlZfX2VYQmFhZFAwU05yZFlLUW00RWJXbkdUUQ?oc=5
+
+  [Public Safety / Crime]
+    • "Residents voice safety and pest concerns at apartments"
+      https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOG5xamJkQ3hLeDhzd3RHcTAtVGVMUVdyRmpUQXZBbWxFZU9lMjdfUS1NTmw2c1dQOHY5b0VibS1YcTNVendKaTcxZGdwQVc5SVN0bk5YcnNVUGNtN3RHSl84OWNHOEZObmNudlFCdjQxMkhUV0hKR1VDOFdmcXZfdHhtYjI1OHlJeGF1X3RTbXEtTHlrMF9kblFpRjh6QWFEMjFVRGZ5Z1Z5MUF6ai1JU3NsUGhPRW80TU9ld0o3NE9qaE0yTVBfa3VFYmx4d3hsMnpQUm5LWQ?oc=5
+
+  [Abandoned Vehicle]
+    • "Two abandoned vehicles seized after resident complaints"
+      https://news.google.com/rss/articles/CBMizgFBVV95cUxNY3MtdDBUSDQzRXNrazFrNVQ1Vy1HaExrck5XbVRCNjU3WlRlN1p5bUdmSXBaTldtQzYtWVluSHIzQ3lYVG9KQlNpWjJkTTFweU9nc1Z5VlZXdGlHdmtwalRHaHVfcWEzZ01yNDlQVWVvRDdjaGlQbkp6ckl3OG5LRENjc2lqMjNSU1FRTWZMUmFFUHQtTkloRVVTZHlFdWpiYUxzSVc5SlA2R2NiVkRsLTBCNlJwTmVxc0lVelpCa2JXR3diNWc1RTVvTTNndw?oc=5
+
+  [Sewer / Drainage]
+    • "El Paso unveils Arroyo 1 Dam improvements to combat severe flooding"
+      https://news.google.com/rss/articles/CBMizwFBVV95cUxPUHlwOXhGU2dvMVNGaDEyNm9EMTdUQVVZemxUc2lPQkNyeWhidjd1a3pnVWFXc1JwOUxVY0I4eFp3X0ZBbTN6V245enF4N3FnVU5jbzVLMlhEdHpzRk1SakhOVVlUVU5PRGRxczl2UlRSY1FkLWstZkRfdmI4OVJIZENCcUFhelNRZ1VNTUFJbXZPeWJURXZITWw2bHJHQVpkYTVXWVJNaE5DbFRiOG0wb3A0Tncyb2lNZWp1azBad1BuMnB1azVvWFN4S2dfU2M?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 35 news articles reporting
+  citizen complaints about city services in Tucson.
+
+  Top issues:
+    • Water / Utilities: 80% of complaints (28 articles)
+    • Other City Service: 6% of complaints (2 articles)
+    • Pothole / Road Damage: 3% of complaints (1 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

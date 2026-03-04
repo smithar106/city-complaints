@@ -1,0 +1,131 @@
+{
+  "city": "Wichita",
+  "slug": "wichita",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 70,
+  "total_complaints": 31,
+  "complaint_rate": 44.3,
+  "categories": {
+    "Water / Utilities": {
+      "count": 17,
+      "pct": 54.8,
+      "samples": [
+        {
+          "quote": "Water main break affected Park City residents",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcEM5XzhMcnpXVnc1bVJOY1JJZS1Sd3NtTjlrb3Zuc3hVTXZhdWwzS3E0LVVKQXZhTGFobHRsc1hub2tjcktCVXBBOWFna0ZOY20yNjZxa2dqU25kOUdBdG1yQ2dpRDFFX1JOWWVvNm80eTEyVmdzb3ltdW4yRHRoMUE3WGk2WjFCc2pCQm5CQzFlV29wQkRMMjlRdmU?oc=5",
+          "date": "Tue, 09 Dec 2025"
+        },
+        {
+          "quote": "Permanent water restrictions begin for Wichita area",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbGU3MkxDdmJpdlV6bC1yVW9xc3RlRmtUaXFVQlNKVl9YX1VfNDAtbHlzMWlSZWY4YTFtTGw2cW9jaHp0VTcyRDJVNFllQlJRckhjWl9ZNExWZHQ4bkgzaFF4ZGM4aUxNRU5rajhaZFRFR1RhLTlpSjRDWU4zRlkxR0dFcFNMcWJSeHd0VFdPaGdYc3N6eFViYThCWmI1NnItNXF3ZVNxejRQakZldmdXbG5Ua0FtSzRKR3FOUFl2S0ozOXRSbmdLbWRRVnpaVnlqTzFPNzQ4WQ?oc=5",
+          "date": "Tue, 09 Sep 2025"
+        },
+        {
+          "quote": "Water line upgrades and temporary service planned",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDBMc0UwRDIwWDNYSjh5Rkc3VGxIVXhzaVhRa3JYbl9idVNsY2RGMkU0d3ZLRjZWNGxNLXIxRVdPeXFYaVlMbXBNR2tQb2dwdE1fU3d2eFJNMkZpOGtUdW1SR0g2UmMwdWNQRGxuWDgtaFRRTjBRRlh3d1RiWEVJZUdYYkpoejlWUVphVkk0NWVQN2NEeHJzb3BUU0FuZU42UEJWRUF0YmhVb3F0MVR5NUF30gG3AUFVX3lxTE9pX0tyM1Z3bzZ5ZFYzT2NZbGd5ZFJmSFBybXo5WGtnMGp5V0wxVzZ2Vk96aGRkNHJrdWxPTWJmN2FISVdoYXdHUUVMWFctemJBODdrNEM0SE1pRHoyU3dMcURZZWV0Rk5TSThFMWJwRTAyQ2JFdnRpbDVCVkJIZGtCU3QwanNiNjBhWERXX25pSmEydDBnSjV4MVZqX3lYclZkaTRHWnc0YXBaajVNTnF3OVVMREp5dw?oc=5",
+          "date": "Mon, 27 Oct 2025"
+        },
+        {
+          "quote": "Supply line crack caused water service disruption",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDVWNEFNV2p5U2wtOUZRMlRvRUxUS2E2V0ZmWWkwZWk2dEI2dXRZSXBLSldva2UyNWdkcTZpWFdmTnFuVWMzeGhFNGJWXzU4RGV5S1YzTkd5dVRsaGZoeWpDSGp5WkNEMUM2ZU80aDdMd3M1LVVTS3dmWmJVSnVtVF9YX3RHbklpTVNiZFFwMmRGaGJJSXdrT0VlNzVvMG1fTkJvbXJnMm5heEhrb1ZDclotZ3M?oc=5",
+          "date": "Tue, 09 Dec 2025"
+        },
+        {
+          "quote": "Water line break requires boil water advisory",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZGIyeTcteUxZZjZpaHlNVTFqLU9GaktJWmlYczM1VzA3UjBrVVdTNDhwbUV5dlVzUDlxWEpPWE4tY3BVN3NsM0RzLVpoYk1qMF9IMkdwcEwzSjlHbGdqRU1Wc1kwWDdMQkl1YnowbjJMbkpKSWFuYTg0MmV2bFR3a3BKRHJPR055TTRMc3FMMlc1MWRIeEE3R2ZWWnFERWtJRncwclk0ajRZNUFfYlHSAbMBQVVfeXFMTmUwd2l1dnBZeHpPTEhYSG5ScF93bWpYZXVBZ1JFWjRNUVA2SWFSbEwyT3VXSEM0aldYVVB0ZEVRMkxWQi02RENlVXd3bmVUZjZoUGVaN3lBMnVnWWNUSk5FV2dWWS0wMnh0N0FKMzdITTFaSllmMGdlemNnY2lTNl93S09aUVlyei15b1E5RWYxREhGbld6amJqbWU3MmhJZ1lyZGFuYk8yMEc0SkcxWVdWX1k?oc=5",
+          "date": "Tue, 03 Feb 2026"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 6,
+      "pct": 19.4,
+      "samples": [
+        {
+          "quote": "Complaints lead to new utility bill payment system",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdzlsTEVtblNEMlRDcWRIX2pmTXRyeUJDTkJzLXc3bDZfOTdJREJMdWIxZWpMQUUySzlpZm1XUG5xNF91bF85LXFfR19vblN4WTBxZVZGREExbHFtS2FMZm1GclF5Q2RCMHBOUkVVOGNYQ0c4UHIwQ2J6X3RBT3V2TldTWXkyUERYb1VGMVpEY0pRSXlNZWlxVG5Lb1UxOHgtSkIzY3dMUXBiUHdQYUtFUGl6RHZPa3VxYmxDRkZ3ZlNNUnlaaWlmOWtFUVR3bFo3cGFGd0RUMEw?oc=5",
+          "date": "Mon, 07 Apr 2025"
+        },
+        {
+          "quote": "Parking disputes led to restaurant closure",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcE1PYW9lckh3dEhuRFByM2wtZnZyNWRJQVNaUUxRMjdFZVU5a1NpMDZ5UU02eEI3WVZ4QUtESndGcmtYLTBPZE50eWQ1LUZjWEtzTDZNa2VKaUMyTzdjd1VJV0pCcU9zMHFFZDk5S2h5VEpxZHplQi1uZ3g3MGFLbmFCa1I3TzlWNGZINUw3SEZKYjRXbXRkWHh4SXlNbGVzdWRieHNKa1hFZw?oc=5",
+          "date": "Thu, 04 Sep 2025"
+        },
+        {
+          "quote": "Wichita among worst cities for disabled residents",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMkFKOTg5SWZ6bm56S0I5czlCZ2sxYW9nSUR5QTBVMlkyU25WM1ZORzcyTlVYLUxvZVNzYVpuc29WZ3picGdoY3RURlFEYy1hbGlTS0ZSQ2ZRV3NkUmcwR2pvWVBzUjd0dmljR3dlVVBFb08xQzRXaVdjaHl6YzdaUndYcUpJd9IBiwFBVV95cUxPb25PeFRzQ2sxVThud3NNUVJRLXI5c0hWZkd3RUtzcEZCR1RDMjR4ZFV6bUY5dlQzal9VRGVZSjJUb2xXTU9tYzdQYUJ3M3B1QXlpWjFpVXdoMUtGYy1Cc2w2eTRQS1B4ZkxUZlU2bExTOWpVMV9tbk5JTmcwUUNmMloxcnJvSXNHWUpJ?oc=5",
+          "date": "Wed, 01 Oct 2025"
+        },
+        {
+          "quote": "Sedgwick residents battle massive millipede invasion",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYzFBWkpJcXgtaVpGVXNWVXdiUXQ2eVFNblVRb1hOeENwR3NxNXFMWUlScFVoUDdlallXN002N3R6ekdwd0doTG12T3lxZkc3SGxfeF92U1JTYUNBM2ZDYXRtUlJFN3BqMFV0NDQ5YzJhOGExSXcxa0JnVFVtbUdELVAzMjZnQ0xZWkNjVDVsZWNkUGM3SzJ2SC0wNGk4MTVtZi1pY2VLeGdZT1o4dEFZRGFqNWRCMW9tZVNYWXNLWElybTBWYlVB?oc=5",
+          "date": "Thu, 23 Oct 2025"
+        },
+        {
+          "quote": "Salina residents warned not to set fires to remove massive log jam",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYzVpSzNUb2NIOHRXSFRGTl9LRk1OVnNIVEstUTFJdmgwd2E0dDNxbkFLTkY2bEd5VXZGTFA0UW5ERm80YzdHWUZUQkJBaHBJNEZRM0NWOU13Z3ZSY3BiTzJxbUFaM29HcF9NQ0xLRko1ZlNXNFREQ2cwSFItcng1ZUZvRXBVZUxJYVljaV9feVJfN3F3NGpIMXU3ZDByLVI0cjUtVFJJZy1abW1Jaml2cExoMlN4b2NrQl9ka0dUN2ZiRTFLRVdiQ2lKcGNJR2dkZ2d3TThyYTR2QQ?oc=5",
+          "date": "Wed, 23 Jul 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 5,
+      "pct": 16.1,
+      "samples": [
+        {
+          "quote": "Sewage overflow in Big Ditch area",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uN2V6c2c2N01NZE55WnBNLVdSMVhNbjZOLW5aUHFVM1lJVWktYkdva29Ha1lGOVNBNnUwbHdPQk1WeDhGUFExVEQ5bGFWS2pLQWpSSTJrTGNMQThFdGhIWkVNNDQtZ9IBZkFVX3lxTE5VN3hTTGM3czNzelBodXdGR3hydEp6VWJIdjBUdnlnS1h5NFhTYzVwU3VVMXJjeXZydEUtVmFadTdodUJ5OGVpQnFiR3hONm5xSmFXR1N4WHROSThJUTM0ZHhhcFRDdw?oc=5",
+          "date": "Tue, 02 Dec 2025"
+        },
+        {
+          "quote": "Flash flooding in El Dorado prompts evacuations",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZTRJZ3Z2dS1DZmlIWm9fZzA1b05palNJWllLMXFYRTFGb3hqMVlybmk2SGpBbE5yTnl4aFFRYkc5YW5jY054NzdTRFFsSVNRbDg3UkYwd0k0cXBHWC01SVVMR1hfQktvaEpHdjJoTWtmWU81b3FYUnlEZ3BKZU85SEFyZ0Qwb0ZvVTExbDhNNHVoejcxT3c?oc=5",
+          "date": "Tue, 03 Jun 2025"
+        },
+        {
+          "quote": "Walnut River overflow evacuates El Dorado residents",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd1hFRWdyM2YtNWZwNGNkQ0JQcGoxemRpNlFYRXZkeGZKZy1QSm1DT2F6ZF81LWlCeG9XbXIxQlFNdXBNYVE4V19GZzEyalhzZmlXenB6TllGTjJpZUgwZjZIVElzc1NQQ01lQ1h4V3BoTEZRanQ4aXZRZWhDSmdRU21xa0NPOGppbC1DMF9aeDlDNDU1UHByUUZFbGJNMzV1bkdzU3h2Q3p5VXIyVmRneUFHQU8tVUdCMUZoTEozYnE5eTY2Rjl3a3l4S1VrQnhfWHFGLWdLZ01lS3JNMERxeHVEbnhDd2VZcjZHLVdLNTM1MXc?oc=5",
+          "date": "Wed, 04 Jun 2025"
+        },
+        {
+          "quote": "Flash flooding leaves several people stranded",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa1U5Q2dzNTNxOG55bmFwOGYtazVFY2hlWlFHbmpQQW5qNnZJRmlpd01wczczZHgwVnBxYnN5LXBsUmhDQzRGVlFEOWM5blU5UGVxS3ZrTTZXNkhRZ25odi1abVNrQVFjWlBRR0d0Mzg2c1BSZ2dtZEZDQnZ6RW43T1NfY3BvVVp6cnVlSFdn?oc=5",
+          "date": "Tue, 03 Jun 2025"
+        },
+        {
+          "quote": "Flash flooding drenches south-central Kansas, authorities issue disaster emergency",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOREN0Y0haME5lTHRuZDBlV0RyOUJtM010RVpFLTRNOUZyazZhSzh3UHBrNjQwZ0tGc29Oc3ZOSWxPbW9KZG1Hd1poa2hVcnlFVFY2UWNDUm1YeUtuZFVPejcyM21JczRvSTljMnFLa05EdW9aelJPZElHNDdRc2dXTzh1RVBxZ0h6WUtRd2VkNkI1OHd5cWR0cHJiY2tlOTZkS2pqYmprS3hUcFp1dGxLcUJ1Rnpvc3dpRkJfUEY4WWpjRU5XRDJpT1g0WUpaNF95cE9JVHVhcVdPaTRER1hFaThCSGNONzZBXzdVYzgxbzk4NDV1UDdfMndxQ0owbDlGODBkODhvVQ?oc=5",
+          "date": "Tue, 03 Jun 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 2,
+      "pct": 6.5,
+      "samples": [
+        {
+          "quote": "Pothole damages vehicles; residents demand repairs",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQODJwOFh0NS1pR3FRUEhMZ0lvb3pTZlR0VVlHOVNyb2tPOUV5ZTk2S2RCczl5STh6WDlLazhuYm9Dek5HLXpqZUZMYjVtM1VHUnk1RWVsZXFTOVBQakxJSFpRTWp2TXBmd3hkdXRSTTZiOFkxb2Z5eXd4UmR2Wkk2NkluWUxCNmYwa3V4OVpmN1dYZHdpQzFTZUk0S0pramUw?oc=5",
+          "date": "Fri, 15 Aug 2025"
+        },
+        {
+          "quote": "4-foot hole found in Gardner bridge deteriorating",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0E1YVJ3a2w4SzNBaHNYcXlwRjdUYUdmZ3R2dldiY21DZ1o3dHh5UTlwSGNkaDRlRVpSWDFEOTFSMW1LdWplX2RjUVFwcDlaT2JUVVpHN0hyLUx0SE9SRHFiUTZCWUI1TkUxelF5Mk9jQWljejlJWk9Iand2bmFqQkhRVGpLVDVrVzJoa1lkZ1g0cl9maml1Rk9hVXd3M3hsMzZWUUhuT3FCTjl5OWdBTDAtN0pnUdIBygFBVV95cUxQU09pTWRKOGU4b1lNeXJUQ1pvZHpZRWt2UkhLVmozY25HRFJ5VlBQUktXcWRaSl9MLTFjS0ZYNGVPRVdWTWpRWGRlNDJ5S1NoZGhWWnZkUUNfdFRoUVk1QndCbEdvNUVMVHNva2hweHctOHgyTk9mZzVwZjV3S3RDZTdfd3BvTHNzWnVBQm1MSTB1RHJuMlRCRWNmU2tRWmdFQ2xaTmo4Rnl0bk1aVktsOVJWMWFEYTk1Tml2V1RtNFRPaHQtZGNtRVd3?oc=5",
+          "date": "Fri, 28 Mar 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 1,
+      "pct": 3.2,
+      "samples": [
+        {
+          "quote": "Neighbors shocked after learning they will foot bill for sidewalk repairs",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM190bHVJMlhfUDhDQ1d0Q2NrckExNXAzR2p2VUtMY2k0dFJySEQwQTJXeVRiWWtxTldyTUNEOENZUTF6VnRTV3pHZ2U2b1Y4cERaWGJwX19hcV90eFdLOXpmVjJETklRYmIxR3k4WFM0bWdaSXVuSTROdDFUNklrc3J0LUlicVFxTk5tVXNkS0I2d2xNV0x0UnFOWFBJRFRQcEE3bG81YnRwNHRMRnBGd0ZnX1N3aGPSAcsBQVVfeXFMUFpwZlN4cF9rU01xemlSaW4tTzFjaE9xZko4MFp1UF9lb3BQb3FUTnAwNVBxUjRrUGwtazVLbllYSUxmWnBoa1J4cFU5NF9rQ3JnWENBeGxRbjdFZGZvR2VuU0pGV3VweTE3RmV2RC1tMy1KeV9DUExucmtsaWRKY3VJTFJ4SnBJRWo1WGhvdzJsSGpyNFd2REczU25kZWoxbUwweG8yUXRDUWNsbDAzRDNlTlZpUmZsVlVpSkRhRGY1NW9DV3RmeUZPS2s?oc=5",
+          "date": "Tue, 15 Jul 2025"
+        }
+      ]
+    }
+  }
+}

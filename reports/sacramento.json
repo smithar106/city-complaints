@@ -1,0 +1,205 @@
+{
+  "city": "Sacramento",
+  "slug": "sacramento",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 83,
+  "total_complaints": 59,
+  "complaint_rate": 71.1,
+  "categories": {
+    "Water / Utilities": {
+      "count": 35,
+      "pct": 59.3,
+      "samples": [
+        {
+          "quote": "AMC hours-long blackout ordeal prompts smart grid idea",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc21kMi05MjZOQnY4Ql9PTEstM2lualRCLXNfUk9NNzNjc1p5Vi1yeHExRGVtYWx0YTc3YzJQOEpDMEZoNF91UHRfT0Z6V294Sks3Rk1tdlR3QjlhV2tLa0JaVm1uODM4bWhfMUdzLXJfRFRSOG9fbkg2RzN0TEE1U010U0hac2NvYl9YOFYwY1U3aVFlSkYwbEdfdjB6V2dvLUI0SHZYZmZaUG9XdjVkdlFldUpCcjFzS0NhWmUxcmNkeWhqMEI0ODZRZW5xc3JOejFaOHhpV1N4N3Jt0gHiAUFVX3lxTE5ocHQyelh1ZEZpWFdZanVPWHIxNDBZY1JyeURuZ2lIZXptN09wWjNiaW8zSTNmOTFhOHYyN3RXWUxWcV8yUnpqSjcybU50RW9ha19keVpvV2dUZ2hVTkFyQlF3emIteXhPR3B0bmoxVENfTnBvZmRVTzJsMFZSNEpHU2VzVWRFRzRxdjlmanhELUg3NWJfZGZUUThiWG9TR0R3OC00UmFPUGNHSWIzd3ZzbmdBVTFFdnZaQWZXNTN3WE9ONVlYQXpMU2dQT0cxc2pmaTkxSmRCdk1lMUYxNDgxZ0E?oc=5",
+          "date": "Sun, 02 Nov 2025"
+        },
+        {
+          "quote": "Water main break submerged Sacramento residents in knee-high water.",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOE9GQkFHbzhiMktPYzRQZ3hoUWlOeEpQUUg0S3lsaml5akdvbkxNZTZidXFWVGgxMURaVVRMWnVXR0hzR0NZWnkyQnVTY3J3azdrSGp3U29ZTFVvVHpUUjM1WmxtMTdMb2xEaGVPRnB3S3JjUDIxMlpIWFN0cU5ZU3BTVmE2UjZZNEM3aGxnWmtDUDJZeTlGOFdNNzFPX2l3WGZvY05OM0RjcV82Y1ZITE1ZV2h2LW4xMTBXekg4TzZzcWM?oc=5",
+          "date": "Sun, 01 Jun 2025"
+        },
+        {
+          "quote": "Boil water advisory continues for New Haven residents after water main break.",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLTlqQTktVzN1d3FzRzJROVdRVVdUVWFkYmNsVV9wb05oUzd4QnRSX0diaDVhd05zejJxeHQ4Ml9LY0xfQVpfbjNKRmJVV0VTSzU2WVdvMWUxWXhRZVNabWUwaFExTURNUWVnckZYTEdQNlZpa1ZjRzBhelZFVXk2cHI0cjJFOHltT2Z3M0xPX2ZCcXVKcEE?oc=5",
+          "date": "Thu, 26 Feb 2026"
+        },
+        {
+          "quote": "SW Detroit residents still recovering from catastrophic water main break one year later.",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbVdsWFEwRDl6VlNGX25FRXg0bXcyQlBkbTJBRlhUWF81Q3YyR2VNV3czRXBNMTBTYWxRTHFWX0E5UG5RaVhWRjVPaFFldnFEUWlCTzhqM1hVcVoxM0RXQVZ5dGx2VHVkeTNMbUo2VzBiZnlRdjFMOXNaRVBZelhqbFVQbTAwVjYyb1VqREFxc1VzRjRwSmswRk5ldGdRb0VyQ1BReFVUS0VWYW1FOHN0QWVaTE82a3QtY0hvbTlkRDFfMks0SXpVYTUwXy1GQzVEVXpLMnhR?oc=5",
+          "date": "Tue, 17 Feb 2026"
+        },
+        {
+          "quote": "Boil water advisory in effect for thousands of Camden residents.",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nTlZkWDlTclZZdlhzam93T2Z0WjVVd2xkUndiSEJ5OHVWa19YOFllVlBhSENXODc4XzRWY0QzaVpfUmtfX1AzaTRGUkdZTmdQdU5hUllkUW5NdGZvS3ozc0dwZ2F4VEN3cDZBQlhXTnM5OTdGcFJ0Tg?oc=5",
+          "date": "Thu, 26 Feb 2026"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 6,
+      "pct": 10.2,
+      "samples": [
+        {
+          "quote": "Waste management agency bad smell complaints from facility",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sREczMFY0emhyVkF3YWo4d3NlWld6SmU0WU5NajdLbDI4SC1uUExHeTdqRzJqS1Z5SVc2WjBsZ1lzZHRIekNDaFd3cU5SQnNINi1JUFJYUUlCWkZHZkZPZENzbXVYZXM4ZFA3MjdIMnVlV0d3V254b1VYNNIBe0FVX3lxTE1TbmN1cjFnTGJiTUNQSk9TVUF6QVRTbXJNMlZXOHRveE91NTBQSlNkTmZOcEJTRXhMVE5Va1h3bHF0LW5OQjROVVJwLTZFNEtJWkZXeldLYWhCbHJQSEZvb2VqQ2ROakM1T2ZYZW9memtnNTVpTEMzYWVtdw?oc=5",
+          "date": "Wed, 05 Nov 2025"
+        },
+        {
+          "quote": "Baltimore zip codes accounted for most sanitation complaints nationwide",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSDBieWNvcEVuMzVYeTA1emQyLVN6ck1rMmVLdnFDYWEyZzMxQ3YwblJJOV9wOGlIN3czdUg5aGEwT2p0WmZoc1l6NGEtenRaOVlYWE1ZOHpWek1vR3hvNjAzUFV5dG1fWTZOSmhCTnZqVTdNa0ZoX1BBTFZjeFd1VXBWc0hyRWN1LXVDZ0V1N0lrR0JxdW1YS1VDRmdvX3dUTEJaYXdkc2dyc0swSWZIbG9kUkdMVldfOVpFMGZ3?oc=5",
+          "date": "Sun, 27 Apr 2025"
+        },
+        {
+          "quote": "Study reveals dirtiest US city sanitation complaints ranking",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbXhZWXlReEp5X2xMcEdtRmZTMGVFY1pWMHJoMzdEbFBmNEpXUWJVaFBkb1htZDlCcjQxR1BOVUF4UGRnT2RZM2ZtZklPUXAyQlZBeHBPYmtWMnZ3LTM1SGxJdVVLMUZLUnM1VTFmQ3o2VDFaX2EyWi1VY2cxZklSQXRwWXpHUnZXdkR4X1lJS0ZfbEZNcWtzQTl3aW5xbWNFZndZQXJQNjVjOEgyck5qN1M2VkFiMWVzZTZYTTZrQzM?oc=5",
+          "date": "Thu, 24 Apr 2025"
+        },
+        {
+          "quote": "Massachusetts communities impacted by trash strike file lawsuit",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNjdJbnR1OVZLaU01dExSVmFaTzFRdDZmcWFyQWc0NzNoc1M2TVJIZmRtMmk2aE1hT3QyeWlqdVJsZ2w5WUduNldrXzdNc3kyT09GcXFkakhJUzRTLXY2UE83ckljYzV0VzFna19xX1BoUWh4QTJqeGxQaGhYWkFGQVloeTl6WVhyYVRER1dpajdGbGM?oc=5",
+          "date": "Fri, 18 Jul 2025"
+        },
+        {
+          "quote": "Philadelphia strike continues city sanitation services disrupted negotiations",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSzdyVDRZTkxqM19RRWR2Vi11c3hmVWlUNlVOQjlFSllYVEViSUJSQm1RdElxRDEybkVhd2pJaE53UnNOMWZjM2NUbmU2cnJnaVNfSjBGbnBwY0JuWWEyZ0NhcDNnWWplOHNVMUMyQU5EUU9UVjU5MW93dXJhdTU4SnFma2pFMmdN?oc=5",
+          "date": "Tue, 08 Jul 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 5,
+      "pct": 8.5,
+      "samples": [
+        {
+          "quote": "Sacramento community pushes for William Land Park crackdown unsafe",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdUtGQ1BJc0RYT1Y0bERnOGljVzdwZVkzbURnRkhvVkZOMXRDSXJqazdydmZOd2IwWHZibFNLUjROUklKMjVpektEQlJHelFHVkkyZFc1bzVCZThOMnUxbFJkOVM0eWY4cXc3Q0hDMURqWjYwcEVmVHU1aktFdU5WOUZHQ3lsdDVkR0lneTZsRXhGc2RFVDlEbWx2OUlFX1Vzc3BLZ2R1T3AzcmtrMDR4NGdn?oc=5",
+          "date": "Mon, 02 Jun 2025"
+        },
+        {
+          "quote": "New Stockton crosswalk aims to slow traffic after speeding complaints",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXZPM2N2eFU5eW05THVzSUVsNjAwaTNnOUFleGRaSXZqdVh1cFg5bnBDVXQ3R2h5Ym1uMno5cDFPV21ySm5tWWdpajZydmNQS25WSzg0dDFwNTZvTHp2Q256NzhJRzFZR3Q1NlJiYjVHWlpDZ0N1TVJxRjNXU21FcGg4cmlBTkNWMzFnNDZmcEg?oc=5",
+          "date": "Wed, 19 Nov 2025"
+        },
+        {
+          "quote": "Residents sue San Diego over tent encampment conditions",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNmtMY2dHY3R3WnFQM1g1c0E3ZG5ocWNwbjNxUHJGUjc0bFR2emRsb1IwVWRWamduZ1Vhd2lpT2lIQVdFQms5d0hESEZ6TFFCekZzRi00OUk2NFRCc2JndGhRSEJQRmV2dE9OQTc3d2dLVm9lTU5WTjZUbHZkSUctODNiMzV1Zw?oc=5",
+          "date": "Wed, 27 Aug 2025"
+        },
+        {
+          "quote": "Caltrans sued over traffic barriers and deadly crash on Highway 50",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeDZob2RsaURUeTNKc1M4WXVHSzNvWjNqeUxZQ0g4SWdsaVJzRXBJakxDbFd3RzhMYzNpVDBhY3gwbXdoWFlKSXAzNzhwNVZrZnhubFNWWVBGQ1VhR19wMVVWRUNYaDFQVGpkRHZjZWtQRWN1MkV2el9GSGpWbDBXal9rU25laUtWaFNweDdXSkJKVHFNSXlQSnM5ZE1Odw?oc=5",
+          "date": "Tue, 06 Jan 2026"
+        },
+        {
+          "quote": "Complaint filed on shoving 71-year-old woman at Sacramento County Main Jail",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd05RRDlaaEk4RkRMclJXcU5SanFUb2I0NzEtbVZBTmFfSDRpNnVjbTAxSEVDbEt1RnhCcm1CVVcyYUxTM0dLWV9CRzB2OXFZSlFEcS0xZVFuMTlsaWk5YnhuMUpfakgzN3gzSnp0N1g1dkNFQXAtTnd4Qi1xQ0Iya3NNcV84b0lHRi11WHd6UTJHQ0Y1SkhvVWJ5RExDc3BIQU1IM3luMVdoeHBqRXVjVHlSdHVQM05UTElVUkRKNF95QnQ4ckcw0gHMAUFVX3lxTE43bE5jZUxoOVVYNmI4bC1tMFJwaXI5MjcxMXNLMjNKRE5RcDA3dGRybUZWX2R3bGhzSkpHUVBTUmtrTHR2QWJnQlg1dldwR0VrRnJiNzdPYWdKWmhfaS1qUzBDYkI0VjczWmJoVDVlTjNaaTRnbjFTUFJmbjFRdExlbzlyNDYwbk83YVl1MXlGcE9CbWdMc1I5Zm11clZCR3ZkQ01EdDB6ZVlWekNFSmJ6Ti1mLUZ6dU1Wd0x4UFd0TkF0aDhrZGtJaHlORg?oc=5",
+          "date": "Wed, 10 Sep 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 3,
+      "pct": 5.1,
+      "samples": [
+        {
+          "quote": "Sacramento officials pledge to tackle pothole problems",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeXJfMGJEZUtKem1MdGtZREZua0J3aHlvMnFQb2xkeFRsUXBEdXNNMjhER05PRTdBYlJhVzNtY2h0bGg0ZDh6QzdxX0lLVXpROWFlWnJ5aHozSmZKWGRqaHRqcU1FRTg4MjUwbmdxUXhGMVRWZGxIbDdOQWd5V2RGX2xqSmN0NTlpbC1JTW1Cc1NPZzdqNDhhMDNoRU1ORUZQQVlSNjFMbWE1MEQwbGpUT1NMTFp0WUsxYzZxRl9NVnFNNFV2N2dNT0FRWWdHN29nZ1hwYlVUSktiUQ?oc=5",
+          "date": "Fri, 18 Apr 2025"
+        },
+        {
+          "quote": "Sinkhole swallows truck on Detroit's west side, residents shocked",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM0NGcDBtOXl5SEl6aUpoSFozempneC1EblA4WFQwS2c1SjBfQVBjejU5VGpVU2I0SkF6OEFOQkJkbFFFTjRXU0dSb3A3eEdRRV9ET3VLeWxkblVQeEZ2UGM3Q3ctYm1oeF9zWU1TakFkeldjT05HWTM5RHdPbWQ1ZlV5ZTZkRkNtTlh4aVBaZkNzOU1OYWdxSg?oc=5",
+          "date": "Thu, 26 Feb 2026"
+        },
+        {
+          "quote": "Sacramento County fixes dangerous roadway and sidewalks on Watt Avenue",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LVkpObC1kUmxpWDFTd3hpOGtDV0hZUFBqdmJfU2cxcWxKV0FMX2ttYUFsb00wME5VM00wWDR1RGdHbDV4d2N2MDBGOWQwUHFLaUVtMU5iOUZaQnJNQlkxQzY2ZXV2ZHcxUUZaZjhWU3NIRkhzQ1FpdVdB0gF6QVVfeXFMTW9VS3Q5b2pRTGh1RXphTWVmaUtfMllMSTAzbFhBV09sTUtSMU5iVEFlRmxBbEVWQmF4cmFXYV9pRV9zMExLR2hRR3RXd3dOU1pSenlOOFZDcEZobG5hQmNNUmVpQllFbHdrVWtRTkR6blBDMDlYcjFHR2c?oc=5",
+          "date": "Tue, 20 Jan 2026"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 3,
+      "pct": 5.1,
+      "samples": [
+        {
+          "quote": "Yolo landfill odors prompt complaints from Davis residents",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11ZkdoMHNwMllVS2xObXFtNnJwRURHYU54aE1weVpwRmZ3dUZRZXRabEVMcVh5MkZFT3BXRE9VWHhPQ2lqX3lnN1JzWGFuMVZWMmRXazVuSVFxak9JTXlPOW5yVGVOSXJmY05V0gFrQVVfeXFMT1lRaUV0VHdKR09TV1FJazlEZkEyV2xtQmhtZ0VHRmxZMTc4R0kxc3JRbUpHcDlWMGNZQktfQzc3VXh6WFBITUtyTWU1eURkWFotcy05TlJxYnJ2MHoxZWttTldHTS1XOEhEMzA?oc=5",
+          "date": "Thu, 12 Feb 2026"
+        },
+        {
+          "quote": "Elk Grove traffic signal synchronization causing driver delays concerns",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkRiTDhuN2tvNGZiMllNRDBGaFc2SVo1ekJqNGZqSEEyVTc4RV9mbF9qU29kV25YWEtDY2hZMUtlb09YR1Z6VU14MC14bHN6Z1plSGI3YXhtLWhGV3pGYmZidllLNGpnUkNrR2JfdmlfVjg1X190MGVudFBjQWZqME9jLWQ?oc=5",
+          "date": "Mon, 12 May 2025"
+        },
+        {
+          "quote": "Roseville residents say city neglects maintenance older neighborhoods",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONFNXbUloZHBsZnZ4SlZ5YWtva3hRQm1jR05JaUtfSGJiYlBVY1EwMS1tNmNHX2Q5YkdGM0l3NS05bmRyQTIxdmhXR1l5VDV1MDVIZEpMeDQ4a1pidjRiZEdkRUE2UTZvOXQ2d2RjeWFkS24yeHVHbWRFMVprbzFkTmYtcWNJbERiMlpDQVBuajloLXFYNVQzMFVkRDJrMzkwWGZCNXlzalNoYm1IaFVCN2xvSQ?oc=5",
+          "date": "Fri, 20 Feb 2026"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 2,
+      "pct": 3.4,
+      "samples": [
+        {
+          "quote": "Repeated flooding, Chicago alders call for action to prevent backflow",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMjJXZUtHc0NncHR5bFFIY056SVFBUmdwdUhFX29SU3ZJV1VMX2pWQWp1RDNELTFWTTIyT0ZGQWNwRWtRbmV0SnhMaGR3VnlkeWJSVWVSMDJ1aEt3alFLSkx4STgxTlJvYUx3VnljQkFUNndIbFk1WGpWNjhxTVcyWm55SlpMSHk3MGZpcFU3MnItNWI3MjVkNFI5U3ctZVJTc1RMOQ?oc=5",
+          "date": "Tue, 19 Aug 2025"
+        },
+        {
+          "quote": "Queens residents fume over massive puddle that won't go away",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlM3YTFULUJmaFh4aWQyc0Z6Y1ZHdmR0aHJGdDR5cTZIRU9PUlhDOUFfc29uV3RhTVQ1b3FRV0JXLWZfdXpNTDFQcHZlX09uSGtoRTJjTWQ3UmhJTUN4dDhnTnBBbVgyWFgyRkQ2azExcTBCZXFXdW5XM09XQmYtd1Vwa3o?oc=5",
+          "date": "Fri, 20 Feb 2026"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 2,
+      "pct": 3.4,
+      "samples": [
+        {
+          "quote": "Davis pays $18 million to woman injured by damaged sidewalk",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuWjVzTVF3T01DU2FtX0xBQnY5eVc4OVVaQzd6Ql84dlU4dUxmMEU5Q280TXAtS1dCRUJPRldLdVhQZWtSZm1sNV9iMmNPblgwa3AyWlpXR3ljWGtTclNMMVlYcEpXUdIBZkFVX3lxTFBZM0FURmZ2akI4RUtBenhSTFg4RjM2WlVKaGRPc1JiWGRYbnhQZVFZWU5QT0Nkc093RFJUWFZNaG5tVkF1ZnZfSmJGd2pGMzZuc0hyeUREeXdMZHBmQzMzOWJPTndsQQ?oc=5",
+          "date": "Thu, 20 Nov 2025"
+        },
+        {
+          "quote": "Davis woman paralyzed from sidewalk fall, wins $18.5M settlement",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSTFLUWF4a0pFQW1pc0I4V3BKUWJLQ1EtdnkyRERxaDlldXRqU2RiSmhtY3NlZi1pQ3c4UW1CNmlSQVJlem5aNUlnWWY3RHV3dS1sTnItY2p2MGRfc2lNSEg1bEhCM0cwNkJYX3p5TlZEbU1KUC0yeU4yREdoYmMtVUJCYWVUY1VHR3BLM05zUGhMZ3BzTW1PS0xvUkM?oc=5",
+          "date": "Mon, 24 Nov 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 2,
+      "pct": 3.4,
+      "samples": [
+        {
+          "quote": "Hindu temple vandalized with anti-India graffiti in California.",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkpDY0l5TnY2d3ktOVJNS1BJNUtFUjVWejY3YUt0NF9lNE5mY2w2YVA3eDFhRGR1QzBCV01KR3lOV3IybW5qZ3hTcHY2TllUUV84X19uYjFBVWRxWU9oX2NNYWYxbmpmS2lvQzVQYXVKQkk4cjlSWWpRWmpMek1tV0V6NzhOeV9Vay1CUmw1TjhBSGh4cGdoYURScTNkYUk2MnRmakUxYUI3WEw2bmJad0wwZXZmQkhHSW0yYXk3UV80VXV4WkHSAcsBQVVfeXFMTzd5dGJiSHZtQndiZ0phVmpHckZWdERNZHl5Nnp5dHlMMHV1V3ozYUVRaWEta3haSzByTHRidkY3OGZqcjZRQ2lHazRGVDE2UVlqT0l5V04yUkxBZE81RXFqNW5BZWVvODNGbzI5TkVKZjJXOTNBZXd6THIwcWJuYS1HelpHbEw2Ui1CRXRuVG9VcmRWZ19LUmg5WndXYW9LWEtURTJMWXNCdlc4dEdESFQwbHpZYnRtY0kzbEh0QVFoc0gxZGlqdnZzbk0?oc=5",
+          "date": "Sun, 09 Mar 2025"
+        },
+        {
+          "quote": "Hindu temple defaced with anti-India graffiti; hate crime.",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY2tCQ29fODRmQlRiU2M1VjlYU3VXdkUtNmxVd1M4S0RKYy1vYmR4ZXdYdnAySS12ZHFIclBOMWVqUWxnYzA5cThSNUNfY2kxc3VOUzVZWmM3bTFQWl9DOGc4enZZOXRTT2NzSU5WMWU3ZGgzUFl0X3ZKU2pxeXBlMXRXNW9VOE0xdFhpZWlscnNfMkZrU3FsLW5zTXVqTTFiREd1MjdCNUJ2dU1Ubjd5em8wbDdHMEJZZkhjMWc5OUpVVE5zUlJLSHB3d9IB0AFBVV95cUxPSjdobUhESWdzX0txcWdjSThSLVYtMUxVYXJ1ZHF5c0p3MFE0ZGxBMjdCWm1mY0xRLVAxU0NpUkhMOVVBeUxxZ2hhNWM0VXhiTmtadGRzNmNhVTNkLXdZWU5PcW5OekRtX0ZEX3c1aXE3dGQ0M2lVQVhDZDk2MFh2QjdrTTNiQjAyUHg0a216cVJCLUo3Mnk3SkJiWWg0NWFRdmVsVlVzU1JjSjZnN3dMM1JfQ3dycnpsby1sWF9Bb21LUDltTGIyRlRRdHZ2X2VK?oc=5",
+          "date": "Sun, 09 Mar 2025"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 1,
+      "pct": 1.7,
+      "samples": [
+        {
+          "quote": "Residents and car community clash over noise safety concerns",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNkZ4cUlicDJfbkVOMUx5R1pyUW9uUW5yMkliYlpHRE50eDdTVlQ5SURNSWMyT0NVcFNaWHlpOTlhcnVGcXJKdlFBamRmVjNxTjlZVlljODQ3dEFuR1VoWTNZSXRfSk1kSTF4d3JwSVJQWlBjeHRnNS14RzRZMWFETFd2MDE1aURJQ25TazN5Um5VNi1xRkc1cENMRGpLSURnMS1pMWdBNWVkNFZzQXBLblJQRVJ0Q0hCcGZPSUlRNmIwLTY3LU5xYTJZRkg3TnJNRDBtVTFLZ0hBOGhaZ3VRVTFRd2o2bzFhQ3dmdXRjcHRjODBtSUd4S1luUzZRbE1qVlYzcG5kTG13eUh0WFpR?oc=5",
+          "date": "Thu, 05 Jun 2025"
+        }
+      ]
+    }
+  }
+}

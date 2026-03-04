@@ -1,0 +1,184 @@
+{
+  "city": "Baltimore",
+  "slug": "baltimore",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 120,
+  "total_complaints": 60,
+  "complaint_rate": 50.0,
+  "categories": {
+    "Water / Utilities": {
+      "count": 27,
+      "pct": 45.0,
+      "samples": [
+        {
+          "quote": "Baltimore residents frustrated by delayed response to water main break",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkFBZmtlY1dzSHpEQUdkYjFnQ3Q5bzByU3pOTEFjTktscUlRTTFaTDJ5NWMtZHJxRTRwa0VxcTR5cUtlTXRPcFoxMEJjOUhaOXVYWVlMdmZhUmVPdTdtTnNHZjQ4Q25oZG5mTXFRNE5hYVNvYjJueUlDbXJEa3A3MVJ2NUQtNWNzUUMydjZhSWlaWWxBdEdQZWJsdi1VWnVzRjlYY1pDc2d2aWxfSFZ1NFJPT3R5dw?oc=5",
+          "date": "Fri, 05 Sep 2025"
+        },
+        {
+          "quote": "BGE rate increase creates financial woes for city residents",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONy1XYU9zaXJEWkExOHh2Ny14X1J5eldjMENyZ21qUDBBU3hJYWItZ2dDWjR5bkFLNmNBaUlBb3gyRHdMemVSN1hLS3lUeHZWRHJkNW5kNU1XamVXYnNYVmtjdnNLNnRydG1fNnBsTXRveEg5ZU85Slowa19FY1ZvYjFNdDQ4YmtXSFRUM0Z0cVJ6MFhsdjZVVXQ4WmpWTE5BYkZBa2hfdTRCSXFHc3lEdWZ5ZkNuUnpfdXd1cUQ4MVJIYkpzWVR2eG5ONkV5QQ?oc=5",
+          "date": "Thu, 27 Mar 2025"
+        },
+        {
+          "quote": "BGE and DPW rate increases create financial woes for residents",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGNVbTZOc3RuSFZOelUyN2ZlVkRfRTcwMDdDWVplX28xN091RG04R3RxZWJ1UmhBYzNUZWtYRnoxRFhMemJoNG5lUm93VFlwc2xjMnVvZ3IyYnVGTTNlZmFqS3hja3g0VV9aM0E1T1FUWWhVR0YzY3ctdVl5NDRQbldYZlZnYTY3LURibExiMkRCZ1VTdWk0NWtn?oc=5",
+          "date": "Tue, 11 Mar 2025"
+        },
+        {
+          "quote": "City council members call out high BGE bills as woefully inadequate",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ1E0VkNUNXRiS3J2NXFtNHJxZXgwODJJMXhLcUJwZ1pwNGhscXc1bUY2dmJ2TnRwWTJvMDFscU1ZTGxwV19xdTFMcFVnWDgzeEVMeDJLM3lmd2JoNEY4OHBzM0p6MXVjanQ2bjNJcDZySUl4LVpBYXFmQUxRaXF1cGZCaFRnMDA1TkVlUVhBRVRtbk9sUEw1Z01fbFE?oc=5",
+          "date": "Fri, 28 Mar 2025"
+        },
+        {
+          "quote": "BGE customers raise concerns about bills and customer service",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNkhFQm1KNVFLcUlRdEtOU1RmZkV0Mm9TeG1QYWppdTl5a0ROYkROdmtyTjVYZUNfdnV0SDgyX1VOdW5wOGppS2p2bGJhRi0tSE5lX2dYb0NPVUxFNTFpMXlQWDQ4LVBzaTBDQ1Q2M3JBZTBJZkRnS2hTeGJrRmpHMElNTG5taDhETFJzbWU2U1FxVE0xaFA2dGg1dHJlMnFGZEQ1bA?oc=5",
+          "date": "Thu, 18 Dec 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 11,
+      "pct": 18.3,
+      "samples": [
+        {
+          "quote": "Baltimore County responds to snow cleanup complaints with promise",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUxiZDFmWm5vb0MyRTRCYlBNUFZ0TDVqVjQwaEczcmktNnYtaml4YS1MenNtT2MwbHI1b1E3V1ZVSWtudVNPbmFsYm5GeDJxNjlXLXRNWnRnY2V4RGQtcy1PWUpTWW5SRktFeHZtZlNaYU9oei1hd2ZtR2F1ZDI3QVNyc2l5TVBkRWt6ZGNGUEZDclhWTVpLNm1jX0F5WkhEeG1GSjhsYXRqM2FTQ2xhUnVYbnl3YTA?oc=5",
+          "date": "Thu, 05 Feb 2026"
+        },
+        {
+          "quote": "Tenants allege dangerous conditions at apartment complex",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLW5VWUdGbkNiQ3BwZUdFUXplNjZCa1VOdC01YV9zUEh0OEszRkpXOVYyay1PVEFSZ09aeDROV2hyaFF1YzhJdWMtUFhfQlpJaXhROG05eF9URkJBU3ZxZ1ZBUVEzSjlmSzFZNFpicjYzZ0hGdUlLNEZ3SzdFeV9MeVF1NWplLVQ4NnNHWGVJemI1V1BjSnEw?oc=5",
+          "date": "Wed, 13 Aug 2025"
+        },
+        {
+          "quote": "Residents face environmental injustice in their communities",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONVJPWWJqNlpfUDhvaU1WbkpCbFdBMWY2RzBUR2lWTUtpY1c1UWc2WlJoQlpXdGVpUjBuQVJxUWVtQ0NpWUhKakRYdmtTUjBncUZqelJ0aEFzWDMwY0ZKTkNaQzE2Njd3aXA4UndkU3lpZTVvVXJjMjBmYm8xS1VMLW9fSndVdw?oc=5",
+          "date": "Wed, 12 Mar 2025"
+        },
+        {
+          "quote": "Incinerators cause about 100 million in health costs",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjE3aVJEM2RTNnl3SVRNbmFYS3RFczliVzRrcW5FaFNHRGhtdFk1WmIxU3FsUGkzYmROZE54U0loM0o4Tl9jc0FsODFvSmQ1anlvZ0JxeXpBSFp0dXg5emh0RUYtVFI5Y0hUdG1pc0V1azB6c0FSRVlrdFdyM2ZpYU1PVnNUVlNETWxNTTFGWDBhbTI3aTA5OFV6MXhnVVY2NHI5eVU3NE4zVm40Y09uLUoxbUR1dw?oc=5",
+          "date": "Mon, 28 Jul 2025"
+        },
+        {
+          "quote": "Residents take apartment management to court over issues",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNDM5SXZuWnkySVdqT0gxcEFzWk5NRXpseklaU1BsMHplVUFkWUpvZnJ1MmVId3lOSUp5a3otZWRVclVMSjFCYnBtMEh6bUlzWmJGRDd0Rm45ajYxUm1iRXdYSEVYV2lXS2YzLXhkVjQzSTZUS2NScFhtMWQxZjlhRmZVY29lUUZsQ3pEZllpTjZBaEJi?oc=5",
+          "date": "Tue, 12 Aug 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 10,
+      "pct": 16.7,
+      "samples": [
+        {
+          "quote": "Residents fed up as city trash collection delays extend weeks",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYXpPQk8zcmNLaDZMWk0wanpVWGY1aDZ1d0EyNS1WZzk5Z053VU5hZDFHR2t5YTUxWGlpV0xsSllxY01qdVlBLWJ3aEYxQ29SZVBzRE1SZ1pWbmQzTHhNZnNSZnlmazFSUEVoX01nWVRpS3pyV1NreUN0eDJ1ZDNRM2xUQXI0S0E2T1ZpS2lGN0o0clUza19FaEpLcEpCNjRnb2xYRlB3VTNtcmZVZ05MdzVfUGJGdw?oc=5",
+          "date": "Thu, 19 Feb 2026"
+        },
+        {
+          "quote": "Missed your trash day this week in Baltimore County?",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEJvTEMtWVI1SU1vWkxNbl9Ndm1CZndTZloxSFZyMkhnY3NfTVFvazUyV3FXSGpvb2Z0QlltckZLRG95cThCSEQ1X0w0cUh0M2NoNS1FTUUxU3R3RUNycmhjUVZVclhMMzgtOTdSS1BUS1VBcW9WeEZBaGhqcjNJRmotbjQwTldhNFdYcVg5QWN4QzM2eHdzWmZnS0tGRlRLcEFZblZmU0lSRjB2WTZTdUdn?oc=5",
+          "date": "Tue, 20 Jan 2026"
+        },
+        {
+          "quote": "Baltimore zip codes had 7 of 10 most sanitation complaints",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSDBieWNvcEVuMzVYeTA1emQyLVN6ck1rMmVLdnFDYWEyZzMxQ3YwblJJOV9wOGlIN3czdUg5aGEwT2p0WmZoc1l6NGEtenRaOVlYWE1ZOHpWek1vR3hvNjAzUFV5dG1fWTZOSmhCTnZqVTdNa0ZoX1BBTFZjeFd1VXBWc0hyRWN1LXVDZ0V1N0lrR0JxdW1YS1VDRmdvX3dUTEJaYXdkc2dyc0swSWZIbG9kUkdMVldfOVpFMGZ3?oc=5",
+          "date": "Sun, 27 Apr 2025"
+        },
+        {
+          "quote": "Baltimore ranked dirtiest city in America",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX25tTS1aSFgyeWhxWG5UTzJFeGxDeVFITmRYdGtGZ3NNbEVjak5HVDRwOWJwWDJZUmxhVnhmVDF5S01KUDh4T2xjaldhd3lYM25UaFd2aUxtUzJCcWhjTlJaUnkyVG1KMEZLZ2tzTkNraXk3U0lhd0dOeEJ1a21fR2E2VVRoVVlyVGpCdkRMTEFoYkg1cmlSS1BCaTZDRTEwMG85Wkc1VDV6V0k1b3cwbDI0MGU3LVNieUYzaWdvTkNpWHhJc3pRbjFsMXQ1bVZvXy1mdHBFZ9IB3AFBVV95cUxNZDBBc2hWMmt3d01QclF6azdENTdnQlY4R05oRmJ2N3l1WWJ0TFJKYWZpV1p1NzhNTkZ1dlRDZmJWcXhtU0FlT3FBQXE5V0d0ckxrdHNSeFN6RFZheHo4a2VGUUxuMlJFQlAxRHVvV3F1RjZadVZXdU4zZlJUcUZKUTF3Qi1DWlZGeXdkSWtnekFKWmNpX2lfcEYzRGlRQVpma1RCd1VTNG5sUU01MHBTWGJBbjA1LVUtYURqZll0Vnh1QjRVMHpZekVKT0VRNzhPaEc3X3N6cThtLVh0?oc=5",
+          "date": "Fri, 25 Apr 2025"
+        },
+        {
+          "quote": "Trash problems in Baltimore rebounded since pandemic",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tTG9pYWl5YkYxaS1BR0RianhZZ2MtejNsdzJVZENVdlBPYlhNWHhWSWltNzhPdVBlc0doTElVci1KWGwxdVRYdjdvanZzZ29fam1oNmJ4bVBSelFEdUhYY0tsR29iaGhvREJ1ZDNn?oc=5",
+          "date": "Fri, 14 Mar 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 7,
+      "pct": 11.7,
+      "samples": [
+        {
+          "quote": "City residents can prevent car damage, call city to fix potholes",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZUJJdXFQU3ZTQXczM2tINV9Pcm8ta3R3dmU2dFhzdlhickRXN0dJelQyYnc1aTFVVjF6NGNHYUJIR1hMS1JOdXFpMDk1YXJIOVFsUTVwMHpyTW1DeGZoU3gzUkdFdlRLRjZpUDFsSThEZFhFWnpScXY4RE56WmpQSGozczRTUHVzQUZHd29fN19pd09BcU9uaUlyOFI?oc=5",
+          "date": "Wed, 25 Feb 2026"
+        },
+        {
+          "quote": "Baltimore lagging on pothole repairs in 2026, blitz underway",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWl3c2pGM1BBeHpaOVVJMWl2R3c5WEZCR3NqMXJUQWY0MEU4dDZPRHNTQWxBRmVqazJwX2ZyWWpvWVlSV2tWbVpmYUt2ZFppemFUaWc5UGdPYkRaX3U2R2Z5S2VyNWlfb2V1WklOa1JpMzNjc1JmRUlrLVIwY1VnZng5LTJDWWliWC02dzJzVDhPanhvb3hVYzJfVEZGM2plTXNtWm0zU1IwbzZnX2hzY2p1RFdkclU?oc=5",
+          "date": "Mon, 02 Mar 2026"
+        },
+        {
+          "quote": "Potholes forming as Baltimore City continues to clear snow",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeU9hWTFXaTJMT2o3Z09xd0Jrd2o5WnRSUzBXRGJDM2tyZ2JPcHNuZlVBZFM0Z25KcEVoMVVJWnFNdTd3bHM1S1MyWjU4MDh1aHJzdzk1NEZGR3ZwV2lQZzU5OFN0S0dYbThweVNFUWwzZXJVV1hha3pJcEdmRzlaRmdabk43eWtaeGlYUjZzdUpXOTRUeldRb0diREJUYXU0ZU9PdnVvYw?oc=5",
+          "date": "Mon, 09 Feb 2026"
+        },
+        {
+          "quote": "Do Baltimore's big development ambitions have pothole problem?",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55QUI5WXQ5b0hDbXptUHR4T2wyZGFndnZsQW1PeGFHZW9nU2h1cUpYUzVqTnVLYkJtQkRnRXdCbTUzQ1JJRkFQNGR1N2Q0N1ZfbG1INnhZd0ZzODh3MG1ST1VTdUhZX0M2YmUwSmJvaV82aUdPNENR?oc=5",
+          "date": "Wed, 30 Apr 2025"
+        },
+        {
+          "quote": "Residents concerned after large sinkhole forms on Windsor Mill street",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFdaLVFEbXhvV3lSM040a2JJc1A2MDlTYnN4VkNpSThRY3B2dVFaNUtreHpPN3BsMmVLbWQwNHFYWHhFS0JTVXYwaGN4NlplYmEzSmpYdFViY0tmQTJJR1ZlOG9vd1Jnb0hXUzhiTjdSN09yb3BwekVMQ1M2TnpoNWx5M0hzcTJmYWVnM2h2VWZ1XzFaTHFldE83T3A?oc=5",
+          "date": "Wed, 13 Aug 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 2,
+      "pct": 3.3,
+      "samples": [
+        {
+          "quote": "Baltimore residents seek relief from monthlong sewage backups",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSUpkR0tmQmZzUGFBSkk0LTNGZnJUNEtQdUtYOG95bkZVWUQtaFJfelloRHlnVjZLUXdDYmNCcjlUd1hYWlV2UzMxbkVVeXpVQXYtd0lsdXlJV3luUGFaeTNiaGNSWWEzYzZrdk1YOHFGS09ocFd6SE4zcF9TTllxZ0xsVFFzZk9MYURtdVgxbDJHdkI1?oc=5",
+          "date": "Fri, 27 Feb 2026"
+        },
+        {
+          "quote": "Sewage leaking into Inner Harbor despite pledge to end overflows",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ycFlQR003OTc0dElMVWtPSjlnUFhTSlk4bG1VNjB1LUlXenhaeWl6NjFlbDM2eTlKbFFJZW05TFVVR3E1bTZkWkV3UnRoc1ZES2lwek5PMWlMSUczZ0ZDakhZQlRIeGxlR184Wm5VSlVfVHM?oc=5",
+          "date": "Wed, 11 Jun 2025"
+        }
+      ]
+    },
+    "Abandoned Vehicle": {
+      "count": 1,
+      "pct": 1.7,
+      "samples": [
+        {
+          "quote": "311 service launched for abandoned vehicle complaints",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ051dGd4cmpsUXhabGh4aHNTMERrNEQ3YVZoWkZrT1NDb2Q5ZWVwZ1FKOWt3UHF2OFRmOW9sMHVwNHhRbFJwYnRfcmwtSTRPa1M2eWQtZTBGQWtKZkh5S1BMd2NTek1CbTh2XzdkU0VYQVV6RWtXOUY3aWZDRk5rb0dINU9GamttQ1NkbDdFSlBDREJfN2gwWV9ZWXc1LUl6YlQzb293bjB3SGVnWUE?oc=5",
+          "date": "Sat, 26 Jul 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 1,
+      "pct": 1.7,
+      "samples": [
+        {
+          "quote": "Court orders Baltimore to spend $44M on sidewalk upgrades",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcU9RQ3hoblB3MW51TGVneDFId0tOTW4tQUFEbWw1MTFqdGNydmRrdzVfYUVOdDZPWnV0MXZJRXpDeDI4WmRtOXF2SjJXTjlYT050TmN4UGtlaXVqM3FFblFaTG9IcmdJVmtnZTU4TDdKYzR3aHZHNnJTR3V4dG1STlZVazZnSjhFcW5McERkVmNwR05JZUJ6amg1aGxpZlJJRE9UWm5TYzByNHc3MEFzZ2tPUTVvS01zN0xj?oc=5",
+          "date": "Wed, 09 Apr 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 1,
+      "pct": 1.7,
+      "samples": [
+        {
+          "quote": "What's being done about graffiti spreading in Baltimore?",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjlqQUxVN3FaVVcwNkJOdmx2TEl1VnJlU0xhQ3FURmoybW5aX0wxNHlKT0VaQzNqckw2cnhXZnh0Z2szWVR0bTdmWEREQndtNDRWZXFoMmNkenktd0wwTmhlbFFjLXQydVpuWG1GeV8yLWk0eW1xdkVRYTBwRzdfTHZzODVxOGZIdHFpWTdQdVJSc1dreFRfN2dGamVnRFE?oc=5",
+          "date": "Thu, 29 Jan 2026"
+        }
+      ]
+    }
+  }
+}

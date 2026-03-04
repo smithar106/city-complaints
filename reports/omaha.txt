@@ -1,0 +1,84 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — OMAHA
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 59
+  Complaints found  : 46
+  Complaint rate    : 78.0%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   23   50.0%  ████████████████
+  Pothole / Road Damage               13   28.3%  █████████
+  Other City Service                   4    8.7%  ██
+  Public Safety / Crime                3    6.5%  ██
+  Abandoned Vehicle                    1    2.2%  █
+  Sidewalk / Curb Damage               1    2.2%  █
+  Sewer / Drainage                     1    2.2%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Omaha utility district sues contractor after 14M gallon pipe rupture"
+      https://news.google.com/rss/articles/CBMiowFBVV95cUxQTUNuXzljeTBULThSbzdBbHBxZkdrVjZVWS1zQlRLbkVNdGh3M2JMdVI5OHNmRkZmOEoyUUROUHlZdEptNXlYQmo3Y0FoalpuR1pTUFRiMm1uYUtRRU1CeHl6UXkxR2pEenFLZkdjOUpCdTM4OTJRZjhEVnI4Unc0OUptQUY2NnlPNS1LV1hKcVFqUENGa1lISlE3M0JCVWFCSHJZ?oc=5
+    • "SW Detroit residents still recovering from catastrophic water main break"
+      https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbVdsWFEwRDl6VlNGX25FRXg0bXcyQlBkbTJBRlhUWF81Q3YyR2VNV3czRXBNMTBTYWxRTHFWX0E5UG5RaVhWRjVPaFFldnFEUWlCTzhqM1hVcVoxM0RXQVZ5dGx2VHVkeTNMbUo2VzBiZnlRdjFMOXNaRVBZelhqbFVQbTAwVjYyb1VqREFxc1VzRjRwSmswRk5ldGdRb0VyQ1BReFVUS0VWYW1FOHN0QWVaTE82a3QtY0hvbTlkRDFfMks0SXpVYTUwXy1GQzVEVXpLMnhR?oc=5
+    • "Water main break causes road damage; multiple houses flooded"
+      https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVBDekxubTNlYmdtUGtFVjcxTmtMa1ZISnZ0YjRMQlhGOXcyT3NPekdoVFBGUzFuUFFmaUJWV3NfeHRVVXR6UFhpT2x6T2t4bFNZX0RMQ3RoeWhnSDhDUVU5b3JwbThkUlJiZnJEYndMN0t2SlpnNVRmbU02Mi1TOTh3R2lpNGJicVY2cW5uUkVLNWxvSm1pbl9yckQ4MkZoVGR2R0d1RVV6UFkyZlVWM0VSMnZ5aVNkaEMzVVVpNUxvQQ?oc=5
+
+  [Pothole / Road Damage]
+    • "Chemical reaction in concrete causing Omaha streets to self-destruct"
+      https://news.google.com/rss/articles/CBMihAFBVV95cUxNbmF2aWpSLWJZNWFnUDMtb0ZSOTQ0UHA3Uk1CV1J0UFVhdzZLc2haR3ViUkwyRkV1UzEycW4yU3BFRFY4dnBqaVI5c2p5ci1aSmNvdWNoeVY1VDNhQ0V6RVRFblBfSEtjelhMZHhqS3B4WS1SdHR6TVRCVDVFcktkZXFBM3E?oc=5
+    • "Pothole danger in Omaha after flat tire leads to vehicle fire"
+      https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXJmNFZfTzVtY3o4Tk5YcE9aalVUZTktOTRocV82UExuem9DY0pzal8xRVNIdV9YRk03aVVYb1owNXU1dktOWTdwMlhVRTdRYnJGX2d3WWZ1eWlXMHVidnhFYnJuRm1VNU81THJZRElENTc0cm8tNFF3TDJKbXJfeGJVZlc0ODNjVlVTQVY1ZXEtWkQxNmU4Vm84UE15TVo1YlRRSlFZQU3SAbwBQVVfeXFMTnJhS1FJWkhTTGRpWGR3ZTJCSTMwVFN2WkxuOTlwR3dwLW54NkJseVpEd2VzV1Fia0N2S3hzZXlha1o3aTFDWTkzSTVMRnpKaVhKTkl5MU14M3diY18yWjZxSmRJUmNTRFhEUVpMZmdybS1paUJvWXZnTXZpYXFMZHc2cUZpaFRNT2Z0R0pGTHZvYW1xUTRrOEM5MDFVbVBadVdVMzVHQjlXT1hUMTVkejRKemRiTjQ1TmdfcW8?oc=5
+    • "Sinkhole swallows two vehicles on Omaha street corner"
+      https://news.google.com/rss/articles/CBMihwFBVV95cUxNZGtHeE54MWltQ0Zqd1lPS08xVnJuVGRFWTFVcGNyQWlPTl9sTDR4Ulh0aU82WW1LbnNJWXFxVXdGYk14ZEF5ellVSUM4aTA2ZnEyQzVMNkgzbkdweGE4cHlKZURKT3BPWjJUMGtTbko1LTVtaUM1YXhuY1VqZFVDdnQweDN2akE?oc=5
+
+  [Other City Service]
+    • "Bedbug bill aimed at helping Omaha public housing residents"
+      https://news.google.com/rss/articles/CBMiygFBVV95cUxPU0dnUnFFeTkzQkpUbm94dTBuZmFlei1PSVFRV0hGUUFiTS1fVjktRFZDRFBFMGpqRkdablRRYndXWmpLUm43QW9TUTQzcF91MkdlbzhNWFRDODZBVlh5MFc0QzhoOWZCQURqeHFQTVlFYVZnY21jWjFRZXJRcnc0QWQ5QzhnS0hQMzR6TWR1T2RxUkN5RHpEV3BqYlZvUElfemgxUXBvUVA0bjYyaU1BZUcxVUJvU3VBanc5RHJsQTNDdGJTcEVKUnZ3?oc=5
+    • "Composting odors drive complaints at Cass County meeting"
+      https://news.google.com/rss/articles/CBMimAFBVV95cUxPa0otZzQ1Z3h1eFlCZE1IRUlLem4xZGdXZzFGcng0TXhadVltRnNVcjQ4RDRiYnFSNVh2b0hsSzdVY2pmYUhldVhZRG5QMUtWbm05OFJ1VTl6Q29vWTNpZDg0bWdscFBCY1dEcDJVZmh5T05aSVYyZzY5bGxBSG5zZ29oa09KUGtqU3RiUFZOTjhxNXJsUk42Ug?oc=5
+    • "Less than 3 dozen units remain occupied at City View apartments"
+      https://news.google.com/rss/articles/CBMijwFBVV95cUxOR1pSQ01Yam5RelpSX3FReWhsVnBpZms4T0JVWEJTRjFGTkVycU9hMnpaMmZ0eGtNcV9QZE5qT3dSYzNFdGg4YkozZWJSUTBjbzhkZGdxM0ZuVmxnc1hFNWxFNmZZbWFKWnlkZTBHTnJvUUVyOU1oUXZJZWh6UThPSWF3dWNkMGVHUUJadW1zZw?oc=5
+
+  [Public Safety / Crime]
+    • "Residents want action on Omaha homeless encampment"
+      https://news.google.com/rss/articles/CBMijwFBVV95cUxPYkFlMVg1RkJZQVRVTWtuSDE2MnlWaE5TOF9BOWl2RUVPckg0NGFVS3B5RzFsNU1IVDZoZFN5WnlpUkFNN0cxUTVNTWlTX0dkemk1MnhTdktlMWFXTFpqVWFHMjRtOWtmdExUaWl6anVuMU1WMXFSWkQ5TWFwcTFDWThTZnItc1haWGs5ajJBdw?oc=5
+    • "Residents testify on proposed homeless encampment ordinance"
+      https://news.google.com/rss/articles/CBMitAFBVV95cUxNNHRVME5HQWVEWDFvWE1yWXhhQk05ZWlqcmRCOFZiRTFqY0xSRjlncm1oc3NaZXRYencwT0tTd25ZZm41RnF2OG4tTl9RMDNTTWd4SkhKckRXRklGcERNN2E5dXIxV2xaQXluYkV4TllsSlZkTXdzeVc3d2R5czZlclg4c0hGVDFnWTE4NWhxS0ZUMzZMellyVVRyWWhseUNzR1ZRVlM5RGk4aUlkWU5ucW5YLW0?oc=5
+    • "North Omaha residents frustrated as large homeless camp grows"
+      https://news.google.com/rss/articles/CBMirwFBVV95cUxPWERnWHNSeGVDdHYyajJfYTM1OTFxaHJXYUFuZVNPRVZFZ0VzcEtFOWVpci1qMkhHSjNsNE5PcGdzcW5OYzNMZ2J6OUVWVXhpT05VUEYwYXpsa2JtLVpyWFRfaFdNOEN6WUtCT3NzVUVPSXpyYnJGMFhmanFHX3A1WjEwLWR2dWpZM2FQMjhrZHJzci1idVc2cWszMW1sNjVZMk9KTkRGSjdoSk1ZZ3ln?oc=5
+
+  [Abandoned Vehicle]
+    • "Douglas County authorities shares reminder concerning abandoned vehicles"
+      https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtZTWxQX3dFMHZMVFE1NWVVTzQwckVrcmNaclIyMUNVVWxpcnNyYjk3ajRMZ05la1ByZkZrY1UyaWJoanNrMDlqWTNLV0Ixb1ZZVkFRT2pQQVkxMmRPbjl3dGlDVlFXSjVabWJkUUJBNE1aNjZSc0h5Skp6eEZrRWdqelBUREQta01yOENzM2lna3l6eG1DNHp1VFNjdzUtTG9jLURBdw?oc=5
+
+  [Sidewalk / Curb Damage]
+    • "Homeowner disputes sidewalk repair order for panels beyond fence"
+      https://news.google.com/rss/articles/CBMioAFBVV95cUxNLXhsLS0wNk1md2hRcVBVbnRwZERyNUdIVkRGeUlHbjh3c2ItMmpCR1gwVXFWR2U5NlR3QUF6Z0dkRDFrQ29WZkFzckdxbnNDVmlPUzRWSzdqS1lXTHlxT0haV1RaZ1V3cnl5em1QeG9vbGRldlE5WTVGcHFzYVoyMzZMMEQ1OFFlN0VJMmpwazlPY3ZqSno4ZlFnSDJkNFR30gG0AUFVX3lxTFBxbzlmYzNSWHI1MGl1bHYxcXRWUVJoUlJxSUtRZ0Exb0lPcU5raHp5U043aGlScUN4WlBRREk1SFpDVTFRTUg5aXdvc1NxQWdUU3FFanpZTHM3WTUwZlhiTk4wRlFmNUFiVnN2NDZBX0U1bE1tOW5VZlotTDZxaHg4Z1pZdEVXeGhmbWJmdmdCT3d0cmViOVVpTnNNR3Z1c1RKaXFheVVvTjk3cDlsZG1mTFhrNw?oc=5
+
+  [Sewer / Drainage]
+    • "Constant flooding on Detroit street has residents fed up"
+      https://news.google.com/rss/articles/CBMilgFBVV95cUxQOEx5MHhtUDNod3pnOThCR3VHLV9WMnBtTU9JTHBWU0NsN0ZwRXVuNnpzcWlDN0xYNkxhUHdMOHVYTWdZeTN5U3NidHB5ejF6OGFkdi1GWS1VU0FRWU9RdXllVHAyRzFRU0hUVFpUcno4cjZlbHdGOTBONmt5UnNIbVlBTzNlc1ZtVzJKbU1oSUs1SEp0ZEHSAZsBQVVfeXFMTkp0X21zZldkNVZwS0trTTdDQlZrWVhpUW1HUDFYVEFDNmVsRXZyZ1VsVmlYTmFQZU5WYVpaUWNvblpXNEJvUld4RGI1OVVMYWxZTW1qN2pXWjRwd2xpSklHZXpKb2FiaE5BVExEZkJCYmV3bTIwVGMyalE1LWdtMDlmY0RiWFJiblVaODFmbUdPMHAzNzUzbmE0R1U?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 46 news articles reporting
+  citizen complaints about city services in Omaha.
+
+  Top issues:
+    • Water / Utilities: 50% of complaints (23 articles)
+    • Pothole / Road Damage: 28% of complaints (13 articles)
+    • Other City Service: 9% of complaints (4 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

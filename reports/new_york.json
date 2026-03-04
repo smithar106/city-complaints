@@ -1,0 +1,328 @@
+{
+  "city": "New York",
+  "slug": "new_york",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 239,
+  "total_complaints": 166,
+  "complaint_rate": 69.5,
+  "categories": {
+    "Water / Utilities": {
+      "count": 96,
+      "pct": 57.8,
+      "samples": [
+        {
+          "quote": "Frustration grows on Day 5 of boil water advisory",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRV9RcWU2SEtGdUp0Zk5UaFA0R1dXcFdVYTNXQXo4QzA5YmxNQzhLdk9EZkNCU0h0LS1rZUEyQWF1NVhCVGVzSHIwTDlwVm5vUExXYXY3bDJyVFFvZ2JGcWZhRnFmVTM2QzFxa3doYmczUUpRRExmMGlLeGNSNVFmN28zM2tNalJ2Z2lFcXZ0SQ?oc=5",
+          "date": "Tue, 12 Aug 2025"
+        },
+        {
+          "quote": "Customers compensated for water service failures",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOczFuZ1FZTkFZWmszd2l1bk9SeE0zRURzSDk5NFRSUzlycjRuTWtSUnhYRjRGSG91Szc0ZElfZU5oZGVQcElVMkFETkxVbnZ5MjRvY1AwbEJEYktaZVo2TVZTQVptYUo5eVJMOHdnUHJUNzJjTkt5OHhUTTJHQzlROURpSDVoX1lYNmlsYTNreExwbE9zWE1DZQ?oc=5",
+          "date": "Wed, 02 Jul 2025"
+        },
+        {
+          "quote": "Tens of thousands left without heat as temperatures drop",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1FhMFRHdzZoUzl4SDF1TWhiVEh2cXV6VFltZy0zTU9TQndiUUExa0FNa2hQWFBZWmg5MGZfSGNTMTBlcmFzaWc0ME5ZcmgtUTI2UkdXU3E5amcyZVlwMkdrSTVUeVJOT0dJQzViNFVUUjRCZldUVzNMd1FqRDNLdjFiOUM3QjAtQk9ZaXd3?oc=5",
+          "date": "Thu, 05 Feb 2026"
+        },
+        {
+          "quote": "Record number of heat complaints as frigid temps drag",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUZlMkRrZDBMU0RFWnJzTjA4OXJQaUszSE5xTjhFb0hYdjJHUmFjRUJ6UVFyc2lnd19WbkpuVkxfWHNSOUN6ZnV5ekphQkotQ1ZyODcxcV9QT2pQNUVUMUlueDBEWVRKT3hOdDNxUHVUVG02Rk5WT1d3bkRKZk1YeTNqYnRwdUkxWVNRX2Z5MUx6QTYxSmtETXNORFJvNUlHU1ZBNmdmNUxsdXdsaEpR?oc=5",
+          "date": "Sun, 08 Feb 2026"
+        },
+        {
+          "quote": "NY residents' energy bills delayed after shutdown",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjBnUXF3bWl6XzJWOTVxM0ROZEEtcURGUlM2NEFTWnFROTZJcUlIeWxZTTBDbjN6WFhVb2dUODQyYUpEZjNuUkpwSjI1RElNRHRKelp3cnBEazdpV20zaFp4OThnNVVsQVFiTVE2dTA4TFAxU3VPcWszZGVJcW9FTnFEM0w3a0pDSFd3anE0OVNFa2k2dU55QW02QWh3QzR4ay1WcXlSU3h5NFptX2gtTQ?oc=5",
+          "date": "Wed, 26 Nov 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 16,
+      "pct": 9.6,
+      "samples": [
+        {
+          "quote": "Staten Islanders made nearly 130K calls to 311 in 2025",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaU12dV9BbE9lZ3MzZFVzQkdfZmp3d2ViY3dXMDBfN3d1NmhwcmFobEx3YjM3WHRQYTAyOGFTLUFVcWprR21WY29hNjVSdVItdTI3c3VKR283RFJaV3J2WG9INjJzMTZLaWtCOVpNNWVJSnRtVnFkSGNDWTlDallVdUFlamFBbGFORTJlTWt2b3N5ejI3Q3lwbXR0OFVBWU1iOUg3RzVER0lSdm5TaGM0RjlOOFVwN201cS1JcW9FSG1PUXgyc3lGOWhmZzdlZ9IB4gFBVV95cUxPVkhEVkxyWUl6WUlJakhNRkp4Vl9SMmQ1VHRPWmFsU2JselRDMldxQkNlZUtNYXFJRk10WVlqcWVuQzZyVFlpN0g4LVVpSUFmT2hjcDg0SnVxTkFXMUxpZWp3WXJsQ3k3RkotdE41M2Y2RmFTMGJVTUxFZzBYY1dUVDhJWktYUVRyYnFWSjlkQWIxaE8xRTlTNjlPazlEMkdhNFhhelJSTWdOWVdqUFdDRkFWYlNPUHJyU00wNWNQLWRlZlRCN0JHRXBWZktxSnNoQ3NHRXItTWt2Q3ByWWgyb1hB?oc=5",
+          "date": "Wed, 31 Dec 2025"
+        },
+        {
+          "quote": "Bronx neighborhood was biggest whiner of 2025",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOG5mX1g4bHlqcld2UWZfbjVnNWFsc3RiT200NmxCTUlsUWRja1BLbFNKUnlDSWRPclQtd1VxemxoMEpDWUNoNjFRWERnY2lycnRWeVdzOW1CV01FMGF5TTF6NktZQmVRV2I0Uk0tZWxDemtUUzBJdmtxVTZXelROMTF6Zy1aUlE5WWNlQm0wMXJxWXBXeTI4MmhJV3pvMVRY?oc=5",
+          "date": "Fri, 02 Jan 2026"
+        },
+        {
+          "quote": "Staten Island areas seeing surge in complaints in 2025",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmR1Q2lLRUdUQnk4OVcybVNtbl9rOFYzUkVSeUttUF85T2xGbUVhQVc5N3NSZjZIRFpsemY0bmxmc0FOUmhsTVk2eWtBUkNxOTdaLVZpQTVTbzJobGRvRGlnV09QN2ZmZXI2dk5KSkxkTUVseFU1OUVQMTBybjVTaks5b3JkaHM0VUhBNkYtU2JfNHFvc3cxUXE0bGNCMHpVMmlEdlR0UXlWVDF3?oc=5",
+          "date": "Tue, 08 Jul 2025"
+        },
+        {
+          "quote": "311 complaints system needs enhancement, negligent owners",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVkhIUl8wTVBvYzNoTV9qMUdGcmZObnJ3U0U5clF4aUFMaVh2OXRaX01nM3JZek54dVVTVlFMcFdod3hVbWVlRHNaY2JCcEcwSWVPYmpDaEljOWdydzYxc0RLNTZPVm9JUVczQi1PcWsyZFNkUUN1N09RaUU2TGRzSFc5SVd3a0pXVWpNSTlhMVpWNlhOS1BDZnZUSUtWbGRjczlQRk1jVC1tTjRtMkZYMlhfQ2c0MGJQRWg0eTVHTUJXOTlBdVE3akpR?oc=5",
+          "date": "Fri, 30 May 2025"
+        },
+        {
+          "quote": "New Yorkers have more to complain about, according data",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlR6aHRkd3IzTE1zSE9Ca3RheEo0Q0tIcC1Pd1B5dU92clM2WGRjSFVUNnNXMFp0REdsM3BXcGVTaHBXdFN6bmJVbXMtMHVyNmplWEJvMXNhNFV2MVVSYnhnMUc5R25CMzNqMjZ1MWhsem45dk00cDlHcVhTeGZqOFluQTNUVkFHRGtlZ3Btd3hNNG1IN1NF?oc=5",
+          "date": "Thu, 22 May 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 10,
+      "pct": 6.0,
+      "samples": [
+        {
+          "quote": "Dog waste complaints hit record highs in NYC",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWldwMEdfQWZyc015WTNWNGtrNkl5bkxjblo5bnpQWVlSaUJIN01tTjIxcWlTckw3SEQzUDUzZHFtcTlaV0drSi1YNGE0bHdCMExqd1BjQk1VakVfaGFrOUFJZFlfbEYyRHVOWlF6czlOalBUNlVXcm5JcXJUdVFvTlMzUXRnWWZ4S3FIQkh0MUpSdUpxdlFQMVFXWE9RUmY4bFF3Q3UtTzNoSjdiUzNDdzY5NS04V1E?oc=5",
+          "date": "Thu, 19 Feb 2026"
+        },
+        {
+          "quote": "New Yorkers frustrated by composting rollout chaos",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFJEa1VxaHAzZGJ6al84Qk80WVRwTjhEQS1qLXgyMnkxWHpvTmZHc1dmUFFFRXNIelBCbUlJXzBjYkpRNUZmZTRYRE9VclYyaXRzQVpPTmtzclBNNWU2TGNOaVhPY2ZjNk9Sc1pSNXE3Z1VhVjI5Z2g0NWdiLTl2TlMySWt5aDQzX1UxYklaUmUwaU5DbmVqYXQ0MTRDU0QwY2N4TnYzNTQ5UQ?oc=5",
+          "date": "Mon, 27 Oct 2025"
+        },
+        {
+          "quote": "Residents subject to fines for compost separation",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczZBTjJ3U3NJYklxdkVITHROTHUzdkYxWFZtWG4zWElTNUNtS20waGFsMlZVNExvclc5aGdab21jaXg0bWhhT3JXNUhncjhubVFieThYUW9aN3M1YVBucVozbUhPMnNzVTRSV3BRd3M0NlBGMUlEMVRWOXVhSlZObzhtY1pNbEZ0VnlEUXRua09xZ1FQQ1k5TmdCQVk0QmpKTGRpREhBVExlVHN5UTZicDhzcHVvLWZuYzRfQ0pZM2V2TEpDWW1xUll0cGZKT3dh0gHWAUFVX3lxTE90cTF1bTRtZ0pzZDRKczBNb2M3N1o2c2Y0NXc0cTNRTGdUa05KRjRJQWFUbFJ0eTZBUWU4Z1B6ZFFCX0trWmU4a2pQdmJIWXBJNC1CdVdObmM5V21kWExweGkxQzBReE1pdnpIdkNrLWs0aWN2dTlwX295WHZra18wVEtSTWY5dU5ESnJkMDJ5TXNDWTRwc0gzcW9hV0VhRFJ5WE5jLUxUU09iYjdBWmFrSU8xbWNfVW83eGNmYjMzQWYxdDRGRmp4TGkyOWxGa3k3SEMzVkE?oc=5",
+          "date": "Mon, 31 Mar 2025"
+        },
+        {
+          "quote": "Dog waste major quality-of-life issue across boroughs",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYk8zVzltMTdkRXRTaWVIZUNuNVItSDhWVGgwTmhuemo3WTZUdGpJUHVBRDN2anRhRFhuTVFzSVp3eGItUUxtZFdMcTNOekFzenlNc1RVTXB2SUoybFZIMWlvTnFtREFqb0tDWWd5My1BVkM5UHJsWExGY2JlQ3B0TlFhNkRpSkJlVGUxR2dnU01iWEU2TVh3b3dEZUE2NC1XUFhrbzRmN1VvbXdQM2JiOXJuNEJCVXBCMndEZThCTy1NRVBwVlBmNF9rMNIB3wFBVV95cUxPbk1VejBoVnp4UDhRVEw3UGlCaVVPaVhndVVzM2dybmVsY3JnbjNKREdrRUpNUzZhSDlvRFFRdnlTSkpzR3hTUDdDenRDdnlpRnVWbXdYaS01UldVTG9jQjlmVnY1ZkM5NzlQTUFKUGZmYWUzZVFOZXZvekVtQ0F6ZWhaQmFienVGaVI5V0Vabnl1YmFsMFJEdzFmZV9ZeHA2aVlrME5NaDdmT2lRMW9QQ2p1dy1FUGxKOFBrQ1FPdHJWSktUOVotUUZWdWJLNW83WVoxZUFWYXl1OEZLZnZR?oc=5",
+          "date": "Sun, 24 Aug 2025"
+        },
+        {
+          "quote": "Dog poop complaints up, baggie dispensers lacking",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSHhkWFNMbUVJY1htdzQ2cGtCLTlFamNDVy1LM1VadlFYSU5PUU1YWldJUXl2LS1KbTlHcTdfZWR5N0RpLU0xRHVmTDQwSmRjUl9Makh3cWhQWEMzWGxOTm1UMXR5eE1kc19OdlVwbHphMWViWlEtYkNGNXJZOG5FS2dOeldnTjF2Wkg4TlFNN1E4M2VHSFBFVmtTYnVKOFRqQTgzSS13bDhTRUwzVWVyWENrZw?oc=5",
+          "date": "Mon, 28 Jul 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 9,
+      "pct": 5.4,
+      "samples": [
+        {
+          "quote": "City's drainage system fails during record rain in Queens",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcW5OWkZhZTJIajkyZm5fS2VCZWZzcGUzc2NMWFh6Yy1xT3NBNEV2cjhQNEZMaElSWWphMjdqdGNVbDZmdEVMWXBlV2pjRGdVN2kwMGdTczc2bjJoUDZqdmY4VnI4X1VkbHEtSDVrUjYwM2FSUnlIOVB4ZU9NQlBfYUdrbmF1ZEhtczd4cUNvc2J3U1pveWRaUUZoaU5YRmpLZXRyWHZTTE1QYVFYMHJyVUhB?oc=5",
+          "date": "Fri, 31 Oct 2025"
+        },
+        {
+          "quote": "Sewer overflows problem in Connecticut",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16SGZoMVhvbUlMV0oxLXM3QktkUllTeUR1bE9pb2NuVmhNM29zSy15WjdYOWdrVGNWc2JYcGJDZU84MHMzZVVYMmRoZDNRMjVsa0JlbmRadlhwSktfdnN3ZWNsTkNNVUlYbGpnT2dtRjZDTklGTkE?oc=5",
+          "date": "Mon, 06 Oct 2025"
+        },
+        {
+          "quote": "Cuts to water, sewer, flood protections",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNTRaTjloLTJ4TDhJWnpBVnlzcGR1aFVfclhrZU5jcmh0RG51aGFLcjFLbUllMk5aV3RFak1UNk43amRUbURDQ0FsQXk3T3JfOHVyeDQzMGxhbENlb3lSa21oUjRib3FWblFrZmg4TVBsWGhEX1RxUDFiR0IwcE95TEoyRUc3c2wzdmZfYzFYbGZmaWJRYWdOdHY5ZS04RWEwMUJZeldvcUZORm5iMk5MX3ZUQ0RQUQ?oc=5",
+          "date": "Wed, 16 Jul 2025"
+        },
+        {
+          "quote": "Stinky sewer problems on Rabbits Street",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORlUwa3Z5TTdSVEVudHFpck9vYlU3c19yR1NxZ1JTelVzaUt1eENNVjh4eFFpLUlERjdQUlY5NTVMTUdsTEJqMTFJRWhaZDRRa3h6UFVtS3lXeVpCcW1qNG50UWFRMG1Ta0xKa1BudGlCcUp0ZU8wb3YyWlhfMVZaZ1lhQQ?oc=5",
+          "date": "Sun, 09 Mar 2025"
+        },
+        {
+          "quote": "Sewer system cannot handle street food waste",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY1lyNWpWZkVOOHptd3ctSDliUFhWRUs0OGZTUGN4S2Z0b0RINDFIa09CSWlTRGZQT1FIVkpvd0EzbEFhRUxKb050NVJOVDV2RG1jc0xMTEZaN0E4T1NtbXlrTGhPQ2Zfbi1QUHdJTWRRNkVtU2tGY1JMVkd6Z2NQbWRIeGU0V1cybVE?oc=5",
+          "date": "Fri, 14 Nov 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 9,
+      "pct": 5.4,
+      "samples": [
+        {
+          "quote": "Vandalism of New York Times building by arrested suspects",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc0lBbVFnMUhoWmdrajRhdk5IcEVCM2dzYWs1blNNam5GejFiRnQyM2R2Y295R0tBSDQ0ZXdyV2YtX0RmZFBSZHFGVHZfaUJEQlRHNFZlczlMYkw0U19lUlgwX0pzR2RSTExSQ3QtcmxEaFE5MHVHeHNEekszWG1ZdTN3RS1vZHI1SWlEOE5adDlxNVZm?oc=5",
+          "date": "Mon, 29 Sep 2025"
+        },
+        {
+          "quote": "Hateful graffiti reported in Jackson Heights",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN085a2o1U1VtUDUyR0tlbTVHaExjemkzZ1Z2X2g2RHVwSks1MktPYWZfdzlKdl9KbG56aFg3ZURtZ1I4VXBRbUZ0dDZ4Szd2MmJFbXlRZGh1cXpCWl93R3ZYSG5QaUdydjd2UTVrOG1Ic1JxR2RJZjkyUWpNLVQ1d3NfeHRYOXc4Wm44dGtwMWU2RUpnNXlXRGo3WVdnSXc5VXo2RjB0bFNmS3dQcU41NW8zc1ZPc3ZKMzA1RWlCTDdGVDdaWFFMcmlDdzhQYld6U1FXeQ?oc=5",
+          "date": "Thu, 15 Jan 2026"
+        },
+        {
+          "quote": "Antisemitic graffiti found on NYU Jewish student's door",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBWlVkUWcyRVhSTlBOMVR1ekVmZW5UcEs1WllkaC1tR1pXeVpCemtTSjB1S1RzYzlXRDluUE5hWDlDQ3ZtSkpiYldqV191NnNrU0hFQ0FDcGhZTTh3RmxScGlRdExCWV9IbEE?oc=5",
+          "date": "Sun, 21 Sep 2025"
+        },
+        {
+          "quote": "Hateful graffiti targets Sikh gurdwara in Little Punjab",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUWRxdkxIMGVEQUZTRy1GVEp5dktFdnU4YmRyMmNHWmxPc2NmOWp5Qm5XQmVSZlFFMW83NU15clJFT3dIVUVSN3NVM1lUT29ac002UW9WaGVab0IyOUR1ZUdIbnhfdWdUMVppSlFBNk1faVFwY3BOQWZNaS1Ua19icjEtNWl3MHFlUUhvYzh3?oc=5",
+          "date": "Fri, 02 Jan 2026"
+        },
+        {
+          "quote": "Janitors forced to scrub swastikas, attacked by mob",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSGdmQUM0b0ZSMU1VU3lwNzAxVTFibDFLMzJlQVgxN0J3aUIzdTVhSk0zejJ1aWxNLTFqWUlvZkQzRGNpRFEtblZ0TGllQ0xYVXYyeHBUU2ZyREJXY2dDZ0NPT21IdWtCODdnb1ZrX1NrRVdIOUtuNzd4dC13WFRZYXoxWm53VUZWMVZZazZObzdZZEJPOWhLVmFrWWhmWGdBSVA4eG5WZUVmQ3VSWmZET09tSjFmN0RrSGprYmJWMkZmQmdJS2liWTM0U3MzTFIyNm8ydl9tTDl5c09xbEY1dXBNVVI1VjZhejUxZTFVaFRVNW8?oc=5",
+          "date": "Mon, 17 Mar 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 7,
+      "pct": 4.2,
+      "samples": [
+        {
+          "quote": "Unscooped dog poop littering sidewalk snow",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVTh2WjFpSkNTY3VSQjJKZjBBc0F3eXViOVJ2M3RMV000T2dnWi1HcXJ6Vy1Vbmh6YTVmdVd1NzVUT21Ca1ItbFNVN0RJd01jaGttUUlraVY4cHAyNVZUbk9FLVJRR0Y2Y2FVbzBnRjQ5eHFidGR2QzFlUFdZMFVJenhoRkM3cHp6SnpTdERycXhkTVZLYXFTSGVSY01VZjNiRnZIQ05QaXZlamtOY1IzMHJyRUo2aEFYQ1ZvalpkVEpUd056M2gxNnFabzRfVWgxQ2c2R3owWGFURmQwQVE?oc=5",
+          "date": "Wed, 11 Feb 2026"
+        },
+        {
+          "quote": "Staten Island sidewalk damage from tree goes unfixed for decade",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlQ3b0NLaDJLeTdEc1NPYUQ5TDhVSGt1Z0VJMXY3YkJrVmVOX2dHX0NuTXJpcV84SkVNSzNlSVBxQWwxaVBST0FzbGlLQ2tpRm13b2poNGY0aTRrWU91eGUwRXBMZEV3ZVFLTWx2aFB6YUtnZnVnc0FHVnFocW5OZVdaRi1sUGREZ2hvOTIzV25mTG5OeExqSDBRTFdiZTVWRkRoa1UyY9IBuwFBVV95cUxNS184RjZ1MFlvLXN1WmU4WEFEcy05TDZpYnJyeXV3SzdhTFF6QWlXRXhjaVZaTnZGNC1idHY5aUZDYWR3RDh6a0VORUFaWk82bVYxSXNzanctNTVmR2dFS2haR2c2OGE1dnh5OVZvQWE2Z3M4YkQwMUI4UEpfaXp6bGZDUHhRNDV0akZEMFVhcHpqcER4MkZmMWIzVVJURHRpbXpxS0ZVT3R3aElBUW1DSmFyLVhtWkJ2SlRV?oc=5",
+          "date": "Fri, 27 Feb 2026"
+        },
+        {
+          "quote": "Family gets sidewalk repaired after tree damage in Brooklyn",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTTN1TUowQ0Z0Q3hZUXJac0U5ZC1hcEQxanVUemhITFExd3BNNmx5T255eDFBX2V0cTVEbnJub0VLSF9NaF92S01UYlVSU19DUngxX01TdldieFdOUHNQSkx3NU9NV0ZMcDh6enVBX25FanNITDduRDBtdEVtLVYtZ3l0bXZHRkNqMnEyMFM3dW05TEEyQWhoeUlfUmrSAaIBQVVfeXFMTnlFWFNIT1JSQ0ZFVjFtZm5hZVVvelRoN2t5S2tBMXZTTGtQWHZVbjFFWi0zcGNPRGJfU24xOGZZdXJLSDd3eXRfTC1XOFBjd2pSdXY0bnNmNVFoM242eUlkLWRfZ1NOT1JTZkVtM1BhVm9EbVRWYklEb0VBQjljVi1tUzJJWWZmazZBem5JSDREU0ZCdzhXZGMzem9IalpyUUdR?oc=5",
+          "date": "Tue, 07 Oct 2025"
+        },
+        {
+          "quote": "Scaffolding plagues sidewalks in endless 'Whack-a-mole'",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU09Bc2Z2WDl0eGdrcWZoRUctc2ZWQzFqSkNvYnp2WVBJTjQ4MlV0TWJWUG5FRVZBaE1ZVnI1cWl4anpFRUdHeGh1N2QzbVZQdGhRTFZEQ1VZc3JUMVBaWTJHaGlSWDNSdjdkX0RDZDJvY1Z6WWtqMlFUbnJUZWVOY1BjUElNMVZjWlZwWTEwQlhpTjdaV3FkVXU2U0U1eVZzUERFdWh4dnFacWtOQThpclFPWm03eW1pdjZVTjJIdEpOUXM0UFdOMDBOQVJsaUM3TmQtb1JKRVU5QQ?oc=5",
+          "date": "Mon, 07 Apr 2025"
+        },
+        {
+          "quote": "Everyone hates sidewalk sheds blocking pedestrian access",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTW4zSjdPdXBVZEJJQV9RTllOWG5qNk1WOGd4azFyNEhqQzBKQWw5Y3NVcGwxMWlYRUxfVnZpNC1Xbk5aR2lIOV9vcm9UUXNWZkJXSWFEX18wUUpUT1gyQ3ZvXzZyZFpZSDRPNWtUU2xwa196MWZNbUZheE1qRk1xdXduQlZPaGVVSkl6Z3M3MlB1YVpaSnk4?oc=5",
+          "date": "Wed, 26 Mar 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 5,
+      "pct": 3.0,
+      "samples": [
+        {
+          "quote": "The potholes have come back with a vengeance",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdFJUalo2aFFXaFpkeHhpSWRZSHNVdGtDbnlxVWNjN044b1VaYjQ3eWJERzYxYWp5bHVOSFRRMjRRYnhBOElXRTNyaGpjczVSMk9Nd2NReVVubnF3YlJ5YkFjLXBZZGFQRWM2c1RrZVFLV1IyYnc4ZEJNVC1scUlSTHhvRnBRbkUxd2NzNFdQX284clczMG56NHpyUjBmSFI2eXRfd1E5SWFQenFhWVBZWFYtWFFsREljS3lTdWJOb1pVUEJwWXVn?oc=5",
+          "date": "Thu, 06 Mar 2025"
+        },
+        {
+          "quote": "First fresh pave in decades with pothole eulogy",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWWRNZ3ZWeFMwVTNnNktkcU5KUURyYlFQcGZ5eHliU1dLbXl3dVQyRmFxSURld0NmQ3JvSkloUGp2LVFySDBXUjZKZ2Z0SjhPcjBNN2ZmYWhlcVUySGNDSXZtZ1JqZ0Rad2h5MnpleDhKbVVCamE5a0ZpajRtQVZIMUV3dzJJcHJoQURzLUl3ZzZWWGVYU3E2QWtHb0Qyc29TT21pNEVZR291bnJ5d0hENW5HOWdKQnk3?oc=5",
+          "date": "Tue, 28 Oct 2025"
+        },
+        {
+          "quote": "Sacramento officials pledge to tackle pothole problems",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeXJfMGJEZUtKem1MdGtZREZua0J3aHlvMnFQb2xkeFRsUXBEdXNNMjhER05PRTdBYlJhVzNtY2h0bGg0ZDh6QzdxX0lLVXpROWFlWnJ5aHozSmZKWGRqaHRqcU1FRTg4MjUwbmdxUXhGMVRWZGxIbDdOQWd5V2RGX2xqSmN0NTlpbC1JTW1Cc1NPZzdqNDhhMDNoRU1ORUZQQVlSNjFMbWE1MEQwbGpUT1NMTFp0WUsxYzZxRl9NVnFNNFV2N2dNT0FRWWdHN29nZ1hwYlVUSktiUQ?oc=5",
+          "date": "Fri, 18 Apr 2025"
+        },
+        {
+          "quote": "Major issue that needs to be dealt with",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZGFUbE9la2RWc3hXTFczYlM3eHZadzdzQ3BxU3BJOWo5a1VDS0ZYMllWdW53T0hYT3N3ZlFLZU85UEd0bmlDU1lNY3RELW9sQnd3elJaU1REN1RSVkhmdDQ0eWtmSnIxOWg0NzFNcEtLWnd4bmhET2RUbjY0SHk5SEV4SWZOcFM5SHZwTDZtSjMtWEw2RmxKekEtODAzOGpmWWdfOHJqZGVFc3JhX1FLcVNMVkY3blB0ZjVMbm1neDd6UkhHQldOMTEzYTdXT2NqajhMX1NleFh5a09YMWpIRm9R?oc=5",
+          "date": "Sun, 09 Mar 2025"
+        },
+        {
+          "quote": "Residents voice concerns over Tampa's frustrating pothole problem",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbXVCS3VpZkQxZFhESlIzck1xeXUzUENLN2RWVFNJVGJsQmNvN0hVY0hWcWd3UUJ3SEZhdWZ1WGJ3UXVUeUJaNGxRbWR3c1RYSi1HRlNvY0h5a2tQZEk3VjdPeHlVd09sOC1KekU2QnNYOXEzN2MwNVNkblY5TTBoQl9tY3ZwZ0VBc0JNNXJyakkxSjRaeXhoZXkzOGhPb0cyblpRM2V5YjRLYzlqRWEtVHQtZEh5YUk?oc=5",
+          "date": "Thu, 21 Aug 2025"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 5,
+      "pct": 3.0,
+      "samples": [
+        {
+          "quote": "Two council members light way toward better streetlight service",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb0JpTXVCV3UzY1lHQmhHOHZPRVlEWVFBNmFzRWJHZ24zX1B0UzBKZ01wLUw4UklFeG5ISW1qak1oM1pCeTUxcWp0bndLRk5iTW9aYzQxc3hiY1F2czhzQnozOVhGSkVRWFF3VldweHkwX1JnTHY3RVNFbXhBWTJPdkM4M0NadjQwNVZCNEwyWGJNd0FhLXJ2SVRkSjcyem4xdE9GRGtzeWpuRXRuc215MXZfRk55UTdIRVBGOW8wMVNXQQ?oc=5",
+          "date": "Fri, 05 Sep 2025"
+        },
+        {
+          "quote": "Middlesex County towns have short fuse with JCP&L",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMERpOFNUSW53bVZsYU9MSkFjR1NpVFpBSU40bi1zUnBTMzU4X0VPMTc1azUxMmhEcUJOQXVfS2w3d3ZsTXpYTWFmRzY4aUdUaUFEcHBlN0FBYkF0RnJRTTY4NldqeHliQXpRWWQtNWxLdE1rLUFKUGxaODJGYkh0OUJvWG93SFFKc0p1V0FmRUlpZWItZC1DcHlkM0l0VWJLZ2ZxVUN1RTkteFMzRm55cGdaWXZQazI1YWFpMUFvY2VsUE1CUDBUTVRTNWZNOW9vQ3F5MEZDbExXWkZxSkpkcjZhU24zY1k3TFRjTw?oc=5",
+          "date": "Tue, 27 May 2025"
+        },
+        {
+          "quote": "Flashing lights for weeks spark outrage over slow fix",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORzBMbVdMUXhXQVRYS3BaVnkwTWpLX2hIZ0lMYnRKR0tuM1F2RVVNekJTbGZJUkxVdC0wOWN5blNUR2VOSlhldFVxc1dzWHhjMlB2TnE3SHE3WmZzaHhTUEZ4X01FTUZpQ01nejBEbV9pT3pwUy11QmZPODJuMlpWQ1BZLURBSWZHYmhOSlA2QnFpS2pRLWJVbWdVM19ydWtnZERORnUwbzVoRmlyUXFfSzN0Z0JKRnFkSzJuZS1BSng5R2V5SVBEcEgxbUdNLXpQc3BwRlBOQ1YtNW9zZHo4RmsxTWhCMWs?oc=5",
+          "date": "Wed, 21 Jan 2026"
+        },
+        {
+          "quote": "Streetlights out, nights turn risky: HDMC struggles clear",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ05vVXZEMjUzM0pic1RKTDA0S3NLSDZJcVAzTDhjOGlwYkd4cFBNN01IM2xWWWd1WW45blMxallnampTM1JQNDZIVmFTT1NNWjNTLWhnNzRNVFh2RXh4ZEVxU1BaSnJzUXg5QzlMcHV0S3VKbkR6X1FuYU5rbXZhRkc4YzlkOC1kMGRZUUZkTDdtcE5WS1VwWTE4NDlaRllhaVUwdlZfMWZ2N0JWU3hLODhVWGFGbnNZWVlKOHRMaGhSRndVVnBGVlFGV19uT3gxNDRuR1RiYzh1Q1plMGfSAeMBQVVfeXFMUFE4YTAySWdhdFBIUWdIcGxPWmp4Z0dmQk5IMUF3ZjBPemJTTlpuSFNfMkJOQ0RPRDRscG1RS05lOGpjOHJhV3BXSVFOcktwOVJ5akR4OWx6VC04QkttYkdvUWRvQkxGajJkNEJFeGxfc2VGbm13T2JvY09rYjhDV0xfTzNYRnN0ai1uT1pFM2thQkJxTlVJNFA3ak0xNjlINjBPUmI4NTBPM1JXZS1fZjFrMG9hd1hPZXVqMGt6RklZVklJOWFDLS1USjczT095Ujdza2RfMUNGQVVIc2lkdElQNUE?oc=5",
+          "date": "Mon, 02 Feb 2026"
+        },
+        {
+          "quote": "Ahmedabad driving in dark: streetlight complaints up 41%",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ0RrNzRvMkJIN1ppYnpsRm1mN1ZGYWZPTUc1MFpycVpma3pwbkxMRThmQlVYajJRa2gtaVIxME9rd2ROWnpnN2JtQkl4OXJSZDVaTTZPQ0VLekNqVU5ETzR6bGMyMjV5Mmo0Tzcxa2tHZHg4d0hRLVZQQlRVbW5oRHFGVUliclUyYlBOcVVndDdhT3A5dDhGRU9TaEY1ZXN1VW4tOHFjY1V5QVh0Q2ZoVG1nWWxGLVpCbXFUWXY5azJBUlc3eU9YbTR4dkkxaHItb3Z2aG1GVTJxOV9OWkhETlZIQdIB6AFBVV95cUxQbzBCRC1RZmpSSXd1dDN0UUtKdUhKR1VjRXNWRmlscnluWTBUZmZjUTk0eDl4MG5FNjJ6UVRkMkk5OUxTT1ZITjRaWlR4ZFhpVjhKaHVPSHI3ZVlYVVllV05Qdk0tY1dFUWRtdC1ZelhOQ2xqUlV5X3BCY08xTFFXRTNOM0JraEJRS0tEUkRPNXpEcC1OWlNTS0FWVzBxRVZSa1h0eTJCT2ROR0lkd25FYXFyMGdsS250akpfWGl5eWhTc1kxVTRpWUZVRWt6bE8xaVg1blJSTTFhSDZCemFXQm9zbjFHS1Zl?oc=5",
+          "date": "Thu, 13 Nov 2025"
+        }
+      ]
+    },
+    "Abandoned Vehicle": {
+      "count": 4,
+      "pct": 2.4,
+      "samples": [
+        {
+          "quote": "NYPD tackles abandoned cars one at a time",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcnhON3UtdlRWNE9ZOWh5N2hPT1JXNWtHMkFQT0ZTUUxrR2hyRUNsUVk3QVR2NklwMTc4RDZKdi1VVWRncHNFRXdZWVVVVGpKT3pfZUZjZjBoU1RkLTIzcVNDckxKRTdkc1MzVWktSVlmUGduQ0pSUmlVSVllRFRCZWlyNlJUdWNtTy01RWQtZC1yMlNEZUk0NVR6VVZHZlB6QmxvZ19LRUN2dzFFUElzUjI1SGZRQUVqNDF1N1Vlcmw3ZHdSbS1lb0g3dVo1VlNzSFVlYTRMbHk?oc=5",
+          "date": "Tue, 29 Apr 2025"
+        },
+        {
+          "quote": "Brooklyn sees 1700% surge in abandoned car complaints",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWnZPbEZzUUJIelgtWG05LW95NEhYSGx3VXdzeHZxTkRkbURUblhpaW1pWVlBOE0wTXFPT2w5S3FmbnRtWjlKQXBBRWw5RWQxaFl4T1NkRE5QWnpfanFPcWJITWVoMGJ5a2RweHlDLTBUVnpuMWVXSzlOZXpmc1I0ZFJEUmFscndjclpnRWY0Y2RvSmZIZV9oTkN6QjZQZkNCWHFKQ1ZzOXphTWxXc0FBZ0lnc0lPYmdFdFFpbGg3ODkwckIyZjJnb1dZb3kybHlPNkFGbEthMA?oc=5",
+          "date": "Fri, 16 May 2025"
+        },
+        {
+          "quote": "Removal of over 100,000 illegal vehicles from city streets",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOem9ZQzd3RFhiU3pQcjc4c1M5YXlzWTBXWm9QUnVVbEtRRC03M1ZNSEVDd290cUpCODFSZy1wU1VlR2lWM0lLWjB3dTdWQWt2V2Z5S0pWRGc0QmswX1pxdk1mYklNMFF4bDdhaXR6VkFVaHAzWHNHdnJPUGFjU0NEWVBHbi1UT0FVdHQ2NkxuektNUkU5akR3WklObmtOZ0M1ME1Bcllpa2xqeDk0c2pYTUNDdXFwemhoeUFRcXQ1YlBHdw?oc=5",
+          "date": "Thu, 12 Jun 2025"
+        },
+        {
+          "quote": "400 vehicles towed in 2 weeks for code violations",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOczFhcmU1XzUtZDhKXzV4dHV6dkRINGc2aEtzUkdsTmcwY20xUzJyRjRVcGdqZ3RuS0lPVDYxMFJfdFBPMGNmQVhEcXlidjU1RjlBbkFrREJpYXRjQUlxTTFfSDRfVnIxY2R6M0pCY2kxYXlPdVdoTFRIVnFMcHJ2eG4xSk0?oc=5",
+          "date": "Wed, 30 Apr 2025"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 2,
+      "pct": 1.2,
+      "samples": [
+        {
+          "quote": "Stadium concerts amid noise permit dispute",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SS3dtbm84ZmhybG5FdEs3MHRITE5EV0lfcVdaTGlEbUVteE5JYUtrVWR1WnhvLVRDelc2ZVZ3M2wzRzBPbkp2RF9OQ0JaeUttRmM5SHBVakxPV0ZLUjVrRkdaT200MTExTHBnVGFtcmdvZE1JVERvbVBn?oc=5",
+          "date": "Mon, 24 Mar 2025"
+        },
+        {
+          "quote": "Perpetual issue of noise complaints in residential areas",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GM2I0RXk5eG5IVkRxTjIxMW02UWo5WHhuUHdYaThxV1A1aVAxcU5FTnY0NjZCNThVOVh6NHp0X1d6anljWC10cThLdEoycmZFaFNhbWxpY2xPczVhSEJSU0xn?oc=5",
+          "date": "Thu, 06 Mar 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 2,
+      "pct": 1.2,
+      "samples": [
+        {
+          "quote": "Public urination, boozing complaints surging in NYC",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVjFIMkZuMGRUM21VUDQ2M2c0VzlIaTVhU0hIdEo2alNzanNXNmUzOW1NWklYblRsaXBrY2lUTU40MnVPR0NWQ1dkTnMtUFlHR29oRS1iRDlWeGJBalRpYkdSV29JaXlRUm13ajR2ODZxek0zLVZpMW14dEo3dHVMdXRpU1UwUEs1dXZUQm0wdHhsTkF6VW41cllUS1hFYlZvMzlvRmlXX3VQVzRuWkctVGdvaGtsVVBsVFJFUEpGcWFtWWlWdWpXb1oyZEg0Y0t3bERQU0xuSnB3eHdiUk5wbXpieHZJWlNI?oc=5",
+          "date": "Sat, 13 Dec 2025"
+        },
+        {
+          "quote": "Jail facility has history of complaints",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOFRUcUZZTERfTlk1aDFYUFFXNzBDZGZNS0k5Q3BBWVhnQ3Q0cF9OaEhGN3JRMDVFR291dENvS3BCOUpuelBNcGxsTXVuWndNb2U3c2w0WTROMXpuVFVoajdSbXhDcVJ5T3BoV3VHMzZ4ZmtZR3Q0MGNCQjhMMGZ2bXRoNTBWdlV3dDRHUTEtbmU5bkFJcldKREZDel9zZm95akstU3hEdlRZX0NnbTR2Nnk3YXIxT1daSEkzVWplRUtXd0xJdWxhbVkxeDV2bndHcl9xSFhGd2TSAd4BQVVfeXFMT3NwWFBqeW1DTEJqR1JTaXI3N3pUMFVCd0EwcXp5NDFPY0F1OGsxSDl0ak9wNk5WUDF1NDVDOVJxU3pXQURBTVYxYVQtdUdKUEFkTzhpRWc0TEwtTGZJUmtfa29Da3RxRjVyUy1ESE1iRWNsTXY5XzE2MEJuYTdWaUlJTU5aQUp4aGRPYm4xWjFfQ0R2VU9veF9jNHMzRldvR1Jqbkg2S183cV8zVkFJMFZhakFMbkFfYXRMdFRTYUppUlVVUjAyN0o5NVc2Q1RNa1d3SWxXR1BrWE02bE9R?oc=5",
+          "date": "Mon, 05 Jan 2026"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 1,
+      "pct": 0.6,
+      "samples": [
+        {
+          "quote": "New parking fees at Balboa Park anger residents",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeHdGSHBYOXB2MWJqNHM1V0xzazFITFg1OTQ3R1NCUlVxTEhNcGZaeWNaVmNOQXo5bThqbWc3NDBMRU92eDBfV1FYWlJUdWhrZ3V6RFhEY2w4QzdVNTNyeVBqNHFNQjRMdG1fWllzYkRkVjhSbTlIT0liY0Q1Q0hIR1h3?oc=5",
+          "date": "Fri, 23 Jan 2026"
+        }
+      ]
+    }
+  }
+}

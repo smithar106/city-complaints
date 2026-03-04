@@ -1,0 +1,262 @@
+{
+  "city": "Oklahoma City",
+  "slug": "oklahoma_city",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 128,
+  "total_complaints": 72,
+  "complaint_rate": 56.2,
+  "categories": {
+    "Water / Utilities": {
+      "count": 35,
+      "pct": 48.6,
+      "samples": [
+        {
+          "quote": "Housing dependent on good utility lines availability",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOGpidmYxekd3LUhjMnNIaldwXzRDTzJ0Ml9BUlVGcWF5aVRxY08ydjYxWERVYmoyWHdHejJ4UDliTlRna3N4NWJIUks3ZDhpMWhtc2poZ3Y1SDNCdFV4ZGNLWVg2QmsxUFJtRDNEUE50TjNIZWhLU01ZdG95WWtQODByTk5pVGpzd2NkRndhVXFpRW1C?oc=5",
+          "date": "Sun, 18 Jan 2026"
+        },
+        {
+          "quote": "Toxic wastewater from oil fields pouring out, regulators failed",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWQ1RNdlhFM1QyQWYyY0x2M1FMWW9Td0o3OHBQWFhtODVrM1FHaC1aZi1rRU00bFhOVDV3T3V5cmczZ2tmQTAyS1QwcE9rdVE5N2tjbnBWV2RZMG1iem1rbzlVdHB4YjN3TjNWVmdVcm4za0tReVkzdGlSYmw?oc=5",
+          "date": "Wed, 29 Oct 2025"
+        },
+        {
+          "quote": "Ponca City crews work to repair major water main break",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGlXXzVSYUluZVhubFlIaGxFUjVOVWJ4U0t6cHhHYW9aRmx4Wi1aUUlzUVlFelRlMmliaGJQZzVJNTFlNXlYcXozSmRuNE5NUmoyc095ek5CU3YzVmEtUm11Mm9FcV83X1pHU25vN0lvTjJNLUZBdEFfVDdwaTl6LWx1U2xBcmNKd2400gGQAUFVX3lxTE5MR25fb3BpWEhtQ0F4LTJONm5vTy1fZE5XR043VWpOa09UNEcydVdHR1AzN3VjbjhwbFAyUHIzYXVaVnlfVFZFejBWOUwwT2lQYmppNzY4ZkhMOGtaRWF0V3NBZm8yeWdfV085SXl0UDk1Nk9od2V0MXFVWHk0U3NlcXhZdkpkTnV2YldwSnZBQQ?oc=5",
+          "date": "Thu, 28 Aug 2025"
+        },
+        {
+          "quote": "Water shooting out of ground after main breaks plagues residents",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOczNwa0ZGdnNFWGJBSWdTX29hX2U5SnZSVmFMZGgyTUZ5aG5XalB4ZTE3NzhoeHZxOEFRaC1qRERCdnExQzBFZ1hrdVRYbEUyTDBkN0JfYS1pTnp6ZFJBNEJ1VDgyR19mTlNBbFpYYXpxSFY4SENMZGJ1S1FDeURRVTVfNA?oc=5",
+          "date": "Mon, 03 Nov 2025"
+        },
+        {
+          "quote": "Water main break impacts residents near W Britton and N Penn",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxONTF1VWdfUi0ya1UzY1dMVVQ5ZHJmWWI4UUtiWk90VUZDaUZWRlJNQXhNR1pQNEQwX0JlbFpYamV6YmtaaHdfeXQ3Y3lUMGw5LTR4dnhDZVBrNUpKTTY0OTVGUVhoYmo2aU1wRjB1R2FKM19RUFF6cnphX3VHNGFlTG54MS14aXpuekJCRHRWLU5PSzBFTmdNZ0M4bF95TDh0ejdZb1NLT04zRjZZbWhGOXduajA0ME16TXB4MEtjVmswQWdTcWU2NzRoV3NoWGVqMjlMcFVrSXV4aVladzlJR29GU3p0STJJTTBKb3RSbzNta1BBcWd6aFpZY3ZDR1RvcVN0d3lqVndBSTRoSTlR?oc=5",
+          "date": "Tue, 21 Oct 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 8,
+      "pct": 11.1,
+      "samples": [
+        {
+          "quote": "OKC voters strongly support fixing pothole problems",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdGhyVUJZbVowYjBMTjh2WFFKSWhhZEJYWHdjRndDV05ISC1wR2x5WjA2dHZHNVNsUmpkMmM3ZTBSbDBaazFpa3JwRC1oLTRvbmlZaVVFNlhJNmRaS0ZubEtkQkpPZlNUWGQzSGpoV1pFRnZBNF9wbW9Wd25mZFhWcGFIRkhvSU9sY1E?oc=5",
+          "date": "Sun, 19 Oct 2025"
+        },
+        {
+          "quote": "Lawton pothole crews working daily to fix city streets",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPODNLRWlJdFJucS1NcWhQT2t4cXJSTmtOdHQ1Uzkwa2xxOG1KUHFWeFJhUkJGeVlBQUNyRHJaall5cUNIQ0Jkel93eHNFLUZqVXZOYVVVOVczM1RLZ1lNaFEzMjNXb1hfYmFJbG5xWTBUMERmU1hSWlpsX1RySmY0ekRqb0NrQWtQTmdJSdIBoAFBVV95cUxNTDI4eXljaHlBYm9weTFxeVVDaEw5ak54bmFBcm9lZUFaSlhuczdXSGdlQjNtQmJub2E0aThaUURUZzVxbEZIcWJiMW5wRHhfQ2hLanZWQUdaYXU2amxQbkIzdER5QWJYUFhqemRaSHpDRVJjZVF3TlhCaUhXeU1qeEMySHVrWmhXQnFLU0dfUl9iUWk5emlIdjd5ckFOTnBL?oc=5",
+          "date": "Sat, 28 Feb 2026"
+        },
+        {
+          "quote": "Delhi residential roads face dead end with empty coffers",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOWGNwaTQxU1dENjNDaEdLeGxLbjhKVFk3S25iZGFvSFlkVFk0NllOcmFvQy0zTUwxc0ZMWHA0WUxjRGZ0eFVMam5UMmtpWjd6dFN3RlBMVXBEY05iM0J1WkVkNzJDV0pVY2p3UUNnLVNFTWhqQ1ZiWVFfR2oyRzhnc2N5bG9PN3RlSWdtd0lhdS1qWXY0bkVmWDcyZ0Q5YmZFalFFY0NmcGVCT05CRVc3WXdVc1h4SzhCT1hZaWVjRi02VzVKbkdFQ05najZ3dkVfOUpIc0J2WmU4RzIwRmVQUVVHbDRsamROV3NpRk5zdXhWUTcxN18wZ0laWmhtcW1OekVCMkZ2UzhYX3NfR0kzQ9IBlgJBVV95cUxQZlFVQmVuVlRCWFVTTU8zZTRURUJOUGpJSmJnVG1DZnJTWG81RWxXZ1UtRDUwRjFZRDl0XzJPSmVpN2x5Si1rbkg1aVJzbXZCdnBoYVhKS1Z3dDM5Ynl2TnU0dUtSQ0RsdXFXU2ZpN1VuVlJlbjJrelVsVEJ6cm1pR2hNUXh6LWZHSVNqaktwNlZ2cmJOMlhSdEE4TWN5NXlnTGJ5LUg0aGVleVdoT2RLemN0ZGlLZjhJRGpwTEFieldiRzIwWWEtOVNaTjY5RHliTmdhakZMS0xnYzB5M1lwdC1FX3pwb3V4Ui1TdFlrWjZZaHlZUlNWX21Rd05BaFg5cV9BMU1mOEM3VWN2S2FqU0VJc0o5dw?oc=5",
+          "date": "Mon, 01 Sep 2025"
+        },
+        {
+          "quote": "Residents demand quick response to pothole complaints",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTnN6Q3ZtX2YwakhRWDNLS1kyMTVOWUktQkotb0s5aE9NbGdaY1F0R3VZSFQzX2VKc3lNS0VGd0FVbkhuOW50ejkxU0ZIOUIyZjJKZHE2VEd1QmRYVVVnamhnWDYzSi1JcXFZWEtyTGpCLVRtMl8zZnI3N1JQMTZ0NmVDcUZFRUNUTWFtaGlxV3dVM1l1SUM3SjNtemoxZGk0RzdTSkxUcHRWS2E1UHY0M2lTaGJqUEk3eTJoQ2JQRUR1TDZoTHNCQkF1SXh4dlNBeW95MnN2RTJ4Sll6Z3ZqLUh6ODV5QTdJUFdIaTRHNWllSEJkSFpTbzU0Mi1pcTMzWDlvMDhVek5MUdIBjwJBVV95cUxQSkE1NFJKZmVpUWNnN3oyQmN1bFVYcDYtOXBSWENjalVOYVJZOWNQcGVqUjZLX0IyVDFKMzk1dkdsSnhlb3JuZWVnTDBBaUFlRVNrb09aQ2UyN29XZlp2NjRLM25WbktqWDExU0NMc3dGZ1AwWTJmMWZZSlU0OXN6M0QtWk9fQlFUb3Y3WDNqNE94TVYyZmc0U1M5alFpTXlJTkJsX0JHVlVpRC1Rem4wYlBLRDNLeTVBVkVwYUdjUlc1bDh4TE05YnJWbVc0MGVXRFhoSnQxSUJXdWhLZWVZOUp1cGFaekw4RldldmRIZlZNNmpDZDhtQTduaHNfQjl2S2xpQXlDUzJKYnRnYUp3?oc=5",
+          "date": "Tue, 03 Jun 2025"
+        },
+        {
+          "quote": "How to report potholes across the Mohawk Valley",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYmN1a3pmaWt3eWZZZVM0Q0tIeUZoZ2NUU3YteC1rWEhQOUZhbUg1MDIwa3ViVlRjTWh4QmpYUEVydWV4XzdfVjFZQTNCOWFxSFRCdUx4TFM0Z3p4dzNrUHF6cXljYUFzV3gzc01PdlBKWFNpTTNsMTg0QkI1ZVhWQ0JOTGFsTzdrNmx0TkVlN0tDWUhqc0d1Y3Rzekpjc3h3aGRPY253dmE5ZkdWb09UMmd2a3Q4SU5rMjM5Znl5QmFJTFVFd2dVUG5SZw?oc=5",
+          "date": "Tue, 03 Mar 2026"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 6,
+      "pct": 8.3,
+      "samples": [
+        {
+          "quote": "Wichita rarely fines landlords for property neglect",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUVRTZU8yZkhCSWV4VWdpRk5aaTVRV2hfX2g4WWxBeEFlWmJKMWFxZ1BBWUIwRFFveEVaMUg1bHNUMXZkM2Z6WU5IemVqSGpvZ3FIcnlKYl9GNXkyM2plQ1pIWlltRGNFQ1VPUmdhTTNkVTZYSG5FRHYzQU9nei1Ka3F1N1VodTFIUkwtMTJsVFlBTGdJOG5heFdLUHdBLUVMRTZJYWJvMmk3OFB4UW5zTUVR?oc=5",
+          "date": "Wed, 02 Apr 2025"
+        },
+        {
+          "quote": "Small town overwhelmed by fumes from oil waste disposal facility",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYlZqU0FWdXdvejlxYlpJTHVVb3gtZFprdTBUTnlUZ0pscmVHNkh3dDlhQjVGTGFVU2xfdVhxOFFDMkl6OG5NZ2VoYWhwX1NpbFRSeVg4Z2tXOHFSR3E0czl3N19Pd29tT0ROUFQ4UlVMWko4aG8tdWpqRElvMDIwMVlMSHk4VzNwVXJZdXlLVWk2QmU3OV9vbTIxRVlJMVptMTY0dllLRWhRRV8tNVBsQk1FOE5RVzFsTmRncXBLMEVzZUR0UFdzY05IOWVLS2VUR0VtUVp0ME4?oc=5",
+          "date": "Mon, 03 Nov 2025"
+        },
+        {
+          "quote": "OKC tenants seek relief from property neglect",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOektWYnh1ZC0xeV9Qc1ZMM0VPeE9Ed3hwWjRTcnZZQlpiTXhmU3JrajZmSWZTenFiS2V3MjZnMFF4bGlkYTN5YThnWUhuM01iVkRHX2k2Z1dRUXNNWXVnRFVLUGpXdnVBU1VlTUtDUnFuclhoQU91WlFLMGFVTVc5eGprY2JzclVPaVVWYk56cHF1c3REUXJPNG1vX1hIbnBkNWRpd0dhcEdmaVdQ0gGyAUFVX3lxTE5rMzRSQnRvWUsyMDNWblQtY3BiSWlBSlFoekJvWkhjLW8tR2tHeDQ1RmV6clI2TjhGTnRlVGlmRkN5NHRSaEpJWjFEdktmajF2Y1FfMVlkOVB5d0Y0TkNNRUZCWDJPYXVJUTZsY0NtaUhJODg3UktPTmhCb2pCNndzV2ZYWm11djEtcXZLbEZBS0Q4bXpQcEJGajItQk50VDR3NmpoaG04NS16LXRjUno5aWc?oc=5",
+          "date": "Sat, 28 Feb 2026"
+        },
+        {
+          "quote": "Bricktown canal clean out complete",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Xd1VhVk1SUVd5RFYxczdjbTZWNEJRUGw4UVhwWE5qclFYUExDVF9mQ3BUM3RkQkVUU1NuX2tEY1pVeDNxSkt1VEpQZ1p2Rk40NzRUdTd0REdZR0hNZm5Ec0tGc2FyYW5hZE1yeXQxN2VaUlJmQkHSAXtBVV95cUxOR2ZRTDg2VGxxS2UxS3Y3LXRjcVNsR1RZOGlQMWVpOVpLM2ptaTYwdWRVbjR4ZVlheFgxNF9YNUZiWWpKY1c0b2pZWU81ZG94bG9wNlhtSFlweFVfU2tVOFpLdlFJWHBFWEJ3Znl4NlZadXFMUG1qUVFSNm8?oc=5",
+          "date": "Fri, 27 Feb 2026"
+        },
+        {
+          "quote": "Aging dams in Oklahoma pose looming catastrophe for residents",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WRldZNi1tSG9Da3VfMEVzMDNleGFNNURpR05OenFhUGttNHpFWERHa3gxUWUyX180UXYtRkJOVFptRTBRQVdwSlNjamF0UQ?oc=5",
+          "date": "Fri, 02 May 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 6,
+      "pct": 8.3,
+      "samples": [
+        {
+          "quote": "Vandalism hits Oklahoma Capitol as crews worked to clean graffiti",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUXl1dlYzTFFHMjFhR2dNaHgxODdmWHB4VWpyMTZOUzUza1NQdnlVUnVQT29XZDZmYjIxMjFjaTFURWYyWVo4ZVh0cUVGZTRkV3l5bnpRSTdGOTJjajlkcUEtN05TVmcxMDhnREFydE1nQ2NZckVuNVBxMERXeTRpaFpQMDJLWDdlRERNZnR0aTI0blMyd0dEOWlB0gGfAUFVX3lxTE1TcEgwZWIyMm1nWlZWLWZxXzBONWwzMnlzUWR5VkRNbDhUZ2dBcGxBRTdPLUpXWUFYV3BJd3FBYU5FNDB1ZkVzbi1hemtkVlpZOGhsd2xfcGlwdDVaNW5IZ0FEaUZNUFMtb050NzhVTGdwSWZJblVOTjNRdk82OWh6a1plaFUxMVM2OU1tejAyZkUxYnYydlVTMS1Jc3o1cw?oc=5",
+          "date": "Tue, 13 Jan 2026"
+        },
+        {
+          "quote": "Oklahoma Capitol vandalized with violent and vulgar graffiti",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWEU1WkwxZ1VQd1hBR3dNVzF6TmExWnB4Y1BWcHJDeENRQzZ3bHFyQTZFMmQ5MlBGTFdpN1B2NGpBZ3VDYTIza2hWMDRQbTFpMTc4Yk1mWlFmYmFKRGRwNEtmVV9wOTRqZEhZclYtMnQyNXJYNHhFUXdaREZxSndqclJ5NGJ3bUk0?oc=5",
+          "date": "Thu, 15 Jan 2026"
+        },
+        {
+          "quote": "Graffiti suspect linked to widespread vandalism across Tulsa",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHhNMHdNeklFaGk3QjgtaFZDRTdiTEtCNWJPQjU3VmpVbTdCNEF4LThlTjcxSUhPVVU3Vk1vZWtXLTNSZ0N1RWptSjJpWktJVlJyZU0xcFRDbDZKWFdDWndzR3h2dGJVb2JObVhzbExTUzVjTlJwb3diVjdrSnNyN0RQZVRGaVVGRkFSN3A3Zw?oc=5",
+          "date": "Fri, 05 Dec 2025"
+        },
+        {
+          "quote": "Crews cleaning up vandalism at the Oklahoma State Capitol",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnVwWjEyZFZwaUlodWp5TnVXZUxTVkM3NUtpOXY2T0VJdnIwR0VHd2Z1c1NQdWtGaG5pQlBNYnZROXBXWlo1clVjQlRuTFZielNmdjFkalppSFBtUXk5cGl4MXRhMXFZQ0YwVTNPcWNKQTNZX05ubjhUajd5cmlucVg5bjY1alNrbmRWTzd0ONIBlAFBVV95cUxPak1xUzJsYW4zQjJwSS1Cckt1SUc1eV80cjltQkVYWHRrWVQwODVaSkJJamVPaVhySkNhX2NUZWhwVFZPNjBrdFprdHBOVlNFUllONjZ2T2dSVl9idlhvb3Fma3BOVlFUOVRsRkhfRHAzcGw0Z1BVakJzMXpnSjRKZlFETXdTbjJXczlQbGV4enhSTVh2?oc=5",
+          "date": "Tue, 13 Jan 2026"
+        },
+        {
+          "quote": "Graffiti vandalism driving up costs, driving away renters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFM4ZGVGeXJpZ3h4RTZIZU1NWF8tM25ocW1reGRZLVU0aTFrQW5zRlRJTkxpWUxCMFljUFJEem1vM29aU2EyVzNxX1lNMzV1bUhjaHJYNzVpbk5rNFJCMWhNSHE0eWltT1oxMTJyLXFPYm9TeVp6YWZPbERwa1ktNnFmUlNHNnY4amxaU2FLLUZYUFpyT195dC1NQk5hZ0RUV01zblhfV1p1dktsaGpHb2hfdjA2VzR6RkR2X3BfWHFVT2dfSjM4?oc=5",
+          "date": "Thu, 13 Nov 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 4,
+      "pct": 5.6,
+      "samples": [
+        {
+          "quote": "Small Oklahoma town overwhelmed by oil waste disposal fumes",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTXYzUEl2dmNkTjFQdWZSV3Zsd2d5UElJWnktTGY5WTZIXzVObmlGQnR4MHdhRTZxWFhjQ3haRTZHV1lLdHFnbXJUbHBRQWRqTmZMNkQtZE9Kelc4Z2RpMThNR1M3WFJUdXNQb0xkeEFEakloWnpqbXprQ0ZCaFJrR004eFJ6WDFZMXNpaktRYUVXOHN4TnpzU2s5OEJqOFZPQUhpX3dMY2pXR0hCbkg3amZtY3B1eHJkckJMaEU4NjRCVU1OTkM4cC1Wb0RiRU5KMDNmN3lCOUtybEZobmNHR1N1bERoUjVNRUM4aUhhRVA3X19sUlpoeGh6bllsQQ?oc=5",
+          "date": "Thu, 06 Nov 2025"
+        },
+        {
+          "quote": "NW OKC apartment resident fed up with overflowing dumpsters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU0ZscEtyVUNzR01Odk1wZFNKSDFKSzY4WFRScU5sTVNqQWFZMkVIVlVldnRacHdRTVpfWGg1LU5LM2h4SzVTclFhR3JGb2tIZmRuSVB1NXlnUlRZMkVHYTJYZV9iZmhadXBYQ2lISmdPc2NrSU5MdjE3XzJfSlJuTVBJWG5HOUN5WFJIWEJVLWlZQ2pNazFqR2RDZmMtYl92OUF30gGoAUFVX3lxTFBqNDRTZlRpX2pZZ3dpQTI3RTBKeUktVWhtc0FlT3NWRUhNQjBRZXRaLU9CT3Z2WlhfZG40cnNWd2dsUk1TdVFSc2tVTVVZMlZlWFc4QXVoV3FBMW5TTE92Z2tuRlhUN2pDNkYzMldjeGtlYU1pSVlTUkJpd2JkT1VveGJCNEphbnQ1TDFaYUxvMTN0R3RJR196V3JZazkzQlBpdjBtMzZzRQ?oc=5",
+          "date": "Mon, 08 Sep 2025"
+        },
+        {
+          "quote": "Residents frustrated after trash overflows at housing complex",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUTZHUnp5QVJCMW9GT3FvWi0wbEtRUG4tTnZkRGV6MGNUeXJrcGlEeTJ1eXlUVk5pQ3QtUWd1RXJJRFlUSTdQclhDWkhkUll0WXB2TVFlTTE1NngyeUltOXViWGgxZmZ0V1VjdE5VMUl3cks3U084MHhNTG41SWREWTMwdTZKUFRXeWpKZmRFdzA5Qnc00gGaAUFVX3lxTE1LWGQtLWpXVXI0RmI4cmVqazhvWXBDZVk4aDBLSGhsT1NvVFdydUY2WGlBVE5VWk01WENkVWdQQnBvV1lFOEd1XzNKT29RVmdIM0t1RFdyZFVIZ1hvaTBRb0VMMktvMk1pakNJbkZSRWpsc0tWS2V6aGlvSjFCaWJHZmRBcW1HTnBuX3BqM3VsMjRUSjVMNG5aOFE?oc=5",
+          "date": "Wed, 30 Jul 2025"
+        },
+        {
+          "quote": "'Less than stellar' trash service in Sapulpa",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ0FPSDB4OWdaQlUzZi11TFY3c1NLaUVtcm5PLTRuVWszaGtIdEtiV3ZkRV9FUXE4cXZZQURNel9IdFhucGVVY1pSOE53ZlVkakFjUGlDOFRJUkhxaGlacDJjY1hUUVhlbERGenN1cFl2bVI2TlNzazM1eUZqN3VZRk1yWWxlQQ?oc=5",
+          "date": "Tue, 17 Jun 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 4,
+      "pct": 5.6,
+      "samples": [
+        {
+          "quote": "Neighbors demand demolition of troubled apartment complex after fatal shooting",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGRnUDlmNnRpVkdRckF1SEZxUElBSDhWd05OZTRMdlNuUE5YRGgyVG5nVTJOMHpnLVg3SDdmSHluTXdNTU9QUjFZOXRUcFdJamVzUEgxQzZjTUNWcnNwOFNNbVlsQ004UGZrdTVxbVZvNXp4aEx1N2Vrc3Z6ODZieHFjaHlMQ0Y5QktHU0ZJZmhLVDE2b1ZJQUhvQmlWUG5ZTkY0Uw?oc=5",
+          "date": "Thu, 15 May 2025"
+        },
+        {
+          "quote": "Ponca City resident leaving after triple shooting, crime spike",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQlRIMnhqTHkxUTh5WTF3SlZBN3NHa0VOcXoxYlN1UTdpR0h3MFRXWnc4N1lvbEhobDdneFJGdlAyRkJEdG56dE9raGJUanprdHFIejBxWXVnbl93VVBNTFJxRGN3WWZFWW9sbWc1UDF5RjdROGpRQkx5MmNMZnU2SXlGcTQtdk8wUHZGLVpVR0Rwa0ZDdzBMelUwVlE0bTJW?oc=5",
+          "date": "Mon, 25 Aug 2025"
+        },
+        {
+          "quote": "Family files federal lawsuit against OKC over civil rights violation",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONUVzVWVtR01JVXJ0bHFmWXMwVGRfTU53NlBXcktfUGV1U2pRUDNjR1c1dUVES29VeVpjckNWV1RRVjgwWVoybmJEN3BxU3Budk44Z21SZEU5UUlRX0t3amV1dXc4RGp2M3BpT2NnYnMxU3c4ejhiSVdOWW9ObE1XdHM3V2JyNjRZTTMxeWo0T2wzX1F6MHJMdVpiYmprZUVOaUt6T2lmLXoxN3I1YzNIc2w1X2pBMTR5RURCb1hJMjRNXzE1VkE?oc=5",
+          "date": "Tue, 15 Apr 2025"
+        },
+        {
+          "quote": "Lawsuit names former OKCPD officer, Oklahoma City as defendants",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVBDNDZZaFJ4N0tDREhkQmFyQ1V0YVY0SDN3Wk16OTg0T1doM08zQXBpTmxNLVJSdGM2SEdTajVsWDludU1iXy1Wdlk5Nm54MzN1V2I0U1RPdldVM2JGSXh4VmowT1dRWDg5UVNsazlwLUpnRFg3c19LbVROeTJVLUVrVkdiWlA2VnZWanJsX2lfNnFuMTRFckJxTGxscUpPWXBwd9IBqgFBVV95cUxOVTdHY2h6T2xGMGx2ZHM0MkVkbmVVNzZxR05tVy1CNE9XZDBQVF9kX0hMRm5zRXlub280dFo0RkJiZFFZZTdRMU5XRmZXcjMweW5xOEM4b3Rkc2VFbmZ3OU81d1ZIVkpoM1pLbWkzZXpPRFpNYWRJSjY1YlpEa0Rjdk5jdkRnMDVLM083VkVOQUZOMDFBNEZRa0pyN09tV2ZOMnhTSHhIWFp6Zw?oc=5",
+          "date": "Mon, 14 Apr 2025"
+        }
+      ]
+    },
+    "Abandoned Vehicle": {
+      "count": 3,
+      "pct": 4.2,
+      "samples": [
+        {
+          "quote": "City places lien on abandoned ranch near Chisholm Creek",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSmx6UFU0WklCbjBPM05seVV5SmRkUVlMaXBjQ2k4X09IM2ZKa2t5dUt0QjZ0c1BoNzVpaDNlZUtZUVZsYmc1ZHEzcGRwUVY0Mmw3YTdrUnBjcXhid3c2cjRMcW5XY2o3X1V2eHlMMWdCbVk2bGl6WEQya0RwZ1pYLTBBSW9GOVN1bnZxQjlSZGt1X1ZGa0E5TzR1UjQ0M2FhTFhRd1lLV2VNcGxyellwSDNRdlFTelpkRVFDVGRURjItQQ?oc=5",
+          "date": "Wed, 17 Dec 2025"
+        },
+        {
+          "quote": "Inside abandoned Promenade Mall, trashed and neglected",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaVcwbGVtRXBqcm42MjQxT0RERnIwQjJ4RlpkdWdlalhLal94Y3NrVjNIZi1ySThWNU1EVUd3OWRXYXptd0R4Z21POTdhNXgtR3NyRXZucmFuNm5XdUxqQXhyU2RqdTlseFg3emFnQXB3MjR3RFJHaTFuM0F4TXZCcmRsZE9wRFFLQWVJ?oc=5",
+          "date": "Wed, 23 Apr 2025"
+        },
+        {
+          "quote": "OKC set to take action on abandoned house near Chisholm Creek",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObkl5WFdCMWRvdFVwajZrU1l6Q1VvTlBUWnI2VzVfOXJ4Tk5vM2dQS3BrRVg3MTlHNmlyMGhwQUQ1ME9YNUdaallQNG9tY3l1cU5ocldnYzNBbThkLU5qcDltOU9NWkdSazlaMlk0bnlDLVNSWktRa2hzT2wtQ3NwVmNoSjRFamNaVUtOcENTNFpscVQzbXlwRDJkZmwtZ1JhOEFmVHczZWNYem1taFBhdGhsZmtzdEV3aHdVd0lOdUdSeHBfdWc?oc=5",
+          "date": "Fri, 12 Dec 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 2,
+      "pct": 2.8,
+      "samples": [
+        {
+          "quote": "Gugulethu residents say blockage complaints fell on deaf ears",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMDdDZzBwU0Q1QVh3TzBrMXJCNG4xSEp6MHFNZEpjcXM4cHBrX2p2bVBla3FwN2FUOVAwMkJvRTNWcGhoYWhPeHJYVk56b3RPQTYwS3RLWEtlWGdzUzJITXQ1RG1nSGxkM2o2M3RsNC1NTEtrTnphR3p2bnpPQ2RERkFIRVNnWllXVkU1dEVFYmFlcUl4eTM1ZFJ2S2VKZnRja2JtOHlISGhnVzFVbjliTExVZjBFSjNubWxjQy1iQjBCZklQWDJvTUtEMjNfQVlD?oc=5",
+          "date": "Mon, 11 Aug 2025"
+        },
+        {
+          "quote": "Emfuleni sewage scandal linked to death and illnesses",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcWtqSlF0YUtIdHNmUkNzMXZqVGo4bE1aVlc2ai1xejlUSWtiaE5OTFFfclNHenl6MGppaWt6R1pRcGcyZzNpaWxtY1pQQS1mTDNrX1paOUNUc2Vjc2FPdEpCQ09ZNUZiWFRxaVBlNE5maGxzUmd4aV9Bbk1Bby1BcWlXZVp2ZWxid29laHlmN29TcWo0SnE0RVdJOHo1cEp5YUpZMnhDZ2FkdHEyZENxWG11V2ViM2YtMWY2NERIWFBVM0RIMkl0a0FESmhYemFDVlpOWEtn?oc=5",
+          "date": "Thu, 17 Apr 2025"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 2,
+      "pct": 2.8,
+      "samples": [
+        {
+          "quote": "Locals fume over dark streets in National City",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTljR3d4dDExYnhVSEFnVWNEenlTLXUyUGtlWmpmWUZmUl8xT19oMlBiZzNIYWJQT3pWVzdLU011U2ZRVFpTckZ2RXgyS1JHU3lCZHgtUkJLanFiTlpIMS1iVXdyclBGYWk0R09hWWJmdzNUeWY2bzZtcEMwZjcyMGV6alpkNnJESnY0dThPNU5mbVNT?oc=5",
+          "date": "Thu, 12 Feb 2026"
+        },
+        {
+          "quote": "Council member works to keep his ward lit up",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHBsZ0JFdlBhWE5EcVBaRGl0d1hRUHFLY2ZScXdmUldXanlHbGMwWm5GVWxybEI3T3kzLWJfTkw3QTRtcDJoZmlyYWZ4bUVCc3I0SVZpNVFNTFRvY3JsQ2V3ZzZDcVZTaUhhX084Z1Z5V3VwUVlGcmRDV2VEUmxJNE1OY25uU2dCZE1BNE9VNG52dkFHRkxSazJKT1hRbWZSaGp4SDh5VUVOQQ?oc=5",
+          "date": "Thu, 20 Mar 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 1,
+      "pct": 1.4,
+      "samples": [
+        {
+          "quote": "Major upgrades to two OKC parks start in the fall",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcW5EWlhTZXRxQWZubzhMMUxFZFh1ZGZscTVZV054eXNHTDd4eTZMLTRTeW91VlREaVFkblZLYlh1NzhjaGlnVnNoRVZ5b2twZEFMblRSbVRyNHJqUVBCdVlLMTd2UndLdlNISUFKYkVJQ2pCeFF2U2htdmJJb2ZJS3A4V3fSAYoBQVVfeXFMTnhrSW9tenE5ODVGUTY4bFR2RW1vNUlqbmRFamZ0eGllaEVZQWlENUFqSzFSaFpMNWtvcEFuY3FPMEFHV3BtM1JEUjFTdGlXSjZWQUV4eG14UVVsRlNER0E4d0RCbUI1YmlNSjV4V2NONV9MMjkwZjNJek9UN2NXak02VWFMQk4wTWd3?oc=5",
+          "date": "Fri, 12 Sep 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 1,
+      "pct": 1.4,
+      "samples": [
+        {
+          "quote": "Residential sidewalk repair program proposed in Cincinnati",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0xwb3RSN1NpMUZsYzUxOWloUU1qRENJNm0wcV9jZTVhaVJ2VFNhM2pNT19PcDBDZDhxZDBKMC1YZm1EWEQ5ekFaRVhOeV84cmh2Z0JUbEF4a2wyWmRnZ0hqLTFRdFlwX0dsVGZ5VDVCMHBNWkVFb1BYVXRyYUpkaGd0Y0hkWDIxNGM3bE1ZVndJZmtDaDZrNw?oc=5",
+          "date": "Mon, 02 Jun 2025"
+        }
+      ]
+    }
+  }
+}

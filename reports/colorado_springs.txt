@@ -1,0 +1,91 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — COLORADO SPRINGS
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 65
+  Complaints found  : 42
+  Complaint rate    : 64.6%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   24   57.1%  ███████████████████
+  Trash / Illegal Dumping              6   14.3%  ████
+  Noise Complaint                      4    9.5%  ███
+  Abandoned Vehicle                    3    7.1%  ██
+  Sewer / Drainage                     2    4.8%  █
+  Parks / Public Spaces                1    2.4%  █
+  Pothole / Road Damage                1    2.4%  █
+  Other City Service                   1    2.4%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Xcel power outage could last days for some"
+      https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWxwTExPbzd1LUUwdm5lWmtZM1VGeEZweXJxT201LXd5cDktN0ZVdVFDZWthYUdQd253c1hFaktfQy1XMzhTTFkxbmt1LWVwLUZUUXdoSUYxbU9UMXBrcnROTjFlb1lRY0xTNVBZTlNUOVZCNkptRVpheUFoYXNJdUotakRITkZwVlZZRnRRWl8zRDZkNlVJdFdLdTRRdFRoTUM4bDlobEFvUkVRYVdfSUpveGxjRm93NGxPX3RDN2Vtdw?oc=5
+    • "Water main repairs complete after road closure"
+      https://news.google.com/rss/articles/CBMijAFBVV95cUxOUG5HVkJRMGtXWG9saURDLVBqSGpiQlN0SHFrc0UzTmg5X1JTTHYwVENTV3ZzSk1wcGRldnBybWVVMGI4akppX2Q3U2ZGLUxEczJ3MHZ0b2ZqbWhsVjFVS3RGV0gxd1NrQ2VOV1ZXdTRPRUxWQUhDbzhMX0ZtRkdmNm8yLXBQSEh6LTRtTtIBoAFBVV95cUxQRDNXR2c3V3BpUC16anJSakNwYmxkRWZoR2xpZ2RDVG5hVnBFY2pMVEluU3UzS21LWVFLam9DakFTXzBuakdqcmthRmx4WG5nU2dQdEw4c0tWeEh3MUkyeVRGb2kxaENVYm1wNDF6SFU1bGIxUm41TThxQW5GSi1QY053OTlsVVNJODNIeV9Kc3drMVZrWFlJWlkwRzVhLXpo?oc=5
+    • "Manitou Springs declares water emergency, stop nonessential use"
+      https://news.google.com/rss/articles/CBMidkFVX3lxTFBnSVp2RV9DWGxqd244dWZEUVBYLXduTFZHQlk2a1V2U0Uyd1FyaVlQV1JWLVJZM2F1bWpOY2VnS19zbUctX2Z2Z0dONGk5UHo1V0dPOTU1VEVzRV9xQ2tLM2p6UGNFT3BQaDZaRzhDNjdGdzh6S0E?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Dog owners frustrated with neighbors not cleaning up pet waste"
+      https://news.google.com/rss/articles/CBMivwFBVV95cUxOMklfWGxBS3pmVld3c2xqQ1FqRVI1RmJhdFF2Ym0wZzNfb3NubXpZMUw1Zl9FOHpKclF5eC1Pa3BjTTFQUWZhb0JxTWtvaGZucGN5LTRIWjdpdFVNOWRZaV9FcEw5bWVSNko2TmNDTGNsMGp3S1ZONUM3cHNlSGEwakNJZUxRYUtJVVNjVjRZb2UzMDZQY0ZiV2YyVXE2RlpNOFRwNS0xaFBmSlNXb3I1VUNSalRxbW1UM0k1amRUYw?oc=5
+    • "Township paid $1M after trash pickup complaints"
+      https://news.google.com/rss/articles/CBMi1wFBVV95cUxNczB1akdJS3BsMjRjSDBpUlY3d1BFRUp0V0xqZUFranZna18tRUZXX0tmVmpYakgzdlpjOXJwRFRlcDdZOXdXUVo2REFHcGhnU1NIVkYyMXJ6aUpKYi1vZGV5UHQtYnlLRl8tVG9vUUtqNjU2akFjSUdHcDVSWmlfTWpQbkwyb01EdUVpcV9hTkQtNTJ5ZnphTVplUFN3SkhCSjl2STNXd2V3bGVmY1c2ZWtqZEZwSUxtdUh3SVVUV1JjcXdTVVp0dDU5a1NOZ2xNMkNSU0JhUQ?oc=5
+    • "Campaign to keep Colorado Springs clean"
+      https://news.google.com/rss/articles/CBMieEFVX3lxTE1XSnowMy1xM1J5M0tSd2czN3hwRTVOUWFWR1lQOXl6MG10Tno4RDZCQWlpYVZZSm5FQVRRQ2ZFTi1TMFVzc25nTkVkRFUzZTY2Z2xfLXF1NkJXLU5sUFV1YWFsY01YRGFyRl9aLWVxT0lndHFwaVA1Qw?oc=5
+
+  [Noise Complaint]
+    • "Review raises issues with amphitheater sound monitors"
+      https://news.google.com/rss/articles/CBMiwgFBVV95cUxQblUyYkJtVTRIRHV6bVpaa3NrZnc4b2lGRl9Vb0pkbURTbG44dTBCSkxBalNsaDZaajZNazVLemF2NW9uclZsaFZlaUVtbDJSYnFPeU9FUTRQY0o3Uk42bnBzMXV3cXVMcTdkT0RPc1JJNnRXdVpsSVlsNHhCakFuQ2Zqd1EwZUNBenhMTnNPa0ZHOWRwa0FUQl85ekpxODRDMkZQY21icm9BSHZIdDZZQmpENGJwZy1YSnFDT043RFozdw?oc=5
+    • "Outdoor music venue in Colorado sued over excessive noise"
+      https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYkR6eHcxTU1RbWk1VGYwRHN0SE5odF8wODNyRlFjYXVqTVNxMVVrbmI3TjBWaWVtaEZDNFdVWS1iZFdMM05nb2RZV29DbUJlbWxoMnBOZGZSMG1QNldzWmpxQ05fZWs0clJ6eV9Zd3lxNUkyU2JWX1NNTjdaRHNoMzZOT0NrLXFfVkN3UVlKTzc4bl82bEtmUmtFR3BqUnVveWlyaEdfYXJqM3BqWWwxeVVKb3Vsa2NoLUdEQmJBdzNNbWlaU2NIT2VGX0pmWDNNU1Jsc0Z0c2sydjdD?oc=5
+    • "Frustrated neighbors sue venue after years of noise complaints"
+      https://news.google.com/rss/articles/CBMihgFBVV95cUxPel9BY2dfbFJqaWlwR2ZEN1dFeGw5VU9CZThqTmQyaDVOX25kSlE1TGMyVUhDelU4SUhRbzlzYmVBMEtoM3NKcFY4ZXBwMFNyRVF1X1dPVUNpamVxVVUtRnhySVViT1lHaDFGaFM4dVdxSGJpcDdMVVdIT1A4bjItVkhRR1d2dw?oc=5
+
+  [Abandoned Vehicle]
+    • "Viewer concern over abandoned vehicles in Colorado Springs"
+      https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUkFCa3htTVlydVpKTVd2a2l5QkU3OEQzQlZnOFR4ekRUQkxvQ2RyX1NiZFlyOUc5OUUydlVjNFZkMVVLaUplRFRuRnZmMDR0Y3JmRGQ5dWdTa1g2MDEzQ3RPSlRLMTFZajNFbE1yNmJmU1dNOVNwWlhQZG9PSjA0anN1alBacTFYT2hQUE1Ob1VXNFZONTA1STlvdG1NRVk2cmphRmU3S0Vrb1U5YkxtRHZWUnpSbm5DNmtqNzJFX3DSAdQBQVVfeXFMTm9lVllySFdjdHYzUjh3N1J3WkYzMS03QmxYSkNIdVNOSnFjT1hZOXBTQzE5dkh3LVpodVl4M3E5RER3eDNoelVLNXl6OERNdzdOR2JuTmxXMHBuZGVNNjZsa2ZRbjlUdzE2UmRSSjJnSE0zTUpwZGRKZm40Q3FBRXhmS1U2U1hxVkFaQUtnNUZ2dW5iVXgteDhsUXdkQzZ3WnNyY0V5Qnp2andUR3VqYmh5cGdFTEVhd2t3eWh5aVNYamN2bDR3cktWUVVMZTQ4WjZLLXQ?oc=5
+    • "Budget constraints temporarily paused towing of abandoned vehicles"
+      https://news.google.com/rss/articles/CBMivAFBVV95cUxPS09OZXMzTEgwZmNtQk5tNktqQTdrTUVuNXA3cFUyYllBYXFwNWYtYnZPWHFKWGxINUtmYVlDcXo0aUR0UUo2OV9lVThXUkFMUkFhVFhUc3NaLU1xWWtWLVJNZnBHcWNZNHRLcmdIbDZpY2NFMHJaendOVGJwMlZQODFBTGU0R3NWbGczU0EwdUpVM1ZoWEx1MFh5Q015M25fUUZCVmpfa2xWaG9FTVpLNmNCSGdkWF9vdVhEYw?oc=5
+    • "Considering more authority to impound abandoned vehicles"
+      https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY1N4dzliS2FPWVUwVGRCNU9DcFQ2b21BQkRoMHhNSHpOTk45MWw0U2hIc2Iyc2ZtNFJiUjJEaUpvZWJqYmxuSkxWRHpnc0stQ2RWNkxtMUI1czFLRHlncGV0OVFlRkJRdFlyS1NETHhRRUdZSTdYcW9RTEltT19udll4UEh6cFlkenotM2ZTcE9SdkZTaFlfek5vdXdmUHNFbW8wdHVjSDI0dnlHcDdtUEFmb09vclRHOU1tYlpMX0FFQTFxRnZod1k0NUtkalJrcUV4TXZRLTE?oc=5
+
+  [Sewer / Drainage]
+    • "Major flooding hits Pagosa Springs, Colorado"
+      https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXh2U2RWck4zQWV3TFg3TXNiazQ5UC15b1B3ZTBMb0d5b0dvdHh3bTltZ3doakUzMy15OHhmaW1xX0M2RVdmN1lQd3VJQ1pCd0JqUXBpQWdqZGtzaHBZWEJzWnF3U1BJay1JdkRHbnpHYWdHVi0xWEF2MTZoWHF6SS1vSQ?oc=5
+    • "Raging creeks cut off evacuation routes in southwest Colorado"
+      https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGlBc051T2NZUW40bEd5T2M1Sk9URzd4RHhuZHM0NmtUcVRFeUV2SUJlODd6eW5NTUdVZnlNdmhCMnBBNEJ6NEp6OHdtNnI5eHR2N2Nwd05mTUZEVzRiVkQzempxVkM4NkI5dlQ0b0hFbngxRXdkeE1jVGtGdkxZUXBHYXZXeWh5NjlQOEtYNnNqdXJTSnc?oc=5
+
+  [Parks / Public Spaces]
+    • "Budget cuts will keep 10 park restrooms closed"
+      https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGlKVzF0bmN4T2F3YkZ5OEllSlRpNzRXSjRfM1FxbnRhRWthTXUtTlJfUkp4emJlSGRzTGE5UFZMWWlzM1Fid0xsX3FnQTViZ1Y2R0ZHZ1lZY1U1b0RBWkxiWC1YdG9waFM0cXg0dGdEMGo0TDVBOWxRVE9RRkJEUnlHQ2hFd3BEdnZ3cXBjeE5WWnpLUmlTbjd5VFhQc3N5YV9jUlJndTNLZ2Z3ZjVRTQ?oc=5
+
+  [Pothole / Road Damage]
+    • "Pothole problems causing popped tires and dented rims"
+      https://news.google.com/rss/articles/CBMinAFBVV95cUxNRTlCeEhtblZMZkFIa2hROUVKZFNBMzdVSUZFWGdJRzU1QUF2cVJzdnVFMmQ0WjAzZWxLbHdtV0lPVGNvY3ZDUFN3TXNJY1MtMFpJeGJ4RWd4NnZxMlJrM0JWRWxsYWVzUWduTE03SUltYmhNbXYwaDZIeDZ2Nmp6VzlCcklvRXJWUHB2cEFYcVdCaEpHWGItODQyaDM?oc=5
+
+  [Other City Service]
+    • "Viewer complaint about street project turns out to be normal paving preparations"
+      https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTVhYNWdzLXFwLUI1ZXJBUmliTnp1T3NSTHdnaVltWk13bnZBY1VDUGlrcnpGdlZsUnotaGx4WkpSb04xOE9qRGtDWVpocnpOSXRFTmtQc20wbUJyY3UxWjFQcGN0eklGZ2JwR1dmMk93MHVkSU03Sk9vTDNER1d4czNDTDY5bTBQLUxUcTZaVmxyM2ZRY09JQl9XYlZYTU5wU2hyMEZza2hZajVvYzRMUXhUUHVJQWpvaWZ3cW9QVzdENHFmd2lXM2VCT2FndTdmTWJvWjBJb1I5MWpiT05CU3BReWF2SUdXcWYybXR3?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 42 news articles reporting
+  citizen complaints about city services in Colorado Springs.
+
+  Top issues:
+    • Water / Utilities: 57% of complaints (24 articles)
+    • Trash / Illegal Dumping: 14% of complaints (6 articles)
+    • Noise Complaint: 10% of complaints (4 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

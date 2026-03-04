@@ -1,0 +1,148 @@
+{
+  "city": "Nashville-Davidson",
+  "slug": "nashville-davidson",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 66,
+  "total_complaints": 38,
+  "complaint_rate": 57.6,
+  "categories": {
+    "Water / Utilities": {
+      "count": 24,
+      "pct": 63.2,
+      "samples": [
+        {
+          "quote": "Water slowly restored after water emergency",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XWHFMWF9FREpoSWY2alZFM2pMZ0lSYlRiM2hmdzFVbGY4MlRJNGp3LUVMN21WcG1YT09HQWpKeDdWYjBqLTExNTRCM3JGVldKY1pvbTFUUFlFTWtyTGJLcDZkZVZrNVU5dFBHSGhackJNeGJFSXh2YTFfVW9DaDQ?oc=5",
+          "date": "Tue, 03 Feb 2026"
+        },
+        {
+          "quote": "City warns water main breaks likely during thaw",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYjczeEIzOENTMlk1NW14M01qeWZQSHg5QjBYWkEtZkxxZ3o2ampNeWVJUlhzMUdFalBTSGs3R2N1eHB3eDFkaTZsSmM2UElWMzF5ZldxS2NDY2ZYWEZkeHViT0tpTTgyOHdqb19Zb01JTS1fczM5Mkt2azljSUNSQUg3ODBwVXZjR3ViZ010bzNZRkZqbFhRZ1ZnZWh0UQ?oc=5",
+          "date": "Tue, 27 Jan 2026"
+        },
+        {
+          "quote": "Nashville faces water main breaks amid severe cold",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMmFvd2k1TjZBWnRKajU1R0dlT0I0bU9aVnFRMk5WeWkyVEU1Y3BiUjdLLXQyNlJKUDRlR2lCSzRlY3VRbklXVHVzNjNLdUdYLTdDSngxVHR3c09LekNKek9XNm9jbno4ajhwRmJodXJGekd0V2lhaTBGQU5Xd0hkcVp4UHNXdw?oc=5",
+          "date": "Thu, 29 Jan 2026"
+        },
+        {
+          "quote": "Residents without power face water issues post-storm",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYUU1YjVJbnVOWC1TS3U4VzJ2cDlsVkxpRHA4ZlQ4aFNaM3c5M3FkS3IzNmh3U0ZELTBzcjNjeFZpdmQ0U2lxNzhYVEZSWHhONzV2dGIzai1iRVVHempIN2xMZ1ZBMEdaR3FjRjVmTHYweS1nb1ItVndFQVViMmx4d1BHenRnSUtmcGFqV3JPWUlJRWo4WElyV1dZd3kwS2dEMVBaVWx0UVVwRGRObWUzWEhsZHdzN3ROZDBsN1VyRnZZaGpBVnfSAcsBQVVfeXFMTW5lRjllNlJLbGhYUVJYZlVERWRBMlh5cGdMSjE5ZEZieUxmbWNUYzFRalIxU1JIVVFTRTRyS0dFc1FsdDQtMFRqSjh5SjBkOGp1MWJYd19wWXpJMW9OTi1kZ01sWXd5dFBtOVVPVzNZWUtDWDh2STZxd29IMUhpR0ZJS2pfTGhOSU9DSUk0dkNDLXRhTDMwQ2ZNUFZEY3plWGw5UlJycUZsUHFHNzZ6eWxfNzhRa1BNVHBlLUZGQ1EwcHJ3Vm9RLUhqWGs?oc=5",
+          "date": "Thu, 29 Jan 2026"
+        },
+        {
+          "quote": "Water main break floods Wedgewood-Houston, closes businesses",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaEV1ODU3MzkxbndxOS01a3RrcnlHMkNOUjh2cnRUMkxJS0sxTUVubVFBSXBrUFR6TXVfb19iaDd4THpZNUlmdGtOVzQzaEZLZ2dYVXBEcnBWT1BNclFQdG1WNlUtMjlFLXJQOWY3dlEta08yTG5JVEtlLThsaTlCS2FVUGhsQTNaZlpjT1NQZ2M5WVZhYzZSSzVLYXpBa090RFlV?oc=5",
+          "date": "Thu, 30 Oct 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 5,
+      "pct": 13.2,
+      "samples": [
+        {
+          "quote": "4,000th odor complaint against Middle Point Landfill.",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzdObTZyamNhQXpNb09zQUJ0T0hCbThWcS01c2xuVEIxWEFWSmVkZVJMVTI4LTFBVzRjQnVRSER1RWxzZDc3ZVNTT0RRdEx4TjlDdDZ2LUxOWmVTaGNfSzhGdlV5bEdlSndQVGxvcWdIQU1DNW8zalJhQlNuTzkzMkZQVlA2dWNSUEc2czFfS08tWnVnMkZaSU9yR1RUYWk5eEEyT2p30gGrAUFVX3lxTE5ZSS0xSG5SVm9IdUZXNnpORjRZNmtrOHRBNXNzeHNsWDlWTm9VTkFuUExIdmNFNDFSdHR6X2tGNWtGbW9QSExyVHp1YUY3WWNnRUlIUEdvbWVkWjBTRHZRazFFaTdXckw5bnkzUGo5SENFQmhtckZBdUk3VEpqc3JRNkpXdzB5M3BsRDZXLURIUTJ5Q3Eta21ZVUd0QjdRWWtESG1xbWFqcTR6dw?oc=5",
+          "date": "Mon, 27 Oct 2025"
+        },
+        {
+          "quote": "Nashville grapples with worsening hunger and food deserts.",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMGp0b3J5elNrd3hGWmZEUndNZ18wOW9iMG1rUGVVNE9kalhaN0ZiRWJFZEd5ckg4dVk2OW8yUV9ySGZPOWlyZ0lBZ1kyT3Z4TGpuWHU0T1p1VkUwRG5ON3JRM1ZBQ1JqNi1EZ093QldiTkRxS29lOHJfNEplSVE5Q1l5MHAyaGNNUW80aThBRVktc2FTQklISWlwdw?oc=5",
+          "date": "Wed, 15 Oct 2025"
+        },
+        {
+          "quote": "Nashville taking steps to lessen storm burdens",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdURJdEVZcmpScUtmb3ExYjZSZFVYeHd4aTA5aGhkS04xb24wemtQVmp0Y0FsSHBRMGlqR29hU29qcEozTWw3WURkNVJIZVVZcElKdE5zNE9mSTVfZ2pCemlxQnFwdHRvZGYtMnZoNXBsSzJkVlp5clVJQzlMczdFYU5iUUxBRlVPeUw3X0ROMHlkZHdqcnhleWpORUlPbGx3QTgySmw1OA?oc=5",
+          "date": "Fri, 06 Feb 2026"
+        },
+        {
+          "quote": "Nashville offers rides to warming shelters amid cold",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOERUWEdnZDNwakVKNTNPbFFwdjdZakJ1ZW5GXzYtWTZjTmg2eVF6V3V1dlRucXRHWnU2cHpLRkxaLVloY2hjWHkxTDdMRkJfX3RRdzJnNXh2T3Z6ZVhSdm5XMkZBMmh6dkF4dy1BdTZ3V1Z4akVrMUlFT05RRTloSUtQZ28zNW0tY1FwVW9XYWhxN2ZKaVZEN2tqUk9FUVFoUGFzM1VGR29iT0V0Vkl0aExZRFQzaEhfN0QwYjloQzRrYTNVdzA3eld2Rlo?oc=5",
+          "date": "Mon, 26 Jan 2026"
+        },
+        {
+          "quote": "Winter storm challenges persist, school districts remain closed",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS1VldGgxRkcxN2FIenVCRGpXYm1TUmNuQ1l0UHg4TndtNERCaXU4djNrN24wTjFKdGtNcDIzalVlRzdEQkhBcF9oaDNGXzJSTmRXd0RTaEsybHlOaHhyQWo4Q1hqaXBPQTUtYUJ6YUxYU05TWG4xbUlhd3dWQnB2QmRwc1UweTA4dHBaaXhQVHZ2bWpQNU45WWJFUGRhUU42eDhiUUNlOTFoUS0xbmtJQk83MHdhNks0cUpMRC1n?oc=5",
+          "date": "Sun, 01 Feb 2026"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 4,
+      "pct": 10.5,
+      "samples": [
+        {
+          "quote": "Homeless shelter visitors create ongoing property issues.",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaF9kWm0xemNvZHZMLS1DQS1qajEwSFRhZEQ4NTlybzZHRlFxanl2b3BoYk1tU1hvYUQ1WGJ0MTM2cnVJVFRRQVRLQUZZOVFPSzBHRVhJcmxUOGRJR1czUGNvc3ZqUzRXSFU1R0ZHdlk3WVpJS0tCVlBCalVVQ0o3VkNMeXgzYkN5YnAwcWZBNWFZS2w5Z190YnNlZGw0MFJJSE5ERkZqWUdTZlNJU0xXclF5UGlFYlNrdDU3WXRLRW9WeEhFcTYwSUh4Q1dpMzAxdnhNQmhNUFR1OThMdndxejd1U2VzN1cxeGsxUERTdDV1dw?oc=5",
+          "date": "Fri, 26 Sep 2025"
+        },
+        {
+          "quote": "Rogue tow company unlicensed operating in Nashville",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wZ2VLczJ6ckMzdGo0RGFGR1Bmd0tYempUUkw3MnZ3ZGpheFFpV0dUTlFTRy1zQ21FZWlLUGUtQmFTZGFlaXRsM1hSZjNONzNDampCV0FBTTJWRzFZQlN5Qlp2OFN2SVVkV2ZZc3k2NjdBNjM2U3ZtSFlWRllpZw?oc=5",
+          "date": "Mon, 27 Oct 2025"
+        },
+        {
+          "quote": "Driver charged $1,300 by unauthorized tow company",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWhWNm93V29VS2RGb002YW85SVVlSjZGNHd5TzhNeFlLSnlIOTZLOHluVmJUd09Gb0plbFBqMFpuVTlLdUZBN0M1N2JOLUlDdGZDeXBqamxFYlotYmFHMzA3YUEyeFcwXzN6dWhrUEk5eno1cnJGUjNyZkRodVJ3LVpPWEU4ZmRscEJfU09sR0Z1RkRh?oc=5",
+          "date": "Thu, 23 Oct 2025"
+        },
+        {
+          "quote": "East Nashville residents frustrated by recent car burglaries",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdU5qc0VPOGJSVUhSdGZKNG1iTzNJeHgweDNibkF6d0ZLTjdDWGNEcXBRTjYxSFRZUnh2alNtQTBhaHo3Z1RjbmxEcUxzWkRoY2F2OV9aWlFNVFdDeFd0Nl9zQzRrTW9VRUxCaGl6UTcyalQyXzVQTmpEWFN3QW9vY2ZLOHlka2lSMlBSUGNPc1BhMkh5bjZMZlZLOWg4Q2tKcHRJWFJSWWNfLXRP0gGyAUFVX3lxTE5ScUZDWFNVR2MzUmZ2V1NTLWFPa0RsSWpuZ1hhczgwY1l0WDVpZkJmWHNqQVFjNHcweUdPUE54RFEtR3NwMThlRTM0UWwxUHJkRTZOUzhycjcxSUZwWkZTTTJkUFdqZF9aVlZmSTl5c0xaZHJRZlp4MTlNZlVmdlEyY1JGR3hEeEw1TGRmanlPX3pfazYwVEs4REx3cW5zWDlrejZfelFXTC1zczh2Vnp4VlE?oc=5",
+          "date": "Thu, 12 Jun 2025"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 2,
+      "pct": 5.3,
+      "samples": [
+        {
+          "quote": "Illegal fireworks and noise complaints during New Year's Eve.",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWFVBSE0tdkoxRkYwby1Bbm0tSEZGWlRQMnpjdHdwZW9ha0JJNnRLTFB1TnhjWUFrQXV3TVBkU0hGQ0E2N1JycDBmamJKeHg2eXNNdE1pWFVzOWx4Q2pwSVpqVzFTOW9HRnlXVVhJb2Y2TF9EdkF1aVg1WXRGWkl2RlRZa1oyLS1SQnYtd0RoMnNnS2lNQWJlMlNGRUhqYmduajRJb0swSnVUbkdvalFWeGJOTjZDMGR3SjFCLU5uT0t3dTlzZXpGcDhiNU56ZEpT?oc=5",
+          "date": "Mon, 29 Dec 2025"
+        },
+        {
+          "quote": "Resident seeking solutions to airport noise complaints.",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVlE2ZnVSTXNnM1NyRDdnVThJb0ZPY1pVOWIxbktWSHpKbjBrRlk5TnM4dURqRHkxYjNNRW9ONkNGQmJQV1hjNVJxTWRic2dGMjBpT3FMS2FzQ0U1alVZRVNweVk5eks2WGVlY3k5RGhPYUxpNEJjNWF2a1Q3ZHF2bGpfeVBZTTh4OHVNWVgtanluTE9tUzJkaXBBMjhobFRmblHSAacBQVVfeXFMTWp1Zk1TSGxzMHJyak52N2drd1dRdjROT0pVYWxrRXBDNENLaEV1QkNGR3MydDREYmstemxnYy1abkNtaVJxOE54MndGMEdlOU5Fc2drQlVkMmV3THJJMTQtOWo3aGZ1dWdQVUlpRWRfcWFydGwxaV9OOUNXVU02VmVhZGtZSkFMN3ZIc0RfVEhUX0l1NENWM1IxT1VFejhiYzVQMXo5dVU?oc=5",
+          "date": "Tue, 01 Jul 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 1,
+      "pct": 2.6,
+      "samples": [
+        {
+          "quote": "Residents complain about puddles and potholes on city streets.",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRm1CVHNRS0R5amRvVjNOTTByb3lmU3VWcmcxTHVYQm40amt0ZERESUM0OUhDTGZqREhCd2JCQmV2djQwUWpRcFRsOUJTcWt0YUFSVTFWYWt1bTkwMWlxdFpnV21LbVJKWVFuOG5IaWp0bU9ibzdMUkg5VzI5NXFxUEFLOTFCRUs1dGJLeDVXNGI1d1l0UWlxQURyVkhzUEgybHF0cVVUMlp4dkVzbGZTc3VIMUpOQjdGMFR6MExB?oc=5",
+          "date": "Fri, 27 Feb 2026"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 1,
+      "pct": 2.6,
+      "samples": [
+        {
+          "quote": "Trash piles up after ice storm delays collection.",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0VTNm0wck9EQkFKazRPY29xanR6djY1aDhLWW51TWtqYm15VXE5LUl4YTN3RmRSYnlUQjcyaGlZb2JJblhiUTRTSldkUXQ0aUlLU2h3dGdqTnBMVWJXNG80ZGhrVkRXeDBwVHlDOTJUcnBoak1SazRISVh1c2N1d1JZWGNULTJfVHBVNEtTRFJ2Z1h0VXIzNk53bHhod3BwZW8tUHRkOGNaWWJscDhhSkd2Zw?oc=5",
+          "date": "Thu, 05 Feb 2026"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 1,
+      "pct": 2.6,
+      "samples": [
+        {
+          "quote": "Possible gang tags found in Hermitage raise safety concerns",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYXc3RTVReFI5QldHUkpYbzVWRTUwemxZd1VCMlhEUlNzQnFCU3NsODNYN3VJSEdMQU1ITEMwWmV0bXlDMWdFWlBRbTNzUDhMSFZaZVR5YU5jMUtMZlVBQnBxNDV5TUthZUc3bU9rVi1Ta2VBcThmY0ppTHdyVGp1d1BveHh4NUdGWk9KXy1ydTM2ZlFYYkR2eHhDclRRemttemV0UVh2YTNZWXPSAbABQVVfeXFMT3BScktpWTVCSmpkZ1pRa2RMRF9VVVhHOTRZZ1lFeVV3RV9rTjlvcWdYMnFvUmZfeU9MOFdZazRKVkltRlRob29DMUkwVm5tV1hJN1l3YWJCMTNSa2xtbndZcEh1aFNBaHNwUzEyQzA4Vy1lcDdkV3JJQXk2eVZrZGRsSGN0RzIyU0VFM2phVkNyeVlpOU1qd3JWWDB3eGdSUE1HM3pGaFFyVThxaThxZks?oc=5",
+          "date": "Wed, 22 Oct 2025"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "city": "Dallas",
+  "slug": "dallas",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 91,
+  "total_complaints": 56,
+  "complaint_rate": 61.5,
+  "categories": {
+    "Water / Utilities": {
+      "count": 22,
+      "pct": 39.3,
+      "samples": [
+        {
+          "quote": "Boil water advisory issued after water main breaks",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSGtHWnM3ZW56TE55dEluanIyaEJnTFVsQVphVXh0RGJpMGtjaHZvQnJ4V3ZwMHNKdHdQNldRUlFHdXpwYnB5aGY0cU9tR0lzZ25aVF9qcHRBbmxEVWY0RjdidXNGekNhQnl4UG1Pd0VnV1NWdlFTZERyTnZTSWRjQzZCUWFqN0stSGZycWh0b1BkVm9ZQ29Ccm1iYUYyUdIBsgFBVV95cUxOZWZmUHhHeFlDUHBTTnhnRjFGV2tWR1AxZFR5YmFidGpZQzVmcUJhcXhZZW1lSDcyaWI0SUlXeEdPYjFWZHl1eU5HSEpZa3dRd3dwcTQwa2ltQm1QX3lyRUZZWlItV2tkcmViVG1LdEVOeTV2NzRxd2l3bWNIOGMtRG81bk9sZ3FsdHdQWVFJM01iYlBqckNsR3pBZFNuUVJuXzE3UE9LNzhpVG83S04tNDFR?oc=5",
+          "date": "Wed, 25 Jun 2025"
+        },
+        {
+          "quote": "Water outage during extreme heat from main break",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbXI0aVRERWpNSWEtbUdaZ3htNzNiRlgyMko4RkFVdlhqR0RnOVY5VVlTUFVDd0IxcFdyMnFNNzVLV3FXSGdLRGxPRW5OMGNzc1lvbzFFN0tqWmVTT2RRNVRfTDNaX3d2RHc0MTJ2dFNZalJDelNKOXdtUkhfOEI3V1B1MjNEVEdHNEp4NWM3NDFZWEpMTkFpVTBwMjQ3ZHNXbndIWXZrWDh4czJDV1p4WlNVM2pvai1sdlIw?oc=5",
+          "date": "Wed, 25 Jun 2025"
+        },
+        {
+          "quote": "Water partially restored with boil advisory after main break",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQlp4YkZjYUJwMUlZMk9SdGlsRXFnWGlNaVV1TFQ4ZGt4X0pUbV9LdnJNMkRjMldkN2hhRGNSTklMcHdBeHBid1VMZG1qb0tXTmN5SVdFOWVtbmU3UlU2MENMektxZEpKanFNZ3ozMnFFYzlqRERHQ182YUxVeFV5V3ktc24zVVhLbzdVSzZIZThsYUxWWl8wVENXOUp0OFYtdE9rbTlNbDR6dnYxUTFfM1B5blBFdk3SAcsBQVVfeXFMTy1BcFZLQ3Y1bzFTMFVXMFM3a05DRlNsNEd1YTRqTG51TGZMbTBxU2tlaC1YdGhzSlhmUHlGTUx3MjZQMy1sS05YYlRaZkpVMGhmYjBjQ1pyVUcxS2FSdVp5ZHNwTXBfMkh1MkJDS2lJSXVVdTNWNnEzOGhIUkE2bU10LVVQcmg5a3pqcHplVkNoT29MUXMwdzk2N2JPQ1lpNEZ1VVV4Vlp2RlFDaUNEQk0temZxWVRCMzZwc0hLUlAxX0Z5cVJ3LXVqb2c?oc=5",
+          "date": "Wed, 25 Jun 2025"
+        },
+        {
+          "quote": "Large water main break repair in freezing temperatures",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ObDJEbGpzS1BEWnRDRDRVNGVWbXo1VTEyWU1VeExzWW9qWTk3R3YwNXJhOXBTVkZNdVA0LTVkTDJUQk1lM0NwOGljSXRGcGpEQnlOQkFNRDIySHQ0R3pjVzQ1dXdsSi02NklwVGl6SWN5dw?oc=5",
+          "date": "Sun, 25 Jan 2026"
+        },
+        {
+          "quote": "Granbury issues disaster declaration after water main break",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZkNFMEdBSUdJd0JvdDB6UVdjVGI5YzZNck1IYjdDZjlBbEFsNFd1SExuUzU4U2NJcVQ3RFNLbTFrckk3QU9nYUhPUVEwaloxdTZpeFVlU3ZrSzZRWnNFRVdvcS1vTVJCeUpuSmJ4cThsb0hjVGYxekNwWDMwZmg4MXprSGI3SDVXaF8tMldwcUlhZXPSAZsBQVVfeXFMTU1HNWdBcUEycXdaenBfWFNFRE1sbFRYSlp1M245TEpnVlctSkx6V2JWSVpCWHdvdkJLUXlxYUprdnRsNE9UakNqVXpTYzJCejlfN20wVGdWNEhoRmt1V3JVOXQ5Nzgwa0FYVTBjTS1aNTFiUHFvMjEwNG9tajUxUzlId2pfTkhnUFRrVXZzQUlqdDdKQ0I3RTh0TkU?oc=5",
+          "date": "Mon, 04 Aug 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 7,
+      "pct": 12.5,
+      "samples": [
+        {
+          "quote": "Annexed residents say they feel forgotten by city",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVpZN0pQTzNrOS04WGYxYXUtekl4Ml9vNFFienZsZ1BHZkxSYUZsZHFFWG16a1RPUUhzcndqRTczVXZNLVlVTVVmRk1PNUpjNzNtM3RFaWpiRW8tMkplVHFuOTIxM2g5TlN4MmozUkdqY0VJYkcwZXExMWpINlJBWnBJUVB6c2RYLUZVSWJxWVo1ZFlNelZ3bVVUN1N3TVF2ZGZ6Tw?oc=5",
+          "date": "Wed, 15 Oct 2025"
+        },
+        {
+          "quote": "Holiday lights too bright, too popular, city hall problem",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc3M1WkRDbExfNnVMam16bDVEbHpTLXhONGt6TE1XRWZROXA4TVA1Z2VyTjVoWFJzMnJBN09DajRvTTRCNVhQc1V3bktFRmU1MnpDdWNWb2N5YXlpbmYyazk2YXNLcjQ2bzRBbkhlc2ZYaGVwdlJoUXRMMkpfTEg2clNQQmQydk9vU3UwVlZiM2pVZm0wQndlOVlmUkRlZDdoVjBueE53ONIBrAFBVV95cUxPcnVmVjlRV0hxaUk2Y1hBeGlkRkMzX1h6a0RUUFhMN1RIcW16VHdJaXBaakNKNkNWd2k5Y3hNNGVFNThIczJyZUZlZ3FOVmNXdXpfZWk2UWw4X2hqNVRFakQxNENKa2xPOWMySm8wQm45NWdmZ2JzS3NVNnZDeTZ1X1oyRElkbUcwTG1nUGpsLTgxQ0pLbDRoRHNacVFXLWNMbDI0cmJCUkpNc0FI?oc=5",
+          "date": "Mon, 20 Oct 2025"
+        },
+        {
+          "quote": "Viral mansion lights drawing crowds, neighbors brace for traffic",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZTM0NTdmanhUaWdYNzU3U2FNWGZnREpmN2o5SkNmM2xfWnhyVzlxZExodzcwU18zSGhsRzA1QXpySGQwSUIxREpRcEQwZFJKNUFPcjBvV3g3aVI2WVlaMC05MUJGa2NZMFNRVHF4VjhXZERfSG1lbFM0bDFxYk1uQUtsQV82T0RfeFN3bGttTWdwQ2VpVFppekM3U09PbWtjbmVYQ2gyem8wZlJXaVZCUXYtREpJMGtjT1lLWVVfeGstNEZEcm16Y2FlSklSMHQ1RjZhOHVrOV9acWFLOEpzcDlScUhrbWpXOXc?oc=5",
+          "date": "Tue, 25 Nov 2025"
+        },
+        {
+          "quote": "Paratransit service failed disabled Dallas residents",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcVBhMWRadXBzRDFHeTZDd05ydER3YWkwa1Z6MFBsQU1JRnBXbXVWaHZ3clhlRjkxYzdSa3dGRWtLRXQyYVpoRlZVUkxlU0xURnBzdUdBR0UtNW1iZFJ4T1FrT3BlZlI3eHNTa1c5U3RhQURlQ3FpWFBaVER3VDZKLTJvb0c5Y0NNdVJFcEtnMDlFOTBUMEVSY09JMDBwVDUzczdNRzlraGpTc21oQy1NNGFPaFlXYkMwdVYyMWd3Y003RmFmZ21iSzJJOWI4WE1YX3RnT1BwOFNaU0U2M2NLTQ?oc=5",
+          "date": "Tue, 25 Mar 2025"
+        },
+        {
+          "quote": "Plans to abandon Dallas City Hall are tragic farce",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRzc1Y3dDUEU0U1pBYXJMVzY0eGhLSll6Zm9IdVc0Q2trWWdQZUVLdzNSTFRyN1NTeFlEWDZXNk10b2IwRDJMcjZ1SkJsZlV3dEtkSUNzWGtqS0lNSy1adHZzWWpZaGE4YXU1Q1NPOWFDSmhWeXZyZjZ5dnhGM2c0NHA1U1RxQ05kYXFsNlpPVUNUMVdNTEkyUzJoU25XOG1KcXZNaHpJREVBdEd1MjkzajFpelR0eUw5RENsZTV6azkxQXBTMHdsTU9wWQ?oc=5",
+          "date": "Wed, 12 Nov 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 5,
+      "pct": 8.9,
+      "samples": [
+        {
+          "quote": "How to report potholes to TxDOT and City of Dallas",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaE82di1scXVUZlNQcjVLRmEyZ0FPWkJ0RXZpZmU4S3Y1elo5M1RVVkhQdklhbmVDeFhHaktBWm1rSXdJRWpSNjZUNmUzY0VQRUhpcVNaZElKbENxenY4TVZLaHZEc2E0TEswNTE3RnR3TDF0enNNd2lqcmpnZFNWemVTOWJnMlh6SnJIbVBFTGRQV0RjaFB2VQ?oc=5",
+          "date": "Thu, 29 Jan 2026"
+        },
+        {
+          "quote": "Crews race to tackle potholes plaguing drivers",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnhpaVNYZGJjY3ZtTXExcVFEbmpWYXIyMVdjVDVpRkdmYVN4VG5tSGRUdWpXLWd5QVhRZXBYR1p2VE9lX3ppQ1NJQXBKX1BJRDdvVnNuekFGeEtuQU5hSzhFVGl5bzZJYnh2QVE4OTlFVXNaN3dEQ2g1cXJxeEI1RW52TWZtbERvdkVN0gGTAUFVX3lxTE1LVmRUb0FhRjE3YW5wUU1WVHJxOHp6WUxqY0J0VmJyTjZEYUVmLU9SVFZCdkxrVTVKc3dDM01DQ2tGMXF1MlBnWFBLQUhkVnQ2Y3pDMXFxRXI2enZ2dy15MUZqRUcwRXoxQ0JVakNCalpRc0pSLTBEYVNuQnRMVk93OU1pSklYY0xfbUdFQUhVSzVGVQ?oc=5",
+          "date": "Thu, 10 Apr 2025"
+        },
+        {
+          "quote": "Dallas is a pothole hellscape",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZm5RZVJOMXVCeXhUQlBZLW12QzNYU0Q5SzY4UEFjQkNoTVd2eDhkQWZ3MXNDV3BUaGVKRk9YQUdlcEtSZUg2UFlvb2NCVkFtTXNpZTZsbGFKX05nQVpYMHduMVBLLXJWZE53YkNLSFl6RGVqenZ0MFotY2d4VlRhaDJjQXBQUjFIZ0QxOWYyb25kdEdsMjhCVHZoZi1HR2JXZWEwU2p5TVplbVJ3Y3U1NVln?oc=5",
+          "date": "Fri, 01 Aug 2025"
+        },
+        {
+          "quote": "Pleasant Grove residents frustrated over recurring sinkholes",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNkZ2bllBRkEydkFnYUxod2xoR3lrYjlBY1ZYT24xa1RUNndrOWVDdkNwaFgxdjRvVVJrb0tKSDVITkhCTDJ2WkpZOFlCc1VkWnJFeS04cW1ncHpqQzVHRGJCQmxYTlJRZWVZNHI1ek0yQnVxTE8wUUNLaTBibmNRaVpkZ3NIVDh3dDlDZV93M3JNdG5lYlZHMUx3UWY3aURUMlRKVVZzazZXTkQtQ3ZnUU92cTUyczlhWDFCdHVLOXNBNGVCLXZXUFY4ODI0OGhIRk9wbzJENA?oc=5",
+          "date": "Wed, 09 Apr 2025"
+        },
+        {
+          "quote": "Driver hospitalized after vehicle falls into sinkhole",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUtnUFVxRno5S3FlY09lanlubnh0UVhwSl95VmEtX0pTaGloek5QR3owUmJjdFNJUnh6RmE0blJCLTRBQ2pwM3lCVDBTeTdiYjRVZDNBSUVLMEZ0TFg1TTBZNjdXbnVVWUdqaExqSjhjeVM5Q2R3d2o0emxzZXZmUkFkR1fSAYwBQVVfeXFMTnBrcmM2aW1tTjJfRndEQTlWSy1OQzhaSkRyVWFuOEJ3QldCazZKaEx4b1c3TnV1S29QLUR6Y2pwckhzNWlIWldmQS1xTlVWajRFdVp6ZVVMM2RZZ3pXRHFwQlhxOEFGQ3BCRk5UajdjM0h6dWt6cElabmU3c1BwaFVoMld3d1dkMkpZM3g?oc=5",
+          "date": "Mon, 07 Apr 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 5,
+      "pct": 8.9,
+      "samples": [
+        {
+          "quote": "Vandalism reported at Texas and California mosques",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEFDeWNYVVRxRF9MZFpSbkVwY05ZTEJlSThlRmFxWnJmeGFLYWhnOTNhX1p4QU1weTlOSEN4d3FFOFVFU1VjZGt6czNOd2J3TEtpbzRQWTR0ZGZxQVBQN01mOEFLb004MEYwbl9VTHRQZUt5eUZwbzRJdGQ4cW1sRWhSaDJfYlpvTmZtNUsybnF0Zm0tOV9Nck4yWnEzTlBkNmEwOV9LcUJGa2FxNUh2Q0F5Y3AtcFd3UEh3QUhB0gHGAUFVX3lxTE8yenQyd2tzUk9RWXhfaEFsQVhrRFMzOGZvX1NiOUVMZFZEbFEtZFlhS3Z4NXJld0swWG1QcjFrVFZrZWpOOHJYQWNoQl9qNkExaTl5NHFJWW51SDAwaS0wbUZJMGRWQjA1WWVZSExXMTA1Rkkwc1RCcXdYMzZiZFY3QkJQemlSRjlvc1o3NzNzemlMMHFia0ExdUhhVk0xV0FVX2I3UXV3SXROeU1lMkJtUzNMQTBlVU9LUE9XZzZNVUZYMFV1QQ?oc=5",
+          "date": "Sat, 26 Jul 2025"
+        },
+        {
+          "quote": "Texas mural defaced with conservative activist's own words",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLXhZX2ZpMm9zbzZNOWo1VFE1MkFZY2VyejFvVlZsUlBmV0tKTnhqbUQ1OWxxUnRhSDl3b0k5alE3dExjWGpPMUI2R3RzWXpVdENUSlpyWDU3WGN2N24yUEUxRGV5Q1pyOWpqWUF1QjJiVmZnNkJPenI1WjhsOHVSVXVhSTB5R0c5OThEV1FVeENkaFpLR0FKVzRES0RSakxfVjltNlhRbGVWOVZaaDd3Z0NiWmc4dkFENGNiZWhPX3k?oc=5",
+          "date": "Wed, 17 Sep 2025"
+        },
+        {
+          "quote": "McKinney mosque site vandalized with Christian images",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFRObTMxZllIVUtaSFE1WGpUXy1Uc1kyNE5PQkx2LVl3WTdvZDFZbVZBdEhkLUUyRWZkNmZSdTBTUTlrNzNLcVRmN2dLelhXMk8xb0RHSGVRWDlPd3UxQmpuOHg3dzdobWMyWldGWW9laW41UndCOFJrRHdGa1dUUGRvVzVIV0xGOG9wczZ3b09jaEptZzJKLU9zVFhQMVlJRVN6Nkl5QQ?oc=5",
+          "date": "Wed, 10 Sep 2025"
+        },
+        {
+          "quote": "Seattle approves stricter penalties for graffiti offenses",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fSUFSOFFCUGxyT3FEQ0F6eXVPa0lMRGxyTXU1ZzNuTnQ0bWZqalduT1pjZ0drSk84OTZLR1FJMUg3Q2FDSmtzTDRGTXVHOGhWTVZJRXRoUjFyQUU0T1pBV1VobDUzNEl6X1N3RUdSb3ZaQ2d6ajZ6aVBiczY?oc=5",
+          "date": "Wed, 16 Jul 2025"
+        },
+        {
+          "quote": "McKinney community reacts to vandalism at proposed mosque site",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbG5mM2VoQkpZNmlvbThCQWlGOXl0eEpmeXNwRUxrUFJiRnRNWk9MSS1tOFIyYWxTX1kyX2llY1lzdkY3Vi11YzNialRndTYzRUNnNEJuR0lPQnlXOG9qT2Y0NzFBcmk1dkEyM0Qtb2F3NXUxNURuUmk4eGNBZmswMHpHdkduRmEtLTI2TzFnREo5TjdGa2hxT3FrTmtZQ0RS0gGoAUFVX3lxTFBBX1VEVF9rNnIwZGFWaVNXUGtyclFLd0ltOFhRUGd5ZlFNNURkVmhjOWZhd2V1ZXlzTTFHdklnOG5UeTJKUlBYQ3FnMEVzQTlqQTJTdHJ2YUh2MXNZMWk2R0puVVhoeEpNN2NxWjFhZ1ZUQnFzTWVpWkdqZS1NOWV5emF6RUY3cURya016S0Y1eWNLbmVsNWszXzR6RE14b01aaElRZTJPVA?oc=5",
+          "date": "Tue, 09 Sep 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 4,
+      "pct": 7.1,
+      "samples": [
+        {
+          "quote": "Daycare suing Rowlett after sewage flooded campus",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT05UbFk1MVR5NzJnSTR1dnNGNXpnaTZpZlZEMjNfdDRmVUQzLWVHZHZMbG93ZGRhWEVqcko3aFJPalV0Znd2TEIwdU9fS1o2Ul9hcFpna2p4bkdUUFhHNHJvYUxwOXdzZlNlcnl2NUxwS1o3QkdhLVhNLVBYem5uYS1kRF9ZV0ZJT3dMMWVna3VhTUgtd2QweUxyYV95eGk2YjZJeVEtUUh2TUFMZXZ6dXIyd2FkRlRzYjVGWDQwWUJKcDdkLXNzaEZB?oc=5",
+          "date": "Tue, 19 Aug 2025"
+        },
+        {
+          "quote": "Sewer main collapse prompts water use stoppage",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUpYN0oyQnNybzcwQzZmeW5vWUIyMEJvTWdRWWZsNGJXNmI4MWZFbGRXM2FuZGZ2Y1hKZkR3X2xpdklJY1hzakpqS2xFbHh4dDVEdXpYdmxOSThYVU9BdEFYelU4bUpUX0FTaFJuUWM2Z0d2WFZnYzNqZmVCdHFRRmlNR1E3ank3OUpnTHFjZkZCWktfX3pjZkE4ZUE5Y3puMTUxbFBYRmFwQQ?oc=5",
+          "date": "Thu, 05 Jun 2025"
+        },
+        {
+          "quote": "Water use resumes after sewer line break repair",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTndHbUlIamNxOW1kVFd3R0ZkbmNDcHc0U1BfREZlSU9MTy05MzkyVnQyV0h1cjRMckM5aUFhbWxzZnFlM1FhbkJMSWpkRmZRc2hwVGRTS1lzU0lLaTNfaWFyaDUybjFzVVNaMGNSdURiYUg2cy1meEowYUZnZWhnN0pBS1Qxb0ZDTmI1MXVQSVNDdTZH0gGaAUFVX3lxTFBZdUxZUnk4OEktWkFkZUwzOXVwMmVpNnJPZGFrbHVNRUpVSEJzeWFYTzI4ZWRvVVhxX0JRYlZqYnV6TlZEN1N3eTNYZzZMYzRyYWdKOGRjOTNDcTV3ekxfemViUW5rRlM2VzVjdXJ0SnNnNG5kbGZhZUZ0TjBwcTNxQ1N2b2R4engwV0tZTjVBN2xZQ283UGhEMEE?oc=5",
+          "date": "Wed, 04 Jun 2025"
+        },
+        {
+          "quote": "Second sewer main collapse, residents urged to halt toilet flushing",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRzZCaG1valBwV3I0cGhiUDFhcEpNWXVROHpEZnBfbFdOelRCMGJ4Y3UwU2FkbmlhSjdBMm1lYmp2Uy05OGJCTkFsT3p2ZDhER2VQTXRsQW1GazUtdEtIRzRZOGJDaFR6TVpRWEE1b2J3ZmFPcWFwZmsyYjYyUjhVS1lfWU1PcC1RcDV2Nkg5Z0FfUFlJQnNyamJOWUV5SkFzQk5iLWxtVGVwMGdIdXRRUmFyM3kxdW93RU9ubzJGR0dXc3ZES3NUQUtnbDB5OWJNTzNWQWItVFBlSGFCbWlv?oc=5",
+          "date": "Wed, 04 Jun 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 4,
+      "pct": 7.1,
+      "samples": [
+        {
+          "quote": "Residents attempt to delay end of alley trash pickup",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNczFNeWlJNkQwcnJqaHpDN05rai1sRjdQNHVxa0VvT3FJUjl5aXFkVzVFZkdUTjlfX2poaHZJU3JXTVh5OVoza2E1V0NKTkUyVHcwTWhpWnRHdE5vazRkQ1hqeXVta2dhREpaRmNYRDlwXzI1YWNfcmttNm9CVGpGUXFrbjdXWjluUWJlcmYwVWRGSnNlQVpvUURJeExXLWNhLTZid3Z4WFNTOVlESmVTTDNOTUdGalR6MTdCRnptSdIBxwFBVV95cUxQWUR1cW9yeENkWEpiTldtZ214TXpPODhadjBDUnRPclZaTGJOcl9YWnlKdUN5Ui1PTnJsUEZxSFlHM3cwemJnNmM2WGFwcndTeTREcFVuOFRvV0ZkWnRMQjVkZ01GR19IbGhjZ2RMODcwNmZTbmhZMU1id1F0ZUI2UnFfVnlKaVVCdHkwb3pOLWE1SjJSZlBjWGEwTHpxTDEwNlpDd195MDNWekxseTIySDZyNkJyM2dxRE1lWkgzSG1XaHROMDdB?oc=5",
+          "date": "Wed, 10 Sep 2025"
+        },
+        {
+          "quote": "Trash service changes coming to Dallas; people frustrated",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGlyajczejRVaGJTT3YyV2hjV2pIMTZNTFBpb3dkenpyQmNvemJKTG5zMHk5aVpDcW9Cb1J4dUhWTlVheVdzS0dQaktublhjSVhYeS1sYlZ5aTdKQm11ZEVDQXN0YURQaWdTZEpwUEdqaUtXTUI2ZGhlcVl0bENhQ2pPdXdBbWd5bGFZbkpMX3EtU083bHI2SkdISi02cG94b1ViMk9yQmhjQ0Rx?oc=5",
+          "date": "Tue, 15 Jul 2025"
+        },
+        {
+          "quote": "Neighbors want Dallas to slow alley trash pickup end",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWUsyR3N4UU8xTzMzczlnSGd3dE1SOGZHS3JwODQ5aUF1djRLRVhUNjF1blBVWEpFOW1sTk50OTNBSkxZdHQ1bXVuV3lTMXBIbzdqUHhKbDJDOU1ra1FtUm5kb1FYb3kzMGVabEg2dkZwRmZ1MHZHTm91UG45a1ZEQTNWaVZfSnZsbjgyWtIBlAFBVV95cUxQUnlybUNadVRRejlqdGZ0dzhZbTlfc3YwMk1nb25GeXRPNENnajJ0bWxxTlkxd2g2ajhjWGR5TTgwbjNMQVpBakgwNVlzU2lmWnNBZ3dMRG1TOHU3blh2Ty1TSHhmaENjTzJQMkRQSEhld0hsYWZOVktEdU9lcFVneTY0amRVcUJ0WHduYklfU3ZwbTdS?oc=5",
+          "date": "Tue, 15 Jul 2025"
+        },
+        {
+          "quote": "Kleberg-Rylie community fights illegal dumping in neighborhood",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc3JxQXpxTjlvT0U5ZXQ2QTNiVVhYcXZYTXRfOG5EYjVobWJZNmJucnljdkNROWJUMHZvQWpRZmg1aTNadVVDUUxkRUMxWXpGOHlzOXJfQUd3ZjFEQm5MTE11b0l0Y0psa3gyRWpyeHc2anFiUTZmTnRjaEhKMmJfWWgwOHhfZjdFT1RnWHdQeldLMWxhTVluTF9BRUJpZHhFUFN2dXV3LVBLRWtlclBGemlFa0FNYXZfOTdJVkMxWUJnaE1MQTRJ?oc=5",
+          "date": "Fri, 30 May 2025"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 3,
+      "pct": 5.4,
+      "samples": [
+        {
+          "quote": "Faulty streetlights receiving complaints from citizens",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUm1yTGgtYW1LTHhOb05YX1VjczF6Y3ZKOTN4Qi1GNnBNeF82N29YaHYtekdWVUJYTTNpcktBWVRBR2JvVXFlbWhnVGFNZzVwQWJoUWNSTnBmQ3NPaExic3h2U1ZMRzVtbmxBaTUxdmJzX0xKbXFCVmxLNVB1NkpDeVUwdnJWTEh3OEVXUEI3T3ZuNl93bWxDc3RqTUVXZ2ZjLUtYZm1uZXZxR3dkZXlhT2h4UFQtUE5wMDFmNUxQUXBJVHdrZDVfejJHdklUa1FlTEhqSGQxUk7SAd4BQVVfeXFMTzYwTjdaMWZxejV5QVFtUGwyeWhWZUtMamNYc0kzR2VWNzBKRENjT3ZNVTJLQjVjejdiWGtDXzBBbThHNXpxTzJQTmF3NU90eTZmZkxpSkdnN3NhSFhLVTdoOGZGeUJkVUp5Wk9PUnZxMkdIaGhyaDdMOUxLRzZ1REFaMjBfbzR3R3ROM3lwc2I1NnJ6RHdDWER2VHRyUUF1VGJSWHpoQnliWU9GRjZrUjBRVHQteXJlN2R6MXJsbmFKeG44SnNncTF5V2NGR0l6a2lZUkIyNURWNkIxR0R3?oc=5",
+          "date": "Sun, 25 May 2025"
+        },
+        {
+          "quote": "Corporation meeting to resolve streetlight issues",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaVJOeVp2R3p5UmRnaUE2aHY0U1FMbGVlUzQxNEJkLUNmWF9EQUdVSWJCZHRCaWtvdnY1THhUS1dfWjhnMHJwdF9aRmFXQi1iaW9aWXpFQ2NXX1IzeGxYRWhiVC1yNk1UOGt2alRadEJQY3NjeVdMV0JwLV9sa1BZU0xLeGhicE0tY2tlbldPUFdVZFlTZi1OaTl4bWdfMnJfX0hRWUMwUkVxeTJTb2hnd2tNOWxmMGM1X0Nxby1wSHVDb2kxU0lRNG5tODZOMERoTjQ00gHYAUFVX3lxTE1Td3BXS0ctZE94d2tGNnlOdExSbDNnWDRSWEpQbDc2U3dJS29ielM3OE9DSnZZVWczSUxXYVJEaTdhR0FaQ2dOeEpPdEtGSjgtSzZ0ZVNHZmJOSzVMamNKR0ZyNlVjVzRNZU43RXFlbS1zOFNCTDZ1dkhFVlhtQ01qNVpFYVpYdzIzQ0FtS1FsWWdVU3NKYmdUNzZQazdVbUpCUFMtWXNmdGdrenR0R2NodHpEdjdyaG1UM0FCUXc2QWp6YmMwN3BJY3ZoeXdoUlo4R053TnlKaA?oc=5",
+          "date": "Fri, 11 Jul 2025"
+        },
+        {
+          "quote": "Street lights out for months raising safety concerns",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX285RFpoeTlFRmR0RUpPQm1TcUt1Sm9HNkVYNUZKTXVNVFhBQktBXzMwWFZST2NlVmpaRTNJcXkyRGpOV3B0eEs5WHFtLWhDdnBlTzBtQ21WWFljX2RYU0pBWGxjQzlhUE1kdVd4YUk1WXVMMzhxeW13Tm1kTGhSU1BPa3lQbVViNEU4dDBNbkVmbnU5b1k1WEx1RG1lQ2dXcWhoc1VCZ2NvX0lXQUF4bGx0VjMyWUpHbk9KdVRDODN5MDdLVnpRdUU0clBjQktROUhXdTl3dzdDSXYzVEZEYmJsUHkzeWRQTFHSAe8BQVVfeXFMTVFVeWZnbmRVZmxSSGVVa3VTczh6blFwcVU3NC1lS1hkU0hPMjZMY2NBZU1FQzJwUFpPTzFfRW9CeGtPYXhZUDEtcjJjanZnZ184TWQxbnlpcGpzUV9fUEtOemJHSUl4SXdEWF91WXhtVVpERENyYWhFbnkyMkFYZERMOE5UTGhoVGVHb05uMmdFbGFtaXlHOV84QkppekhDLVZxb0p2TVF1V1psdEhoTUwzUE9RYjFUeFlCdk5JM0VVUXhXcG4xTnlkYlJJZXZBdTFKRnhreV91Q2NlX3F4T3RiTzNna0FvN2FkQ1lzVTQ?oc=5",
+          "date": "Sun, 12 Oct 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 2,
+      "pct": 3.6,
+      "samples": [
+        {
+          "quote": "Dallas residents call for police response time improvements",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2xmTGNhcWRrdlY5ZjRUOTF4ZFlWN05vajVBbWFqMkdLR0FmdU81WkZTMDNnel8ydnUwVmRtUUp0NlAzMzNfYk9DdXFDSWZ0dnFZdkw3SEJ1dGlVNl9adzVVUmlPM3lUNUdwdmlVYWpIU3FYc2tGY094cFRtckFBa19mNGxrbVBxSm5lMElQWFdJQVR2NkJPNHo3WkV3R2d2NEhKTldZb3JzUdIBrwFBVV95cUxQMlFBMy1YVFNzMElDWmJmMHk1WDc0bVN6ZXdJM1RYY004cC16eGZreklpN1FMT1NPb3lfTVRWS3gycWpZbG9hQ1JtUTVCZ3ExU0RHY1ZpUERCXzI3VTVmRXNCODc0ZW1WUWJrLVFLV3NmMFhfWExLQkJZUjlucGF1VEd2VUJjLTlDXzNobzdiV2pSYkg3LWZsRGZKZ2pEVnk4cHFHMERBZ3k2SHVIdGJv?oc=5",
+          "date": "Fri, 05 Sep 2025"
+        },
+        {
+          "quote": "Gas leak downtown prompts evacuations, street closures",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjI0d3pwNHRDYXN2NnVTOTQ2UXdpNmJqVFY0VXpUcVRlNmZ0QTZfaHg5bVZhTng5WFpqWUlGV2ltaXIwWnZiLTRxUGw4Wk1vc1J0VEtyOXgwcDdNdVhlQ295MzRqZXhRU1BpanFDV3JnYXFTNE0yMFJDM2NMQ2xaS1hqNkxJekh0TUdycjZJX3hHOFh0QjJ1a2Vid0tBN2k2aS1GYTdIWDNaMGNOT0t3?oc=5",
+          "date": "Mon, 21 Apr 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 2,
+      "pct": 3.6,
+      "samples": [
+        {
+          "quote": "Fair Park management contract ended, new model planned",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZzRHakxlZ29lRnc5LXRNZ19LUHh4UVF1VVhmTmdQVjJaSDc0QmNmaDZWVFNKWGk2d0FNTThNUmVnbk5ZLXJFTnQtQklOTXpLWG03dURVR2pob3p4eTNUY1l0dkJrZnhSRXpFV0IySVBOcHpnbk5OVzRFZlVuc0l1RjVPc0xMOFFpdXdfTS10MEVYems3bGxxM0dmVGsxMF9tYU5RQzRhUlRTZ9IBsgFBVV95cUxNbEV5c0wzazJhZGpCcTZ3WTNhYkQ2dHRUQ3JrdlFaRUVDS2gxWkxMbUhyYzl4VHYwX0tRTG5IUlJjZVhSUmJ4VjFJNHVMNVVzYWtGLV9LX1g3X2VXdWRJWk9hbWE0WUxZNVBmbEoyM2I5TVdDYnhEYnRHZ3pPOXlvaDdKX2JzcjhWYnphbDRBWHBtVUV0bXdadGltdVlEN0hhTmItTFBjSEU4UWozWTM4N0F3?oc=5",
+          "date": "Wed, 18 Jun 2025"
+        },
+        {
+          "quote": "City failed Fair Park management and maintenance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaS1TTjRvNFhvX28tRFZYcHU0MHhXMnlZU1NRWVRjckdjc3prUHgtcm5mVjVWOGtFQlUzWUEtUlhUNVBoWFFXQ2F2Tm0wSVBkNDNiclNOcmxiSFRaRV91YXRTenoxRFBfVVFxWFB6d1pQR0J3cXBmY0pEQmtmVnRrOVEyOVVhSjAxV1JMTVhvUE94a2N4dF9PRmNwQ0xwNU8tOUNWa0F3?oc=5",
+          "date": "Fri, 23 May 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 1,
+      "pct": 1.8,
+      "samples": [
+        {
+          "quote": "Pothole and unwalkable sidewalk resources for residents",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUHJaU2xGZzlkaWNLbS02bWFCZnRyQUZjTTZRcDJfQ0dwYUY0TktmLTFINjVzZ1dLSG5NYnpJVUZrZm9WMHJoZzl1cTdtSm4td1dERzE1R2xsblkzNk12cGQtZ2VUM1c3bEZHZElxb2kyY2JtbWNRaDZ6cFh5NGFXOTRDN3U0NzV5YWE5amtLdkRhbVZCOXpXN2xSMU52QnNPaTZyZnFjdjVTaGJ5RlBMbnYxVlFyZndPYkNkdkJISnVMalR4TG5n?oc=5",
+          "date": "Fri, 04 Apr 2025"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 1,
+      "pct": 1.8,
+      "samples": [
+        {
+          "quote": "Drone delivery service expansion causing noise annoyance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVXVvZHRZNzJwamQ3ZkFkbF9na0w4aXc2V0l0dXAwOXNnb01Oc19MaVJBREd6Mmxpd1Q0bWlZcUVxaGhiS0pjQmxTQ1J4eE9SRFFHM1hPLVdqd040RG5Qak42b003RXRJTmRVRi1KcFJjMTEyZjZvd3lpTVMta1J6bER5S2FkSDRfWkhkT0daZWZBRTU2Ulk5OU0wZ1ZIQmFO?oc=5",
+          "date": "Wed, 17 Dec 2025"
+        }
+      ]
+    }
+  }
+}

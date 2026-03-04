@@ -1,0 +1,94 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — OAKLAND
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 117
+  Complaints found  : 65
+  Complaint rate    : 55.6%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   29   44.6%  ██████████████
+  Trash / Illegal Dumping             16   24.6%  ████████
+  Other City Service                   7   10.8%  ███
+  Pothole / Road Damage                5    7.7%  ██
+  Sewer / Drainage                     3    4.6%  █
+  Graffiti / Vandalism                 3    4.6%  █
+  Sidewalk / Curb Damage               2    3.1%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Inkster water bills surge after meter swap"
+      https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdVpscXZ6Q01XdkZISnVPTHBhSkx2RTB6TVNsdHg3WHM4VHR1QlhzUzNpSUR5MGZBYzdKb21IRVJFaVBzbnJBYmJjZ05VV3lCUGlOZXhBemphMGwydFhZMVpka3I3Nl9FejJDUEZDc3dNNWpYdU9rdElKcVZQbm1Mb01kREhRVVJMNFN1QTRjRFpTWGxJVV8wVTZJb2thdGRteHpsenlOQ1ZXVDBzdkV0a25vVi03bkszcVp1dEtkckwtUUU?oc=5
+    • "Water main break in Pontiac floods apartment complex, displaces hundreds"
+      https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0JwR1UyWHVvMVdXRU02eHZUNzRCWlpHSFg1LVFWVTl1NktUdzJjV2JXNjl1SWlaUjJTdmFieEdYMlVOZGp3c1UyQjFsS2ctT0tfZnlkNWFHVUtRTFczVllHSXpFMFdCSF9zR3RFX0tUb2N2SG0yMHFackFQa29lajhWWnRiTnNpLW9qMWotdlhzUkZGUEpkcjlqTlRkMWFXai0zQXEtbXhodVdHSklyVUVrSS0?oc=5
+    • "SW Detroit residents still recovering from catastrophic water main break"
+      https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbVdsWFEwRDl6VlNGX25FRXg0bXcyQlBkbTJBRlhUWF81Q3YyR2VNV3czRXBNMTBTYWxRTHFWX0E5UG5RaVhWRjVPaFFldnFEUWlCTzhqM1hVcVoxM0RXQVZ5dGx2VHVkeTNMbUo2VzBiZnlRdjFMOXNaRVBZelhqbFVQbTAwVjYyb1VqREFxc1VzRjRwSmswRk5ldGdRb0VyQ1BReFVUS0VWYW1FOHN0QWVaTE82a3QtY0hvbTlkRDFfMks0SXpVYTUwXy1GQzVEVXpLMnhR?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Residents fed up with Priority Waste service"
+      https://news.google.com/rss/articles/CBMixwFBVV95cUxPVVJlNE5rcVk2RGcxTHpuVGZTak9KOGlCLTA4ek9ORVdLY3hueXNfUFhaZmRydHhXQXBQOEtnUjZOVTRsdDRHdFVBVTJMUEUzNGloVlNfR2FmSWcyTy1sZGhNSGg2bFhnQ3JQUzRqVVlWRlFxejd1M1dUZEMtTDI2MXotVGNYcDl5X2tjRXY2Y3FYYWJteHpDQlpabjFrSy1iZHlYRDhHekd6Slp4aUVrdEI5UklFQkt0alJGbl9MS1BRWFhPUEZv?oc=5
+    • "Trash collector sues city for breach of contract"
+      https://news.google.com/rss/articles/CBMijwFBVV95cUxOUV96SUh4bDAxa3VtYmhkYTVGWmJ1Zl9TUkNhaGJXWlgtb0lSZW9KZExxSi1aUmRObzA2UGJPVVluM1YwdVZiVGsxOWYzZU9FNU9rUGt0ZjJHbEFTOTlBTENhcWMxZU5PRzQ1NmRxYlhiWWhpVlNMQXlocFV6SDlaWGQxVC1CZGwzYzBNdHBoSQ?oc=5
+    • "Trash pickup expanded to seven days to tackle illegal dumping"
+      https://news.google.com/rss/articles/CBMiowFBVV95cUxNcHJ4RUExakhoYS01OUxUaVRreDF6eEc5ZV92OHRKeV9tOEFsbEROOXlqOHV2MFhaLWE4dUlPVDladm5SQjBkWDZZaG5zdG0xT0hCQ3ZrR1hIRlU2cmUyb09nbFhfTTl0enZPc1FyQW9iZDhhaTFBdktwNlY5eDFEX05UVF9xcHlVd2dWNjc1ZXlMdnk0QUNUUXV6X0Z1VkV3eEhZ?oc=5
+
+  [Other City Service]
+    • "Apartment changed name, but still has same major issues"
+      https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMkJmR0Uxcl9ZdTIwSWpNSGs2R0RlOFhKOW56SW01YjhRUnI5TjFiY3kwaUNqa0tFZ2FINWYzUHZ6dE53WDhuR0ttbEpfZEpSUjJVZC1QNXBfTzJZMC1HaEZqZl84M01oVlJObktxSFdqalJRVldXTWdZZGNhU0Q3NzFkRGhDandRajJ6NVBWbVAzOHljUmJuRkpwM2daTVlhZDFqYXBOaUNDdVBCMFFscWNFQkxfQk1ycHZWaTN1a19TVFE1cWVHX3N1NmJFN2RDZmpV?oc=5
+    • "Oakland homeless shelter left in shambles"
+      https://news.google.com/rss/articles/CBMie0FVX3lxTE1CanhmWDExWVhIWXdRT0lIaHFaUUgyUndzTlNpLWdnaEhRRG95X1FVS3BMZHNvTk0tZGhUUG52NzNURnhDZkdZaGVYOTJVbkRxUEZ3WEFVOWllYjlCYlN3Nmc0MUktZ1k5bUhDeGxLVlY0T3FadHNxYkQtdw?oc=5
+    • "City officials reviewing snow plow routes after complaints"
+      https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVFFZ2I5NWRmU3NIdkFIN0IwZ2hLcnBCMkxpaG9uTnBZVVRuWDNHdDNlOU9MaUs0MW96REg2UnRocUJPRXYzMW9qX1lodGJXM2dCaEFfb3ZMNnY4M1Z1bWJfTzFpdkJJdUlwaC0xbng0WlBlVVRzT1hnSkpndUd5NjNUNzVUMTNybFJyakJONzE0WUxxWTJwdzVFOC0zYjZKNVhF?oc=5
+
+  [Pothole / Road Damage]
+    • "Vallejo ranks as having worst roads in Bay Area"
+      https://news.google.com/rss/articles/CBMimgFBVV95cUxPUy1qVHpELW0zZWRmNVhPZWp6eG5HQjNsMGlXbVNtUW5MZFJmUXdqN0laUXNLYTRScFBUbzdCMGp5ZE1yNmd6TzMtd1BIQ29hS21jNWdEMWxOQUNRaVQ3ZDBuYWhWSndkek5SZ2xuY2JlNVRmOExMMTBxRW92VUdxbXIxUi1VTGRSVmxDbWJ6QWRNMXZHXzUyT2xR0gGfAUFVX3lxTE83QlFSaWtjdkxEQzZDSVBiZDFjZHE5ODVTVkxBV2d5bDZCeWlRS25TODBnWFBJcDcyQzlDT0NQSW8zN2NDUkFwYU1JdERXYklxS2x2MGdfVGU0VHFuYnRSMldyZ0hZbEIyU0dvZmxXaXYxYlZlUVdid09ORDJvLVlPMmNmYTJ3Vm4weVBiajlKT3Z0cmJDTVFuWHVWTUtqZw?oc=5
+    • "Cyclist injured, Oakland settles for $7 million"
+      https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0FpWlBJUGdIZjYwem5tcTBpX1dONGQwcW1nb2pVV2l2N3NKaXoyRkhiU3NJdmtpNjF2UHRTMG5yNm5VWTZCaEJzc0I0cUZ6MnF3UThwdGhndFlvOU91cjB1WEx6ay04Z3lTYWZVdVdOZWIxN09haHpxQzMwYkZrZC1mcUQ4TURMWWNUV0lHbw?oc=5
+    • "Cyclist seriously injured after hitting pothole"
+      https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnVRZUNNYjBiTk53RXBQTlBia0daSWJvOHhpUHVpYzJESHBNU2lrMGFSUkluWEdVemJKcmZzcV9BcENLYW45T3lzYjlsRlRVVlNzc2hFemtvVDgzaDZHX1ZEaE4xZVl5OG4xQUJQLVBPUXM0ZlBWd0ZGMHRXX09jN0F0aWxRZWhGZ1RRSmZpUHgyem13aExwNWZjbjZaenJDWkxiRk52SGIwdFFjbFlDWi1NTFFJUThl?oc=5
+
+  [Sewer / Drainage]
+    • "Residents report nauseating sewer-like smell on east side"
+      https://news.google.com/rss/articles/CBMi2AFBVV95cUxONlRRZ3RKdXEwazFPelAxdDdFRVZoYmRPdGQzenRIU3JaSEgtWWhwSmt6MUlrUEtSZUhudUI5YVZrM2ptNFdDSENxMEw2MjJ1NHVfSThfM1ktd1VHOEFhR0dueFM2ZVo5emVjXzlJZGhPYlJtTjRZdFZ1VTI2bEF6V3dfR2VCY2s2X1hXQzQ2ZEw2T3FmS2JUQm9qSFBuemZfN1lvZVF5NU1VZVYxZGFaUHJwMDBlSkVqMllwLXZIU091UFg2OTZXVGRuWXM4R2pOd3Z4QkpFanc?oc=5
+    • "South Florida streets flooded, residents report issues"
+      https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2lJQ3lNLVRqMVZCQ0VOVDBDbklxbUhFVkJEY2F3VVVNTVVNVVNyYVBDakhNREhMWi1ZenhsSWRBb1cwWkZNUFFpTnpkaks4cWh6eVE0TFg2X0ROdDJlQXNPN1ltSkc2b3BoTGZjX1FQRkdTcncwTmVRUlJ1b05LTHQyNnQzclFEOUxwOVFBVTkwal9rLTRBODRB?oc=5
+    • "Erosion complaints about Oakland's Red Run discharges"
+      https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1h4Nl9GZWJ4a3JfNkZhcmV4SlhlUWh4bmtMSTR3UTBKTnBKNXY4MmFsRTJKeFNYanppZFIzcXBQT0JHOWN1cl83d3lWRDBueEFpUDlwYURZcTNfY3ZRbS1xZnRxekN0dVFtbU5ybGR4RERrUFdta2duR2hjUTg5NUtCYjFNZE9OcVJ0aFZDNUZfbGdCOXVQVk5ZTDk0TUE2d2Rqb1pzTkNGdHFCdWpqUUZRZGpkQlU?oc=5
+
+  [Graffiti / Vandalism]
+    • "Vandalism hits Oakland coffee shop"
+      https://news.google.com/rss/articles/CBMipwFBVV95cUxQaWpsWHNuRWVtSl9WTGhpa0cyV1VaRnFROWdiVWFQTHBBV3c3bnFidUNGTVh1NWVUVEpPTG1HbzBPS3FVLU5aVktRenA3YXkxZGFkYWtHbnUxbE5GV1BxRjRVSWVES1VDeHBEdFlCcUt4S3FZbGdpR2VsWW8zSnpDdWdiUnFpakpBQ2dOWnNYa1kzM1k4bDlaYlpjM0txNEI3NTlTRjJqcw?oc=5
+    • "Oakland Chinatown businesses decry fines for persistent graffiti"
+      https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYW9QN0sybU5vZElrX253N01RUzdiVWVWb2loQllKRy1vZXFUdkU3MFU0X2t3ZnhVQXk1cVg1MDRpdWxsLUF6bXJ2QUJtcGliTGR4dm05T2JMaUxQaTkxUUNIdng4d2F6bV9aODBRWnJsYko2dVZxWUNWMkRUaVo3VW1Ocl81VHB5b0h1Mlpjbm1ESWpLRlNoNWQ1RTVXRlptQ3JOdS1aLU8wQQ?oc=5
+    • "Oakland mural depicting Native-American genocide was defaced"
+      https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNVNYSnJ1VUlMelJaQU53R1dhemh1dDhhblpmTmt2RDNWbDVpSFlWWm8wd1hOYVVhemhNSWY4Vmh6TzFfZlRYcDllM2E1RzVOYVktVmNkVy1hRE1hNTYzdFBaTzR0TGhjOEkwZTVsWUUyb25OZ3BUQ2R2YWJjOUE1RGk3Skk1VTRYYzR4N0U3VXA2UEQ5eFJEUEpaaEt6OGl6bng0YjRFMzA4ZHllYk8zWU1KY0ZhMWY0QzRLS013RDFaeWpFVGQ5TGpQblNIUUxycHfSAdcBQVVfeXFMUEw2RDhvLW1idGpRV09QMkwtMFB6VFN5SnB5WGtUNjhwNkowYkxNUVFFbktscDlXLW9nWFJBdk0zek5WMkpqYXZmbEZkbXh3Ty12MGoxQk92cmlDcmdlNEc0T2ZveV9iM3Y2OTJXeS1QVzVhM1NnSDh5bTdQeU1IUHdxOWdnTG5qUEJhcjNlVWR4Q0lrZXNHbUZaRnJ5VVF5WmsxdGVvY1laeGRhRWQ4MHFscndtdWQ1czRuYlJMcHZJck1pU3g5YzdrbVN0X2Zmb2pmanIyclk?oc=5
+
+  [Sidewalk / Curb Damage]
+    • "Resident sued Oakland over busted sidewalks and won"
+      https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWVnWks4ZUpBYkF5elAtajU1M01mWkdseTdvdWxEeGZOendIWGExZjhwQzR1WTR3YUMzdFc0SmthUzJrN1VlVThYbzA5dlJOVUQ5dEU1V0hwM2xwaFQwYlpRVldqV1BMclF6cnZrdGhFNUtwdFlFTzliZUhpSGtDWmM0WEgxRnVpekZFNkdnSlh5LXh2VkJyZ0lKd2VkeDdLX0tr?oc=5
+    • "Mayor announces major investment in sidewalks and curb ramps"
+      https://news.google.com/rss/articles/CBMizAFBVV95cUxQSnR2bkNCTzl0VFFYTS0zaDExZE9aeWlDbFV3eDkxNG9lUHJ5YWdBRC1kWXZuU0V6SmZrMUtUSUpiSnRRWGxSR1dvcXBPZVB3d1JwaXJQUk4teVNkWjRCX2xhU2VlNFktRWZiQWxxLUloQ182TG1EcU00ZFdfRktEWTZMN2wwT3N0RGlrUVNDRTNQWmFLb2FqbFloNXBkQmJhdXNjWU51UjlydUlGYUNlQWk0ZnA5SGJ3djBDVXY1Qm1rbks5bFZ3UHJCNmQ?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 65 news articles reporting
+  citizen complaints about city services in Oakland.
+
+  Top issues:
+    • Water / Utilities: 45% of complaints (29 articles)
+    • Trash / Illegal Dumping: 25% of complaints (16 articles)
+    • Other City Service: 11% of complaints (7 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

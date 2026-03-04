@@ -1,0 +1,80 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — ATLANTA
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 70
+  Complaints found  : 34
+  Complaint rate    : 48.6%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   17   50.0%  ████████████████
+  Other City Service                  10   29.4%  █████████
+  Pothole / Road Damage                2    5.9%  █
+  Public Safety / Crime                2    5.9%  █
+  Sewer / Drainage                     1    2.9%  █
+  Trash / Illegal Dumping              1    2.9%  █
+  Sidewalk / Curb Damage               1    2.9%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Atlanta residents won their struggle for affordable water"
+      https://news.google.com/rss/articles/CBMihgFBVV95cUxQRHJheUpDU3g2LW0wZm5kRTB3TExmMEFhVG5pOFJaWXdISnBZd2N0OW95Q2VnMG80NVNac3I3M3ZwSERNZnVTUWxKV0FvbG9ETUdjcjdmMWdIMDI1eExBUjU0cFlmeHBodDgyV01vRGYzNWtIMWROdHZINEsxcWtvWXVSTU5zUQ?oc=5
+    • "Water main break in DeKalb County fixed using special process"
+      https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVBRVEVyVTVTaGFwUmxWQy1VTlEwQ19RbUtwVWxiWXoxU2w0aGlRZUFnSi1wYUp0QlJ4QXJGeDF1Rl9jbUxTTUpZQ3RvNkl0SmNjcEhtZF8zWFk1VXM4b1NVb2pScTNDcjhNWGE0U1NsUUpVcWFyS081ZDQtV0NVNVU5dWdHYWZFYUNtbmJR0gGTAUFVX3lxTE8xY0tkVUFZZHEwYnIxTThYOG9lclZUMXduUlk3NTk3c24taHpEOFJMX0dQbGJNcVJzaXBFSFp5SVVGUU80YXB6bkdqRU9zYW9rVTY3VDl0dENad2RfcFJJbWRiRzQxZF9oMmpwWGgyaVZraGQ0WFRfVktBRzc2cUZmSGYtYk9uY1R5ZTVtdmZTY1ljNA?oc=5
+    • "Several water main breaks repaired across Atlanta after freezing"
+      https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdE01UmpSQnB4elZVLTMtQnBUYi1tRXRfdURfRjNoWVJUNTJFUS1SVXV1anpvYVgtZjZIcFRFbFhQS0lSNFR3LU1zdmpjalJXX2J5eng1ZG1ua0JlX0R5Qkxpc0dzVUN4RzhLQ1NZcXg5TkFiUElaNXBjTDFSbmc3bkIyNDFMbVVPY3dwSTFnVk45M19DbFBtUHQtR1lvUnlhd1R1LUxkMm8xdVpUZXBxOFdTZmlLSXNzWUN0TlZpenpmX05DRmM2blVMZHBzbjZ4UTQwTk95WlNCMGVXVGVXc0VUekNkQzMwdmc?oc=5
+
+  [Other City Service]
+    • "Rosy survey results don't reflect reality of conditions"
+      https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaDhpWFJNMWl4RW0yTVV0d203Z2FTcmRoal9xWWhGckFxSlh3NjJlT25TXzUyenN5dGx0akQ5b0hTcjJ6anRnUlhaNm5ReUxXdHRGS3hOVzN6ZUVBN0ZlS0pacVB5TEhUR3d5VE5hSnFlYUxKS3dRVWpXYXdFcnp3c2VzWGI4NnNsMVZ1MzRKa1FzV2JGd1d1aGhiUmI1RTBXNF9HMFJaajZ4UQ?oc=5
+    • "Residents endure scorching heat amid air conditioning failures"
+      https://news.google.com/rss/articles/CBMivwFBVV95cUxPcU1nb2lidGppdjRBNG55VkVfczFVN0lsT3h2WVNuRWVKd0t2RUJZdjYyb0t3Wk5sVlBNaXRjeWRnWmdIMThubnRwMXEtTUU4U3pEcUFKYkVMMVRHbVJOU2Z3ODA3NXFQYWlTV3RkSVVOVjdDZk9LLW5iYWZNZEdPNWxSMEFlLTF3X1Mzc3BhR05GUFBnQnZTeDRjQmFDUDBucEJ3Tl9mOVQ0Ylg1bjVhdFNyR3drSU5UOHNUTlAtUdIBxAFBVV95cUxQU094WnA5TDBqTFNpOTJwV1Z0MFB5bzBwVndja25vSFI4MlhCQUM5eWFQNmtIZzF4eTR0VFlpVVJ1Qy1MWFNPY2ZQZjNVNDcyX1JiQmRvVkRWclhzMmRnWmxoYk9aVnE0MVlydEdxWkdHdUdfX3VxUl9jYXRkQzlNVHkyNERrMHAtRFFXV2c3aW1IRE8yS2xQdVpvNkRGcHR4ckNwRzZVbng4RW1IaG1nQnJUM2tKV3lEc3kyTWktcTh5MzVF?oc=5
+    • "Traffic lights at Route 51-Interstate 70 interchange lead to complaints"
+      https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGg4UnpTTUFEd2ZaVUUwR3k4NnczU1RieUlwa3gyLVY5MmlRd2d5QXdyUzByaUZjM3ZidmdMaFY2WFRfMlF6cGdiX0JxSVp5Y1pqVFMyaVZOMC02dnFrN3F6R2RqejdRWXhGdl85MUxDdGc2MUxHT2RiSGdEVTVCMGFXemVRcG9LdVhEX0M2dUN0LWhI?oc=5
+
+  [Pothole / Road Damage]
+    • "Buckhead potholes causing worries for drivers, residents"
+      https://news.google.com/rss/articles/CBMisgFBVV95cUxQcEFmWmVmNzRZTU9PYVlNUHhDNVVTUFl0cnk0bUhpQ3FlNUIwNE9HUHZrUlRLVlpFcXN5cDN5dmRvMnYySUJVZGJVMWdWODlGZ294Y1dWN091eGR1Y0stV1dfLXRDaHhFN2NzbS1vYTBHc21EQkVDVnB4clJXajJYdFp0TncyQXg5QXdfdUVIMXk0cjRuQllhRW9qc3JtVEJocWFpdUQxRXhRam5rMFlCWDZn?oc=5
+    • "Road micro-surfacing to prevent potholes; residents doubt effectiveness"
+      https://news.google.com/rss/articles/CBMi-wFBVV95cUxOb2FsUERrSldBMUpMTU4tdmtVckVBbWNSSDZGak5lbWN5TWNEdGlNZ2lLY0QyYmxfWk1ibEY1UU5qYTdYQk80a1NicDZqTk5NTm1JTGZucmh1UEJtSW5pRm91VmFUYUNRWEQ5R1RsNDBQSWhnMEsySTZCdDFubzZRa3dlZmZrZ2FST09WOHNtVnZWRjh3RjR4eVo5MUZGNnhGOUdEcGxYdlJIR1pFZlR4U3dlTXBsVHRnX1FWcUJmWDJvQnJ3bkYyQU9SSTg2V3N6S0NiTjFOcm9PNV90ejIyNTRKZkNmclRZT1BXSHNPNUM2U1ZVSVhRUWNsa9IBgAJBVV95cUxPaEZNWW5FakhhbTAwRTNfMnd5X1BrcEVNZWFETFNTWWVpWG1hWUxwVEQyNk1HTlZ2QTJhQlUyVVExeGxlRVAydnlfVUMzcEFscWFubnp2Nk5HNzl6QUE3cjdZM0hOajdTNHBab2liMU1wTTVOX0hhLVFaSE5YRmZvRjBGeF9Sdk5XNnNfXzBZMV9VMGd1RlZjdno4bHE2TW50MkJFRVhvSU9vRVlrSVFGZW5RNGhDOW1rVFc1N2FiZUlRd1RfMkNtOXNJZmRORHlIYVUxenhZWVFUc3dobmh5Rk1sREdadVBHNUJvXzVRZ2QtMmFINXp0eVNpRWY0YUIt?oc=5
+
+  [Public Safety / Crime]
+    • "Complex had complaints of squatters before explosion"
+      https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUFRSU2NNR3dtd0x2QVVfbnVSMXpRZ0poRXB4amZkQTJIeEtfT2hUY3Y4T05SWnJ2anRjMWVYZ0RsTklNMkE3NUdTR3R4S05IMDNjM015b2tKRnFLTk5tN3ZJbzE4emFKb2tfUnhYejFFYmtsTU42Vlg0UzVlQkdDT2xEOWc5d0JkVzZVVWg5dkt3SndoTEFXNC1obE1uU2VXdHk1X09CaHRUZUgtWWo5b0xVbnpkRFNLNGp3X1lnUkx1SHNMUkRxWWl2NWZ5Q081aTNlaTk1ZThIWTFmYUJTbkRRTEdwZw?oc=5
+    • "Trial highlights when Atlanta abandoned the streets to mayhem"
+      https://news.google.com/rss/articles/CBMinwFBVV95cUxOTDVNY2dXcWxZSWlodWlCUDFfYVc3U1FrNVdGSEhuV2g2NjNDMG9udjVtN0RqR2FuX1p3SGN3R3lCQzl5ZjVxbGRjM2JTc2dSY1ItZ3RvNzZKODFoQnlpejlXaXJCWGlSWU1GQ2V5c0pyM2plZ0hlWDBULWJXMHB6UlNmeHFzdzRVYmdIV1I1UGR1TFN5eVJXR0ZJVVlmcFU?oc=5
+
+  [Sewer / Drainage]
+    • "Repeated flooding, Chicago alders call for action to prevent backflow"
+      https://news.google.com/rss/articles/CBMipAFBVV95cUxOMjJXZUtHc0NncHR5bFFIY056SVFBUmdwdUhFX29SU3ZJV1VMX2pWQWp1RDNELTFWTTIyT0ZGQWNwRWtRbmV0SnhMaGR3VnlkeWJSVWVSMDJ1aEt3alFLSkx4STgxTlJvYUx3VnljQkFUNndIbFk1WGpWNjhxTVcyWm55SlpMSHk3MGZpcFU3MnItNWI3MjVkNFI5U3ctZVJTc1RMOQ?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Garbage trucks dumping liquid onto streets"
+      https://news.google.com/rss/articles/CBMijwFBVV95cUxPcUhPeVBsU0EwOUZyT0R5RWJhdU8tZWVyM3QzRl9oODRibTRLQ3VPUzlTLUhqVG0td2Z1OFctSWJSZkZsNENuVDNHVFM4QWo5NnhRb3dGVHNOUDlZU0VBR1ZFMVJFYkFFaUVJQlVLNDlEaVpvVHRBWlo5YnV4cnBhTUQ3b3IwZjFmNnZmdy1FRdIBlAFBVV95cUxQTGt4Sm5aTkdSMlZ0ZXl5bElfdzlfZEZwWU9JX2dGd2h4YUJldzBlazBZT053ZmZHWnNUUlZ4c3BiTzNZenR1cUx5M0NVVmxYNWthQWMtTDFnNENlN3BVNUZIOFFjMV9WV1JIdjdqdXZrdGNnMTZyNXNfc0M0YUlWQXRxeDNadEVwNlRpSURmRk4yLVpF?oc=5
+
+  [Sidewalk / Curb Damage]
+    • "Atlanta sidewalks remain in crisis, leaving walkers behind"
+      https://news.google.com/rss/articles/CBMizgFBVV95cUxNNWd0T0NKLWM4RlNTWEpfaHRqeDlkYVhJRVJXeW5rYUhXTTZ3OU1lUFZrc2liM3ctNHJMTnJfczlqeWFoaVdoQllGMFQwalh5dm50WFAtOGtPdjROZDBsdlA4Y3AyallDbmkwX29hc1k0UDRLdDI1eXRUb2lTR0ROWV9iOHl1SzkxREdfb0gtU1JvVDVEeUxyRDAwU3cyZDU5ZzZVcDBvV1JmRV9Ta21IOEt6S1cxaEU1cFFIMkJpSWtZbmtfelR1V1BZZkxfdw?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 34 news articles reporting
+  citizen complaints about city services in Atlanta.
+
+  Top issues:
+    • Water / Utilities: 50% of complaints (17 articles)
+    • Other City Service: 29% of complaints (10 articles)
+    • Pothole / Road Damage: 6% of complaints (2 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

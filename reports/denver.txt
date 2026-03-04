@@ -1,0 +1,85 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — DENVER
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 80
+  Complaints found  : 40
+  Complaint rate    : 50.0%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   21   52.5%  █████████████████
+  Other City Service                  11   27.5%  █████████
+  Trash / Illegal Dumping              3    7.5%  ██
+  Pothole / Road Damage                1    2.5%  █
+  Public Safety / Crime                1    2.5%  █
+  Abandoned Vehicle                    1    2.5%  █
+  Sewer / Drainage                     1    2.5%  █
+  Sidewalk / Curb Damage               1    2.5%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "More wind, power outages leave Colorado in the dark"
+      https://news.google.com/rss/articles/CBMikAFBVV95cUxQeU5jYllZaTB0b3lVM2ZPN3FsakdCS2tYZkRYVm5xX01STVQwUGpGSjR3UWcxWVAtQ0FwTEM1RUwyZ3pld0NrOWRZNC1ubm5ZVU1JVHRqUVNYWFFoYnprWWRPalZpal9obVVXQU9CQU5kVDMzellrWmpwUEhSSUhIb1d2NmxpUEttWTZKMHdFc3Y?oc=5
+    • "Copper theft led to southeast Denver phone outages"
+      https://news.google.com/rss/articles/CBMihgFBVV95cUxQZzRyOWN1eDI5RXh6ZGdmQVRDQkxNeV84ZGNjd05xN3Z2YVBZN1I5RVc5alVSLWQweWhQdU5aMkdiRUI0MlBnX21ZVks4X2J2N3ZCSDhlOTMtWFNjZUx2THJOeTVxZzdzRVNyZ3ZvQjl5azZUeFdsZkM0Q3dmRGhwOS05bFE2Zw?oc=5
+    • "PUC critical of Xcel Energy power outages, customer service"
+      https://news.google.com/rss/articles/CBMiugFBVV95cUxNTjc0M3E3UFFvSm1FZWxJTlBIc3FSZG9tclJLMUQ2ZXprOGdPTUtQYWtDYm0xalNwWTVtRjZ4SjBaekhRdzBFZUFtMGFkOWFBNUNGZldlb3JEQjhqemRkOHgxeWc1cml5TldWaHhhYUxCZ1ZrUkxEWUswRlJBMmFXN0JsZ0ZobEtoS3dRUk1LWWNoRlhHTTlGZVlkaEJOZ05KbW1kaERWSXN0Xzd4bnpacVFDbE5uNlhnQXc?oc=5
+
+  [Other City Service]
+    • "Complaints of rats, leaks and asbestos at homeless shelters"
+      https://news.google.com/rss/articles/CBMipAJBVV95cUxOQXBsTE85ZWVNakVyclNiRzQ5VFEzX0VXNktjSHdDQmJyYXVadG5NQkZUaDN5VUNWM3ZvaUxOaWt6RElyRlhmX0VfS2JjS3VIZlNTYjRvd3p2TkxycTRUTVBXNFhlcVNKQWZiX09pYlRKb3BSTEVFT2d0anllMDBHclNmMDJPdTZlMDRLaEVuUHg5VlJuOGpKUzhnSTJsY1VRdFBPS002OTZnT004TVZzbkc5cDV4ZFB3ZW1JTXJldXNvaF92cmZYLWVqZzBYRThpTHlEcnRxTXVyQk9pTWMxUHZ2X0V3WE1oSGlwZkN2X3lmczlpRW81UlhFLU55NVRndXhibmk2akk0QWV3OWZFTV9lX1NDaTJydW9aaV9WZjBxUW90?oc=5
+    • "RTD app complaints drop; passengers noticing service changes"
+      https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRENfb2oyczY2cmhfUk5FcExValRQR0EyYmxTbWVQQW1LNmtvR201VXdVc2VJS2wxQlc5di1mMTFkSXRDOVRfclVSaFFnc2k3alYwV08xZjIzaURmaVptSU16c0JnLVJjU3VjZm1qcGV4Vk1ORW51bWs0LV9MN1lKeGxMcklPNHFKazI4Q1dNRFNGU2F3bEVIcDJEX29oT0kzUWw5eURuOVlHNFBTeHFiYVl3Z0t2amxvU0psR2tMNlRfRkI5ejhUUUJyVFMzbXVKaVZWRUMwWDhmYTRHQ3A4?oc=5
+    • "Mold problems at apartment complex have made resident sick"
+      https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNFg1azFxRHViNlo4S3hhY002WUJVaXR4V3F4bXlwX1YwNmd5RjU3YkV0TU1OWktvM044SGFfTEdxYVM1Z0I0VlZUdE1CeExhYklsbDBGc3FNTmREMTVIajhuY0VkalNIQmxIT19HY3JKN25sOEcwbGNaejYyNkRUa3pYblE4X29fSDhacW9DUzJ1NTR3dFljd3JxXzg3aU1JeXhEYmZMaUF6MXpRTzJPMFFwV1NqRTZ2NFI1WnhUclo5dEtYQjduMjIyZjhYRFI3QTVzc3A3YTNoZw?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Irondequoit residents frustrated by trash service delays"
+      https://news.google.com/rss/articles/CBMijwFBVV95cUxQVkhaQURvVnNwVWNiSkdkSUpQUWhpb2l0Mk9oczY1QmU5eGJiaHNjLXR1OXdIeGZfRjY4U3dWUU9RU1B5NDctdWFjbTlKd2sxcEJ3NWxHLUlqLS1VWFFzMUJjTE94Yjd6RzAyT0RBZUtoOEVyb2h5X2o4d1AzT3FEX09vbDZleUpRLWZXTURIcw?oc=5
+    • "Irondequoit extends garbage service contracts as trash troubles continue"
+      https://news.google.com/rss/articles/CBMipAFBVV95cUxQamRZUXp1Um1idU5tcUdFendwT3FQVGdSS1o5dkVkTThTQ0NRNFM0ZjJNSFlEbWpwWDdINFN0TGRCbkg1YkNobTBrZ3l1bng5cl9KU3RDSUNqNk81U3RJMlpIVWlPbUpQN1lRWU95dHNvTHN2Si1ONTltMG0wZ0RjQmgxOFNzVEtld1o5UnpZWDFKeGM5amVqT1BWNER5NUhYeFV0YQ?oc=5
+    • "Solid waste management faces flak over gaps in garbage collection"
+      https://news.google.com/rss/articles/CBMi9wFBVV95cUxPenlsekxNeHZTNHp3TUdXbUgyY1ZLN0hnNXA5UDJZTlViYUFxSmpSZE1QUGlUcEV6elRRNlBHQ2gzOFdxWm9pV1VtUDBoTVZka05qUHVsb1Z5d2hZNTRPX1c1V2V4YzNwcGdESVVzMzF4Y25BZnFlaWwzM3dXY2ZaSlNLOHdCRnNwSTRCSllFdFBsblhqX19TOWdvZmJ6dmZEUEF3bTRMTEo4WDBHWVFldDl5TUZvTkNocEhyM3AxZ0NscTBJcDVkYUdlSXlIazl3cHc0VDR0Y0x1dGgxM05RVkFnMEhaSDBLWGhlVHFYQjBGNjcwRE0w0gH8AUFVX3lxTE5lb0JFZGFjd1VFRHZ1c3phNl9qS29vMDQ4U090Vm1oZ0pqMlFsdXNtM1JMLVlSZUlfb3doUlNrSW9fakhaSDBrN0IwQk9sR2FLNDhtQzJ5Qms1RFVLbGNHNGVmNThVVnE4R0hjdXRPMklwNHN1M3M3UGVQWHFiN3d1Vk1leUxfZkNEWkJ3bUNZYXJZZE02WEp6VGZ2elZGQWdodU5Kb3VoWmFoYzJYTDBvdkdwcXpKZENfMWJRQzl3anlkT3BmX1VVcFR4ZjR4QnVENGE4ODJ1U0VIdHg3Zm53RjVsVUFySDJBYlV2VXVLR0psV1FiTTlXb3l4SA?oc=5
+
+  [Pothole / Road Damage]
+    • "Colorado backslides to 43rd in national road condition rankings"
+      https://news.google.com/rss/articles/CBMie0FVX3lxTE1PY250LS1xLVdFMVhVVVhsazloZ3JPQ2M2TWx2cDRDb0p3M0JvM0Rrd0JJYVlQOXdsQ0toeHlNb3BvQmVQQmlyZGpEVHVIMHg3UExld2pLaUtqemRidGphb25IQXVPVXJ2XzI2QVNObVBxQ2V6bzhpbVN0RQ?oc=5
+
+  [Public Safety / Crime]
+    • "Denver claims street homelessness halfway solved questioned"
+      https://news.google.com/rss/articles/CBMingFBVV95cUxQazF4N3VzX1B6bmlRbW5DY3VZTHU5Q2s1MnNNRF90bmtqeXZVQzgzRFdZUmhXa0YxakRpSkpJdWdrZlE2MTZsN3N3Z3dGNnl1dzFvOUdXQ0NYbnZ2QjZiZEp3M3NFQWJvem1OT05YMTVlam4tN0tZVzU4Z2lKM2dtR2xUTFNFeXowM3BEbmk2MUN3R1FqNzU1ZFV4SnZ0UQ?oc=5
+
+  [Abandoned Vehicle]
+    • "Towing abandoned cars in Denver is trickier than expected"
+      https://news.google.com/rss/articles/CBMilwFBVV95cUxQY21DRl9EN090MEFFWUhPTjd3U3pzUWlEMzVTdzV1a2VQNXhPR2pXb0R4X0JmMEVfZkx4SDZrMnBBQURpc2oxN3E3eUpQT2lxNXlHRElqRkNydGdZZ0lGNjBRX05kZm45YWFOOVN1ejZsMElSY3JVdW9iSFdyek1Zb2tKUlZqMnpkVV9uNXFfOGpoV0x0ZXpV?oc=5
+
+  [Sewer / Drainage]
+    • "Queens residents fume over massive puddle that won't go away"
+      https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlM3YTFULUJmaFh4aWQyc0Z6Y1ZHdmR0aHJGdDR5cTZIRU9PUlhDOUFfc29uV3RhTVQ1b3FRV0JXLWZfdXpNTDFQcHZlX09uSGtoRTJjTWQ3UmhJTUN4dDhnTnBBbVgyWFgyRkQ2azExcTBCZXFXdW5XM09XQmYtd1Vwa3o?oc=5
+
+  [Sidewalk / Curb Damage]
+    • "Woman wins settlement after sidewalk fall leaves her paralyzed"
+      https://news.google.com/rss/articles/CBMinAFBVV95cUxOSTFLUWF4a0pFQW1pc0I4V3BKUWJLQ1EtdnkyRERxaDlldXRqU2RiSmhtY3NlZi1pQ3c4UW1CNmlSQVJlem5aNUlnWWY3RHV3dS1sTnItY2p2MGRfc2lNSEg1bEhCM0cwNkJYX3p5TlZEbU1KUC0yeU4yREdoYmMtVUJCYWVUY1VHR3BLM05zUGhMZ3BzTW1PS0xvUkM?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 40 news articles reporting
+  citizen complaints about city services in Denver.
+
+  Top issues:
+    • Water / Utilities: 52% of complaints (21 articles)
+    • Other City Service: 28% of complaints (11 articles)
+    • Trash / Illegal Dumping: 8% of complaints (3 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

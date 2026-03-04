@@ -1,0 +1,281 @@
+{
+  "city": "San Francisco",
+  "slug": "san_francisco",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 119,
+  "total_complaints": 71,
+  "complaint_rate": 59.7,
+  "categories": {
+    "Water / Utilities": {
+      "count": 16,
+      "pct": 22.5,
+      "samples": [
+        {
+          "quote": "Supreme Court ruling and San Francisco's water system",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVkxZai1idVo4Uk5LSWlrdm9mM2JYZFZkTlJvNVZfZW4yOGRLYVdXZ0YxZTFtT2lJWFBNbV90NDhTSEJEWE5sR2ZKRUNzVHIzOVRYREEtVGZwX2RQZ2dKdmlSSHk4RDU1RzA4YWRqaGdKVWpBcGxSaW4zdGtJMWxNLUpBLUVYa2R4bm51LVVuRW1rNEVHLTZrTmhmbE11WmhqMGVRZm94a1hLc2xwVGNtY0c4MG9YYmFhalBsRg?oc=5",
+          "date": "Thu, 05 Jun 2025"
+        },
+        {
+          "quote": "Mass power outages disrupt San Francisco traffic",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ3drUVFURU5oMmx3Yi0zWmk1c3h1TXhsZ29HaXhNeU9mWXZYd0RIWUxfSG9sRms1RV9kZ3lEQklGbXQ0MS1sTFkyUXdXMHcxWlF6MldTcXJhOWhiVWVOWFRWLWVrWGJsOGF6ay1aYjMzaTBsR2ViTEZIbnpjLURXUHgyczkyRFZfcC01R2dUTFdrOTVZTU1lR3kxaUY2MzR2S083WThn?oc=5",
+          "date": "Mon, 22 Dec 2025"
+        },
+        {
+          "quote": "Power outage affects 130,000 homes and businesses",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2xXQmFHWFd0eEE0NEdQaVB6NDMwWHNUenl1bnlJVmZUWTQ0N08wYkNDUHdFMDMwNHdQOXZ2Qy1uV2xST2lhQzVWWHZ2b21oNVZhcXl1T2twNmU1eno2WHlaM2NDNXgycDRQVGVnNEJVRE5mQW5XR0YwQnFZeVZhNFFjS05nZDhfWW9QUGl2MTdBWUp4Z0lNZDJhTkdGbnBKc3c?oc=5",
+          "date": "Sun, 21 Dec 2025"
+        },
+        {
+          "quote": "San Francisco power outage, restoration timeline unclear",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQU2dQeTROZ3hhU0tsWDFvSF9KMVdUcmxJT1dqdndzcDFRX0w5cTRnSnQxM2J5R0lqVUhQLTR3MW51dXN6a0pjZ0dPNjhFeXpFY1dRTTZYd2YtaTRQT0owYXkzRnY4RUFPRk1SdkduMWl1cUlqU25WRXpEOWVWSm1nVVB5aHdlYWtkT2RQdjhWbkJHOURrR2VWQU9iX0h4dmZkU2wtaHNjUGRQSExqeTRycHdyV2FqVlpHbHU2VV9ONnJ2U3VrWGJ4UVdkNUFVYXJOUV9PT1VMQk96dWF0d09QNGtWc1Q1V2dCQmxfWGwxVHdpSnNq0gH6AUFVX3lxTE9JRW01R1NfdklHV0p1RXlfZmxmWW01Z2pvUEZZcUswMzl1VTBZWjYtMWRhc1ptNEZuOWN5OUxYNmJjZnI1MWJJOWVKZk5hbnEzNkt5WDNOZTd5OFNPSW1VYkxfMXV4am1TaTk3dlE3c01Ec016enJwTnR2RWZkeTdxN2o4SUtRampXSTFSNUZVLTJHampHNno3ZDYwYmthT04xZVM1U1RmSFU3R1hfakhVdktmWURMa3BCVnc0Ym1COWQteWwxX0lqbnQwOVY2MTd0ajN5Y2NZSzFSNm5ETnprYnZQTlA0ckRxTGJ4NHNVUF9IeDNxUlA4T1E?oc=5",
+          "date": "Sun, 21 Dec 2025"
+        },
+        {
+          "quote": "Large water main break floods Sunnydale neighborhood road and homes",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUlhVzR0dGVoQWprTFE0MGwzQW1oLWpnelJGZ0d0bi00Z0pmaDVxdlk0NzkxcGI4cm5oVmdEU2h0NEUtNjFpTm1HVUFwa09Fa2M1THRldU1jUFlMZ0gtbkd1a2YtaHhnNnkzdnJFT0VzQkZCWDAxemUtWW5raHhsaXRSd0FzS0xyY2tBNUpPUjU2c1htU252ODFoLWplM19Ldjh0NGxnOTZRS0wtS3FSYU1hTERiLXp3bDlNTUVB0gHDAUFVX3lxTFBoSG1vUG5OWXVDQkNYQ3B4QXVqUmhNMXhJeHNOWW9ZeVZBdU9pdW4zMFRhTHROU1pwN0RDZUNYcmdmdkc0bkNrTHhMa1dBZE8tdk5MZkJySUtPaFRJOGVpa0stYW4tRGoyWWgxb0VYWVgzdlh3LXRBYkNxaUk2aGtSazlHMVdVUVlVNTNNYkRwQXZUSEZEZzB3SUJ5bjdyc3hwTkNncWluRG1vTUx2cUFDLU9ESE1EWV85WGhGcHU4d3FLVQ?oc=5",
+          "date": "Mon, 27 Oct 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 14,
+      "pct": 19.7,
+      "samples": [
+        {
+          "quote": "Staten Islanders made nearly 130K calls to 311 in 2025",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaU12dV9BbE9lZ3MzZFVzQkdfZmp3d2ViY3dXMDBfN3d1NmhwcmFobEx3YjM3WHRQYTAyOGFTLUFVcWprR21WY29hNjVSdVItdTI3c3VKR283RFJaV3J2WG9INjJzMTZLaWtCOVpNNWVJSnRtVnFkSGNDWTlDallVdUFlamFBbGFORTJlTWt2b3N5ejI3Q3lwbXR0OFVBWU1iOUg3RzVER0lSdm5TaGM0RjlOOFVwN201cS1JcW9FSG1PUXgyc3lGOWhmZzdlZ9IB4gFBVV95cUxPVkhEVkxyWUl6WUlJakhNRkp4Vl9SMmQ1VHRPWmFsU2JselRDMldxQkNlZUtNYXFJRk10WVlqcWVuQzZyVFlpN0g4LVVpSUFmT2hjcDg0SnVxTkFXMUxpZWp3WXJsQ3k3RkotdE41M2Y2RmFTMGJVTUxFZzBYY1dUVDhJWktYUVRyYnFWSjlkQWIxaE8xRTlTNjlPazlEMkdhNFhhelJSTWdOWVdqUFdDRkFWYlNPUHJyU00wNWNQLWRlZlRCN0JHRXBWZktxSnNoQ3NHRXItTWt2Q3ByWWgyb1hB?oc=5",
+          "date": "Wed, 31 Dec 2025"
+        },
+        {
+          "quote": "S.F. residents filed nearly 800,000 complaints in 2025",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wR3dpcnNyU25fY3otZ1B5RE1aZUd4SjRxaXBFSGd0NlIzNThZREhEcWktbmJ5U0RjbVlheGpiZkFKT2NycTFTUFdwRzhiZTJMZlNUNG1yR1o4b0JwWmlGVlJZejFZV2x5ejhQOExiMkl1dGdfclVZ?oc=5",
+          "date": "Mon, 12 Jan 2026"
+        },
+        {
+          "quote": "Restaurant permitting process complaints lead to city relaxation",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmtnLW42Nmo1UE45NFg4OWVmRkNZdUxZeG1UNG1lWk5VNUd0czJjaDktT0lWQVVtUEtUUTh4dkg5T1lBUWtnLW85dm9pOWxmZFg5VVk4T2VQUURfUFI0VXNTZVpQZHEwRmV2RGxsSUFlb1RDUEhQWWxfaGw2RmE5NzNCSGpCZUJCOGd6TnpvMnBrVGlkc3VfZDhxMU5Ndw?oc=5",
+          "date": "Thu, 09 Oct 2025"
+        },
+        {
+          "quote": "Bayview residents grill Mayor Lurie about city services",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWxGVnR3MnQxWkE3Ty1lYjNrZ3JPbzRBMzZCNTRMZldHY1Ixa3VEQy1BWjJKRWRjOG1Nb1ZFaGtxeHJNdldacFNLNFktN0s0a25kQk5oazJnZzl2cHJ6Zzd4ZDExRm5QLUowZ1JWYzR4QUI4cjQ4ZkcyZU5VbzdVZ0NVSlI1YnlBVXNZMl9nUWNlRnZYbGhPRlR0LUlaSHVQ?oc=5",
+          "date": "Tue, 01 Jul 2025"
+        },
+        {
+          "quote": "San Jose employees improperly disposed of homeless residents' belongings",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbXNVQnhQRGo5V1BGa3RCRTBrYzBSREt4VjItSkF1UE92blVka3BJWXNqdnVwNWt0MGt6bDIyanlCM3ZTT09mNTYxMi11c1Nfc3RRWFpCTUNmc19VSVFJcXZGcjlIbUZXR2t6YWpocy1WQjluV2xUXzlDNVBUZ21LckVwNmhpXzJoeklpMVNVbEFTNDVueGdTYlVsckhiNnpnbG9mWG45NzhVUHBlZmF4QlVJVjdhSUJ4WjBIVXhhZW9jN3NpZ2hkX2lfMUJBYi1YNmcxYXdiZ9IB3AFBVV95cUxNWk5Wd2MtaEFaWVczYl9rOFh2cjVNRjd3TUg0WWJYSng3SFd1ekFsQVVCcXQxMUJza25PcTlPWXU1TnhDUVh0TmU5NHFwUjltcDU1b2Q4SzNCMUlkUlpjVXFITXZ5Qk9CRVFfV0l2VEFRd1hTUDVOdGtOM1RXR2NudjFoUkhTNDJWWVVIV2NkWm4tUWo5bGlObExJQWRCcE1hYjB0VVpEenYwT2EyT0tBcVNIVUV4a2JNcnoxeDVyX0hZdGV5VjNkLXJUUmt3aTVvc054Q053VTMyTmlQ?oc=5",
+          "date": "Wed, 08 Oct 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 9,
+      "pct": 12.7,
+      "samples": [
+        {
+          "quote": "Protester faces felony charges for Drop Elbit graffiti",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IWHZ3X0NTX2c0NW5GTXhwMzVtRkVGRUVzSVhBSDlKdEpGaUwyRk9uUWY2dXIybFBsMkl1VVd1US15VFItb0t1RDRXQ1ZSdjQ5bmRtYy14MEJpZXN3dF9QcVZuVW5YZlFnQWtPS3Ita2g2aWZVRUtCOUxyTjNLdw?oc=5",
+          "date": "Wed, 01 Oct 2025"
+        },
+        {
+          "quote": "San Jose police arrest 2 suspects in dozens of graffiti vandalisms",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObjk3WG9INHlSUHVteHhpVU5YMzhCUnA5clZtRzBqYVY1aDROVUhacXJFQksxLU1CUG5RWW9NXzkwSE1iQVQ3S0FGMTRsdkh3Nm94MEZwcGN4NkNBZjBWSjRjMGh6cUFPZkh0VUpMVmdLVzNidGdMM2c1NFdjbF8yV0VyZml5TDlZMFFV0gGTAUFVX3lxTFBxNjRCdjJZZVNKMi1CV203TndpV2V5M2FydjhyNjJRQU9hRVhxa2ZmTHliLUM1U3lndDNQWTVHbThYVmszN0pzMmVFX254WHdiOU9vRFVsMUtQcnpmQi1tOGFRUk5UbUdmWTdFc09xTkhRdXBUcXNXbGszN2xreldlcDJyN1BTSnVTVDNqeXZ2M1pmWQ?oc=5",
+          "date": "Fri, 12 Sep 2025"
+        },
+        {
+          "quote": "Serial San Jose graffiti vandal GIZMO arrested",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaFZjaXc1V05MNDdZOVNHb3VoZVpxNnppSUVTM0YzR0F5akJBYkM1NzJaTlFTNTJHTFhoOWIxbm1TejMzWGR4bGo3UE5lcS04MkNtY0xYelExTTFkVkFtUUs4SGk1SC1SN2pISThCY1Q1aDlWLWtsNHlVTlVsWE5aQThfUDVxR3NXNlpGdjhIQdIBlAFBVV95cUxQQWp2UW9Ya3RINElITFdGZzRLZmVSNTF1QXdGM1JOb0Zld2xlSjhRcXQzSVpkeEhvUmNwTEd4WHpNNzA3R0t3WHcyTGRhODZORmplQ2lFSmQ3WW1qbjNiU2labHJrZGREUGE4OGF0Vmp4NzdCTEx5OVRPbmUxMGExWmI4VC12SWUwSGRLcmQxVEQzWWdD?oc=5",
+          "date": "Fri, 09 May 2025"
+        },
+        {
+          "quote": "Oakland Chinatown businesses decry fines for persistent graffiti",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYW9QN0sybU5vZElrX253N01RUzdiVWVWb2loQllKRy1vZXFUdkU3MFU0X2t3ZnhVQXk1cVg1MDRpdWxsLUF6bXJ2QUJtcGliTGR4dm05T2JMaUxQaTkxUUNIdng4d2F6bV9aODBRWnJsYko2dVZxWUNWMkRUaVo3VW1Ocl81VHB5b0h1Mlpjbm1ESWpLRlNoNWQ1RTVXRlptQ3JOdS1aLU8wQQ?oc=5",
+          "date": "Tue, 08 Apr 2025"
+        },
+        {
+          "quote": "Vandals deface new mural after Great Highway closes to cars",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15TEtxSng5d1A3Wl9pVW9VT3R2S3dfLXBHQXRPSFVENnFNaHFodTdQZkl3ODNoZjBJdTEzQ0kzWFZGWGl5YmpfclYyVExEdkhSMW5rWV8tVC1ZR2NaOWZ0VVk1VUQ1VVRMT2ZqVElIamtBcGN1?oc=5",
+          "date": "Sat, 15 Mar 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 8,
+      "pct": 11.3,
+      "samples": [
+        {
+          "quote": "Residents sue San Diego over tent encampment conditions",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNmtMY2dHY3R3WnFQM1g1c0E3ZG5ocWNwbjNxUHJGUjc0bFR2emRsb1IwVWRWamduZ1Vhd2lpT2lIQVdFQms5d0hESEZ6TFFCekZzRi00OUk2NFRCc2JndGhRSEJQRmV2dE9OQTc3d2dLVm9lTU5WTjZUbHZkSUctODNiMzV1Zw?oc=5",
+          "date": "Wed, 27 Aug 2025"
+        },
+        {
+          "quote": "Residents blame city for worsening conditions, hire private guards",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOU5qZk9qcnBQZXotSFpmbkpxcHZkclYxSkhBLWRBb0R3VHNYWnk5WlBmX0pzSG9Ic2luVExocldyaU5KaWJDSVg1dmFobHV3VDBaMkZ0ZWl0YVNxSFZPVDVXQ2JvRUJzQUUzQk44M0dJR0JKNXZrRXUwWUZISC1BX1dqZHZRWFRGcHFwaTB6azZpeHpKeXQ0Z01jUFVnOUxjTl8wZXNnUjZ0am5lbmVfNlplbGVBYkxFUC1YUE5aRFQ0WUR2bWfSAcsBQVVfeXFMTTVWcTVvcVBZcmVhQm53VE5TamcxRVBQZUxBS0xBRENZQ3dGd1FucGw5aVV3OWFvVVMtXzhlWFFqZVU4MjBlY0w0LXl5NWxoM1p1eFR5SkZvSEhDNlVCRURSS0tNeXg3bEJpYVJkR2RrdHQyNnJvUjlLN3JpQ1lTeV85NWZXX3FodFpmeDZ0MkFNWDFzTXNoQjZEbEFkV01adWJaYTUyY0xDS3JveU1aV3RpSFlDcEFua3lLSDNmLXgtMjVpTi1mTHJvOEk?oc=5",
+          "date": "Tue, 09 Dec 2025"
+        },
+        {
+          "quote": "Prostitution, break-ins, and squalor in SF housing complex",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb1dnRC13QzNQLUFjREg5ODJ5ZDdfS0lNX2xXT1FhQURnekZQUUl6QzdzUEZrVHFlTTA3TGc2MnlhZnotVGh6SndnZnZVZ05sRTkzTWN0SXo2c0FycHJTTDRxRVplMXItellDUnNvc28xckxZVFhEX3JKQWZjaXIyUkdn?oc=5",
+          "date": "Tue, 25 Nov 2025"
+        },
+        {
+          "quote": "Waymo vehicles block roads during power outage",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3NUd3FqQkdqZGxadzdfcDZQN0lTZWxkZUJfSHVqMFdGc3V0STNQSGRSM1NlVG8tclJwVDRNVWgyU3h2Mnd2N3FDLUI2aUR6UTNGTVBtVGFScXVuMzVWZEhBT0IxZlQyZWhOVDFpeGR6blZ5dV9uX0xpS0ZuZ1hVYUFKVkF4UdIBjgFBVV95cUxPOTFuZFdHdWdia01iUkxIcG82LUxiVFZXcVNSeFhMQTBLTXRWYjRzVzV2a1lCQ3NoUHBGRG5sTlRyd3MxcXlFWl9yY3NXeHBmZDR5dmlRV0syTXdka0pIemZFMlZxR0RxakZLbExNb2hCWElYclgzano4WkdZWi1paGxCYUZiei1sOWs0WkVR?oc=5",
+          "date": "Mon, 22 Dec 2025"
+        },
+        {
+          "quote": "Encampment complaints rising despite fewer homeless tents",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSS1yVHZONTFtLU5ZcU9YMk9keWFYZGFzR2tlY2g4bzhFOTVMeWRPbmNaNmRva0RoeUZBbWNPYWtlSkxwczJhRTU5Y3B3WjZJQXB3WE9qTEFJc1BQTG5iT1NraGNDZjRMUWYyTlVMNkxqRU1RZmc4cm04MUU5VmdGd0s3dzlCanM?oc=5",
+          "date": "Thu, 22 May 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 7,
+      "pct": 9.9,
+      "samples": [
+        {
+          "quote": "This city has poorest roads in Bay Area, report finds",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16cjFuTEV1SnUtazlVRHdEcjZTdEJwNGlyN3JuaDYxTUwyOGMweXBMYm5aYXZmTDRORXc4a25XOERQRHBUeXNOb3RQUXlMaVJQcFhuMmRCU0F3ZFJzNTlPazYzUG16d9IBa0FVX3lxTFBnX0dFQmROWGRORDg1b2MwaDBVTk5QaDdXZi1faVVmS2RhWlpmb0czS2lOckFCM0xCWTRlTnFaNG9KMXFSYWk3YlhyQVBRbzRTeVB1M0d2WFF3TlFXR0Z5VzNnSENmYzRWYzZn?oc=5",
+          "date": "Tue, 18 Nov 2025"
+        },
+        {
+          "quote": "Cyclist seriously injured after hitting pothole",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnVRZUNNYjBiTk53RXBQTlBia0daSWJvOHhpUHVpYzJESHBNU2lrMGFSUkluWEdVemJKcmZzcV9BcENLYW45T3lzYjlsRlRVVlNzc2hFemtvVDgzaDZHX1ZEaE4xZVl5OG4xQUJQLVBPUXM0ZlBWd0ZGMHRXX09jN0F0aWxRZWhGZ1RRSmZpUHgyem13aExwNWZjbjZaenJDWkxiRk52SGIwdFFjbFlDWi1NTFFJUThl?oc=5",
+          "date": "Wed, 01 Oct 2025"
+        },
+        {
+          "quote": "Oakland settles for $7 million with injured cyclist",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0FpWlBJUGdIZjYwem5tcTBpX1dONGQwcW1nb2pVV2l2N3NKaXoyRkhiU3NJdmtpNjF2UHRTMG5yNm5VWTZCaEJzc0I0cUZ6MnF3UThwdGhndFlvOU91cjB1WEx6ay04Z3lTYWZVdVdOZWIxN09haHpxQzMwYkZrZC1mcUQ4TURMWWNUV0lHbw?oc=5",
+          "date": "Fri, 19 Sep 2025"
+        },
+        {
+          "quote": "Residents seek urgent fixes on battered Chathiram stretch",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ2JaSmxtS0N5dHlGd0pWcEkycXJJUXZqQ2x1dkJsd1hFbDNkUmEwOEpGaG5OX3FWWWtPSlVYeExGMnR3NV9TN2ZNS3h5MHlzSy1GelN2eFNSV0FVOWhLS3lEblhnaVZpN000eHVNa0tTYUQyY3VxQkRzdzFFa1U2Vk5UdTNYNnhIQkROZzM3dTd1S3MzVjV2S09ZTjZYSjlYa2VRY2E3MEJLZ1AySjgzSlk3ODAzazM1LTVMeFU1TUhBekd3T3RYSmdMSdIB0AFBVV95cUxOWVF4QkVnQlBaN3NQRV9RWVdwRWhlMjZuNzVKc2k1VmM2STJlSmVLZ2gzeFhabDNKVUVnT09RUEs2aWVwTGNvelFRZnpfYTFsUHlYWjNwN01Tc1RLSGNyTjhqTVlidHhadVFZejA1UjZYcDJHYS1iT1ltVVRqUmpTbUxEaFhUZ0x2djJrd3RiSURaT2tlUVNNajhEcmFHMlhNM1RoNm5mSENpNUJhMU5kX1Bnbmt2S3RiXzVwVmhMXzVldFV0ZVRseUNoZFJDdE9P?oc=5",
+          "date": "Thu, 27 Nov 2025"
+        },
+        {
+          "quote": "Bayview has 1/4 of city's unaccepted streets needing maintenance",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1teDJJSWNaRXNzbjBQT1JaUFZLUUdUMUtfNVBVWFFZZWNyX2FBekNYbW5MUFMwWVhWSHJWaHQ0aGRMU3pQRVpXNFpyNzE5VE0tTnlBTmt4TDk5Z1A1cEpmeEZxR2NKcUdKRHJOaWR6dmE?oc=5",
+          "date": "Fri, 11 Jul 2025"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 5,
+      "pct": 7.0,
+      "samples": [
+        {
+          "quote": "Neighbors fed up with 3 straight weekends of concerts",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDRWY3ZZdGZJOVNvZkpmT1hwSU85Y29BcWZfSktaTlFFalhnRS0xcHAzdzdGWS05d01kRTIwSWxlbjYyR25zd0JDTWtfSkltVEFXYWx0MU04NEdrejBjZGwtLUV6ZXZMRk1WS3V3MU91MFkwX1k4cUlWOGlmR25zSVVCbkVzV0tJTnVyQU5vZ1FkZjdWX3Jn?oc=5",
+          "date": "Fri, 15 Aug 2025"
+        },
+        {
+          "quote": "Residents report impacts of living near concert venue",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOEhidkFlcDhlenUtaDVia2pOaUFKUzNmUURWeW9HeEliYlkzSmtmVGVTOTl1c0NvVHlfUGQwU081eDV1NmFBVjZEZExrV0x4cFZKMXBNXzRyd2xLTmNISzY4NE5RUk9MX1Z1Q0s2LTFZaFVkZHhja2dNT0c4NlI4WHRaYXpPMDZs?oc=5",
+          "date": "Wed, 06 Aug 2025"
+        },
+        {
+          "quote": "Residents report power restoration equipment creating noise nightmare",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQkowY0Z2ZTlnYzJ5YllTaE9LVW9DX2trRHIwUjBJaHJINi1iT1VvTG1xOUZ6UFFkMzBwbllIblhVczJaaUl3N0xkbWEteUJZOXFYTzVOYzBqSllsdlJ3emRNRDl0SERuYTRQNHdIYkR6SUlmVmhSaFhqNkZ4X2pPdFM1dE5SdWM?oc=5",
+          "date": "Fri, 26 Dec 2025"
+        },
+        {
+          "quote": "San Francisco's noisiest neighborhood identified",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWXoxWE13Q0Q3MlVoWmpMRUlaelVUWE5BY2xsNjRxRzN0VnhuTmwyZmR5RHBwMDJ2TE9YMGp0LVRzNUVILTNIMnc1czZEYlJ0a2Z6WlhRcmNFT0FkWC1KMEhWN2N4ZHh1TDBUOGMzSkx1cFIzMTZlOUc2d3JqbUJiT1RoczZDQmJkc3VieGJ6S2U?oc=5",
+          "date": "Wed, 23 Jul 2025"
+        },
+        {
+          "quote": "Golden Gate Park concerts draw neighborhood complaints",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMHNjRUNxMmZJbktuRklHZ2x3NjlvcnA1Q3dpMXY0d0tjdVRWQ2lycmR4TGF4eTVSVE5CeEs4cVJ0Mnk5NTF6VFJlci0wYUNPczJ5aFpzWmdzYkVOQ2xDX29hd2NlbGw5VW1nMDk3enh4SURuNXRHMzl4S3lrT29ITzR2TS1wRHJPSVdZVkNQcTNNWkEyTzVUeUI4SQ?oc=5",
+          "date": "Mon, 18 Aug 2025"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 5,
+      "pct": 7.0,
+      "samples": [
+        {
+          "quote": "Drivers urge Caltrans to fix I-680 streetlight issue",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDg0eVpVS2w5UC1FUHRZUWRTcDlrTFZsYmlFN0tQM0NSVmd4VGFzdXlRYmRidVZUQXQzUjNSV3otcUhBVWhKRWRGNlZXQ1k1bVlsNFZMTHdLRHRQNGZ1ZFRmaUpYQjlDbnNYazhFVml5R09ZSW05Qk1iVjlJcWM4OHlqMnFqVU9Q0gGQAUFVX3lxTE8tbTBzTnNSX05sZTY5b0JOTUJDcGZkN1piaGRCNzEtdU10Z3BKNXQyTWhhQ1NiWFp5M2RXZTJlNWlHNTlvbWNLX1FEMVhfOXZLal84LUxmS0NmVllsWWFnaXlDWEhCU3pmc2FzNmdJeW4tVzNjMGtRSVd1dGQ2NTVMSmh2TkxpSXduQ1YyRWhUVQ?oc=5",
+          "date": "Fri, 19 Dec 2025"
+        },
+        {
+          "quote": "Proposed streetlight team could speed repairs in Boyle Heights",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYkxiQlFiNnZtT3A4aUlvRXM0cmNISmhUQ1NRbDZtQWp6ZElNZlRRWl9OTmNiY2VfSzlzOGRVNHVOYUhxdndESllqY3ZnRHhMZGNjNmNlVkstN3BfaHB1a2ZBRVhHdk41Y3M5TkpvLXh6LU5rTGlEM0dvdi1jNzdYNEgxS2pkeFl5dW05d2JoMWg?oc=5",
+          "date": "Wed, 08 Oct 2025"
+        },
+        {
+          "quote": "Residents file complaints about street lighting issues",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkpFbWs5NHFibjhET3VnbUZ3ZGt3d1c1MHp3ZHhvdVJ2VWtXLXEzTmpUQXVMZktlNVVEYWs1ZmhmdUJ5SE9jalhiZkZmdGlqLTVtRks4NU0xRnlJNzlpLVhiajdjX0pGQllXUEhIUFVRR0c3dmJSNUREZHhtaXFPcFBUUzViMG1vRjFaaXNtb0xuUkZFMUdB?oc=5",
+          "date": "Tue, 04 Mar 2025"
+        },
+        {
+          "quote": "Resident worried about light streets being out on Highway 680",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTVdIR1JZbXBSc0VSVWhiUjU0SWcwamJRaWpreEh5UHh1NUFWc0sycllWRkh5R3N6d1Z2ZGFId3EybEdhOXZET1RJZEJJUDVfRXBrT09BVFJzYUZxRlQ0YUJnZjRzN0FJbHJWRHJBSUpIN2E5am1ZeXJfNGpCSEFqT3R1Uk8zMmR2akxaRU5XZVpNeUtiV3fSAZ4BQVVfeXFMTndraDZzOF92SFZ5a0V5VUg1U1B5OHNjNTR4UEI4UDRUT3hPRC1pUXFTZ1hadXFqN2xoS29BMkVUd0VjZ2c4TDM3a0RRX3MtZUxFaUlJMWxKYllOaXo3VEZlN3lvQnlaQmwtdGRKQWZHbnEyQjZ3NU9VVmxYR0xXSW5jVlZpQ0ZQWjRxVmlfQVhpTTNTZWhILUt5cVE5WHc?oc=5",
+          "date": "Fri, 17 Oct 2025"
+        },
+        {
+          "quote": "Locals fume over dark streets in National City",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTljR3d4dDExYnhVSEFnVWNEenlTLXUyUGtlWmpmWUZmUl8xT19oMlBiZzNIYWJQT3pWVzdLU011U2ZRVFpTckZ2RXgyS1JHU3lCZHgtUkJLanFiTlpIMS1iVXdyclBGYWk0R09hWWJmdzNUeWY2bzZtcEMwZjcyMGV6alpkNnJESnY0dThPNU5mbVNT?oc=5",
+          "date": "Thu, 12 Feb 2026"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 3,
+      "pct": 4.2,
+      "samples": [
+        {
+          "quote": "Mission to clean up Oakland; why does trash keep coming back",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMGJEckNMRDE1Qy1XLUNFQm9sTUw1WnNHVk12MXVVREhTODFLdE1xenpMdTBEV2twaUVNNVlDVk1sN3plWXV5Tl9ZME5LblN6SWZOTFFac0hFUWhVdjZUQ3k5UEFPcnE3S29KSWFDTVVSaF9VckRHSlhEUzY3RlRaOWxUTXcwWjYzanYwRnAzYw?oc=5",
+          "date": "Fri, 26 Sep 2025"
+        },
+        {
+          "quote": "City slow to fill trash czar position amid complaints",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVnlVTWNwMnFOMTNqcWhLOWhQa0dHX0t0cEd6em1mdnhfOVN1dkdUbW83M0dWUS1GMzV2MF9fWVRKanEwUXhTT1FYaU1CVnNlZHR4eFJkR1JwUEpBQkRza29LcHRSRWI0TFNCU0RVWFVaMU05bWNlcjhHZm5MY2JPQmJNZjBOZU1HbWMxbEcwTGNESkltVTYtc1VfV3g2aVh5SUE?oc=5",
+          "date": "Thu, 13 Mar 2025"
+        },
+        {
+          "quote": "East Oakland trash dumping complaints ignored by city",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbXE2ZldOS1NDb3JBcU5wWXU1Ui1yNzdfcm13WWE5Y2ZDWEptazZ0XzctekczaEZuM1BWelNOdkNldmJXWGpOV19TdFU3em5PVWx5UGFBQnVBdFZvRGlMa1hSZkJ3clZSWm95bG1WSmlKRnhneURYQjExa0tuU3pFZnd5THUtWDZJRnhUV3dqejA2d3A3QXFNNUhPdVVTX2xwYnhPUWgxeEN3ckJqWXhIYkViXzE?oc=5",
+          "date": "Tue, 23 Sep 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 3,
+      "pct": 4.2,
+      "samples": [
+        {
+          "quote": "Glide sues SF over damage from sidewalk widening project",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeGFzMHQ4ZXBhbU9sR0hYMW91Q1dFWWNOZzdmaUdnMmJ0aXJBanJ6RDN4YzUyWTByTUlfQjd5anBqNXBPSy1GTjFldXRBdUNabGtobnk0c3ZGUjl4VHFfSEU5OG52cHZxRGcwMVZILVlGb3p6NE9nN1hZRGxtWWk3eTA1TEZQWmxLNUtlLXFxTUw5c283N1NITG1zNmpxbi1xRncwa2xyS3ZTUkVIN0tMRkJ6V21Delc0Wms0ajMxNnk1TnVyTWlxanBvMHZPeEJ2SFJGTWlvcEI3V1E2UjBxVkh5cnZNQQ?oc=5",
+          "date": "Sun, 10 Aug 2025"
+        },
+        {
+          "quote": "Nicole Brown-Booker won lawsuit against Oakland over busted sidewalks",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWVnWks4ZUpBYkF5elAtajU1M01mWkdseTdvdWxEeGZOendIWGExZjhwQzR1WTR3YUMzdFc0SmthUzJrN1VlVThYbzA5dlJOVUQ5dEU1V0hwM2xwaFQwYlpRVldqV1BMclF6cnZrdGhFNUtwdFlFTzliZUhpSGtDWmM0WEgxRnVpekZFNkdnSlh5LXh2VkJyZ0lKd2VkeDdLX0tr?oc=5",
+          "date": "Mon, 27 Oct 2025"
+        },
+        {
+          "quote": "San Juan sidewalk crisis obstacle course for people with disabilities",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUNUTVpWRkt3X0NPMVlOVDVpZFlmMDF5b3RoSnhPczBReXl3SVNsQ3k4TnFwWXNtZS1oNi1IaG1WMjlHSFFqeXF1a01GWlZoOTRISGUxSy1hQm0tb2lWd3JBVkJILTNXZ1QtdW1wSzQycWt5c0xaSWx2UkRPcHJMNVJSdlYyUExKSk5Dc1R0MnJrWTJ6MzZ4TGlR?oc=5",
+          "date": "Wed, 09 Apr 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 1,
+      "pct": 1.4,
+      "samples": [
+        {
+          "quote": "People mad about first-ever parking fees at Balboa Park",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeHdGSHBYOXB2MWJqNHM1V0xzazFITFg1OTQ3R1NCUlVxTEhNcGZaeWNaVmNOQXo5bThqbWc3NDBMRU92eDBfV1FYWlJUdWhrZ3V6RFhEY2w4QzdVNTNyeVBqNHFNQjRMdG1fWllzYkRkVjhSbTlIT0liY0Q1Q0hIR1h3?oc=5",
+          "date": "Fri, 23 Jan 2026"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,106 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — OKLAHOMA CITY
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 128
+  Complaints found  : 72
+  Complaint rate    : 56.2%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   35   48.6%  ████████████████
+  Pothole / Road Damage                8   11.1%  ███
+  Other City Service                   6    8.3%  ██
+  Graffiti / Vandalism                 6    8.3%  ██
+  Trash / Illegal Dumping              4    5.6%  █
+  Public Safety / Crime                4    5.6%  █
+  Abandoned Vehicle                    3    4.2%  █
+  Sewer / Drainage                     2    2.8%  █
+  Street Lighting                      2    2.8%  █
+  Parks / Public Spaces                1    1.4%  █
+  Sidewalk / Curb Damage               1    1.4%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Housing dependent on good utility lines availability"
+      https://news.google.com/rss/articles/CBMilAFBVV95cUxQOGpidmYxekd3LUhjMnNIaldwXzRDTzJ0Ml9BUlVGcWF5aVRxY08ydjYxWERVYmoyWHdHejJ4UDliTlRna3N4NWJIUks3ZDhpMWhtc2poZ3Y1SDNCdFV4ZGNLWVg2QmsxUFJtRDNEUE50TjNIZWhLU01ZdG95WWtQODByTk5pVGpzd2NkRndhVXFpRW1C?oc=5
+    • "Toxic wastewater from oil fields pouring out, regulators failed"
+      https://news.google.com/rss/articles/CBMifEFVX3lxTFBWQ1RNdlhFM1QyQWYyY0x2M1FMWW9Td0o3OHBQWFhtODVrM1FHaC1aZi1rRU00bFhOVDV3T3V5cmczZ2tmQTAyS1QwcE9rdVE5N2tjbnBWV2RZMG1iem1rbzlVdHB4YjN3TjNWVmdVcm4za0tReVkzdGlSYmw?oc=5
+    • "Ponca City crews work to repair major water main break"
+      https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGlXXzVSYUluZVhubFlIaGxFUjVOVWJ4U0t6cHhHYW9aRmx4Wi1aUUlzUVlFelRlMmliaGJQZzVJNTFlNXlYcXozSmRuNE5NUmoyc095ek5CU3YzVmEtUm11Mm9FcV83X1pHU25vN0lvTjJNLUZBdEFfVDdwaTl6LWx1U2xBcmNKd2400gGQAUFVX3lxTE5MR25fb3BpWEhtQ0F4LTJONm5vTy1fZE5XR043VWpOa09UNEcydVdHR1AzN3VjbjhwbFAyUHIzYXVaVnlfVFZFejBWOUwwT2lQYmppNzY4ZkhMOGtaRWF0V3NBZm8yeWdfV085SXl0UDk1Nk9od2V0MXFVWHk0U3NlcXhZdkpkTnV2YldwSnZBQQ?oc=5
+
+  [Pothole / Road Damage]
+    • "OKC voters strongly support fixing pothole problems"
+      https://news.google.com/rss/articles/CBMiigFBVV95cUxQdGhyVUJZbVowYjBMTjh2WFFKSWhhZEJYWHdjRndDV05ISC1wR2x5WjA2dHZHNVNsUmpkMmM3ZTBSbDBaazFpa3JwRC1oLTRvbmlZaVVFNlhJNmRaS0ZubEtkQkpPZlNUWGQzSGpoV1pFRnZBNF9wbW9Wd25mZFhWcGFIRkhvSU9sY1E?oc=5
+    • "Lawton pothole crews working daily to fix city streets"
+      https://news.google.com/rss/articles/CBMijAFBVV95cUxPODNLRWlJdFJucS1NcWhQT2t4cXJSTmtOdHQ1Uzkwa2xxOG1KUHFWeFJhUkJGeVlBQUNyRHJaall5cUNIQ0Jkel93eHNFLUZqVXZOYVVVOVczM1RLZ1lNaFEzMjNXb1hfYmFJbG5xWTBUMERmU1hSWlpsX1RySmY0ekRqb0NrQWtQTmdJSdIBoAFBVV95cUxNTDI4eXljaHlBYm9weTFxeVVDaEw5ak54bmFBcm9lZUFaSlhuczdXSGdlQjNtQmJub2E0aThaUURUZzVxbEZIcWJiMW5wRHhfQ2hLanZWQUdaYXU2amxQbkIzdER5QWJYUFhqemRaSHpDRVJjZVF3TlhCaUhXeU1qeEMySHVrWmhXQnFLU0dfUl9iUWk5emlIdjd5ckFOTnBL?oc=5
+    • "Delhi residential roads face dead end with empty coffers"
+      https://news.google.com/rss/articles/CBMikAJBVV95cUxOWGNwaTQxU1dENjNDaEdLeGxLbjhKVFk3S25iZGFvSFlkVFk0NllOcmFvQy0zTUwxc0ZMWHA0WUxjRGZ0eFVMam5UMmtpWjd6dFN3RlBMVXBEY05iM0J1WkVkNzJDV0pVY2p3UUNnLVNFTWhqQ1ZiWVFfR2oyRzhnc2N5bG9PN3RlSWdtd0lhdS1qWXY0bkVmWDcyZ0Q5YmZFalFFY0NmcGVCT05CRVc3WXdVc1h4SzhCT1hZaWVjRi02VzVKbkdFQ05najZ3dkVfOUpIc0J2WmU4RzIwRmVQUVVHbDRsamROV3NpRk5zdXhWUTcxN18wZ0laWmhtcW1OekVCMkZ2UzhYX3NfR0kzQ9IBlgJBVV95cUxQZlFVQmVuVlRCWFVTTU8zZTRURUJOUGpJSmJnVG1DZnJTWG81RWxXZ1UtRDUwRjFZRDl0XzJPSmVpN2x5Si1rbkg1aVJzbXZCdnBoYVhKS1Z3dDM5Ynl2TnU0dUtSQ0RsdXFXU2ZpN1VuVlJlbjJrelVsVEJ6cm1pR2hNUXh6LWZHSVNqaktwNlZ2cmJOMlhSdEE4TWN5NXlnTGJ5LUg0aGVleVdoT2RLemN0ZGlLZjhJRGpwTEFieldiRzIwWWEtOVNaTjY5RHliTmdhakZMS0xnYzB5M1lwdC1FX3pwb3V4Ui1TdFlrWjZZaHlZUlNWX21Rd05BaFg5cV9BMU1mOEM3VWN2S2FqU0VJc0o5dw?oc=5
+
+  [Other City Service]
+    • "Wichita rarely fines landlords for property neglect"
+      https://news.google.com/rss/articles/CBMisgFBVV95cUxOUVRTZU8yZkhCSWV4VWdpRk5aaTVRV2hfX2g4WWxBeEFlWmJKMWFxZ1BBWUIwRFFveEVaMUg1bHNUMXZkM2Z6WU5IemVqSGpvZ3FIcnlKYl9GNXkyM2plQ1pIWlltRGNFQ1VPUmdhTTNkVTZYSG5FRHYzQU9nei1Ka3F1N1VodTFIUkwtMTJsVFlBTGdJOG5heFdLUHdBLUVMRTZJYWJvMmk3OFB4UW5zTUVR?oc=5
+    • "Small town overwhelmed by fumes from oil waste disposal facility"
+      https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYlZqU0FWdXdvejlxYlpJTHVVb3gtZFprdTBUTnlUZ0pscmVHNkh3dDlhQjVGTGFVU2xfdVhxOFFDMkl6OG5NZ2VoYWhwX1NpbFRSeVg4Z2tXOHFSR3E0czl3N19Pd29tT0ROUFQ4UlVMWko4aG8tdWpqRElvMDIwMVlMSHk4VzNwVXJZdXlLVWk2QmU3OV9vbTIxRVlJMVptMTY0dllLRWhRRV8tNVBsQk1FOE5RVzFsTmRncXBLMEVzZUR0UFdzY05IOWVLS2VUR0VtUVp0ME4?oc=5
+    • "OKC tenants seek relief from property neglect"
+      https://news.google.com/rss/articles/CBMirAFBVV95cUxOektWYnh1ZC0xeV9Qc1ZMM0VPeE9Ed3hwWjRTcnZZQlpiTXhmU3JrajZmSWZTenFiS2V3MjZnMFF4bGlkYTN5YThnWUhuM01iVkRHX2k2Z1dRUXNNWXVnRFVLUGpXdnVBU1VlTUtDUnFuclhoQU91WlFLMGFVTVc5eGprY2JzclVPaVVWYk56cHF1c3REUXJPNG1vX1hIbnBkNWRpd0dhcEdmaVdQ0gGyAUFVX3lxTE5rMzRSQnRvWUsyMDNWblQtY3BiSWlBSlFoekJvWkhjLW8tR2tHeDQ1RmV6clI2TjhGTnRlVGlmRkN5NHRSaEpJWjFEdktmajF2Y1FfMVlkOVB5d0Y0TkNNRUZCWDJPYXVJUTZsY0NtaUhJODg3UktPTmhCb2pCNndzV2ZYWm11djEtcXZLbEZBS0Q4bXpQcEJGajItQk50VDR3NmpoaG04NS16LXRjUno5aWc?oc=5
+
+  [Graffiti / Vandalism]
+    • "Vandalism hits Oklahoma Capitol as crews worked to clean graffiti"
+      https://news.google.com/rss/articles/CBMimgFBVV95cUxNUXl1dlYzTFFHMjFhR2dNaHgxODdmWHB4VWpyMTZOUzUza1NQdnlVUnVQT29XZDZmYjIxMjFjaTFURWYyWVo4ZVh0cUVGZTRkV3l5bnpRSTdGOTJjajlkcUEtN05TVmcxMDhnREFydE1nQ2NZckVuNVBxMERXeTRpaFpQMDJLWDdlRERNZnR0aTI0blMyd0dEOWlB0gGfAUFVX3lxTE1TcEgwZWIyMm1nWlZWLWZxXzBONWwzMnlzUWR5VkRNbDhUZ2dBcGxBRTdPLUpXWUFYV3BJd3FBYU5FNDB1ZkVzbi1hemtkVlpZOGhsd2xfcGlwdDVaNW5IZ0FEaUZNUFMtb050NzhVTGdwSWZJblVOTjNRdk82OWh6a1plaFUxMVM2OU1tejAyZkUxYnYydlVTMS1Jc3o1cw?oc=5
+    • "Oklahoma Capitol vandalized with violent and vulgar graffiti"
+      https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWEU1WkwxZ1VQd1hBR3dNVzF6TmExWnB4Y1BWcHJDeENRQzZ3bHFyQTZFMmQ5MlBGTFdpN1B2NGpBZ3VDYTIza2hWMDRQbTFpMTc4Yk1mWlFmYmFKRGRwNEtmVV9wOTRqZEhZclYtMnQyNXJYNHhFUXdaREZxSndqclJ5NGJ3bUk0?oc=5
+    • "Graffiti suspect linked to widespread vandalism across Tulsa"
+      https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHhNMHdNeklFaGk3QjgtaFZDRTdiTEtCNWJPQjU3VmpVbTdCNEF4LThlTjcxSUhPVVU3Vk1vZWtXLTNSZ0N1RWptSjJpWktJVlJyZU0xcFRDbDZKWFdDWndzR3h2dGJVb2JObVhzbExTUzVjTlJwb3diVjdrSnNyN0RQZVRGaVVGRkFSN3A3Zw?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Small Oklahoma town overwhelmed by oil waste disposal fumes"
+      https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTXYzUEl2dmNkTjFQdWZSV3Zsd2d5UElJWnktTGY5WTZIXzVObmlGQnR4MHdhRTZxWFhjQ3haRTZHV1lLdHFnbXJUbHBRQWRqTmZMNkQtZE9Kelc4Z2RpMThNR1M3WFJUdXNQb0xkeEFEakloWnpqbXprQ0ZCaFJrR004eFJ6WDFZMXNpaktRYUVXOHN4TnpzU2s5OEJqOFZPQUhpX3dMY2pXR0hCbkg3amZtY3B1eHJkckJMaEU4NjRCVU1OTkM4cC1Wb0RiRU5KMDNmN3lCOUtybEZobmNHR1N1bERoUjVNRUM4aUhhRVA3X19sUlpoeGh6bllsQQ?oc=5
+    • "NW OKC apartment resident fed up with overflowing dumpsters"
+      https://news.google.com/rss/articles/CBMiowFBVV95cUxOU0ZscEtyVUNzR01Odk1wZFNKSDFKSzY4WFRScU5sTVNqQWFZMkVIVlVldnRacHdRTVpfWGg1LU5LM2h4SzVTclFhR3JGb2tIZmRuSVB1NXlnUlRZMkVHYTJYZV9iZmhadXBYQ2lISmdPc2NrSU5MdjE3XzJfSlJuTVBJWG5HOUN5WFJIWEJVLWlZQ2pNazFqR2RDZmMtYl92OUF30gGoAUFVX3lxTFBqNDRTZlRpX2pZZ3dpQTI3RTBKeUktVWhtc0FlT3NWRUhNQjBRZXRaLU9CT3Z2WlhfZG40cnNWd2dsUk1TdVFSc2tVTVVZMlZlWFc4QXVoV3FBMW5TTE92Z2tuRlhUN2pDNkYzMldjeGtlYU1pSVlTUkJpd2JkT1VveGJCNEphbnQ1TDFaYUxvMTN0R3RJR196V3JZazkzQlBpdjBtMzZzRQ?oc=5
+    • "Residents frustrated after trash overflows at housing complex"
+      https://news.google.com/rss/articles/CBMilAFBVV95cUxQUTZHUnp5QVJCMW9GT3FvWi0wbEtRUG4tTnZkRGV6MGNUeXJrcGlEeTJ1eXlUVk5pQ3QtUWd1RXJJRFlUSTdQclhDWkhkUll0WXB2TVFlTTE1NngyeUltOXViWGgxZmZ0V1VjdE5VMUl3cks3U084MHhNTG41SWREWTMwdTZKUFRXeWpKZmRFdzA5Qnc00gGaAUFVX3lxTE1LWGQtLWpXVXI0RmI4cmVqazhvWXBDZVk4aDBLSGhsT1NvVFdydUY2WGlBVE5VWk01WENkVWdQQnBvV1lFOEd1XzNKT29RVmdIM0t1RFdyZFVIZ1hvaTBRb0VMMktvMk1pakNJbkZSRWpsc0tWS2V6aGlvSjFCaWJHZmRBcW1HTnBuX3BqM3VsMjRUSjVMNG5aOFE?oc=5
+
+  [Public Safety / Crime]
+    • "Neighbors demand demolition of troubled apartment complex after fatal shooting"
+      https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGRnUDlmNnRpVkdRckF1SEZxUElBSDhWd05OZTRMdlNuUE5YRGgyVG5nVTJOMHpnLVg3SDdmSHluTXdNTU9QUjFZOXRUcFdJamVzUEgxQzZjTUNWcnNwOFNNbVlsQ004UGZrdTVxbVZvNXp4aEx1N2Vrc3Z6ODZieHFjaHlMQ0Y5QktHU0ZJZmhLVDE2b1ZJQUhvQmlWUG5ZTkY0Uw?oc=5
+    • "Ponca City resident leaving after triple shooting, crime spike"
+      https://news.google.com/rss/articles/CBMioAFBVV95cUxPQlRIMnhqTHkxUTh5WTF3SlZBN3NHa0VOcXoxYlN1UTdpR0h3MFRXWnc4N1lvbEhobDdneFJGdlAyRkJEdG56dE9raGJUanprdHFIejBxWXVnbl93VVBNTFJxRGN3WWZFWW9sbWc1UDF5RjdROGpRQkx5MmNMZnU2SXlGcTQtdk8wUHZGLVpVR0Rwa0ZDdzBMelUwVlE0bTJW?oc=5
+    • "Family files federal lawsuit against OKC over civil rights violation"
+      https://news.google.com/rss/articles/CBMixgFBVV95cUxONUVzVWVtR01JVXJ0bHFmWXMwVGRfTU53NlBXcktfUGV1U2pRUDNjR1c1dUVES29VeVpjckNWV1RRVjgwWVoybmJEN3BxU3Budk44Z21SZEU5UUlRX0t3amV1dXc4RGp2M3BpT2NnYnMxU3c4ejhiSVdOWW9ObE1XdHM3V2JyNjRZTTMxeWo0T2wzX1F6MHJMdVpiYmprZUVOaUt6T2lmLXoxN3I1YzNIc2w1X2pBMTR5RURCb1hJMjRNXzE1VkE?oc=5
+
+  [Abandoned Vehicle]
+    • "City places lien on abandoned ranch near Chisholm Creek"
+      https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSmx6UFU0WklCbjBPM05seVV5SmRkUVlMaXBjQ2k4X09IM2ZKa2t5dUt0QjZ0c1BoNzVpaDNlZUtZUVZsYmc1ZHEzcGRwUVY0Mmw3YTdrUnBjcXhid3c2cjRMcW5XY2o3X1V2eHlMMWdCbVk2bGl6WEQya0RwZ1pYLTBBSW9GOVN1bnZxQjlSZGt1X1ZGa0E5TzR1UjQ0M2FhTFhRd1lLV2VNcGxyellwSDNRdlFTelpkRVFDVGRURjItQQ?oc=5
+    • "Inside abandoned Promenade Mall, trashed and neglected"
+      https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaVcwbGVtRXBqcm42MjQxT0RERnIwQjJ4RlpkdWdlalhLal94Y3NrVjNIZi1ySThWNU1EVUd3OWRXYXptd0R4Z21POTdhNXgtR3NyRXZucmFuNm5XdUxqQXhyU2RqdTlseFg3emFnQXB3MjR3RFJHaTFuM0F4TXZCcmRsZE9wRFFLQWVJ?oc=5
+    • "OKC set to take action on abandoned house near Chisholm Creek"
+      https://news.google.com/rss/articles/CBMixgFBVV95cUxObkl5WFdCMWRvdFVwajZrU1l6Q1VvTlBUWnI2VzVfOXJ4Tk5vM2dQS3BrRVg3MTlHNmlyMGhwQUQ1ME9YNUdaallQNG9tY3l1cU5ocldnYzNBbThkLU5qcDltOU9NWkdSazlaMlk0bnlDLVNSWktRa2hzT2wtQ3NwVmNoSjRFamNaVUtOcENTNFpscVQzbXlwRDJkZmwtZ1JhOEFmVHczZWNYem1taFBhdGhsZmtzdEV3aHdVd0lOdUdSeHBfdWc?oc=5
+
+  [Sewer / Drainage]
+    • "Gugulethu residents say blockage complaints fell on deaf ears"
+      https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMDdDZzBwU0Q1QVh3TzBrMXJCNG4xSEp6MHFNZEpjcXM4cHBrX2p2bVBla3FwN2FUOVAwMkJvRTNWcGhoYWhPeHJYVk56b3RPQTYwS3RLWEtlWGdzUzJITXQ1RG1nSGxkM2o2M3RsNC1NTEtrTnphR3p2bnpPQ2RERkFIRVNnWllXVkU1dEVFYmFlcUl4eTM1ZFJ2S2VKZnRja2JtOHlISGhnVzFVbjliTExVZjBFSjNubWxjQy1iQjBCZklQWDJvTUtEMjNfQVlD?oc=5
+    • "Emfuleni sewage scandal linked to death and illnesses"
+      https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcWtqSlF0YUtIdHNmUkNzMXZqVGo4bE1aVlc2ai1xejlUSWtiaE5OTFFfclNHenl6MGppaWt6R1pRcGcyZzNpaWxtY1pQQS1mTDNrX1paOUNUc2Vjc2FPdEpCQ09ZNUZiWFRxaVBlNE5maGxzUmd4aV9Bbk1Bby1BcWlXZVp2ZWxid29laHlmN29TcWo0SnE0RVdJOHo1cEp5YUpZMnhDZ2FkdHEyZENxWG11V2ViM2YtMWY2NERIWFBVM0RIMkl0a0FESmhYemFDVlpOWEtn?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 72 news articles reporting
+  citizen complaints about city services in Oklahoma City.
+
+  Top issues:
+    • Water / Utilities: 49% of complaints (35 articles)
+    • Pothole / Road Damage: 11% of complaints (8 articles)
+    • Other City Service: 8% of complaints (6 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

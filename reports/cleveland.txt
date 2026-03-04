@@ -1,0 +1,104 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — CLEVELAND
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 132
+  Complaints found  : 65
+  Complaint rate    : 49.2%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   32   49.2%  ████████████████
+  Pothole / Road Damage               10   15.4%  █████
+  Trash / Illegal Dumping              5    7.7%  ██
+  Street Lighting                      5    7.7%  ██
+  Sewer / Drainage                     3    4.6%  █
+  Other City Service                   3    4.6%  █
+  Parks / Public Spaces                2    3.1%  █
+  Sidewalk / Curb Damage               2    3.1%  █
+  Public Safety / Crime                1    1.5%  █
+  Graffiti / Vandalism                 1    1.5%  █
+  Downed Tree / Debris                 1    1.5%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "PUCO investigates FirstEnergy after Lakewood power outages"
+      https://news.google.com/rss/articles/CBMinwFBVV95cUxOeVFRSVNNUmd3MkZ5a0dWUWh5TWZmbXZNZjh6QXgxSG9ZekhJV2lLaThYNEJlTHJuekhoOGZfUUhDRXdkOXhJRG1kMi04b0lvOUdoS3Bld3ZZWGg3UDJfQkN0dG9xeC1sZ2hDcXVCWVpocnFacW13a0NZRVV4RGNSNDNXWi15WmZWTGwzQ000UHFqdE9oR1M2XzY4U0RicUk?oc=5
+    • "Grocery relief program closes following power outages"
+      https://news.google.com/rss/articles/CBMioAFBVV95cUxNcHhFdlllLWpONklQVzNsckRJZTNmSXZYOHBuTGJCanJPRUhGQnJSUmFuZzV3SWdQTl9FaTQyLTFMbVlUZ3BKc2dramFSZFpPV2FfaTJxMTY3VHBDWlVyUFVNMmtma2dleDdNbERpbWx0cnFFT0ExWGwtOXdDNzdUbGJZZXJvSU1FbnZVbzhZR3pFaktYanBDNEU5RDF4cV8t?oc=5
+    • "Residents still in dark after transformer explosion"
+      https://news.google.com/rss/articles/CBMilwFBVV95cUxPRWlsWmRQUVdGRGVpZmQ3ZkZjYW5ISzhiSGowMEZpYWRJakVxclE1X2RXa00tZVQ4QS0tNktlVVVoWXBuN1M2SUJpNDdYcEZVaHQxSzNmMTNhVl90T2F5ejlXR0RleldpLVBqaC1YdFVDR1pMemFOUmVaSUFfWWxIbDZaTW0xaFk4ZHBKeU15ZFBDcG1ucWNJ?oc=5
+
+  [Pothole / Road Damage]
+    • "Council wants more money from Mayor Bibb for city streets"
+      https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRUhacVV5MzJTRXpWNE9UOEZicjVCQWNYRmpMNFRNcUxVSTEteHdCYlNtN0ZGbDFkNGkySWNhVFNTMC0wMzJPNEthLW4xeUlnMXhCanRVOEt3N0xnNmVxYS1rSTlTXy1FM3U0bmkxM0owWkd2bi1mNXlGVGtCOWZrZ1Flc3JyZkFZNVZOVlpWRk1DVGJ2cHhsX0wtM2hfaW9iTFUwSTlpRkoxUGVxTVhMVG0tNVB1dWlFRkc0a3R3OFItZFU?oc=5
+    • "How to report potholes for repair in Ohio"
+      https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHgyQjljTHpQSF9nVml4dXFwcU03YlJwVUx4Ty14Si1yTmpGOU1sRzJqOU5aUXVMamRjNmQ3T0NWVzUxOFZFR3JmZThKTE9xcGU1QWdpR2lCemtTTXZCRE5UVUJPNjJUT0RPZDVhSGVMOGRHdGM1d20yYk04VXE1N0tRVTJaQzhab0JaSW9tUFZvcUs2RUdmWUlMMENzRi15cVRRdWNqYw?oc=5
+    • "Street got an F in searchable report card on conditions"
+      https://news.google.com/rss/articles/CBMivAFBVV95cUxPaGxwejZnT015WVZab0dJUG9ZV0NGdjBlcU9UZEhKSzdHbkI4cUZrZGktcWw1SnI1b3NsX1ZGazczY2pKX0g0bWNpQnE0UDRnU3hMSmdUQV9kOVdVaEJycmV3ZkJsdmFhZGtLSk9EYVU2anZYUl9MR3hzc09teE9qM1FpWF9ZVHR4UGdmTTBYR1QtUjZvWDJzZUpKS194UXJvakdSeWdlc2RKNndxamtwaHZ6NHhZbGJ0M0pHONIB0AFBVV95cUxPZTNwNDFhVnRaQWVxVFc1T3lRVVJUNlF4d2NIUllkdFdyTnNyeDNhWnBtR1FvdE52ZzBGZUpiekl4bDBQUjRZTElDVmRkdTFuRFlSVHZLUWNBako5YWpGeTg2dEs0bFZRc08yaFczMUZhck1DVHE3YnJrOU95Z2gxODVPWEhGTHhTdVd1MGp0ajBSYWhiQlNuOHZfbU5HMUtMRU1DR3RqT05VNExpMy1waDIwUnNqWGFveXppamJ5UkNNLUhCUlZIY29nX3R2b2pi?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Residents hit with surprise trash fines"
+      https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV0tiVHJkVXZ2WUNUcTROMlJDU0h0OERsZmNvRTVYdk12M2pIbmxDU0c1bkhNZlp3WnFmT0dBdWM1MTY5MWJDbktpdkZ6ZGx6QnU5UjBUR2I5UUtQVFFsNlFrQ0gtSFFaTXdvdEhOR1ExM1llUUhxQ05Gc3hwUUt5eVl4Q3Z2ZEc2NDdKQlJPRUVmWTA2ZUk2STR0VnZncXlMSmRTUGV1NnMtTGZBVC05QzhqYmNDZUsxd3ZZbFRJU3JsZ2Ntd3A5SnJnMVppQXUtOHfSAeYBQVVfeXFMT1Y3RERnMjB3bkxOelRGSnRzMzZ3TVVIQ09hTG5CdVE5amxHWElZYjlCVEFNZkZRazhhbmh4bHJPaC1sQ3cwQWViU1BJdTZrVWdvdnlpUGRqNTVleHh3MlFjazNGR0k4b2VjMHUyRW4yYkFoMFVQWkx1Y0paSWpVRHE4bHAyZ3pEZ0wwY3JGaXFacUZhRzA4bU04VHlPRGFXR1BKTHR6bVB4a19YNkVSUkgzWGQtekp4OS11bHpfM3JjR1l6YWk5SGRZc1BEYkxpLUF1RzZyNWJFbV9HMVBNc1RQdWV4RHc?oc=5
+    • "Cleveland issued 7x more fines for curbside trash"
+      https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUEtHcnZLZWNBRkZUWkNuWjhMd0xxQVozTVZvcFVMb1JVLXBFWmFQekN5N2xiN0ZGcjBNUmtNWFRDV2YyU2pZMVpjV1czdnJ5SzFhUWtyM3Y0VE1PZTVHZ0M0cjltejFYdkp5Q2NsUDJmWDRGcklfYkpzSk5YREpkNFlDbEszRFhQd2ZpbU5lVFg1enhIOWFBQU9fR0QzZGx4ZDh3Z0hudTZnVno4TF9faTI3MmY0YzVxOTJHT1FWY3TSAdQBQVVfeXFMTlNtYU1wWmlFQWdpRThvaU5hWnJmNERyQlZReG0takotSXBTYWZsRkZSR1Q2a01oLTNSWEVpUWRGd1BYQklEelBGY05hdUxYV3VhaU0zM1lqX2tBaTdXX093V2hYOVJWQi1QdUp2b2MzV182NE9WTzJzRGc2UElSaGFfV1BtXzBEcGw4eXdJWTZTS0VEOWx5SDRmV2xZaTRReVdnZjh0WHhVQ0FBLUJWdzBRdW5jTGVtakNtWFhfUlZsY2NqZTJIOGxWWUpqOTVaQkNKR1k?oc=5
+    • "Trash piles up at mobile home park"
+      https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZUpIYVFFdEpWRzVMX2NDalkzcWpKYlFzcmJfNkVLSFBUcC1JclQxR2FuWXoyOTFFTFl2cndmdlZhR09adTcyQWwzdFlqZGIyVGVNZmJ3RktOOFgxWnN4Rll4UUxYQlVzTnZHaUhWdEs5WkF6MHRIVnZ1NjlfbWdoTHdTX1JFa3VQNUxWMDF6Qm5IMERKMkx2MkRPN2JUeHdSWlQzMERXMGJBdFFOQVhWcDBsWTZ3UENSMlBmSG1USjZXUnRRZ2VVcUJNdGFOQjMzSmEtTHhB?oc=5
+
+  [Street Lighting]
+    • "Residents demand downtown street lights get fixed"
+      https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeDBRUDVXeFMzRE9MQ09WWkQwYUk0VXAtNUVrMU82RnJoOVZmdGlfdHE1TDF6V1dieGdFa19qRHF3Nm1JMFo0RkhUMG9Wb25waldkbVpGdHhYVUZCa2dnU2xGdFRtT3ZFQmczTDhxR0JhM3dTa19RSlJzX0htWnJwejdzWTZLRGM4c0xCeDczejBvLWppc0E5SVZHRE1kWGdsdnVRZ1dPRjRMZUFnZGJ3bzE3ZGVpQ2ZiY2pHQU56amdJc0tPc2hocFFlSzJydk5ORUhQenplS1I0R1k?oc=5
+    • "Two council members work toward better streetlight service"
+      https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb0JpTXVCV3UzY1lHQmhHOHZPRVlEWVFBNmFzRWJHZ24zX1B0UzBKZ01wLUw4UklFeG5ISW1qak1oM1pCeTUxcWp0bndLRk5iTW9aYzQxc3hiY1F2czhzQnozOVhGSkVRWFF3VldweHkwX1JnTHY3RVNFbXhBWTJPdkM4M0NadjQwNVZCNEwyWGJNd0FhLXJ2SVRkSjcyem4xdE9GRGtzeWpuRXRuc215MXZfRk55UTdIRVBGOW8wMVNXQQ?oc=5
+    • "Buffalo's streetlight maintenance haphazard and substandard"
+      https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWRpQ09HLU5CamtiaUN1Vkk1MkR5MU9XdVowU1AtNkYtUWZyLXJ5T1dJbEZTVzhxVF85RnpwRnZqTEhHVFJ2a1ZSZnYxRGNOajBDOEN5LTBWZ0ZaVzFUZ1ZRdm9DZXhmVHpqZS00aEVVVXpJSWw4MEd6Nkl5ZDFHRk1pQlkxUHYyaW93cWZLbzlBaWJCSFFZN3VaVWhuemRNWFBEMXB4dw?oc=5
+
+  [Sewer / Drainage]
+    • "Council member flooded with complaints of flooding"
+      https://news.google.com/rss/articles/CBMipwFBVV95cUxPNjROU2ZwbzFtaWVmUVJvUklNcF9nNVM1V1B5cnB1SjdLRzJSVFBwaV9SOHNJZlgzdExFdDNmT2F3cXR5emRLV1N6dmVNQXNtN0pxUDdLX04weVBDcjFtTGJLVlk0a3prbFBYbk4yTThkWEhpMmZwdHF4bXNjWUljUmRPYkhnRlNUSlFHTmZaM3BkNWZfZzFBWWxFVzhKS05jc1lLVXlFVQ?oc=5
+    • "Lorain residents bring flooding concerns to city"
+      https://news.google.com/rss/articles/CBMizwFBVV95cUxQSUJFd2hxeUFlTFY5dUlBWFVmYjZPYVJNNkxjcmRiWk9BeWk3TktvTXhrZWxwQ0E5QThjc3laNkpOV0h0MXJsZkdrWGNMbXNhbGRQTkFEQjNBc3hyVHJsR0QzSFpnWHFPeVdxcUxMNF9vZ01pT0RuaGstMFpQOEVBdVp6c3ZmOHFGRU1FS1lFM1U1TWhCMFgyNDlVT3RVd0tpOUZwbUxNTVd0NG45THBIM1RZZ005alBIbXAtMm5vZzZLQXhzYzF5S2doTW00bTA?oc=5
+    • "EPA finds toxic sewer gas after resident complaints"
+      https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWG5SYTB5MERnSUZjTW04anhOU2ZkRkJzMnFLZjN4aVBhYXpoNDdEODk2Qm80amw2Vm9LSXFKdTdJd1pEOTU2OXlHcUF4T20wODA3UGdxWjZZZEFCeDd3ZEx4TWhOOVNDdHlaVGRiMlpmSkVyMW1jMUZsYlN6VGxkSjBFZjZnUXd6Y25GWDI3bURqTjZQZ3VWLXAtX3lEbkJVd3J3UU9DdTJiTjJhbHZLZnNsd0E4dEVmX2dobHlGUFhLVDJEYk11MjZDbXRUb0VTUUxuedIB6AFBVV95cUxNSmlXUFNMMTdZYnF2Z0Z4dUFCZnVUMWRaaWwwMzJsNWhaU3B0Z3ZuYTloZUJlWFc1QzJYQU14b2hwekFSMUVpWTFnUWR1bFpoUnA1MTZ2amRxc2JqRS1ZeUpnNzlFTENFZ2xwb1JTNmh5SjdheTZ3cEsxb2JhLUdUZzlRNk1CMGxINThhZlRERUh2WHJzTzlTTHpQMUNScVV0Z0UyeklpVEgzbFN5M2cyZ0hweGV5VTdQaGVBSVV4QnNxb2lLREYwdWNKYWZrYnlzV0ZkWFZ5TWdqMldpUkEwSjFuQ0hZc2s4?oc=5
+
+  [Other City Service]
+    • "Residents complain about commercial truck traffic in Brunswick Hills"
+      https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMDI4cEdJcUpSeUlSdmtsREVIdlczaXVSYlotYU9ETmVVSmRjeDNpdjBrMXgtelJvZVFGeGFBWmJfWEhYcGdJRFJzWlJ2TXlNN1I0bS1rZ3oxUFFwcU1feWNza21PekVXTVR0cXZrTWNsX1FaYm1qdWlwQmZ3Y0w2VzdnamRVaDVHd1NMempEbl9HSlI1VC1MYzhDV2N5LTlfZG1uU3JuUGN5NndqdUlILTVjY0RXUzFJdXFTcGRyNElDTXJ4MFN6WEFNYXNXbWJPWEFPSGpKYkc?oc=5
+    • "Bay Village receives flurry of complaints about e-bikes"
+      https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM0NYVGtOdlg0Tms2RUQtT1kxQWhTZFFJbEFfMVRUTW9Cei0tOWxhZHRHc2RPSW1FLXlibDA0aXd5YmxvWEkwUVdGdmJVbEl1eTMxYmVNWEE1b011N0hYR1Z6R3RqZW1PWkVBQXJpYnNmeXgxVlBmQXAwSkJMQ3Juajd0NjQxX0xzcXd1OElqMTFpMVNVYjg4WFNsWDc3R3Jka01Qc0ZZdEVDU1BkZmZKbEpXSUhTTE9SanFJ?oc=5
+    • "Cain Park manager suspended for bullying, intimidating employees"
+      https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTm52UTRleFdPa0YxTlB4ZXp3Y3R3bWNDRVRaa1BQVk9qTDFpMHZjWEROd2VpWVhsX3dFUjMtYjZTRFJNc0U0eXctaGxhTU4tLW9BS2daX2IyT1RjUkphNDlmaXJEV3BpSWtoUlJsRW5MWFpqQ0RBek5IYVpGaHI0clYzTk54UlpPMGlVSHZCcmkxMEFLN0pyV3BBaUwxZlNrdGpvZk5lOGJaXzNjREx2TGhxdHNfb2hVZDlUTDBWNmRIVDFfMEsxZkVaUjloSkx10gHkAUFVX3lxTE1DZFRHTTFBdUVHLTJGUmItTnVMbURBX1VBeThCNkYwbkh0WUxGbHhMcnZuc2tfQk5QNm5UX21Sd1ZyWGk4cXRWY3ZnYWJVVlhhR1hFcWczM05zdUM1MURMb0RsSTFSaUx0U19hVjV4MjI3dG14TXNOR3lmQTFvdmZwZDJSWlJzUDlmX2ktcUppWnlyV3FndjlWdjFIV1B6WVBCVldwMGlfTGg0Q0NHRDVYeG1ncG5QSC1VdlE1Z05YZ3ZZWGlPUjFjaEVRV2t6dGx1b0ZfVG5WQlhsLWlsYktxUkdwaQ?oc=5
+
+  [Parks / Public Spaces]
+    • "Cleveland Circle still such a mess, inexcusable condition"
+      https://news.google.com/rss/articles/CBMigwFBVV95cUxOME51dXFDdHpTakwzV2hDQXBQMFBZWEhFUjE1SGsxclN5YzBfVkNJUWN2bzdBVEtCR256SDZOX1RmZmNPVGRGekE0alZwcXRNLVU0R09QWFRSTGhheFpOX0V2NHkxa0xEOTZGX0pOYUZDUXZ6OVRneUZUejgwQm9xQUFSNA?oc=5
+    • "Mayor's administration floats new tax for Cleveland parks"
+      https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFlZdzVXZTdTb2ZlYXo0aGhuZzZUcjBsLWQ1NF9Wa2RXTVRiUUlHNzFtU3Z3XzNNZzFFN0dLRjFmYUFrYW4xOGU4VjN2ZHh1YUNDblR0bzV4M0JHZFhSV3lHXzk5TVhoUTdvTjRmRnVXR21nSWtXQ01MeUZRNXE2UGpFR3pPZlM2UjBLZVBTR1pyeFZVamtxbA?oc=5
+
+  [Sidewalk / Curb Damage]
+    • "Medina clarifies sidewalk repair policies amid resident confusion"
+      https://news.google.com/rss/articles/CBMioAFBVV95cUxOaFVoRVVuTDhQcFZVUGxuRXJyem5yMk42Q0VULWFyYmlYaDRMTVNDS2JJbjY0OE1SN2J0cXluU0gxNE5qa0VBeVZnc1phaHcyQVd3dE9YVjVEUW50ZWFtUFNTWEk0dnFvM3ozcHpmM0E0cThPdE92eW5qTTc4a1NWTVl2LUtyWDJRUEgzNVFyOXBVREItMkRaR1ZNVlJfMFIz?oc=5
+    • "Budget hearings covered parking tickets and sidewalk concerns"
+      https://news.google.com/rss/articles/CBMivwFBVV95cUxPajNzemNxb2Vad3laTlNpc3R5cnlYSW1jdXgxeHhWWW5vVGJBaWd5MVRlOXNoLUZpOF95RDBFQWpQcDFkZjl2cjM0Q1N0ZjNrVEZOc0Fhb29mcXNGbXBrQVNnTzkwSEt1QmZaTG53TXZDRDgwcUZGMDVuS1pXOWkyM2hfSXVIU2NTWXcyNzBJVWxFbkpycHpzQVAtUDJuUktBdWFKT2RVOUFLY1BUV05oUnJaRHQzcXhreFlYNTB6UQ?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 65 news articles reporting
+  citizen complaints about city services in Cleveland.
+
+  Top issues:
+    • Water / Utilities: 49% of complaints (32 articles)
+    • Pothole / Road Damage: 15% of complaints (10 articles)
+    • Trash / Illegal Dumping: 8% of complaints (5 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

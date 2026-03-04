@@ -5,63 +5,61 @@
   Source    : Google News (past 365 days)
 ==============================================================
 
-  Articles analyzed : 58
-  Complaints found  : 32
-  Complaint rate    : 55.2%
+  Articles analyzed : 56
+  Complaints found  : 35
+  Complaint rate    : 62.5%
 
   CATEGORY                         COUNT     PCT  VOLUME
   ────────────────────────────────────────────────────────
-  Water / Utilities                   25   78.1%  ██████████████████████████
-  Other City Service                   3    9.4%  ███
-  Trash / Illegal Dumping              2    6.2%  ██
-  Pothole / Road Damage                1    3.1%  █
-  Public Safety / Crime                1    3.1%  █
+  Water / Utilities                   29   82.9%  ███████████████████████████
+  Public Safety / Crime                2    5.7%  █
+  Other City Service                   2    5.7%  █
+  Pothole / Road Damage                1    2.9%  █
+  Trash / Illegal Dumping              1    2.9%  █
 
   ────────────────────────────────────────────────────────
   SAMPLE COMPLAINTS BY CATEGORY
   ────────────────────────────────────────────────────────
 
   [Water / Utilities]
-    • "Main water line break; residents asked to conserve water"
+    • "Main water line break prompts citywide conservation order"
       https://news.google.com/rss/articles/CBMiekFVX3lxTFBWeURkbGticnRydEIxZDVGemlsbTlhd1pYWGdIQ1NlM210WFlKYWlyTEkxU2NYc2hpa0I1aGowRU5qZ1hMR19UR0dCMlFMcjNJOUZJNnJpdDlEai15MWpjVEVDNXVodlBzd1ROZGNUUDNsVENUM1pER2tB?oc=5
     • "Large water line break results in citywide conservation order"
       https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW1hMVFJVE9CY08wSkhiSERCeWtTSUx0QkpXMHVhUzVBM1p1eTQtVVpLWkM3U2ZBa2hKOWxNZWRqOV8zaGJIUmgtRXNmWlEyeUdRSmVZc3JYUXZkWElUZTlLeDc4bXFuT09OMGJNc2R0aGpkSGtiNmU0aG5WNDNPTjhtRWhGdU1vNE9aNTktakNra2RXcDlKTlNYUWVYMDBCdWFMMkN6OE1pUQ?oc=5
     • "Water restored after overnight flooding and heavy rain"
       https://news.google.com/rss/articles/CBMipAFBVV95cUxQR1gtdlVTWGdDYXpOeGlhUHRfQ2xhX2k2UDlRcW15cnJKQU9jQlVPeVZSWi1GR1hZd1FmRUc3NzBnTE9JaWVPbE9RY1dFdTVCbWRUc2JoQUFKYkNYSE9xTkNoWnpuQmJnV3VXS0hpOEFNRS1uVVF2SEJqWl9mS2NJOU5UNzZhLXZ4OVJQRzVOTTJBbkRFd0lXcWp3TWZ6SU9jNEZqadIBuAFBVV95cUxPakFJMFV3QzZpMlVMZlUzdTBUdDdhX3ZwZERTd3ZoRVFQYUZNR2pEdllEa1h0V1VlckdhVTJiZzJKalVwdHNNMlI4LTI4NlEwb1VaVGJjYkJkVEE1NUxfY3RfaFpFZ1Z4Wlc1LW5oUDNrbDBXb2k2ZldjdFpIWEF0Z0RqNmxoU2V5dEhMXy0xckNwUWVFSUhMRWJwSlZodklpMjUtY2k3SjlRTWE3bDg2dWl1VTdFVmQw?oc=5
 
+  [Public Safety / Crime]
+    • "Phoenix residents distrust police amid high use of force"
+      https://news.google.com/rss/articles/CBMipgFBVV95cUxQOFU2M0NOXzlzWlo3b25kWmJyTjFiVFd1b2NuZTFPcDNJWUJxSmhJZjBlRHdOWHdXYzVkQ0lTemhLMVh5M1ZSOEZQenhrYnFodWVKcEZuUVIzaGg1aFlLOFh1aDJZeC0taWtKVUVqeGFvNE1kczZwcFpPQzRyWl9ITlA2QmE4V3JXMjB6cUlVa01nbTRZT043OFlMeE1WampVazVSU1Bn?oc=5
+    • "Woman sues Phoenix cop who fatally shot her son"
+      https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFI3T3NOZ0FpaDJGR2dwZGxva3B5TUU0LWNLU1NGMFVnLWVUSVU2bGFmamw5QlVvSnppRE9SZUdBR3Ayc3JfQmFxV3czaVB0YVUxRW55aGdfemY5N0JVQkd2MTYxZmJwN2tYeVhsRjJqV2h5SHg1eW1tNkkzVURsd2FGSHh2Z3hQOWdCdFpqTlBJemNZODRRMDRwLWhiV05Xa1JaTU44YmlvQQ?oc=5
+
   [Other City Service]
-    • "Sheffield residents concerned over recycling unit expansion"
-      https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIaWppVGE4ZENPNDNxbzR3ZGh6cURBbEZuVUY1UFZJSjcwYjdtdldUX2ZrT256anZJUGF6NDNpY3FiVEJKYS1wMXVkd0pJay12MVNXN0V2MFVkZw?oc=5
     • "A/C goes out at senior living complex, city takes action"
       https://news.google.com/rss/articles/CBMirwFBVV95cUxNaURpNWRkVXdBNzBMS1g3cU5qdGpSd09wblc1dHJvM25VTTJscm8zeDh6RmdxVkhqUnZ6U09PRGJjNXV3bk9xQW1EVjdVRFd6VDFPSzMySG0wZFl6YWE1Z3RQWTlVLUJVdGhUSmUzeGFXc0RKa1E3dENSZFZXRFRWd0JneF9fRHh4NjVxUzBIeDZwblpkX3VaTU01cHMzZG1zaFBKY1VWWHFFaWE2Z0Jj?oc=5
-    • "Neighbors concerned about Turf Paradise biohazard issues"
+    • "Neighbors concerned about racetrack biohazard issues, racetrack cited"
       https://news.google.com/rss/articles/CBMitgFBVV95cUxPelF5RkF3MWpYUkFLVFRJcHB2ak5Iam55Z2o0U3Vmd3IwR2pXQUpTdDRyME5xNFExc2JQUk95UFVybjlzUno0OHduLWFsblBfWHd5NnNxTFZHYi1ZcjBxakJEZDR6enV0Tl9Md2dMUEVyNlpuR3JmOFdvYURaVmZxaWhlSElTeVE3dW1VY3g5T2k4eUNRbjJLd0VvUEE0cER4cFFKeDExSFFTNENrX1JxeW53SHdFZw?oc=5
-
-  [Trash / Illegal Dumping]
-    • "City tweaks bulk trash pickup system after HOA requests"
-      https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd2FEc0JaaEtRZG11TFU4WEVOMndORkF2OUtncmxfTHhVRWMxZ2xpQWZXcjhGazNkOFBidl9kNUZwb21JY1pJREVZQWlsMmtCRTRwZVRtVXVXai02eUROcURXWWRQa05fcDl3cjFwNnR2ZGU0aWtrbmhDaEZHRllXeXdHd0Y3OG9VcE9BUzhmUDlGUnZScHhYd0g3OVBFMWtPSDMzdGNfN2F2QdIBvgFBVV95cUxQYXlaaE1HRjZGeUhSNjNTUm0yZmRSVVJYdmR2Q0h1VG9Hd0lqWlRXWFVIX3RYcHQ5b3ZXMTZ5eWhpVGhyNjgwRVZnRVk2NHJicFJtVFdYSmVva3Y4cFF1b1Z6UHFvMkpMeXNqRTdMNmNqSElMYXlqYnFleUg5VG9qMk5iUEIxUFc1MXR2T1R5bHFkTmMySklBSHV0aFpBOEN5Tk82UU5mSGZIYzk3cjhvSWRzN2duWGRvX21fRjlR?oc=5
-    • "Trash piling up at businesses as garbage strike spreads"
-      https://news.google.com/rss/articles/CBMitgFBVV95cUxNYUxzTGNtN2ZsV2U4LUlQZmJydXBIYm9YX3dsU3VpLW1ubmxjNEMwLVdsLVZHMDRFYk5GMVBacnBXT1MzelZYQ2VFcWxWd0hkSkVHSnBJdlFlcHlwTUhfSXk2a254LXotUkQ1Yl8tSEdsZ3otTXMweXhBelV5NHVhTnRVZkRmUWZ3NDFZSW1mMTJfVE9BczRmdnpZSHFEa1pkdjBqRzZBUkZVMlh0dXpuS21IYmhJdw?oc=5
 
   [Pothole / Road Damage]
     • "Potholes and snow clearing: Addressing Saskatoon's increased road repairs"
       https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0hIZU9MVGtYbllsZVlOZmc0YXpoNzNQaXlURzlrQzVwbjVzTktiSHdfenRUZFFWZWtYLTFXZk5lTjZzbzlHUVF0clRRcm5lM1djQk1WMXFWMXpZdjQ0eTVBWjk4UkRjNC0zVnNUMWh3YUJSSEF5MWpWZ1BZeFNuTzFsemc4U2t2Y0hPeE5ReC1fVVdoSThHNVBIZ0xPQUI5T0xucXIzcTVmRmNaM3dNWDY1TEc?oc=5
 
-  [Public Safety / Crime]
-    • "Recall effort against councilwoman over homeless housing policy"
-      https://news.google.com/rss/articles/CBMixwFBVV95cUxQX1A1LVZzbnBiU1dHRXVqMVgzb2t6a2RuTVJTcDlFY1BERFBTeXJERnNoWmFzYnZWYlVfeUd2d0plTG5EYi1rWGJDZTl1blZ2VjZ4WXQyNnN5S056NlVqMUFGYXZtcDd5VlU2VEEtX0txaHNyXzNFVlVnNzllOF9vbDllcFc1ajg3T2ZCVjZIbHBLZzBOdFAyVkJYSHp6U25fNDdId2kwYVJIM3k3TmFuOFBMTDBTU0U5eW0xNkJEYTduVUt2VzNn?oc=5
+  [Trash / Illegal Dumping]
+    • "City tweaks bulk trash pickup system after HOA requests"
+      https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd2FEc0JaaEtRZG11TFU4WEVOMndORkF2OUtncmxfTHhVRWMxZ2xpQWZXcjhGazNkOFBidl9kNUZwb21JY1pJREVZQWlsMmtCRTRwZVRtVXVXai02eUROcURXWWRQa05fcDl3cjFwNnR2ZGU0aWtrbmhDaEZHRllXeXdHd0Y3OG9VcE9BUzhmUDlGUnZScHhYd0g3OVBFMWtPSDMzdGNfN2F2QdIBvgFBVV95cUxQYXlaaE1HRjZGeUhSNjNTUm0yZmRSVVJYdmR2Q0h1VG9Hd0lqWlRXWFVIX3RYcHQ5b3ZXMTZ5eWhpVGhyNjgwRVZnRVk2NHJicFJtVFdYSmVva3Y4cFF1b1Z6UHFvMkpMeXNqRTdMNmNqSElMYXlqYnFleUg5VG9qMk5iUEIxUFc1MXR2T1R5bHFkTmMySklBSHV0aFpBOEN5Tk82UU5mSGZIYzk3cjhvSWRzN2duWGRvX21fRjlR?oc=5
 
 ==============================================================
   PITCH SUMMARY
 ==============================================================
 
-  In the past year, Google News surfaced 32 news articles reporting
+  In the past year, Google News surfaced 35 news articles reporting
   citizen complaints about city services in Phoenix.
 
   Top issues:
-    • Water / Utilities: 78% of complaints (25 articles)
-    • Other City Service: 9% of complaints (3 articles)
-    • Trash / Illegal Dumping: 6% of complaints (2 articles)
+    • Water / Utilities: 83% of complaints (29 articles)
+    • Public Safety / Crime: 6% of complaints (2 articles)
+    • Other City Service: 6% of complaints (2 articles)
 
   MyCity311 turns scattered public complaints into structured,
   trackable reports — giving city staff real data and giving residents

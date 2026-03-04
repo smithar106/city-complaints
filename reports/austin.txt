@@ -5,20 +5,21 @@
   Source    : Google News (past 365 days)
 ==============================================================
 
-  Articles analyzed : 82
-  Complaints found  : 47
-  Complaint rate    : 57.3%
+  Articles analyzed : 83
+  Complaints found  : 53
+  Complaint rate    : 63.9%
 
   CATEGORY                         COUNT     PCT  VOLUME
   ────────────────────────────────────────────────────────
-  Water / Utilities                   15   31.9%  ██████████
-  Trash / Illegal Dumping             12   25.5%  ████████
-  Other City Service                   6   12.8%  ████
-  Pothole / Road Damage                4    8.5%  ██
-  Noise Complaint                      4    8.5%  ██
-  Graffiti / Vandalism                 3    6.4%  ██
-  Public Safety / Crime                2    4.3%  █
-  Sidewalk / Curb Damage               1    2.1%  █
+  Water / Utilities                   20   37.7%  ████████████
+  Trash / Illegal Dumping             10   18.9%  ██████
+  Other City Service                   6   11.3%  ███
+  Pothole / Road Damage                4    7.5%  ██
+  Noise Complaint                      3    5.7%  █
+  Abandoned Vehicle                    3    5.7%  █
+  Graffiti / Vandalism                 3    5.7%  █
+  Public Safety / Crime                2    3.8%  █
+  Sidewalk / Curb Damage               2    3.8%  █
 
   ────────────────────────────────────────────────────────
   SAMPLE COMPLAINTS BY CATEGORY
@@ -27,29 +28,29 @@
   [Water / Utilities]
     • "Texas utility paid $200,000 after disputes with property owners"
       https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdU83RzBaRGxOTGt5MVZjTy0wY0p5OHZmLUFtdVJBcXNXZXpoU1h4MnNVMjhhdVVoNmdPeTFLSVFGaXhfQ1Z3MnFOM3ZldV9BVVo4UVJ3Nk10djkzcE5jWHFBTGM0ZzRiUXhzME9SMlZ3NzIxN0dmZzZaQlpUVUNFRk1ialFkV052cFptWUVGNE95emhpT1NXV0Vyb3p5c2hNbkl5MERvMXRvcEFzQVdnVVN0QlhfOGpqM0NQeS0taGpSSFMyYTgxbmtCNVFsRXJ1WlotRnVWYTVsNURyX1p3SmVIOWtSQQ?oc=5
-    • "Boil water notice issued for Llano residents"
+    • "Boil water notice rescinded for Llano residents"
       https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYkxPeGZHV0E1UzJ3Tl9rYXhBOFFuc05wc0tzU3pBWW0yWmxaTUJ4QU9vcHliRUE5YVN1amNGdkQ5NGIzQzRaelM1MVRjLXZ5VGg3MHdYWnNlRXZHMUZkVmR1WEhxWHpWUUtTdUkzeS1YRENrbFdOa1JRX1ZBcUJvb05INjN3QkdmbUYwR0g1azQ1bGp3dGVuN2daLXdJTjlMSEJoVjRac0s?oc=5
-    • "Residents affected after water main break in Pflugerville"
+    • "Water main break affects residents in Pflugerville"
       https://news.google.com/rss/articles/CBMirAFBVV95cUxNNy1yTmxWZmx6dE1wWlZidWdkd1NMX1RSMEJUa2R6T1U2NHhWeVd6Qjl0UTBMRXBiNkFtYkdtTGJMQXI0M0oxMy1Xc1N3bHZBaWUyOXRrUFk2MGRwblhwaW1XbzFoY1E0bnBzSjNabTJNVjdXYzFZcHREb1hlRVJ5THVhWjlDTkl4c1RiWEd3RG5tNUNMdEFwc0FzeFpOWUxNNk10X2ZyQWZNYXRV0gGyAUFVX3lxTE9PM3RWZFltVVp4OVBwQnlUbFU2NjZLVGlLR3ZyWktSQWVWV3dEcXZIZ3NlUWpfWXRCaVhOSmc0VlB6V3llVXFGV3pGMjh5MHdGSmJfX3B5czVWMEx1RHREMzdwU1ROb1RBQXhuVmVmRVNRald0QXotTmZXMHpCU1FiM0pTNXI1YTFiVGVlUkJhZ1A0V1dYNlpQaWY0eTBSSHhHQmNld3AzNVotVzJMNElIN3c?oc=5
 
   [Trash / Illegal Dumping]
-    • "Houston said it would fix heavy trash pickup"
+    • "Houston paused heavy trash pickup after service issues"
       https://news.google.com/rss/articles/CBMikgFBVV95cUxPb2Rsazh4Rm1VR0swM0FOUjA0cEw2WTBUY1dENXdUbG1TdndxMXItdHYtZHhGT3pvT0p6MzZydTVtY1RjNEpOUnV3QnJTNEpPRWJreERsc2FsVUFDaUpnYVdhZnJvbUU2Q1dXZ0ZLS0Z5YldCdFozU1FUSlFmZGRfdE1heGhFS1l5MzRscUM5bllBZw?oc=5
-    • "Austin 311 calls include loud music, coyotes, garbage"
-      https://news.google.com/rss/articles/CBMikwFBVV95cUxNeEpsSDJjWldWVHZ4NkdxNDRpMHprUWVfMmFaT2FGNXNCLUlDMFFIUV9fYWxBdEZDanJqWFpIQndLUHdSX2V4SGJmWXQ3N2hGU0VqNVk2Zm0xSU9uYzduS3U3Y2ZnZjdwTC1WQkQtMjViR2JTRi02RDFuUG9OSW9CTkdXUnJ0S0xwUXJNMGZ4ZlNnRWM?oc=5
-    • "Houston has a garbage problem; residents divided on solutions"
+    • "Houston has a garbage problem with divided resident solutions"
       https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR1hxdHRMNVJ5TjRHQldIb05HUlJfb2wybTJkb3dqY3V6OTViZUxzdWdtSmRHelp6YlBRamZpbEJrZDgyZ0FsbDlSSmwtVFdPYlJNRzRCelA0QVh6T3A1MUM0b1ctODViRGFkQ1FXNWdqekJhRHZIR1dkamRSYjdSSW5kSHVwM21TQmtzcG5sZXR2RXUtNXFQNXNkd3V3Tm9hSGo2UGhVcUMySHdfOXRxYTdEdm1TQUF5RVpnZWZwVGFKZ19PR1dJZHp3RU1KT055NWtCTFRFencwYzdHeGxic0hRcW45cUZxalJLUtIB9AFBVV95cUxPdmtaWEN4NHVzTkNXd0JTeG1LNDdXVkExLTZ2LWozRkRReTVuMmF6R1NfRExaQ2pRUVNiV3dsdjdZVmpLcElVN0lXcDhIU3lqM19CV1B0MHY0SnpEcmEtdDB4TUZtYXVMOFJBRXZIZGhfcTY1NjNIUlJZdDRmdWpzaVBOWmpRVXVBSzdaZWRLMXkySEkzWWRPUUExck9FUk0xd2NaQkhIWHpZd3NqRzdVcVNHRDl4RkRwM0NXTktJbTNHc0o1UXAydmJILWphak1UT0dTeUk4UFAwUkFBRWZxQ285cUpMbjBYejh4dnQtREs4Rkxv?oc=5
+    • "Crestwood addresses growing waste collection complaints"
+      https://news.google.com/rss/articles/CBMipwFBVV95cUxQME9rYWhOOW05alhTQTNyQmRVbjVwNEpWeTdZR3dRakJ4WUVmb0lWMzZDN2dlWWJQSmplTkIxOFVzMTE3QjlJUElCZ1p4Yl84MzMtUW1GTjE4aVB6R3B5c3RhVC0zTzhQX21vQ1h2NXlRcS1FbWFNcFlSSG1rZ2Zlc2Y0cHBGcWV5MlZwRXl1R0YzQnRJNVo0SFBTZUlLWm9hVkNVOE44TQ?oc=5
 
   [Other City Service]
+    • "Austin 311 calls include loud music, coyotes, garbage complaints"
+      https://news.google.com/rss/articles/CBMikwFBVV95cUxNeEpsSDJjWldWVHZ4NkdxNDRpMHprUWVfMmFaT2FGNXNCLUlDMFFIUV9fYWxBdEZDanJqWFpIQndLUHdSX2V4SGJmWXQ3N2hGU0VqNVk2Zm0xSU9uYzduS3U3Y2ZnZjdwTC1WQkQtMjViR2JTRi02RDFuUG9OSW9CTkdXUnJ0S0xwUXJNMGZ4ZlNnRWM?oc=5
     • "Protective bike lanes removed amid resident complaints"
       https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaThoUnZ6WEtHajFvUnltZ29OWTkyY2dfdjRyaWxMMEI3X1c5Tm1Wb1REUDQ3MDFrMUszNndBVzFZZGxYeHlPNFJkUzFHa2hHajBrNG5kWW1fMEMwcndQejNfQ1RLeTJjSTFZOFBnM00ydDBQek9vM3drakkxOXVCS0VoanBaVURqNl90dWNlbVJtZUNKbTZ0WHpoX0lCTmRQYTRSeTA4NG8yc2ViSlh2S2J1eDVBQW9VLWl4MWExSWZsbkVma2RVS3QtSnF2dHVWU05mSUlXY1Fob1U?oc=5
-    • "Billboard receives resident complaints and violation notice"
+    • "Billboard receives resident complaints and city violation notice"
       https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTUFnQm1zRjR5ZDlhN3dzOVJvRnloWjlJcmlEb2p0VE9vek8yTmJfanpHVEItNHV4bXlQTzdPTlFreHVubU54YUxBZ0FHd2lwSjdUUEVhUVRvaFN3SlpqTXJvekktaVg0YnRLR0I5M0FwZkZEbEJNeG1EdlNCcThpMldGZ3FmeEVJc3ZZNHRRUUh4R1cyVU9JS1FvUVo4WGdidURGc0NERE5ZOEFUSjBMT3o3OEExZ2thWGd0a3M0WWhpUkRxOHNiWkV3dEt2bk9Nbmo4cG5HaWZTSXNnVmowR0piTXZTNTB1QXJUS1BR?oc=5
-    • "New $1.1 million logo irked residents"
-      https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3BzRGhoZWFrcURidGduZ1VfaFhPQjBXZlppM0ZJZ1g5SE9JMEc0MmFVaVVGUkFfTndPV1NyMkJ4LWFneGF6R3lQWTRlbkVtQnBTUG5HZTFJbFB5MHlOQnM2V2t6eGdsa29XM3ZmVzZLM0RHOFZibUhEMWxfUGNGY3diQ0Q2VVNiQ0xKSG16MzQyczd2elZKdFRjSF83T3ByMlc0XzB2X2IzVFhJWDQ0?oc=5
 
   [Pothole / Road Damage]
-    • "Houston has a pothole problem and tracks next-day fixes"
+    • "Houston has a pothole problem with next-day fix tracking available"
       https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjRSc0tldDdCbEtpb0JuWV8ydGx1RWlwby0wUmxoTXZNYkFUWU9wYl9zM3JnNEtwVXFaV1NEdFlKRnlPQ2JWbnhVdVJaQUdIZE1qbk00b21jRmpfdWljWXB1OEkzNTBKM1BJY0dyWGhDOUhIV2V6aEJDb3VlODVHWC1LaTh6LWw4UDZKdG5VcUc1V2UyeDR1U1BGX1RidWlzeVlRREZTTXg?oc=5
     • "Winter storms could increase potholes across Fort Worth"
       https://news.google.com/rss/articles/CBMieEFVX3lxTFBwNmNHak5tbkJTN3NjZnE1TWhLWkZSY3RvYlZ4TGdpSnZKbVhtR0VxNnZ6SGVwX0gtVUJFa1hzY0I4VVF0b2JMdElVbXp2ME9NalVmbWE1ZkZIUVpZTWUxcDNkRnFsZ19PQ2ZPVHFSakRQZlNrZm1iMw?oc=5
@@ -59,17 +60,25 @@
   [Noise Complaint]
     • "Residents demand action over nighttime noise at dairy plant"
       https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdHBVaEVHazNKTU1oRU50NzRTR0hiaU5id0pubmtHMG5RYVJrZFhFMWUyZWJKWmNnNHlZMUR1clJ2R09NOG1yVVdVVmxaM0UtbFY4TmhhUXZVRTBDd2ZzSEZPZzkxRnFpc0F3c3ZJY0M0LUlnaWdELUc1ZDZ2S3hCZ0E4Zlp1bzQtODlZNTh5cGd4NWVGa2t2bWIyTEVESENTVHFuVTA4dXA0UGZaVUl6Mnp0Mm1pZjAtQjN2emJLak4xOXYyUG1hb0RWMXZwdjF5TzFjWWd3bko?oc=5
-    • "Forest Hills Stadium noise permit fight over summer concerts"
-      https://news.google.com/rss/articles/CBMiekFVX3lxTE5SS3dtbm84ZmhybG5FdEs3MHRITE5EV0lfcVdaTGlEbUVteE5JYUtrVWR1WnhvLVRDelc2ZVZ3M2wzRzBPbkp2RF9OQ0JaeUttRmM5SHBVakxPV0ZLUjVrRkdaT200MTExTHBnVGFtcmdvZE1JVERvbVBn?oc=5
-    • "Question raised about noise ordinance effectiveness"
+    • "Is Houston's noise ordinance working effectively?"
       https://news.google.com/rss/articles/CBMirwFBVV95cUxPS2hZNEZ0V2U5VlJaSmdvaGdfeFY2X2dpMkstaUo4TDRUSmxpbDh5cjdxMTRWNkd3OHJ0Z3RSNWRMR1BYTm1ISEthV0lTZWFlLVhQcnRUMXNpajN5TVdNYmwycy1YdlVJQTNCMjUzYWRWZG52TGNfb2JPQi1NNmxEV3J2dDBkbXJubGQyTXlZajlpSnBVQVprbkNJY0hvSnBDX05Ud09BbGtISHRrYnc0?oc=5
+    • "Austin Council to vote on loud vehicle engine noise ordinance"
+      https://news.google.com/rss/articles/CBMif0FVX3lxTE1EUmEzWHpqdmJfS3p1SEJKWUhrb2xmeXFUaU41WUNSWEQxelRVeXpYWHFfdGlEOGdUV1FmMXFjTVFwalNHZHUzanJKSEpfMFBvdkFIRmV1NE1Tcl9rOWxEOXBlWVJOV3VHMHJzZk1YWHhhUnJNUXVfQ29QRnlENEU?oc=5
+
+  [Abandoned Vehicle]
+    • "Austin leaders vote to expand vehicle removal program"
+      https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVDN6RnU4NmN4emRBVUtmSFhLU2FhZzBObVk0UmV3anlQd1owbGZORXphdWx3UmlUWlh0Wk5NQlc5a3ZvUndVMFhydTVzN1BCc3NSSUREWjZvRGJSZk0wSjllWFJHRnJwUkpPLThTRWNDWEg2bGQ1d2dyRGQxRUV0M2JfM0tULUpvbXdTYW14dEhHOFZaOEZxSGlBRWltRjRmR3BOblkxNmxTTktrSDEzV1QwQTRCYmxMRk5tcTd1Qkg4Sm1MSjFTSlB5enhIZmxwVW5yQTlEWFdYRzBnVXRr?oc=5
+    • "New Orleans shows improvement on abandoned vehicle complaints"
+      https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLTZ6NEk0UzBfaElmVjNsTFU0dUxKbHdldW9lV1puUHI3eHZYNDJxMVlKY0QtNDhYT0ZLUzVCQTNIV0c4WVo1emVOTmZLb3paM0VXVmdteGRLVFVzZ3VDcTB2SDhndmNsbXNkUzlBbmpQTUg2ckJlbUFlVDVLZUxJMkpXOXdXNF9qWDJESVg5T3BTM0tNRlpfOV9UTWg5cUpDcUd2eFY0U1JiUdIBvgFBVV95cUxNQ1doRHJDUC03OUFOUkhtY1FtcGtNUE1Wbk5hTFdndWhwMy1TVDE3YUliUjJwVHdXQTM3LXJzQzlrdGQ0MWw3a1FpSUhxdElwVE9BUDliOFQyN2ljWUVXRXZ2Rk5YUDM2dHZJTmNvcVBTQlA2TkUtaE4xT1FvUU0xUEFxNktZMzRMejNUb2VhZEN5U21NZWZucFNpcmEyTk0zeG1HRlFrUm9tX0FGZFdlUzdqZFRpYlVJU0haRDB3?oc=5
+    • "NYPD Q-Team tackles everyday gripes with abandoned cars"
+      https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcnhON3UtdlRWNE9ZOWh5N2hPT1JXNWtHMkFQT0ZTUUxrR2hyRUNsUVk3QVR2NklwMTc4RDZKdi1VVWRncHNFRXdZWVVVVGpKT3pfZUZjZjBoU1RkLTIzcVNDckxKRTdkc1MzVWktSVlmUGduQ0pSUmlVSVllRFRCZWlyNlJUdWNtTy01RWQtZC1yMlNEZUk0NVR6VVZHZlB6QmxvZ19LRUN2dzFFUElzUjI1SGZRQUVqNDF1N1Vlcmw3ZHdSbS1lb0g3dVo1VlNzSFVlYTRMbHk?oc=5
 
   [Graffiti / Vandalism]
     • "Clairemont park honoring fallen officer vandalized days after dedication"
       https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0pRdmdTdWVUSHBQOWQ0eDFUU3FqTU9PNGo2M2xCcmlySTFZbEc1ZzdTUDBXTnU5MXRZM1pvaFlsWmk3TE56Y3BnYU43Vk9mUmVWQk00V0QtU0JFN3Zhd1B2V2ZUempDZjlCSWpaM2dPbVVBWGJ6VWhZbDgwMllmaU16OXFmTGJkQUotU3R4ZmF0TkhlVG9oTjFxQ2lhc0NrVnBvN2RHY20xa2l0UkVTTERrb1diMXZlbm1ZRmFEZF9NZ9IBxwFBVV95cUxNdEdzcURSM3lBLW5MQ2RfNkU3VDVySElsYks5QUV5TllaV1VEVDVXMGRSQXZJMkdCb0lVZFVvRWs1RkRRVFFnSFlINm0xc25leGEwRG9QZS0xeFNCLWdrMFlkakRSMnRGcXBjUk55VnRCc01wYlFoM3FSbjd3cVF3M0RFWTI4dzh5UlBWYi1hdzRDZi1GOEpHcVFlSnEySktMXzEwNmtueDg4RlhRYnNNSGx2NjBTMmpHaktIb0diZXV4ZzFzNy1R?oc=5
-    • "Church addresses hateful graffiti vandalism on their property"
+    • "Church removes hateful graffiti, converts to Pride mural"
       https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEV1bUstQUhvTVMtVVBEUkJqal9ZNEhKOS1lTFlTdi1seGJhMW5OZkxSOHVvZFZHbXFJbWNnaDRiQ1lNMjE4WFF6U1hUM21GaG5HaE8yYk5ja0RxVWZ4SEM1cmU5UmZIdktjRm9iOTVkV0RoY21HVG8xa3Qxd05xLWNTRHhUdjgzMkVPWF9NcjIzR0NHbjVKVkdmTU4zbHFkX0lFclRMbUw4dXI0TDVuU3VLVWl3M3VGX2FkdkdJSVExYnotakpjM3RJNGc4ekU?oc=5
-    • "Carlton team responds to graffiti at Ikon Park"
+    • "Carlton responds to Ikon Park graffiti issue"
       https://news.google.com/rss/articles/CBMijwFBVV95cUxQSE9mNDVWdUtpc3VUTDAyR1J2OGZ3TXJaN2dhOTI3Ny1iLUM4aWRpTXZneXRCWmE2WVNMdlhwWHV4czROWjNzM1FmUnFCNFZaWkJwS0psMlJYZ1cwR0FqUDBDbUpLVzQtQ291WXdKSms0aVdEZE1EemJDdFZUZWNYMGViUXdPM1E5MlhyNkNCdw?oc=5
 
   [Public Safety / Crime]
@@ -78,21 +87,17 @@
     • "Waymo gets dozens of complaints in Austin"
       https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TYUV2LUgzREhDYjNKTV9FU0gwdy0tVWhmMHp0VjBSYWpfQlhBREpRQ1NybjBfRFBHWmtKcDQwVnlVRkxIVDVoeVFXTFpxZ1k2WVHSAVdBVV95cUxQTEx1TFdma1F2dXNTbGlaY3pqbWFFdjlSU24yYzRibnphZXF4RzMzZk8yRmpXY3ZhVlZsZ2o1SEZ1Q3E1TVZRTDhTeUV4WG1qc0VjMFZIdTg?oc=5
 
-  [Sidewalk / Curb Damage]
-    • "Sidewalk disrepair in northwest Houston unresolved for months"
-      https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmVqeXF2RjIwamdpRXdLbUZKbVVjYktvb0NSSVFKTWEwek9qc1F2SlVMd19wSUNVRm94Zk40bmI4RDhpa2ZvUVNUai10SHRNWUhEcXJYQVAzM1duV0NlWm53OG9oQVZZQUlBVzlXa3QwcWJoUnFGN3JHeUViVndaams1a2doNUhjRVB6T0ZNeWNOTmxmQjFrUG5UQzVScXVhMC1SQTF5ZUVtaEd2WkUtUF9yMUxFaEEzWDZRa9IBwgFBVV95cUxOSHdpaTBZejRpbWtycGJnVmFWS3M5cnE1WkxCdUgzOUROa1NjMXQ4Vnpza1RaQUFNNUFtUU5jc3gwelhkZ0liMWFOMXlmQ3FiN3FBVm5ERDA1LTN3aWVLZDExSS1WQW9GbGtsUUJpa1Qyemp0LTdlQlhCS25QUXhhYUJmNUFLNGhIVVlkSWQ5c01VZWc5SWgyeGVBT19vZTZJdXRVcnRHYkFiRW1EOTlWM2FiX3Nkbi1fXy1JQThLTnBtQQ?oc=5
-
 ==============================================================
   PITCH SUMMARY
 ==============================================================
 
-  In the past year, Google News surfaced 47 news articles reporting
+  In the past year, Google News surfaced 53 news articles reporting
   citizen complaints about city services in Austin.
 
   Top issues:
-    • Water / Utilities: 32% of complaints (15 articles)
-    • Trash / Illegal Dumping: 26% of complaints (12 articles)
-    • Other City Service: 13% of complaints (6 articles)
+    • Water / Utilities: 38% of complaints (20 articles)
+    • Trash / Illegal Dumping: 19% of complaints (10 articles)
+    • Other City Service: 11% of complaints (6 articles)
 
   MyCity311 turns scattered public complaints into structured,
   trackable reports — giving city staff real data and giving residents

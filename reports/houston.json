@@ -1,0 +1,237 @@
+{
+  "city": "Houston",
+  "slug": "houston",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 83,
+  "total_complaints": 52,
+  "complaint_rate": 62.7,
+  "categories": {
+    "Trash / Illegal Dumping": {
+      "count": 20,
+      "pct": 38.5,
+      "samples": [
+        {
+          "quote": "Heavy trash pickup paused again despite city promises",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb2Rsazh4Rm1VR0swM0FOUjA0cEw2WTBUY1dENXdUbG1TdndxMXItdHYtZHhGT3pvT0p6MzZydTVtY1RjNEpOUnV3QnJTNEpPRWJreERsc2FsVUFDaUpnYVdhZnJvbUU2Q1dXZ0ZLS0Z5YldCdFozU1FUSlFmZGRfdE1heGhFS1l5MzRscUM5bllBZw?oc=5",
+          "date": "Tue, 03 Mar 2026"
+        },
+        {
+          "quote": "City developing on-demand heavy trash pickup pilot program",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdERPcTBBNnctVkczSF9JMlZ1dWk0Y1hRSGdJS1pqWlFJbVRld1RpeTctdUxCMHc5SlRnZDZJcm9xSE5ram1aVUh2QTd5aEJodUtLQ0Y1Zko5bHZiZkV5bFpRZllIUkFhaUt2VzR3bVp5MmF4bmkzY3l6eTVEZl9IdVBEVTBsbW5JYzY1MXV5Z21vZ0EzWm4zYmJIYVdxZEoyWW1DQjVzMFJuX3fSAbABQVVfeXFMTk9ycGRGbVp5dWk0UmIyR2FjWGVFamJ6SUQ5RmZLczgtSVJZdWtkem15aTVMbkhyRzIzaFlJcVd3RkFqUzExdExQNk83aVJTZ0dSQ2N1MWswVVplWjBreFZWdHA3Y0tmdzUybkxwZTFZOGJ1T3dqa09YajVMbnlkSkxRNElBd25QaEJrRTVDY1h3Ul9OYkJTTnZpRUREM3pkWnVPMTJjekkwMHduTmFKWjc?oc=5",
+          "date": "Tue, 11 Nov 2025"
+        },
+        {
+          "quote": "Houston may charge for previously free service",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGoyekQ3R2NsV09qeFU3WUVxUUc3YVlyd3J6M1pkRnZpbWFjMnRTYmJKRzNDeE5YNHlGZmFtcndqTzZLaXM0bE1maVpYUklaaDZrdDAzaTFwUXJxRFhjWWdUd1RCY2NNdkFmamJTVHJpcEhOUmRJVFh1WnRzYTQ3a2ZrTDdYRTZ3bnlyZXptSkJqNUFXOW15N3BNVnB1UG1XZnhWaEFNalkxY0tCbDNHUHZfaGQ?oc=5",
+          "date": "Thu, 17 Jul 2025"
+        },
+        {
+          "quote": "Resident threatened by HOA amid heavy trash delays",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONW5fZEdnNXB6MElGdU5KcENndWM3YUJMWl9xV0pxUzVPZFVVQ0xpXzNsY1NGdzN2RXZmd2dzOFRUQk8wUkZJMDl1QVhlNElFcGl2bjl4NkxJMXA3VFRabWVXZk9rdzB2a0h6bzNFbndVdDRyUTdSVGdMT0pyTnhVeldQYlY4ZHQwSXNudUpMWXdVQlJmaEphYnQ3U2hQd2tVZUV3YmRZek9XUzMzOU9tSVE3RzYyTWZURXBKVDFHY0lFZjViaFpSVlE0UmxIQQ?oc=5",
+          "date": "Wed, 19 Nov 2025"
+        },
+        {
+          "quote": "City's recycling program stops working",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWFliUUduMWx6UzlscHRYOFVqX0ZRZUEyNUo5ODA5a3FoX2ZpclNONHJNV0NZVG4xYm1vR2phRVVtQUJGcmsyMW1Za2RHMXl6Zl9qYnNZbEFhVGkzcS16WlUzVHh1OHBNdm43ajN0YzJVejlIcEFWSnBDd0k1YmQzRXFBZw?oc=5",
+          "date": "Thu, 03 Jul 2025"
+        }
+      ]
+    },
+    "Water / Utilities": {
+      "count": 9,
+      "pct": 17.3,
+      "samples": [
+        {
+          "quote": "Nearly a dozen complaints before leaky hydrant was fixed",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV3VfU1lMZW01UmI3dHEydjBkZG84bGFHYU9vYVJVZ0Q1VDQxTGtZeW5QcDRGaGtreF9qcmRLc0p3NThwT1NycldLdWVieGxlUi1OalhabFdxeTg0UEZ2d0t4eDhoM05wckF1bURIV2NmamJ1VVI3dm1VbGdVMG1udVNqR2M3aGFxVkE5ZmMyc0ZVRVhWdEFrQmRvWUFpMWh2QWlUcC1weXpQQWPSAbABQVVfeXFMTm5mNWcwOEZOdWNOcXduZW16cHNfek1leWRaYk1FQmd6cUlUQnFiVlY1UGEwdGlNOWU4QVpSR3RFVldxaUE0cGNXcnEwMm5NRFRZNGY1cDlGYWE4eEVRZU5Wc2NiaFY4OEVycGl4SFpVcDltODl6azZhU3dtTExWUWNBLVdaM2duWGktYmF5M0FuTmRJejlkTmhFZVk4cXlaX1E1SUZCVjFTa25scFpBUFY?oc=5",
+          "date": "Wed, 07 Jan 2026"
+        },
+        {
+          "quote": "Residents concerned following water main break in Denver Harbor",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wT3Q4bndYU0F4dTFFTUlYdGJpa3AzYmRPQjd6Yi1DQ2s0dWRjcHY3c2xoanV5VW1sd0owcjU1bVUwbVh2RkU5ZUxEUThFR1A0OG5SUtIBWkFVX3lxTFBuZl9XaExrcS1CaTRfaXlsZE45WGZaWFJYUWlheFRzc0J6djNYUjBRMkVNS3VuTDFKTUVkR1EzQlRYNEJNb2JTdkxVbWdCX3JvSGNxMG5xQlpVQQ?oc=5",
+          "date": "Mon, 08 Dec 2025"
+        },
+        {
+          "quote": "Water main break floods resident's yard, threatens nearby homes",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc0Nxb3pXMWh0VFlmN3RTczZickJ2RUhPQzhNc1hHLUExNXQ3ckJmbGJxaDR5Q1FuVjNoNFlPZkZ5clFCcF8yNDBRRlRPSzRoU0loSVZkdklFTDk0a2lEYU5zaENGTHVaYmtuRUc5YVdnUVBtQld1VDhMR0o2UnlfTTdpYzJ1ZEE1WnBiWFNXU2E1N05Dcl9kMWxkcDBwR1FzdXNyT1ZpZDZIeTJpN05tUGJlR3hfSHMza3pkR3duUHNjdDFOSWlLNUQtWERYZXJP?oc=5",
+          "date": "Wed, 28 Jan 2026"
+        },
+        {
+          "quote": "Water main break in residential area off Houston Lake Road",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQa2doNVAwbUw3LTk5aWlvWTk3TjRNblI3ek5mS3E5dk1LT2h5RmhDM2QwS2FQV1hEWU15TkR5SC1xaHVJT1Z4V0JyeExOaHpzX05NbUJQc3ZfNk5CWGdGSUMyMUwyTC1wNFpGaWdkLXJGMEVJaXFjVjQ3T042dUVqSmJ4Sk9TeWxnTU9iUURiNzNuV25mR094RUhPRnpNdFZHVlJwQ295SE1BRV9GQzE5WUJXaWwxM0laU2pEbmlWWV9GTHhlRk9pSnBTeWx4VERrOEpFSEh5aExaV3hBOTdGSE5WWlNTQlVVN0NWalJGZ01XQ3Zw?oc=5",
+          "date": "Thu, 14 Aug 2025"
+        },
+        {
+          "quote": "Citywide boil-water notice after main break on Blue Bell Road",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnpJNGxodlZ2cUVVM3pxcUxWWnQ1T2FTaEQtNkt2Y2JkSUxPSTRvdEVYZ1ZYMnJUdTRLdkFxZ0FfZjd5eS1sRUlwSEMtWngyVUFncGxpM0NWclBaMGNkN0xmYWRPMXJhSlRlT2ViLTBqV1hMOXUzLU11LWdhMkd0VkxrT0RGYzZjamNTRTRnVjgtNlMzUEU3MDV6cFZwRWY3cWJNSms0N2JRbEk?oc=5",
+          "date": "Tue, 30 Dec 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 6,
+      "pct": 11.5,
+      "samples": [
+        {
+          "quote": "Proposed ordinance to inspect apartments with dangerous conditions",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOVXNiVzNBSlpnLVBuRHVRZ3FOT0xDM1h5OE8yWGpiaXFIQ01yZUZVclF6c2RQRGpBSWNFRkRhZ0piZ3J5RjI0SkZxRzhDZ3dac3NzbVNMQTFYVFAxRThKc3I3eFlaT3RkV2NHUDVYTERJeTlpVFhJNm1Jb1h3NDB1THgtWVNQUkNtQkNUNzU4RndqV3B6cEFtdEFZcWJ2MVgwWldvX254SnBQNFEtSjFCNS1qUmx4RnFsOS1KZVBhT0VaN3MxSXJONnJDbGJRQ2hEQ0hieHRuTUtjeEdSRzByQlZLZFl5cWdXMGNTX3E3dU5CSElzQzYxRURqZThjTkVnU1pab3dVODk2TEk4RUh4bWZZdW84blVUdEE?oc=5",
+          "date": "Thu, 29 May 2025"
+        },
+        {
+          "quote": "Houston residents complained about various issues in 2025",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVzRRYnBXWHVhSElad01RYml0T2lvUU5aUFEzaC1RYk03REktNzVuOC1oWkM2YV9WbEhRdVd0VGFPeGxZREFyNzdmUElGSTJxaWlvUVBWa2huX2JoQkJWUE81UDVGX0J1MkVwYXFYSi1IaVJuMk05WjQwZGV1OTA4OXUxa3BXamxna3FONm5ISENRbmlhYUJTSFgzYUwzMnhZVGk5X3RMbkMxbEU?oc=5",
+          "date": "Thu, 15 Jan 2026"
+        },
+        {
+          "quote": "Residents say City hasn't addressed eyesore property despite dozens of complaints",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWmdGLVJMVVFkRDhpUGM2Z3lvUnZjdURBX3RlOHJrR081ZjJZU1RVb3BJLUtMS3RiM1VuUHZVVV9WWEF2VTVKclJHQ25PSC1nNkZJeE10YlVrVGVLcEFiMHpwcUtnUFlaWnRJNEx6aFhaVE1wWm51NWdmVkJuTjJuQi1sSXVPUE9Gb19QV21OMmdjNnV1TzhDR0x1VGh2S2s1Vmw2eG5vZ0FvNDJyb1M1a21NYk9iVzFYOTdNV1N0cElCVjJCQ05oRzZ3?oc=5",
+          "date": "Tue, 14 Oct 2025"
+        },
+        {
+          "quote": "City to demolish fire-plagued Park on Westview Apartments after years of complaints",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTVBTdVV0SXA2aGxCcHctbURPVVdRTkxnUHpiNU4yNkF2dzd5QjZqQzg2YmhMY0RIVy1SNUNPU1NXaWxlMExXOTlpRzY2NDhzU2VNd21fcWxXZE11TmhwLTQ5Z1RjRHJWR21TdE5KLVRtRFRXNXBENHJ0bVVZbnpjYW12LXg0eEp1aUZHZGpPc0szS2dKRnZlZDZRTlQ2T04tMksyMFlERHUwOUE4WjdRLTZLRi1xZ2JYcjJPZTB2STBiRjRnS0M0OHJybXJTWl8xZGc?oc=5",
+          "date": "Tue, 20 Jan 2026"
+        },
+        {
+          "quote": "City tracks street-hazard complaints but not always their fixes",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOFJGRkpEZEpSNDE2dnc5Tlk0bGhGZUJJQnd4cmktOVZTSlhJNzE5SUwtTnRsUHd5Tmw1VE5DOGF0SGprTmxTYlpVdVNuM2FyRW9vWnlYaXNMSUpjdlBlMFNuSmJhdGhPNzkzdFFtYmx3MkFhOXdGMU00WVBBSTV5Z0xQa01BRDU4TGZlVDRFZ1h5Yk55Wmc?oc=5",
+          "date": "Tue, 13 Jan 2026"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 5,
+      "pct": 9.6,
+      "samples": [
+        {
+          "quote": "Houston has a pothole problem requiring next-day fixes",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjRSc0tldDdCbEtpb0JuWV8ydGx1RWlwby0wUmxoTXZNYkFUWU9wYl9zM3JnNEtwVXFaV1NEdFlKRnlPQ2JWbnhVdVJaQUdIZE1qbk00b21jRmpfdWljWXB1OEkzNTBKM1BJY0dyWGhDOUhIV2V6aEJDb3VlODVHWC1LaTh6LWw4UDZKdG5VcUc1V2UyeDR1U1BGX1RidWlzeVlRREZTTXg?oc=5",
+          "date": "Fri, 26 Dec 2025"
+        },
+        {
+          "quote": "Houston potholes damage cars, filing claims process explained",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmxRX2ZNRjRTZW5sU29BSVVxVVJVOFlTSHNVRUJfSGpaOEM0NDBHX1dWTy15RVpraklIVFdDdG0zUUJadkxiMVNsZTlhQ1A0RmdSYjlGZ19WbjI0NWI3LVIxd1NYUjFxZHpkMnlSZHdScmltVl90amNJMTg3WXVhRDc3VTgzOTlVQ0VNcS1NTXZ4MVZXZ21qR2JmV2E1bmdOTkNMNDFNblVXSy02WjUzM1U2b0JOaXlTU1VUa2lmTzZsdw?oc=5",
+          "date": "Fri, 22 Aug 2025"
+        },
+        {
+          "quote": "Houston's never-ending pothole problem explained",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUHYyZUZ0U3dXbXZPM2UtblRNZmdZdFItUlJXeFZqTUdOWkFMc0ZvbVgtcmRUWG9nYllDMGtEa1FubTN3ZnJzWkJhbmF1OWlwZ3pMZXI1YW9GQXh0RXBBeVZSS19rdF9Ba3hNcTF5Q2lWMGpkNXMwd3dVQk1OYzRRanJvckFFcGNr?oc=5",
+          "date": "Tue, 19 Aug 2025"
+        },
+        {
+          "quote": "Fifth Ward street was nearly impassable for years",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNblQ5ZGxNQktFNjFHemg3QWhFYUdBd0lMYzJ2YUYxTmp6Xy0xUzhGOTVySmk2VW5fOVRIZ0ZpNGF2R1MtRU5wak9aWThKczcwREcyRXFoNkFRSGk1ZXdXeHRHR3BkRUl4R1hVLWVuYmJpWWFBRVloV3R2U3pJYzliMEVqYmZ3eERFT0t2RWNzd2FiVV81QlZXVUVYRHNVcmNab3hEN0ZpcEJrOEFQX21zVGlqTlNZcmc?oc=5",
+          "date": "Fri, 10 Oct 2025"
+        },
+        {
+          "quote": "Look back at Houston's most notorious sinkholes, street collapses",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakc4Y1FXSlkzNDNuTGFtNE5qRmZ2NG1ONzRMS2NtN01ENk1XXzBkRVFydkJsVmtNTnJYV0htNXdVbEJZQ2dpM09vYmc3LXhQb2tEaDhSQnFxbmo3bllLUE5QNV9GX01pNHdqYm5SZ1JhWDk4bEpZRVRCaS1aaU5JNHdMcVZybDlvYThRUERadWRzdGo4N2VvbEVRa2R0bEJUUXZEZHUzdw?oc=5",
+          "date": "Thu, 05 Feb 2026"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 4,
+      "pct": 7.7,
+      "samples": [
+        {
+          "quote": "Guide on how to report broken streetlights in Houston",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYm1haERGZTR6UkdDRDVDcFhUM3FobGF0YVdrWE40UFFvczB5THlRQXVfNGJwZ25BOXpwQ0VUWHZVTmoyTUd1d3ZuVlhzVldOSnFNMUgyaWpnclJIdUhvc3RGbXRnbjZYQnVNVWxBQzZIek5aeHdpOUtSRDczbzhtRGM4czdLdlA0VjdUeGJTQjJWR25MRjJCVmhINDJoZEsw?oc=5",
+          "date": "Tue, 22 Apr 2025"
+        },
+        {
+          "quote": "Streetlights shut off after months of missed payments in Imperial Heights",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSTRxY3A5X19DcFhRMUxoMFlpZkt2LVdQR0hfbFpyNWJ4LUl3YVlobmd1eGVuYUZzTW5MX2xqR3FpbHFRVzF1NUtIZm1QN01mVXBuNGExU3AtNGluZE50bW9yM2lsSUhUSm91ODJiWnVZdDBsS0VuZnJZRlFsX2lJRDJMZUNrcndHVHJ6emowQzRoOF9LeWctWXdlQk5TMlRHREtNOUh1Z0NiM3JRMWxyRDY3cGRJVzVoWkdFamdoN3RNaVXSAcgBQVVfeXFMTm93bXJTVVJOb2UycWlDbzZKdTRVWmxENEhFcGV3OVk3bzZ2MWlhZ0VyNEJmUnZMTk5ZVkJ3YVlMckNjR2lBUmtkel8wbkp0RGJET0d6QWpVZ3pBWVRtX1d0cFdTZm1vWkNHSzMzZC1TTmZ3V3BFcXBGZjBRekJuemNtNHFKYWpxcjI1VHg5UGg0N0V2TmxSS3FSRTN3ZnVoeWFfM1F3Zmp0ZzhJMzVMUGhjWWQ5c3NQYTlsOUNzaFdSUktXNWZPZ0k?oc=5",
+          "date": "Tue, 01 Jul 2025"
+        },
+        {
+          "quote": "Highway lights fixed after two years of complaints",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMjVEVFE3OWYtdXN4dTNPNkM4RlBLZnB3Yzk2MjlodnhaMmk3aFl5Wkg4NzE0ZEVpdkFCTTBlSnJOOE1KVVFjeFhhNDRPYUZWYVUtaDdBUGt3LW1zOE9rbDdHcVdMQ0JnXzVXbUVONUQwa3AtS1Btc2FkVGlfYjZzZ2hQRjVTR3M0YkNDMGF6ckJ2M1dLeFNPbkljSVVmbEthLXRuQnJnLWcxWlVPRG5HdG0xajNqQUNTakJDd3c4RVBoeENKNkpVZkJHZWNRdVpwWkdCREd1VQ?oc=5",
+          "date": "Thu, 05 Feb 2026"
+        },
+        {
+          "quote": "50% of city's streetlights faulty; safety risks glaring",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPclpZTXlyYUJXWGwyZFR1Q3g1VDNZVlFrM3BTaGhOUHVnM2N5d2FCQkQ3d1VtdmF6SkhuQkQ5YXRTcEdCaHRNZnpmTUhuVFYwNTNzcUFpSndpS29tYkZHaW9temloOHdXMnJrWGR3SXZsUU55N1ZyMlJHaUhTZjZrVXFwTG8yaExlV211ZlQ2bnd0Y1lBZjZxWVRIdzdMTkxwZW85THZac0sxTWJhano4T1YwcUlHODBQOUZPY25JRkpxZ01nZkHSAcsBQVVfeXFMT19hSkNYWFNyN3NyQ01QOF9hOUJ6UVFZaXlqZFRZTFNGNW9fUTZvVzJjcmgyUFR2RVNGVlJ3Yll1N0puTkthQ1lnMDZLYlUxX1psTDctUDJZaWxQYkNBZElNUUh3aHlmUHNTOWo1WGl1U25wcTNKTlR1U3hGNTdlRnhLSGxKbTFacTRDaHRTZWQ5ZlppcC1RSGNXX0J5OFFyaDVYMFBHZlFsYWItN0NvOVUwWGoyejRDWlhGZ29YOVkwQUpBTkZlSFpTQWc?oc=5",
+          "date": "Fri, 01 Aug 2025"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 3,
+      "pct": 5.8,
+      "samples": [
+        {
+          "quote": "Is Houston's noise ordinance working? Data analysis requested",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS2hZNEZ0V2U5VlJaSmdvaGdfeFY2X2dpMkstaUo4TDRUSmxpbDh5cjdxMTRWNkd3OHJ0Z3RSNWRMR1BYTm1ISEthV0lTZWFlLVhQcnRUMXNpajN5TVdNYmwycy1YdlVJQTNCMjUzYWRWZG52TGNfb2JPQi1NNmxEV3J2dDBkbXJubGQyTXlZajlpSnBVQVprbkNJY0hvSnBDX05Ud09BbGtISHRrYnc0?oc=5",
+          "date": "Sun, 08 Jun 2025"
+        },
+        {
+          "quote": "Third Ward civic leaders call for solution to nightlife disturbances",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMlZDOWZwYzFaRENCNUJyRUFZN0xwMFFUQy00Qk1WRHBuRUJqRjhlbDZWUXBkVVZ6V3lHNlJkUWlsZng3bWpkcVJYNnFNUFRtVHVJYjMxQ19MS1BBN0toaEt1eVpNWmRfdjlfV09vRGl4bkFMODYwR3BHZVgxVy1WWnFkRHlpXzNjSzdZc1VSd1lZTjQwakpXbmU4QnM4d2dNM0cxU0toSUdMdw?oc=5",
+          "date": "Fri, 13 Jun 2025"
+        },
+        {
+          "quote": "Is Houston's noise ordinance working? Here's what data shows",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc0d4V3RTc3hPdTRCUHJxX0ZJYVk1ZHdmdnl0NzRkNkMxZnBjQ2E4eDZXZUtyNjJNdkVhXzEyQTIxT19BYVlCdjJXZjAtZEt6bjFuamVtUXhXb3o5MkFpa29henVKZFB2TjdDV0tVTFNSaGhxakRtSGdySVdNSENfd0d3eng3M3oyX0dxcHctMlQzZFZLeTc0Tm1zQV91WGFHSmlGWGM3MEl2Mm8?oc=5",
+          "date": "Tue, 10 Jun 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 1,
+      "pct": 1.9,
+      "samples": [
+        {
+          "quote": "Controversial floodplain projects since Hurricane Harvey",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeVFuMWZ4VUVWQkltMWdKX0daeXpPNmE4OFltUWZfcnQ3UzJxWm5Ha1l2MUgxenB6Wkt5Y0F5VkVyUUdmMDVONTc0NWlueklYUU9GZVVaelNoQVU1Q1RIVHVQUkJWeldaaHl1R0RtRGdxamlZUXA5UlJaZEVGam9ONXktakNXWUppMnBXNm1JSVRrcm4wMFFSaGs5YjNpMmhtRy0wT2JGamtEejU4?oc=5",
+          "date": "Sun, 30 Nov 2025"
+        }
+      ]
+    },
+    "Abandoned Vehicle": {
+      "count": 1,
+      "pct": 1.9,
+      "samples": [
+        {
+          "quote": "Box trucks removed from Houston neighborhood within 24 hours",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVU1HOFRud1JMbGYwWEUtUzNWME84dnlZMmtVQmdUWFVLWnVJaXJRMXRwc19mVTJyOEsybUJ4X0lPNXlUdE5jR0JNeDRjdnQ2VHdpZlEtV1dZZVIyV2FyMlhnMU91WkxrQ1dNWmM1RWpUem56R0pnTVlVbGliYVcycXg1X2RMZ2FXZzJaY2V2WGJTRmp5SVhXNkZIQ1V5WmNiaDJRRWFySHFIdkZRU1ZiVFVsRDY2REVMd1N5dHkwYw?oc=5",
+          "date": "Sun, 16 Nov 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 1,
+      "pct": 1.9,
+      "samples": [
+        {
+          "quote": "Residents want speed bumps installed after frequent crashes on West Montgomery Road",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYVVuVEYtZC1CTDRmeVl0LUg1d2lKRW00T3lUMG4zUTlndUEycWUycTZBZ2ZBdkpFYjk2eDExcUtrNl9qX1h1bE5ERTNzaDM2UG5Cc2JheDIyZ3JrYkNYWnVfQjEwV2ptZGJfMVdkb0lQRHVVRVRIMVpiOHBmNWpoM1RIbkgxMTlqVHl0dlFadm53YmpIZmJKcDhvOThlMWNDd280cUhlM0loRjZNVWRfR09vVW9Gc2JHdzl2OGNqV1hXZ9IBxwFBVV95cUxQUTRFc1JmZ3JEQ3psMlE0SGlIcXRKa0NKbzkzMEVoaThaejhvb0VYaWF0NDBFZjZwZWVmdnNOWWctbGQwX2pEeVpseWY2WUE4OWtta1pXbERqOVlYU0ZLcEdLNkRIVGN4azliZFlkblFYNGpwWTZ1cktLQ1JLRE1RUUNyQVZ4R01heVpqMUFhWnBDLVVBek10QkMzNzJwMi1US3V1RUVCTE10SVdxMVVCZjd5cUo5MWtteUY3aUV5R0I4Ny0wemxz?oc=5",
+          "date": "Thu, 29 May 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 1,
+      "pct": 1.9,
+      "samples": [
+        {
+          "quote": "Man posts sign after months of sidewalk disrepair northwest Houston",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSHdpaTBZejRpbWtycGJnVmFWS3M5cnE1WkxCdUgzOUROa1NjMXQ4Vnpza1RaQUFNNUFtUU5jc3gwelhkZ0liMWFOMXlmQ3FiN3FBVm5ERDA1LTN3aWVLZDExSS1WQW9GbGtsUUJpa1Qyemp0LTdlQlhCS25QUXhhYUJmNUFLNGhIVVlkSWQ5c01VZWc5SWgyeGVBT19vZTZJdXRVcnRHYkFiRW1EOTlWM2FiX3Nkbi1fXy1JQThLTnBtQdIBwgFBVV95cUxOSHdpaTBZejRpbWtycGJnVmFWS3M5cnE1WkxCdUgzOUROa1NjMXQ4Vnpza1RaQUFNNUFtUU5jc3gwelhkZ0liMWFOMXlmQ3FiN3FBVm5ERDA1LTN3aWVLZDExSS1WQW9GbGtsUUJpa1Qyemp0LTdlQlhCS25QUXhhYUJmNUFLNGhIVVlkSWQ5c01VZWc5SWgyeGVBT19vZTZJdXRVcnRHYkFiRW1EOTlWM2FiX3Nkbi1fXy1JQThLTnBtQQ?oc=5",
+          "date": "Tue, 03 Mar 2026"
+        }
+      ]
+    },
+    "Road Damage": {
+      "count": 1,
+      "pct": 1.9,
+      "samples": [
+        {
+          "quote": "Concrete hump creating noisy nuisance and hazard for drivers",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWjNTSkFPZWcxRm4ySlhMX3pUeUZqZHRaUS1ZV3pRX3BUX2ROZUUxN2FNMk9tZHlJOE9ReGJWbTVRLXcwMy1jTUNzYU1ncTRwWlBjRE5DSXlLeUlwNFl2eDJBOEd4bWREdkdIdm1LTkVwZXYwYWZmLXNHVHh2VDBscHd4UXphQnQzX2pPTk1NTVdveGNZVVQxVXZudWRsTDVvV1didzM3SHg0ODdhbFlHb0N6aWZ6SDA1R3JaSU5WdWNJSTVDN3BNbEtNLTNYNkt4VzhnWVp4Z0l1bFJBbW5lLdIB5gFBVV95cUxPalRFcGNZS3pQcmdwZll5elRBWDNPbnl0ZXB5aEtmM1dJVDJPLTV1UEx4SFMzU1dtcEZaSFI4Z0xMLWM1VkF5Qkh2VGdZQTRSZHZ4c2N4S2NnX2NkZDY5dnNQVTNRR1l4dGJKWGktWExtTlNWOVFxVUFiRnNVcmt3LVZxdW9ueV9SNGhJTDc4Vll2bGVFaDhWd0FSV3FkV1FCeHFFSDFHNUFhZEtjTEFHWG1XV1lZUjU2Z1MzTkU4MF9wUlRzRnlmNndVXzlyQTVsSG94WU1kLUh1OGZHUDAzX2tFZGVIUQ?oc=5",
+          "date": "Tue, 07 Oct 2025"
+        }
+      ]
+    }
+  }
+}

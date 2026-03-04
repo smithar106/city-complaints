@@ -5,81 +5,80 @@
   Source    : Google News (past 365 days)
 ==============================================================
 
-  Articles analyzed : 98
-  Complaints found  : 56
-  Complaint rate    : 57.1%
+  Articles analyzed : 85
+  Complaints found  : 50
+  Complaint rate    : 58.8%
 
   CATEGORY                         COUNT     PCT  VOLUME
   ────────────────────────────────────────────────────────
-  Water / Utilities                   18   32.1%  ██████████
-  Other City Service                  11   19.6%  ██████
-  Sewer / Drainage                    10   17.9%  █████
-  Pothole / Road Damage                3    5.4%  █
-  Public Safety / Crime                3    5.4%  █
-  Parks / Public Spaces                3    5.4%  █
-  Sidewalk / Curb Damage               3    5.4%  █
-  Graffiti / Vandalism                 3    5.4%  █
-  Trash / Illegal Dumping              1    1.8%  █
-  Noise Complaint                      1    1.8%  █
+  Water / Utilities                   18   36.0%  ████████████
+  Other City Service                   9   18.0%  ██████
+  Sewer / Drainage                     7   14.0%  ████
+  Pothole / Road Damage                3    6.0%  ██
+  Public Safety / Crime                3    6.0%  ██
+  Parks / Public Spaces                3    6.0%  ██
+  Sidewalk / Curb Damage               3    6.0%  ██
+  Graffiti / Vandalism                 3    6.0%  ██
+  Trash / Illegal Dumping              1    2.0%  █
 
   ────────────────────────────────────────────────────────
   SAMPLE COMPLAINTS BY CATEGORY
   ────────────────────────────────────────────────────────
 
   [Water / Utilities]
-    • "6 water main breaks this year threaten Chicago suburb homes"
+    • "Six water main breaks this year threaten homes in suburb"
       https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWo5bUZCQWRiWDdnNWd5RFhlaEp2RHdFeVZWZzVPOXFheVFtYTNCVERNczlrQWpVREVBS3B5akFBRE9la2YySUhfbEhhcG1hakpPMVJGN0dFbGMzdzA5X1pHQW0zWGpkeHVxQkJITXFlN1NQMzNubjUtMlEyc0lBYUdBZDFKZS15?oc=5
     • "Skokie residents, businesses still suffer from massive water main break"
       https://news.google.com/rss/articles/CBMiigFBVV95cUxNTE95ZHh5TTByUGYxOXNENEQzQmxUNDFab0NvSF9QUGdZYU5Da2plcXJTblljZW41emRMM2hNWE5Rb1VRYzlBRUw4R1RJVVh0YUp3cU0zR2llQzlQS0taLWphQ2dZeHhINmw1LTlXQ1RYeVdROVZiRk9NazRXR01XOUgtSDQ3NXI5Qnc?oc=5
-    • "Burnham residents frustrated by communication over boil order after break"
+    • "Residents frustrated by communication over boil order after water main break"
       https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRGdsOEc1T0p1SDZLMUJndXVCYUJqTUNlUFBMMGVkcU1GSWJsZDVPbXZnMjRUNmhKV01sYUhyeGhIZDZnWGRhMGp2ZDlXUm1LUWF1dnJfYmdNM291NmRoZ1BSUEwzenNOVG11S2p2S01PczZHOUZwMDRIUnZNaGttWVFEeUZ2bWJXUTB6djRCWENsOTBkampvaW1jOERYLWhGYmgza3hJa0xZVElPVkx5VzhlSUNKejlt0gG-AUFVX3lxTFB0NTVPSzZZUWItUmlmWmxONFBhY3AxTXhUblBObER4VW04clNGMlNyTWotVW16MHdkbnNjX3BtUkNJYlUweXZzNkFfR2x4NGh3UHNvdzlIY1pRRUZFZGw5NXlwcDRoTEN5czV5NnFHQlludUVrU2g5TlFiMWRTb2RkaGF6OEpzRVpVcWptTUNYTld4ZFltc0RXZlUyYWNQM0dfMkVtakdLSGxpeVdpRE5UT0NiRzh0d2pkcUNTM1E?oc=5
 
   [Other City Service]
-    • "311 system turns into black hole for residents' complaints"
+    • "311 system turns into a 'black hole' for residents' complaints"
       https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1l6bFQxSHc0aTVyeGUxUWtIZ0hhLWJvSkxLbEVrS0pnZ1J4Vl9YaVhucEVaVlViR1BIVTltT1hkODFiMGxwblI3Y3U2aTFpMHE1N2ZCUjRVd3hwcUtDdlF2eWx0YXRCN2JiZjN1LVhlX18tQXk5OTZSSC1OWG9EMlpCVE93dXF4dUZXZ0tERWlLa3h0NjB1QlczZ2xrSzBvVkQ4bmRhTy16MFF4VXZqX0JwbTdMcGV5VjBTWHRkYTRsdXE2Wmc?oc=5
-    • "AI-powered 311 chatbot not working according to city staffers"
+    • "AI-powered 311 chatbot no good, city staffers say"
       https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNVBrM3ZpOExoMS1FdUJubnZqR1pPTTcweWNfWm5iczN0WFBkUVlJb1oxY0ZuS25BWVZqcGtoMzNVRDBrcjVoNXh5SG1BenVUcGJGUXN4LWtyM3dNY3czNW5zVUdROVpMNkJSeVJrMkVTM0FEaGg0cXFCUEtlZi1nSVdGamhzYzBYT2ZwcjVHMlVKU09uRjVWS2d5WThoZTVoODBXc3F4RkdhdTVXd1dIcHlTcGNTTjNURjlwVllUZGJMNUc4NHpzaHZmVVcyWGstTGw4?oc=5
-    • "City pauses 311 partnership over privacy concerns"
+    • "City pauses 311 partnership over privacy and contract concerns"
       https://news.google.com/rss/articles/CBMigAFBVV95cUxPT1NRMUdNRVp6em5CTGVZMndyMmczaEVTRG1ubHVBdGJjSUMzRkgyUVZLUm9KT0x5Ym83OE9teGNUcC1GMnB3aGJhSWRoamwyQ0NpbU0wYlhwaXR1MVJFQzUzb1hGYXJIR3ZBTXItdjRmWHhsTy13TFVMUDM4cUNEbg?oc=5
 
   [Sewer / Drainage]
-    • "Chicago alders call action to prevent basement backflow flooding"
+    • "Chicago alders call for action to prevent basement backflow"
       https://news.google.com/rss/articles/CBMipAFBVV95cUxOMjJXZUtHc0NncHR5bFFIY056SVFBUmdwdUhFX29SU3ZJV1VMX2pWQWp1RDNELTFWTTIyT0ZGQWNwRWtRbmV0SnhMaGR3VnlkeWJSVWVSMDJ1aEt3alFLSkx4STgxTlJvYUx3VnljQkFUNndIbFk1WGpWNjhxTVcyWm55SlpMSHk3MGZpcFU3MnItNWI3MjVkNFI5U3ctZVJTc1RMOQ?oc=5
-    • "Repeated flooding raises concerns about Chicago water management"
+    • "Repeated flooding raises concerns: is Chicago Water City?"
       https://news.google.com/rss/articles/CBMiWEFVX3lxTE92U0RXV3pXWXBVLUxxZXpRWG5WdkUyVWxVeEtnQl9Cb1FhSUNfM2VITFdNYVFqdmVTWVp2VWNIdm82UU5IWndTTkJLLVM5VnRDcmZKbUt0TWQ?oc=5
-    • "Southern Illinois coping with decades of sewage flooding"
+    • "Southern Illinois coping with decades of sewage flooding unsolved"
       https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU0VpelRIZjlhdUN5LXIwRFJBdWtwQjF0MEUzcUNKSUp2dWtKQmVNM0x1UXQ2LWJfV0ZvRWVIdmpnOXVXTGhDUU5aOXo3T29BTnNfdmplTDdYYWJ2Qkh1aWx5cURhUXQtcUt1cUpXNzlMN2hTNGI5UlVONzVPTGFvTHJUblp3QVVVRnN4Mm42Um1QNWNwNk9NNHktaEhTVGp4T01RcjFQbTg0SzBiclNLWXY4NGI3RThnLTBjcFdpQnppYTNZLVNIMzBNVXhLcnRESkV3M0Fn?oc=5
 
   [Pothole / Road Damage]
     • "Massive pothole sends woman's car crashing into steel pole"
       https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHVPSlVFakk4WEM1V01wLXEzYXlKbDlSbkpQN0YxWlg0cGtrLTJOVndpa3BmaXlYRVNQcmJiNkU5LUZGSGJuZ21HcEFLN3VVSUY5NThzR2Izd0FKT2Rkb3J2bGpJcnlqODdWb2paeFVKWDAzYnlVYmQ0QUlZYTFiRkY2Qk1MTk1ENGRv?oc=5
-    • "Pothole season in Chicago damages cars requiring reimbursement"
+    • "Pothole season in Chicago: car damage reimbursement process"
       https://news.google.com/rss/articles/CBMitgFBVV95cUxQSEFwbDlLcjhIdUJHclczeVNldDVVS0JKVGtoMXkyVG1Ma1Y5S1JHYjNOOEdmZmY1Um44NkZ6UEU5a1lkQ2ZuRkt2OWlTZEtnRERSX29XLVowUXBFVFoyOVNLN0ZFdHVqUE9lM2pVMjNSQU90ZGRJLXVuYXpnejBPeWhqcFNCX205Q1lPQTdNbmtCdTd5aEhMcnBWcnRxUFJONjJ1S3NRVmp3NWVUclVDQ245cW1GQdIBvgFBVV95cUxNQzIydm8wYndxNm5ubWd5bGp6R0dEei1qS0JJUXZNNHlCRlc3cmU5YjhHWm9OV2F3MlZxTTg0NXVQemNKcldGa0JkT3ptbmRoaml2OE8yOW1FRWNxNG1VelRGSmptSG1oSThPcXdDdnVacDVRRjhzaXpDTmswenBuWHM1MXZYeVlCeV9xWnNiN2lUZFRCRWljemlRQ09UcV9GVzg4VEs0dFNDQzhIX1U2V2laUUtfSzJ6RFlkUnp3?oc=5
-    • "Potholes wreak havoc requiring innovative technology solutions"
+    • "Potholes wreak havoc; cities seek innovative technology solutions"
       https://news.google.com/rss/articles/CBMivwFBVV95cUxQUEVqQmFpSUtBa0dMLXJMd2R3aWFoekEyM2Y1b0h6NnlqZ0FzMkZURjJWVW1pa2lQZnVjTUlSbzNEVjNXYjVrUHhBU0xwWUhBRFF6aVVlMVhBbFpIZGhvN3p3Wjl6TGt5dDRJcE9JYWE3ZTBpRGRMYXo2OFNMWnVsQ0hHQURscVphTldpb0VlWlFIdlFhcXk0NVRGMmRuUHc0bXVmTTJEemVPMEtLZkU5NkhNX0tmV3Zob1BiWkNpTQ?oc=5
 
   [Public Safety / Crime]
-    • "South Loop homeless encampment raises safety concerns among residents"
+    • "South Loop homeless encampment raises safety concerns amongst residents"
       https://news.google.com/rss/articles/CBMisgFBVV95cUxNdExvNjBGc2lLd3ZPZjdISVZ4NzdONkJpS1d6VmZ0WG51TXo4UGZrYnMyQm5UV25jSDBGZjEwa1BqeDBIRTdaQXhtTU0zVXljNHhHVHlBT0JVUUpzR29hOWFrNkVsZ05BSl9pRTRYRFdLdTl4LTFPNXZkMVVVRDZVQUJ5ZEV6VUp5UXI3bF9LMS1xRlBwNndlbzA4Tl9NalFTOEd5Zk5XRkl2dk5KNmJxMTZB?oc=5
-    • "South Shore residents made thousands of distress calls to city"
+    • "South Shore residents made thousands of distress calls before federal raid"
       https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTAwbXk4LTFlMm1kLVVuMTV5c1F1a2NhM3Azc042cjJFRjRxU1ZKVjFZMjNTX2JNSjVLQ25NOEZjMlJWVFk2Z1pldDR2el9LWjlKSGRLblVpU1lkYUN0UTlyMDFUdG9JYlc5a2RjUUpQRHY1YlMzVG5UVmZ4czRnQkF1czFLRWdmRmpmS3NvZXY5RlRJX08xWDJ4cGFaRlljZWVzOGtEY0tBTzBXd2ZTYVRlU3lBQTFGU0FBMVBpRUt6QThWMW9hc1Izbw?oc=5
-    • "Residents petition to pause robot delivery pilot over safety concerns"
+    • "Hundreds petition to pause robot delivery program over safety concerns"
       https://news.google.com/rss/articles/CBMilwFBVV95cUxQVlo4VG0wcnQ5MkRublN5VzVEcFNfRkVuYjZvX2QxMXdrNkgxbVBQaVdSaHRBZERpUEdOQll5dl9kRkF0Y1lqOTZUa1NSRXNPZnNqTnhWTlRIMl8wSkNZcXpjaUVpdE00WDBkMEpTb3BoMDctWFNDU0ZobE5xdndrNEM0QlFxRmNPWE5MTjFZTm5kaVZlclRN?oc=5
 
   [Parks / Public Spaces]
     • "Fewer than 1 in 4 reported dog bites result in citations"
       https://news.google.com/rss/articles/CBMipAFBVV95cUxPSWItYTVGekRPT0VUWkJsa2c4bjNfWnI4V1JWajZ6UGdZNmhUVGQzUVVPSk5iUUZxN3NqLVowRE9XQ1BxSXJhdlZ4eHJzVFU3Q3F0YVdTVGhIU0E3SEkyTGhHUDdjV19Vb0JCcFB0a0hiUWhPaEpFZk5NZnRvVkhKenZkdjdHRmlmR0lhRUFtNmZUUFBad2VNRjBHa2swUF9VbWpUZQ?oc=5
-    • "Park gym and play equipment repairs after public complaints"
+    • "City launches repair drive for park gym and play equipment after complaints"
       https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUWlvck1wOFJmbi00VTRDZFVYS3B4QjJYR29nVjlYbFRMc1VBamJNcWJvV2RvZHBkcExablJjamN6OUJwck0yOGNqblB4ZVcyNjdWQmpoVC1ydUNlRmlVTC1NOEZXSEpDeGhXSUx5ckFQUnN2anE4SnBGLW8wa2FSOE1ydnh2NDlVWmFib3ZFVC1XbkZvcjVKYnVTOVptdTlpbGJhUWFiMS0wSm1Zd0lUX3BqcUVFVUFjTFdwbmY5WWtRU3NtRHlfeTlfb1ZnQ3JfQ0FtWVJMOUoweHM?oc=5
     • "Trump Tower plaza barricades pulled back after months of complaints"
       https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX21Ma0h6M3dZNHpHMjQxZUlGM3p0d29fWF9jZlZaTk0yNVZMTmtTUWhhRkhPTndyVkl5ZlFBRG1UTUtiTkszNU5ia2I0cUwzNTJjazRtc3J5QzEyVlpNOVRiQnNaMkNNYlU2ZVVxWlBRZzgzb0NxbXdwRVctLUpKVHlPQ29VRnpiSDAxb0VyU1NtdXJoLVY0ZEhVMlNvSGwzcW5JSm04VkdKRUZyLW1SUEw3YXJ4dklD?oc=5
 
   [Sidewalk / Curb Damage]
-    • "Chicago pedestrian ways violate ADA requirements, lawsuit alleges"
+    • "Pedestrian ways violate ADA requirements, lawsuit alleges"
       https://news.google.com/rss/articles/CBMirgFBVV95cUxNeEhpWGV6UVRITHREZW9TWHBpRU9LN01lS2RIeEw0RDhwd0Y5YThpLXRBdHYxU0VRdTlqQTYxNl9iek02dWpBSGpMNFBoTVFPbnJ6cmdvLVE4QVg3elY2MzJFN1lrbE10STV0dkVMc0xXUkVldkVUVHltNUFBWVJrR0k3NEpXaHFZZEFOT0Exd05nRFhlRzVDQnBvNTdFVUl4TkN5cTFkTjNFUDF6THc?oc=5
-    • "City sued for alleged ADA violations over inaccessible sidewalks, curb ramps"
+    • "City sued for ADA violations over inaccessible sidewalks"
       https://news.google.com/rss/articles/CBMidkFVX3lxTFAzQXUxTlpYa1RTQTAwN3RSOWRQVzFVZWd5VktxSjVadWwxbm1CVm16ZDJJeTREcEh0NnpKb0FlcEJ6aUlwTlhvM09zMzh2SDFyaVlneTNmV3JkSDExSmFEaVpPRjlFa3VNZTJGSENLejFYalNvNUE?oc=5
-    • "Woman injured on broken city sidewalk near West Side intersection"
+    • "Woman injured on broken sidewalk sues city"
       https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0lkWmVnWnFLWEVKSnJ5TXJRdkpmX2pLeVdSTVg3SzdmaFptbUhEeVlfMURpdnpidlpETkxzaEttR3NfNFczTXhCRk0tbk1FSDRicUxRS0xmVXlta3Q3OV8wWXJWZlNydG4tT0xWZV91LUg0SkFRaHoxeTNkLXUzWHFuX2NmaTRXN051cnRnNUhaYkNnZ0ZuemxrNkJVdUFYdEVOaGVkZU9KMnNhclNWRHBYLW03dw?oc=5
 
   [Graffiti / Vandalism]
@@ -94,13 +93,13 @@
   PITCH SUMMARY
 ==============================================================
 
-  In the past year, Google News surfaced 56 news articles reporting
+  In the past year, Google News surfaced 50 news articles reporting
   citizen complaints about city services in Chicago.
 
   Top issues:
-    • Water / Utilities: 32% of complaints (18 articles)
-    • Other City Service: 20% of complaints (11 articles)
-    • Sewer / Drainage: 18% of complaints (10 articles)
+    • Water / Utilities: 36% of complaints (18 articles)
+    • Other City Service: 18% of complaints (9 articles)
+    • Sewer / Drainage: 14% of complaints (7 articles)
 
   MyCity311 turns scattered public complaints into structured,
   trackable reports — giving city staff real data and giving residents

@@ -1,0 +1,143 @@
+{
+  "city": "Tulsa",
+  "slug": "tulsa",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 58,
+  "total_complaints": 35,
+  "complaint_rate": 60.3,
+  "categories": {
+    "Water / Utilities": {
+      "count": 22,
+      "pct": 62.9,
+      "samples": [
+        {
+          "quote": "Water main breaks get fixed; how to report them",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1BtZF9LQVdVNHhXVi1oSmR4ZjlpVlhZZ1QtS2xuUnM0WC1xd3BZUEZtcHNRSlRLWWdQdENBQlBIQ19ib25mWUk4UzJSVjh2UVNIYTNud0xvNmk0ejJJcENHOTc0b3JNZGtRQ2NVVHhtYURyS2dMc2JfZS0tckRwMl9PbE1qUVhOaHIyb1pVWExNRUVZNWl1c1RqTjBqQQ?oc=5",
+          "date": "Mon, 26 Jan 2026"
+        },
+        {
+          "quote": "Water main break causing slick spots near 21st and Lewis",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQWlsaWZIQklRR0ZIWVpaazJCYlNEaTBTazRsMDZoZlhmMmNIZ0NOcEpWN2VXS2VlN2tvcVF1djduSmNTY2xXTHYzaVdfNTdwQlRaSmpoU1FXbVhyaUhINVFDeFI0dDdQR1owLUlCUERCb1NnY3Z2SHZpLXg5TGJfRHlaYkcwdERmNFB2Q1MtN1hEV1YtbU1qaE9uYkg4X05SZWlCLUxTTXhCRlJZdDRtcU53bWlnWjBUT3o4OUZVTFRHZGh2VGgwZ2I1SQ?oc=5",
+          "date": "Mon, 26 Jan 2026"
+        },
+        {
+          "quote": "Water main breaks impact several homes in Tulsa",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGU0LXBFSDNxNzFhY3RxQ1VkVjd5YnlydlFFcFAyM05sMTZhSUhPNG00cFU2YUVydEZYX2VNMjZYY2M1VG1kRG43VkZBLTlvcnlEcUYwWWEwQlpMb3dQWU1pWWdTQXlBUXZnZlk4YzVMR2YtMDdwREZ3UjlqM1JCLXNrUklCYW5wc2twUTZvSDQ5blk4NHFmOWVHbER1dUwzSEYyWEd6TnVUNDF4Zk43V2lUQjVRalhoRTRv?oc=5",
+          "date": "Mon, 28 Jul 2025"
+        },
+        {
+          "quote": "Water main break causes icy conditions, street closed",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVkthMTlnak5pbE55YV81M2M2b19HanNndXZSTjQ0QTNHWDhzSU9IdmdEdUU0dEh6NHNVa0NpM2djeWtFb0xIYjFGdGNBc0ZDTWE3TS1BT2xrbU1tekU2TXJTbFF3UXVrT0Q5Zmh1S1JJa2s4X1NoSmd3Vk9sVmpRQ3llOUtObWJVYm9pX3V2clhmLVh3bnFQNWVnSDNqczNjVEhVSlNKMUlwZjQ1WXJGbHdNOWtKYUJwX0xibkVSSnRZNV9sbFFHTzVNUTA1Y29EV0t6MTBWY0JjX2dVUkc3TnJ3?oc=5",
+          "date": "Tue, 10 Feb 2026"
+        },
+        {
+          "quote": "Extreme cold spurs water woes, conservation urged",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa1VtSmlnZVhTTHYxaklDcUlOWlZHY0ROcEJMZS1uRHl4ekVQTWxuYXlhMjZmYTBXeWVaZ2xFeWYwR2Vva0N3NThFQUN3YktBVW5FQWc1T21ZbkJ2V09oNzQyUE9EZGNSUEo5RGxOalVubUZxOEJSbWdkc3ZpZHlDR1NobTVsRHZzOF9HU2tFdFdnWGREMlRqOEMzSzBpMHdXcGY3UzU0SWdBSlBFQkV0c0c2NzUyUQ?oc=5",
+          "date": "Mon, 26 Jan 2026"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 5,
+      "pct": 14.3,
+      "samples": [
+        {
+          "quote": "Tulsa business owners say graffiti vandalism driving up costs",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFM4ZGVGeXJpZ3h4RTZIZU1NWF8tM25ocW1reGRZLVU0aTFrQW5zRlRJTkxpWUxCMFljUFJEem1vM29aU2EyVzNxX1lNMzV1bUhjaHJYNzVpbk5rNFJCMWhNSHE0eWltT1oxMTJyLXFPYm9TeVp6YWZPbERwa1ktNnFmUlNHNnY4amxaU2FLLUZYUFpyT195dC1NQk5hZ0RUV01zblhfV1p1dktsaGpHb2hfdjA2VzR6RkR2X3BfWHFVT2dfSjM4?oc=5",
+          "date": "Thu, 13 Nov 2025"
+        },
+        {
+          "quote": "Tulsa police arrest street artist linked to MANGO graffiti",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEZXejJXTms4UFY2dXZtVUIyZ1FJSGhDVGtmRk5Ma0hrOUctc0ozY1ZrZUU4VGpOeUF2M3RIQjZQaHVLTk1yLWlwMWxPYUpBdEdYSnByQ0lZaXp5dmtSeUpOM1dZNExhSWxab1A0eHdIc3JDZ3AxZHNVODdMVTNZRnB2RjQ4SzJFbW5TM05jT3JZZzRSaW91ek9ZdkJXZHp1UEwzbm5fX0J6RjhHOEVR?oc=5",
+          "date": "Mon, 10 Nov 2025"
+        },
+        {
+          "quote": "Tulsa Police: Mango suspect tied to 100+ vandalism cases",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3hoZXFEdlktUXB2MVFBaThmLXFjZmZMZlRsUDZ6WW1jT01BQ3BtdmVQMjNRNTdsb1NhNjhIaTdwbUI4SnZlWTg1QXFrMVdicGctanNBc25mdnc5MVdtd2E2VGhLSkdvSWlKUzNtODVFeEZ0OHRjc2Q0endGaDRPMG41X25mdXlDenF3Vk9oOEs?oc=5",
+          "date": "Fri, 05 Dec 2025"
+        },
+        {
+          "quote": "Graffiti artist MANGO arrested for widespread vandalism across Tulsa",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYlhEbWFKQ1JXWkowN0dJb3VBeHh4eWpaaldtVU9Kdy01RUVjQWRpa3FnWnVfSTRjSEVxc3ZmR3lEQlppVGZRRXpJME1odXRWNmRleWJXWXltdTZKZ0h5QWhiR0RrS29nUDBTd0FlX1VFNEI5MnJSRlpqMUFld3Q0TUNQUkZpTWtpRDU1WnlaamNxelFQeHN4amF6Wm92TVJuZlotRzVXaEpCQkcyeHc?oc=5",
+          "date": "Thu, 04 Dec 2025"
+        },
+        {
+          "quote": "Graffiti suspect Mango linked to widespread vandalism across Tulsa",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHhNMHdNeklFaGk3QjgtaFZDRTdiTEtCNWJPQjU3VmpVbTdCNEF4LThlTjcxSUhPVVU3Vk1vZWtXLTNSZ0N1RWptSjJpWktJVlJyZU0xcFRDbDZKWFdDWndzR3h2dGJVb2JObVhzbExTUzVjTlJwb3diVjdrSnNyN0RQZVRGaVVGRkFSN3A3Zw?oc=5",
+          "date": "Fri, 05 Dec 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 2,
+      "pct": 5.7,
+      "samples": [
+        {
+          "quote": "Apartment trash clean-up progress, but residents still frustrated",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVZxWHpKRWdRMkgyR2VUYTBEb3I2aEFrWkYzM3FJR21Ea1hjTm9jRXVmb1dMTTh1THZ5RGpsOThWV185SFpiMm85akZhTVNyOVFQbE9La2ZvRUs3VWprNmI3T2lDVmFoRkdqNXVudVlFSG5nenFsZUp3SUhJY0hWUndmVW9UcDVNTHNrNUFpZnZ6Uk5hQ1l5ZWdnN1hxRzV3RWsxTjFMWQ?oc=5",
+          "date": "Fri, 09 Jan 2026"
+        },
+        {
+          "quote": "Mounting trash, mounting legal problems against Vesta Realty",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUd6RXBsNHlKZzFIVkRYb0RBQmd4UVdUU0FlMEpqSTk5Uzk2UVBUU18wSGhReUtfQ0kxQWxLQjBYb2hwakFkWHFBbTBHbWxDSENUbWV6bGcwQl9xbWYwUFgxLWZxREhEOEZIWDZONVhpUTZ6Q0x2aGRHd3ZHUzJpdjNmTXFZSldJU2tjcnB6MVRfTjJQYnl6a0dFX1pUeHhIOVZKdkV6eEdLcnhwREU1M3FWLVc0M0pIN1I1OVVNQVQ?oc=5",
+          "date": "Thu, 22 Jan 2026"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 2,
+      "pct": 5.7,
+      "samples": [
+        {
+          "quote": "Senior residents share concerns over future of housing",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTU9PM0M4b1dRRVNrQnRrbWNvUGJSUEZwVnF3aWlJVmdpR2pMSlgzcWktQUVSOTJEa3RpNTRBa1dNaFN5cVBLeGpzbU9ZVHNoVExBMjRTTDJDUEFLalFCY2llZlRRNkZKaU5wbmVsaC0wWE1oWkZtSE9RanhWUlpRUS1ISUJiaDM1elE0X1VOYWk3NXl3V0VrQ29ubUIxT3h0Z1hiQlZ1SkJURmppMHdQTDZoU2lyLVdYd3FKYkZMeXJvZWNtTGNnMUYtc0x4UjdVZTFOMWFIVUV0ZG81amJURkVid0M?oc=5",
+          "date": "Sun, 21 Dec 2025"
+        },
+        {
+          "quote": "Tulsa renters raise concerns over living conditions",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTGN4MUR0TjVES0lmT0lXX3FQeEV3bDlFNElCeW1IQ2dJTzQ1TmM1UlNJdWE2RTYwRndIbGhDM04wRFN2VHJ5X3RId1M2clc4TUU5cXhlak9xZmpDMTlLUHRvRzRTZWdKMHgzQ2pKaXgzd1VzUE9RU3ZwMGctNF9DZjZLVmFYM0VfQ2RITEdqUjFKOU5tWnJXd1I3ODVnQkJrVGtpWWhGRHZMZkU1U2h2d0VEOHVGbnZfOWJQR1NKWUx1V2xJeGhhQjF3SlFqOTVUalVxRXdTekxGM0pTSGlUSQ?oc=5",
+          "date": "Thu, 05 Feb 2026"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 2,
+      "pct": 5.7,
+      "samples": [
+        {
+          "quote": "Section 8 tenants live in squalor with sewage issues",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb0dSbjM4eWpkZ2pKcDJScFNNMUtyZzJ5SUMzcGFwZ01zdHh6OWJGcE14bUpWbEtKbzZLeUZTLVNRSHEydjJHVzRnSDBNNTlqVFlxeGh1bTFPS21rR2FUWjRXWGdHaFV5Um1PNGxIaFJGUE9BSU1DME8xVGZVeHp0TjF4ci1vTXBXYlNsZTh3T3VzZVpHZDVWWHNtMTlKcTZyZDRPVw?oc=5",
+          "date": "Wed, 14 May 2025"
+        },
+        {
+          "quote": "Broken Arrow residents express concern over drainage issues from development",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcVFIQnJYZExiNnZLazcydXpKYW90MXlmb1lSaVRxS05NY2VQLW9NMks1VWh5QzVwZmFDdjZsclNZVmFITHliN3NQWWJhaENFU3U2TmNBNl9PWXk2ejVVR29pbjd1b2s0OWRLeEVYWW9SdW4xU1BNa1A0ZnpKREI0UldJWFNsclU1dktncW9DREZkRWVoYjRvdDhKVE94VmpiaFVqazhkWU9oanBkWUhNZjBvSDNOWXZSRnk5M2szRE9LUC03RXM3LW56eDBmX0Q5d2FreHV1bWdSWmRmU2Z0Tmpfc3pmVWxNNURmaUpxcXNkVk1EMS1obGFuTGZLdw?oc=5",
+          "date": "Mon, 02 Jun 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 1,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "OKC voters strongly support fixing pothole problems",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdGhyVUJZbVowYjBMTjh2WFFKSWhhZEJYWHdjRndDV05ISC1wR2x5WjA2dHZHNVNsUmpkMmM3ZTBSbDBaazFpa3JwRC1oLTRvbmlZaVVFNlhJNmRaS0ZubEtkQkpPZlNUWGQzSGpoV1pFRnZBNF9wbW9Wd25mZFhWcGFIRkhvSU9sY1E?oc=5",
+          "date": "Sun, 19 Oct 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 1,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "North Plainfield residents call on officials to make intersection safer",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0dDM2trQlA4WHBTYWpwdUxDOURHX0EzVldFV1BVQnlOcEFvVlBZR0VIcjVheFBob010QXBEVjAwYXY0ajdHZmI3Yzc4WGRIcXNNdUR0RU1YNlUwbUtkc29PZTFNWjFPWkNMdzItaVlfYVpLM1JwSTRINGRaV2xNY2JjQk1MNWpxU1hENkNPRFhKRDJ3eW9RX2FxZlpNRTMwSXc?oc=5",
+          "date": "Tue, 09 Sep 2025"
+        }
+      ]
+    }
+  }
+}

@@ -19,3 +19,33 @@ Fort Worth,ok,reports/fort_worth.txt
 Detroit,ok,reports/detroit.txt
 El Paso,ok,reports/el_paso.txt
 Memphis,ok,reports/memphis.txt
+Seattle,ok,reports/seattle.txt
+Denver,ok,reports/denver.txt
+Washington,ok,reports/washington.txt
+Boston,ok,reports/boston.txt
+Nashville-Davidson,ok,reports/nashville-davidson.txt
+Baltimore,ok,reports/baltimore.txt
+Oklahoma City,ok,reports/oklahoma_city.txt
+Louisville/Jefferson County,error: [Errno 2] No such file or directory: 'reports/louisville/jefferson_county.txt',
+Portland,ok,reports/portland.txt
+Las Vegas,ok,reports/las_vegas.txt
+Milwaukee,ok,reports/milwaukee.txt
+Albuquerque,ok,reports/albuquerque.txt
+Tucson,ok,reports/tucson.txt
+Fresno,ok,reports/fresno.txt
+Sacramento,ok,reports/sacramento.txt
+Long Beach,ok,reports/long_beach.txt
+Kansas City,ok,reports/kansas_city.txt
+Mesa,ok,reports/mesa.txt
+Virginia Beach,ok,reports/virginia_beach.txt
+Atlanta,ok,reports/atlanta.txt
+Colorado Springs,ok,reports/colorado_springs.txt
+Omaha,ok,reports/omaha.txt
+Raleigh,ok,reports/raleigh.txt
+Miami,ok,reports/miami.txt
+Oakland,ok,reports/oakland.txt
+Minneapolis,ok,reports/minneapolis.txt
+Tulsa,ok,reports/tulsa.txt
+Cleveland,ok,reports/cleveland.txt
+Wichita,ok,reports/wichita.txt
+Arlington,ok,reports/arlington.txt

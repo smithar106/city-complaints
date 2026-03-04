@@ -1,0 +1,180 @@
+{
+  "city": "Minneapolis",
+  "slug": "minneapolis",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 110,
+  "total_complaints": 40,
+  "complaint_rate": 36.4,
+  "categories": {
+    "Water / Utilities": {
+      "count": 21,
+      "pct": 52.5,
+      "samples": [
+        {
+          "quote": "City proposes 33% price hike for water, sewer bills",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQVZJNWZ6QVBXRm5HQk9faXpEN3YxWWpqUE1uaGM4eW5MZjA1RzZRd212ZUJYb1Mzd0NDVGs3T0xSWk8wYjExcnltbFhFV1VVNXlfYzlYR01jZHd0NFc3bjhUcmNWSDdVMWR4U0hPSHVFVF9BOU9vZ25OaDhxZ3l3dkw5YXZVQk04UUxQU0N2dC1RX3ByOHpWdjRTUlFVaVhDOEZxdnY0YTlXVDJGWGpnWjROSl9aSm5iZFE?oc=5",
+          "date": "Wed, 17 Sep 2025"
+        },
+        {
+          "quote": "Park Plaza tenants endured winter of heat outages and silence",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjNvN3BaSXRzU1pyMl9ySmFFTHNReEZBcDZFTFhaOHlMNGlOcTJpbEZFdkJ1cWpwbmVuZFFtMm5kRFhBNm10aVdPaXRrZDEwS2RqTWJNOGRWN3dNWVMtUklpU0tTY3ZpWnVXTUszaHhfdlF3LV9xbHRVb29SR0lneExvZ2NTNjNuWnNYaWRmYVN0RGl4TDhRYUVHTmtnbGdqa0Q3VDdOZWkzSlFhcHpXMk14LUZqZmxqMWppYXhQTUZIV3Nm?oc=5",
+          "date": "Mon, 31 Mar 2025"
+        },
+        {
+          "quote": "Water restored in northeast Minneapolis after Saturday main break",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZjRGSFN0MTktU3BJaURfSTdzSWhiUk5JUTMxelNMbXNEaFI0c0ptU1dFSFRYSXMyanBCSk5relZnVHpZSE9GMDRsdFNISUhacTlYUnRaS2hpT3hfcFp4RVVlU2twRUFHVGxhR2Z2T193VThnSnFjUzFWRWdKRWtTYnI0ek92eHl1cTl2VWM3SkFPME5YT053N0ROWU1RYURsYl9hZFBn?oc=5",
+          "date": "Sun, 21 Dec 2025"
+        },
+        {
+          "quote": "Businesses disappointed in city's lack of support after water main break",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNjFHZDg5MFpibkd3TlN3bzMxenJ6dGNFZFBVNVJhUm1tT0xxSkRCVWtFRFJxejktSjdraEd1XzVDMVdZSEV3cUdVU0p5Z1J4NEk2aHdPR1BESzdiaTVqM0ROTzgyY2tfeTFnaVFsUjVXSm5lRUJ2NTRabkZmSG82U0daNW1jUGExZDBmaExMWnpRRlVZMEpzUk1ULW94ak0?oc=5",
+          "date": "Tue, 08 Jul 2025"
+        },
+        {
+          "quote": "Water restored in Minneapolis following Saturday's water main break",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcjNtQ2V5OXVpdlpVQVRJV0RBSkttbjVkeDdPS3JhRzFvNDljb2VMQjNWSzR5WmFUUWpxVlk1SFlxYWo3X2RzMWE5RFQ2dV9GcWhCOG1iOVFod3VfSUZDTXM0Mm1hMGhCRDM4Q3pfVFpobHFFMjJUTTgySlpDX05xOUt0czBkOW9vQWtCdHY2UmdER1V4Ym1tOEhXbVViWHZMb21RNUVFSzg4S0JUUWY0SFNMcw?oc=5",
+          "date": "Sun, 21 Dec 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 6,
+      "pct": 15.0,
+      "samples": [
+        {
+          "quote": "I-94 construction causing traffic disruptions on city streets",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdW9LV3Rmd2YxVlQ0ZzJEdFBXcWllR0VidWZ5TzRrdWxYdzVaNk11TE1wUmMxMjhnNWZkVC1DRlF5RmZzYTZKVzJsYjVOWHpPeklRQmtlcmQwNVZvbzM5R2dmcnFoNzJNczlJTkZjaS01Q05Ta2FIdTdMcnFLN1FITEhwY2tXbEJLSDRqMV95QW9PbzhydkVXVVJYaHdHcUtUcEY5c1NnaFNpemNxbGdsTloyRGM5WGZ2VXhYdHdYV3hYdm1UV0wydnNYbjJfVjho?oc=5",
+          "date": "Fri, 11 Apr 2025"
+        },
+        {
+          "quote": "Disabled Minnesotans demand equal access to on-demand transportation",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjBPNWRqaWtGRms5UUUyYkNDTmFXVTF4REZ5bDNpWWFxYnpWN0xxczJjZC11UGNmSDZEMnhTbUdNSjVtd1FfQVdmQjBwcEVrNF92VmlSMkx6RG9DX0VBMldPeTZiX1Ayd2lFNW1xaU9WNW5lVmJVaVBPelBhaExsUy1SRmtHeEVGekdHWW8yUDhrT1NpUU04eXJKQXlXVVhTdXFEZWpGUFUydzJkYmpUNHh6Q1c2QV9hVjNQVEVrc1k?oc=5",
+          "date": "Thu, 04 Sep 2025"
+        },
+        {
+          "quote": "Renters demand repairs and better security from property manager",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3lGaTFKMHhya1h2X3kwTV83a1ltNUZHSFBtVTUxa0FFR2FyX2Z1R2puaFdNcjF3ck5KMXFqRXZFcDJqc0FVM2JlTjdBTVEwSHFkOUhFbEZfM2RnellkX3ZmY2MxV1VMMU5Ec2JMeDctN1owcTZDMEZKQU9SUlJ5TWxqZk1Fc1ExcWRZTEw5NDFXdkVMSjczY0E3YndKTmtiaEg4cHBWTzZCTXVIcUhTa3lueUZjOG9qcmc?oc=5",
+          "date": "Thu, 13 Mar 2025"
+        },
+        {
+          "quote": "Renters complain about repairs and security issues",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEdaZFhVZmxULU1IazIta2h5UkFlWWRtTGdqQ3ZDTUZYOEkwd0NqR0YwYjN2MGxkU0xOcUR2eDVHOWZpc1lud2FNaTNoUXlIQk5hVzNXR3llTXdnR01NekNFMmgzYzRINnhzQk5JVmw5VU5NNVhKXy1Xd1FaOG1RSWsyX1FvU2hCZFhXUlZQa1loOHJfbV90SVcxZHJ4WWZ2aHotV0F5THhjT3pnZXV0YlBIRi0tWGI3SlNvZWhhdTBJN2NzRVRn?oc=5",
+          "date": "Fri, 24 Oct 2025"
+        },
+        {
+          "quote": "Lurking dangers of the Minneapolis heat island effect",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTDIxTkR3UnJUQTQ2b2NOSDVyZU1vRllHbXktUW84N29zN0hiRndsSlZZa0FmMWxyT3NhQkdQT3FlbGl5c2h3bGp5NFYtYlRncVdiRFdIQVlROTdMUHpueU5DWnZCSjhjd2cwbHhVaFpkSmlJZGFsUEZzUWh1WHVDbTJmbEs4SFJi?oc=5",
+          "date": "Wed, 01 Oct 2025"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 4,
+      "pct": 10.0,
+      "samples": [
+        {
+          "quote": "How we ride in the dark on unlit streets",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBocTBwWXV3MjB5T2Nyd2VWVjh1MGxFbFEwSnl1YzZMVEVqNGdIUE56UldMNHlsdWJSRzZJYmZDLWdlYjNfNml3eGc4WlVDUlkwdy1jRXJxWmRCRFBaLUdKWC1EYng?oc=5",
+          "date": "Thu, 18 Dec 2025"
+        },
+        {
+          "quote": "Copper-robbed streetlight complaints down 60% in 2025",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUWFpV3NrNXdiZVZCT19vSW90R0Vka0VuV0VLVjlCU1kyaWZWV1JjMGVzZXdCYlp1UFNtSm91emJSTU9QX0R1LWppOWl5MHJ3bkRxQnNFcUU0d0JWejlEY0tzNmF0WHczTnZKQkNySHFRN29pWW9YZnpBdXpCMzZZeDNIWEd4S2c5LWNPRXY2TkxYR2oyTUpvaEY4a3JBdkZyN3RUdXVRYUQ0MkM2VFFvN3EtWlVLYWlEOXVPbEdOQVNLXzFEQWtPQjA1TTFma2o1Ui1J?oc=5",
+          "date": "Mon, 05 May 2025"
+        },
+        {
+          "quote": "Street light complaints reported in city area",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkpFbWs5NHFibjhET3VnbUZ3ZGt3d1c1MHp3ZHhvdVJ2VWtXLXEzTmpUQXVMZktlNVVEYWs1ZmhmdUJ5SE9jalhiZkZmdGlqLTVtRks4NU0xRnlJNzlpLVhiajdjX0pGQllXUEhIUFVRR0c3dmJSNUREZHhtaXFPcFBUUzViMG1vRjFaaXNtb0xuUkZFMUdB?oc=5",
+          "date": "Tue, 04 Mar 2025"
+        },
+        {
+          "quote": "Street lights out, safety concerns rise in multiple neighborhoods",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObmxidEppaV8xOUplS3NMSUVXN3UxT0U2YnF6NmN4SmN5R2tpYkRWV1M1N3RHQXo2cVhoTnNNM094SHJmSHRDUDUtdklZQlF4aHBIYmZ2b3liOXZpcDNBczNyLVhOb0ZHU3VvRUNLcFZpWUpoeFZlMy1yY2Y1cGlpemNnQmd5U3pUS0EzOVA2VVpBVHprdmlZdlY3eldOczQ0NzRpSFU3MHFHbC1lNWJlZGdJeVRDbTAxVmNZc1JEdkdQQzhoUkpSR29YbkFsUFNRak95TXgwZVdwZHdPR0Z5b2dKV09FQdIB6wFBVV95cUxPTnlpXzl6ZXVTX2o1cUMxMnlXM2EwMTVrVHVzNU9xMEVQYW1DcjdUOXdUaEkzQUh0dDZxWnZ5XzI5MTNUNnNXQl84YnBUQ3luR1NJbWwtQWtkRS02ZUdjcWVpT1djNHk4bnl3ZUhldmtlMFZBUTVFX25yd1ZIejVvZS1ueFlnOGREVGJXblV3emdvMWZBZjMwQk1GMzhvU3AtRFhEc0pKT2I1MUwwQzRqaEk4cTZCQXE2VWdNN0xHOUVTOFFNdzhYdHlaYWRFMmZQOEs5cnNKaXZoc29hbGlnWTRNWUh2MzRxLXF3?oc=5",
+          "date": "Tue, 27 Jan 2026"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 3,
+      "pct": 7.5,
+      "samples": [
+        {
+          "quote": "Residents complaining about fireworks, 911 being overused",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SOHdyelZuNXVILVZDVmxacHVHbm5iUDhrSlZWelllMzA1UzV5V3BwT0xYWGpSUGp3REdod2VVT0Z4T3BYbUNsQ2F4RXE3QzBOVGthZFJkekNoX2RpTWhmQ2JJV1RXLW9QTWNYckZOQkpuQkozbTIyT1RWLS3SAYIBQVVfeXFMT1dlSzJyOS1wSzZ2ek5JNzV6eXdWSTgyTGdPemdnQWtTQkt6LXFFeEZVYjgyQmRERW9Wakp4S05NX1hUY0RsUmNMWmNUeXdPcmEwN28yeGtVbWJMZ3ZFTVlzRTNqRGtNX3k5aVRfdkRIZzI1N3ZGbHhtZldPekZjLVRwZw?oc=5",
+          "date": "Tue, 01 Jul 2025"
+        },
+        {
+          "quote": "Residents urged to call 311 for fireworks complaints",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVTcwSEpsNXprcVhTc3FSbkZpU01sT1dodlpBSW13UjZFZ2lWUU5HRTgwQjdmMlgwT1NxeTZTQ1lyLVI4bWpGSmRYcXZxSnU5MVk5NGhtMThYZkcyU3p5STE5SjdTRVhSblNBSHpSdHpoNVBwaFR6c1B0ellvamh5d0FYN0FQa0VoZXfSAY8BQVVfeXFMTXJ0RzZwUjlKMENOd2NOZ0YxTkJBQUlqd00xdnBzX29oN0IzLTF1d1JOZlZ3d3M2a2FDeWpsN0F2dnZ2TllkdUVYcVBlNkcyY3k3VS1JTFlFWlVvSzBZWmt5RVRyZVlaYl9QVTh5aFRlZ2drM2NQS3FtRk1lWXkzRjJwbUVRcXNyMHNBbzZHWnc?oc=5",
+          "date": "Thu, 03 Jul 2025"
+        },
+        {
+          "quote": "Pickleball noise serves up drama, police calls in Twin Cities suburbs",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUlgxUHpwYzVBSUk4aDlaTU11Z2NYeHl3NFlheHVJWkNqeXg3TVIxUy1tUjhDekZkVG9UMTNiczdwX0ZHRlRmQUVudm54OU16b09KRGNTbTZ2Wk1BSUVKQ2laS0RVdVo2WG5WaFNoNkphUmhfNHVnNzJBczNwdlJpRGlwN3h6cjNzajRjRDh3?oc=5",
+          "date": "Sat, 14 Jun 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 2,
+      "pct": 5.0,
+      "samples": [
+        {
+          "quote": "Pothole season is already a bad one in Minnesota",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUFFtTGlfQ1dFeEI5RnNpWjRKNnFaYVM2bFNmdmtJMFF5MDd5S0FLc3N1bnZDMktGRzBDNHdNamJQcEgwYVg5bUQ5QWF5Z3RQUnFiM25JZUp5VmNCN0RiWG9TRGJMY202eVdPc0FMbkJITlNxMXcxb3h5cmFpcjExb25kbVRZRThBWDBiOHZRWkZ0ZXFoSlQ4SHBNc0NRQQ?oc=5",
+          "date": "Mon, 12 Jan 2026"
+        },
+        {
+          "quote": "IT professionals fill potholes as authorities won't",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWVIySWJTSTBKUU4tM2UzMnVFWDNJY0M3dFA2bXpkQ0FHaGg5czloLUNIVThjcVYtU0JPNVZVa3pWNExKaUNrQ0VSalNqNzM4VXZkQU1ra2tWbGxtYmluUmt2WlFiX3ZMUC02dFhkdzF1N2I5MDBxV0cxRDlBcmVSZGNPaHFDdEo3Y0ZyUVpFSTFtb1dxR1hNS3hPdzdaSDVpQkVVb2hUNDI3am12MUViS1NuaUN5ekhtR1NoM1NTWGdJOFQ4WlEzV3VaU2xzcVhaTHE5S2VJa2pRQWlBbzdpN2ZYbnFDSHJDbVRXYlZJb9IB9AFBVV95cUxQeWRSOGptdUF4aUhJbkhjUWZUMC1WazZlREdwX2Z3U1Zqa00xQ2pqUloxRkI1VENNRnJFZ2R0c1dodDZzWUxMSExUWTJrQUg1c0o0cTNXS3RIRnRlRmdKUG56OEJ5Yi1GUE1RQzBiWWhPSjd4VVFhOFdzeDR6cy1fN2EtRnc4WC1falFpNmNudm4zMzRyMXJ1MkF3RG5LUGI1Y01nTkE3X1ZMeW5qWDg0R2k5MkVrQmNfZ3lOVnZCWExoeHJfNTNub3NIbGU5ZGpzUUFkUlhrUGp3b0JRYWtHWW9ZYVlJTWZ2OTlFQzJ2STh5SHg1?oc=5",
+          "date": "Sun, 17 Aug 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 1,
+      "pct": 2.5,
+      "samples": [
+        {
+          "quote": "BMC finds buildings on sewage plant plot, stops work",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNzhTdUhDcWo1T0ZUMXhYbHRVTzFCZVVWMldaNVE3V1BtX2VmQVNTM1ZRaDY4U0kyUzQ3V1ItWGE1SE1HbFkyWDhSekRCdElKVi1FamdsdkJWcU44azQ3WFVhbFN1N0pPLWVWdlRsS0s3dklpYUx3MHpwbk9xQnZ2SkJxZmZFTTRZdE9EdEM2SnZjbFg2NU5GLTRISG1YV0tiVWN1Znl1T0ZqXzY3NkZjbTFrNWdkUmEydGFVYVV5aWZRUExjMnFMVnY4Nm1jeUtTSHJfYWVFQVBWblVPbzdFQXRmWVFLdmlWMzB6YWFkbTZ6bG5zMmMxVlRPQdIBgAJBVV95cUxNZUlSVThNTmh0Tlh5elprVU55VFR3S0sxRGhZb29SRkYtcGhHSk9ObVNvSEJOUTVMNnE1eUxMVFpROXpWSzE1T0hHZ2QyNndaRzRjTVQtN0c5cWZTd3BZRkFEUXhjZTlNZGRIVjZmTnJKVzJ3WE1LRW9wSTlLRDYxUnpwaWthUFBITnJrbVl4MGVRcF8wb2lmVDJGQUg2S05YVmUtdGQ1amV3dndTMW5YOExwN2V4QXJNYnhMdFFHQ01LMlhFYjEzMXl6YU16LUJ5UTROQzBTVGdDUVdrOFcxUmh2VlVLaUFsME9sTGU0T2I1YThWU2NWYVVOTTRfM21C?oc=5",
+          "date": "Fri, 06 Feb 2026"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 1,
+      "pct": 2.5,
+      "samples": [
+        {
+          "quote": "What's the deal with trash collection controversy in St. Paul?",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd1RCVjI3Vk01b2dqX2ZuVU9NYU1PUjlvVzNoLUtUaTlDU19zN2l1OUVvZFJ1cmlBQi1qSzRGb0MycUpuR0tPdWdqemdtd21GWHZmdlkzbXhfdVZYZUVnRnJGc25qd1loeEJtQkNmR3l0UVQwc3dlRDhhT2I3NHJ5QWNFMXlRTXpPbzVTQ1hhY1E4enZFWVQzU3N0SWw1U01rdTFYb2theUk?oc=5",
+          "date": "Fri, 21 Mar 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 1,
+      "pct": 2.5,
+      "samples": [
+        {
+          "quote": "Minneapolis softball fields were neglected for years.",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTdPbEx6elVPbWZma1UtXzJsYkp5N3VVd3JvYVh4aUpGWWNzRVIybGpfMXBlYURpTEQwVWdYY3BvV29icnEwbWNNZ1ZoRjQyUDE5cE5wSkR5OTZ6UDIwMlJET0FyRTk1cWpWMUpoMVJvcDdiQjAtaXFES2poQTFnd0NJRU8?oc=5",
+          "date": "Wed, 10 Dec 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 1,
+      "pct": 2.5,
+      "samples": [
+        {
+          "quote": "Shoveling sidewalks should be a priority",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFJwa1luVEtUcFFQVHN0a0hJOEdRZ0F1UEdid2R0TW4tdnlxUE00MzdXdG42bHZ0N3dBcThBTHZQS1ZkazFVSmpxRzE1aExyQ1dVMWNITWtXZ1pmb0NKWW1jU1BBQ3g1VFhvZmFlVGNHV2RWbmJjNDRKM1hrbThZYVVFSjBxblhtcDgyQjVYYS12TVVYNzJ3?oc=5",
+          "date": "Wed, 24 Dec 2025"
+        }
+      ]
+    }
+  }
+}

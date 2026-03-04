@@ -1,0 +1,96 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — MILWAUKEE
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 79
+  Complaints found  : 36
+  Complaint rate    : 45.6%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Other City Service                   9   25.0%  ████████
+  Water / Utilities                    8   22.2%  ███████
+  Sewer / Drainage                     6   16.7%  █████
+  Pothole / Road Damage                5   13.9%  ████
+  Trash / Illegal Dumping              3    8.3%  ██
+  Parks / Public Spaces                2    5.6%  █
+  Downed Tree / Debris                 1    2.8%  █
+  Street Lighting                      1    2.8%  █
+  Noise Complaint                      1    2.8%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Other City Service]
+    • "Have you been impacted by the floods in Milwaukee area"
+      https://news.google.com/rss/articles/CBMiygFBVV95cUxQNTR1dW5vT3BOcVZvY1Z2MHIwdjFpTUxuUXZDdzE1SFBKajVIQ2lRd0xBR29kbVdOazNwb0lNa19aNS1rVmhpNXJxZDNVdWhEWm0zUS1VR1FJQnVTdFFSQXFzVk54anFrNk1SNUk2Z2ZUUGF1cU04RmJoZHZRSnNMUkZXb054WVJSMFBub01yVUFLVnp5UWktZHdROE0yTTlaWmo3aEUyREN3R2ZHU1d2VE1lc2Rka2JEd25qdTk2aFV0QTVnZm1xSXRB?oc=5
+    • "Insurers field thousands of claims from Wisconsin flooding"
+      https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMWd0dTM0U0NOYnlOZ0FRSE8ybTUxSUVOTjdIaFBvbTdFR2J5anR3dzVnQVlqZUZYd1ZRcmh2TkF5b2JDbVhjVmMyOXRHdGJQRmkxSVh0d0ZOUjl3N24ybkRsX3pSTWYtMmI3M2NiUUFkLWtXdTBzaUFraFhqX2FlRU1YSE5oRldsWVdrVzRVU3BNTjZld2FZaC1HdmFTcnZNM3VxMTVnbGZqWkR5amdydUlReFNUTENoS0pWNEMxNW81R0V2ZVFjbDN2aHI2bHpMOGloaGNR?oc=5
+    • "What is causing flooding in Milwaukee; flash-flood warnings"
+      https://news.google.com/rss/articles/CBMigwFBVV95cUxPVVBDR01yQXdEbk14SHc0U3kyNEZLUU41R29fMG5LVG9oREFQMzJuRGtQbHZLR2pEM1hjQWhoUVVtNGRjMS1sU1ZFX0Y1VUNITnNqeEtEVWgtYUJoR2RRRjJZbm1BZTNBcFU4ejE1U2luN0RFcGxCTWlCcHk3MS1jYnZmaw?oc=5
+
+  [Water / Utilities]
+    • "Nearly 30 homes without water after main break in Bay View."
+      https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1dxYWZFdl9YNHhlbGxKcFFIY3VOTEl3ampmVDFtQ0Nwb0UtT0xwV0tzektyU21YWjNMdGdSVzc5Tjd0Zm5ua29YMWZQQzRvRDhiQW5qUHRJcmdTY2pwdUtIRWhVVC02MjNFNjV5RlROQ1NteFNjT0l0WGJGSmFzYTFaODFlajVLZUN2dzE0bFBGLXkwQ1lweTM4U3liVm5GbG9NVUd3eE4?oc=5
+    • "Water main break on Milwaukee's south side affects homes and services."
+      https://news.google.com/rss/articles/CBMidkFVX3lxTE14dE4wbWRQRlpnM3Vpbk11ajVWWHB3a19JUElSNUFrY1d3MHlVeVc1ZnZHZXhXS2hQV1I0M3RQdHV5NWpJd09MN2twRFkwdk5jeE53WUszN0JhdE9XWEl4QXNGZTlrUEFaLV9JUERDSVRuX1U1Z3fSAXtBVV95cUxNenJ3akJqMFlFcWRZalRRNUJRQUU1cjlvd0ZFUmJZLUZoZTEwREFfaUg5Wk9oQklrTC15OFo3Z3pyN0NhSXRXeXV6NFY1X1p5MzJqWk5KRUxPRlZHazZkbXNJWnM0Skg5aDBUaE1yY0hmUjJxeXBabTFiVHc?oc=5
+    • "Water main break floods homes; Greenfield residents face costly cleanup aftermath."
+      https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZkk0eXg1UTV0VC16TnRUcmRhWnI4eHU0NkRiRmNGeVFtck95RkVjeThGZUxyLUZId2xid05PT3NmYjJjb3k3QWNKME9fZ0VSRWlkN0RfRzRtMDdlbE9iMThUd1pOOF9fbk1Fdll2djRrcGl3ZWlSbzg5WUxTZV93YTdRMkl6VXo2SkFocllIcHhPVkxIUkctTURIZjNLMFBQeG4wQWIxMU9uNHFONFNDczJqdUt3S1JNOWVZdGtUT2lBSjlON3VRLQ?oc=5
+
+  [Sewer / Drainage]
+    • "Water main break floods Greenfield basements, sinks DPW truck"
+      https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXVxLUZHNmZmWnN6bDMzVU9kU2V0TF9MVkxyRHJfWTNKNTlWU0thWjlGVThOejVvSGpjb1VmbGR2dHcyMTRfamc5RkFqZHk3Q1BxeXhnTUUyeDhkWWdWRmhNM2ljWXJZckF6cnhfSTRUTWJ4VW5Lc0x4MDQ4OUI5U1NOeFBnU2ZCWjIzNkppYnBvT2ZQTkZFVmI4MlVUVDJMdm5hWEl2Z2w4MG5UYzdodXdpNk9uUkZ6X2JVbXhsSVU5MWVQc0EwclpseERnN3VG?oc=5
+    • "Water main break shuts down multiple downtown Charleston streets"
+      https://news.google.com/rss/articles/CBMixAFBVV95cUxPNmpqcXQ1TjdMNU1JaVVUeklWLXVnMVFGd3FxZHlwYWFBczdYdDNTaDRjeXRjNHdXWktwWDRNRlZqWkNSX1lQY3BrWXpYYkpxRUV1TDFlR0hVUW1RY2M4clBJUjVPWHNqY0FDQWZ0VmlsUE1TSE90aExrUnExdEtuR1BDZkQ5aEh5cjZZR1BwdmlQQkRwWFhSdzdsV2RyREk1VHdXVXVlVkU4V0RmT1NmSnFYSXRPMlFuTnE1a0d4SW1vaHds?oc=5
+    • "Milwaukee street flooding in city's Riverwest neighborhood"
+      https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRkQ2RmUybFBhRzZsUjlLZTZ1RXZ0WXFOR3B3djdTTmdKVGhOT1Q4TVZFUElVWDZEZzBib2luYlhEemlIcktMWEVjTERhM2pWR1h4UUh1Y3FSYWhwSHVNbHpSYmVlVFVxbjBxeEpUZm44MUFzZnBmUzl0clpjOTAtbzVwV2R2aHVLdkRR0gGQAUFVX3lxTFA5S2NiNUZ6X2E0ZmpFaWg1MGM3YTU5eTdGTWl4Y0lUdjQxby1GRVZiQWVFc0F2V3VWNDBDUHByMVUyUHZuUzA1Y1pfVHE1NmU1QmpYcHNVU2lxaTFPRFJxdl9ud3lpbmNVbFgtMlNwTEkzWjJRcHZ6UzlKVHVrTlFFWUZmaExnVDJnREs3akVuRA?oc=5
+
+  [Pothole / Road Damage]
+    • "Milwaukee potholes; city works to address ongoing problem"
+      https://news.google.com/rss/articles/CBMiigFBVV95cUxOTFB0aDZmWV9DVDZ6ZnpCTjBxT2dsM240WGw1dnVHTXdtTEhBcXd0djFaVXRhZG8xXzMwOWVsNGh0UXQ4SnlhX0QzSHZsdGhaNUtxakpEdlFLVFlKME5tTUgzRTZxQzVfS0VkYVlCYWhNaEZ2a0pJSlM0ZUNpZTltbjZEejUzM1IyUlHSAY8BQVVfeXFMT0dBSTZnN0h0ZUNqQ2RiOWJ0MWZHdTNTd3NlM1NaMEM0MzExTzdBd2tsc3pETU5SUnBKUUxBTW5tTV9Ec05WNXJqRHpROWJSZk9KZEEyNlJwdzJ3RGFaaUZNanJTUENPT3RzUGJWOUowNGxibTFjbmRMSVlQZkxnSDgyVzdWbEZmVk85a0VaanM?oc=5
+    • "Milwaukee roads crumbling, require $752 million investment"
+      https://news.google.com/rss/articles/CBMinwFBVV95cUxObUtFR3UtdWRXazEtMllPWjUtYmdwcHNTRkJfalJkaVo0TzdXQ1lWNUVWR1FybEJsWTJRdUxDVDJVMk9EZ1l5V1U4QWdaZDlUMGRwdXBTdlpjUWpxXzctcGlGTkpDTjl5Z3BzQkVINklGTzEydkEwLVRfTTBTOUE1UmU5X2pQTFozUTd6cE9BWFpYbGJuc2tpcTd6RTZPVXM?oc=5
+    • "Road near PM's residence in Delhi also has potholes"
+      https://news.google.com/rss/articles/CBMihgJBVV95cUxOUVFoemtNQVE0MUtZQXBPUkpPWFJEOFFrOTBETzE0c1k0ZE5tajBTSDUxTFYySWg3eE82SWtiTHVpV1BFVkp6M0pnMWFSUVFYeF9NZ1JCdWdEZVlYa2E1N29ZZ0pHZ0w2VXdyQW1DYUtYZWp6ZWJhLTlZMU1paWVFbWJUekZZS2RGbFRjX3FqbnJQb01kNXlIOEpHdGZ5TDFIMVNXS1Z0RGVRdjZ6WHMyNlVXWW9kVzlFT0pCMWVOTDJYdUs2S0s5dHFxTlNoQ29TX2ctX0FraG5pcENPZzhvMmhZaVZtN05GSnBjYzF0bk84ci1JYXdZeW5fSlRMQnd3RjEwS3l30gGLAkFVX3lxTE5fSXJ4WkJVM244MlN5S0djZEc2VFJTdm5rVVhYTG5wNXVRMXhQUmRsRzRYWE5Pb3Zid3k4V3BrWm44dzB6c0E4N25TLWFFdzVRM2NLdGpnMmExdzJwdVNMS3ZscWVQTVJTYmtlVGUxTFVYbGdQdEp2SG8xc09mZnAtOU1fQl82ZzRLb29neXV1TU13bFlpWWFtc2F4NzBPU3luNEwwQjhpT0o1NnJ2d2hpend3MXFXRnVmSjU2VERtRlVzbHJzMTROVnFVQUJpenlobEFLbGlWRUh1LUc1SUZ1Njc2cS1adlRCQ1AxckNENVZGdjd4YkY3TE81dVlCUVpMTjlfUFZaZmpPQQ?oc=5
+
+  [Trash / Illegal Dumping]
+    • "South side residents urge railroad company to clean up illegal dumping"
+      https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZTlfRnIydGlzQUtibFAwR1BWME9SZWJoUGRnRW9Rc1pUN2c2aVNWQU45N3JOSGZKbVJIWWs0WUFQSTBTRWpzdndDQ1NXbjg2QlBNaEpScS1GdjhnX05CRlhzbk5FcUR6MDNuN0x6NnluaGtwbWY2RmpXSXlkeFRHb1V6UHpzcDY2VUNMZENjckttZ1NGeEdqal90TVJPNjNuNmdyQXVJM1BuUEVSWEs4RU56SHhBMDFqN0tIeU9vS0UzWUF2Yl8zQlpldUZCNkxjblg5d0dIUHYzbDhaN3Iyc1MwOXZtZEdtUlZkNA?oc=5
+    • "Milwaukee resident battles mounting trash; city weighs higher fines"
+      https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0Vsdng5VV9UVnpiY21CcTRmaDVKZHNod29pMlZhT3RPOVJnSWVzZUtxMkVVeXlBUjlESVZJVE5VaHEzRHVCTWg2cEJyNUdIMFZZZG5td08wcWlPOUZyd3ZrUF9yeUFvRnpvWG15R1BHSWZjSk1ja2tIVS10VU9TZjZWU05OMDB1clBDYTIxVHVlOFhoQ3htTW43c0trMTUxSUxaX3ZKNnVJdXNmY1NodXRWYlpKUQ?oc=5
+    • "Illegal dumping; residents seek long-term solutions"
+      https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNEkyS2FRT0JvRm5yUnJwSWRBeExOSkRSZEhlUkh5VFhod0NCMkZmLWF6V3ZnRjhuSlQwQjM5bm5FSmdaMC1SRTRReVFzbHpZQWxGQndkS1czdzF2RTZubE1OT2tCcFREQ1RvTzN4NUtUZlZOVjdlc0hJeFR4bFNOa2RlMWVMVXZUSlY5Wm8yUmZraDM0ZzM5eTVoaWdrV1FEampUenFybzJiaklBWS1UbjFCbXBScFRqazVCMVpxc2pIYVRpVTMtb3J2LXhUaXVhTDBuWGpoWjBtQklaaTBoSGtBcV9OQ2FPY1F5X2ljdlhpdw?oc=5
+
+  [Parks / Public Spaces]
+    • "Residents of Milwaukee Public Housing tell their stories"
+      https://news.google.com/rss/articles/CBMisAFBVV95cUxORmp4QVJjYTB2Qi1jVnZnSDdvQTZrbWdlMnhpcDZTLVVjaHlOTVpyNVFkSmswOGwwWXFfWUFMM203NVJ6NklBUlMxeDEzQ2RJXzY3c1M0Rm8zZ04teWxYT3hnaGU3OFEzd0JHSDNfMjdkMk5XM0JWRlBJSHozSjh6NklnSXBxOGxWbW1FWDk5cDFkbVlwdXc2bWtrbk1GaWk5V2ZWejg5UWFkMnZHTjNjVQ?oc=5
+    • "Cleanups begin at Wesley Scott Apartments; deeper problems remain"
+      https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT2JpUm1JdjhDTzJ6QXY5LTh2TVBOWVg3THU0VjJVUXozUHdmS3hhWlpDSmx1LW9hUVBURnlZaWZSUFgwb3FXV0dwYUFMVDVGbkNqM3M4SlNWckY5Y09HcTR2cm1taTF5TVN1SU5ZcWpxZXZNaUVDdTFZY0tHdXNzOE1SNXVMOURpaGlBdFJieHQ2emJ2Rm5lUjlOTG1tMEkxTTJIZ21kdHFHSmdBZjZNUWhOTmJzN3V3S3JKZUVRcEQxUTAwYXVpWFFWNDdFOGdiTU04aldXcUE2SkZremgtMHNJY09wczZ2b0VRN3ljN1VDcHlrNWc?oc=5
+
+  [Downed Tree / Debris]
+    • "Milwaukee-area flood debris drop-off and pickup updates provided"
+      https://news.google.com/rss/articles/CBMiywFBVV95cUxQbWZONGN5WDBLTkxHcGl2b1RNcjRJQUF4Mk1xb09yY3dXN3ZuaFdpMGF1VENUbDliUzhPVUprQ0NDWkZDQ1Y2bWNsWTBtdjctbDdBYzZOdlpEY2dTWVo3YXVFOER6VFRKT0Z4cm1ZeGRQOFlKODBVRVl1N2gxbVE5MzhCU1Zjd3J1M2lQMGFBdXctZlZ2REhDeWhhR0ZPNU1GTktEdDE5SDd4YUktek5jMEZ6RHRHcEdSZzZPSHBoRTIwM29YSVpxOGN5WQ?oc=5
+
+  [Street Lighting]
+    • "Streetlights out, nights turn risky"
+      https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ05vVXZEMjUzM0pic1RKTDA0S3NLSDZJcVAzTDhjOGlwYkd4cFBNN01IM2xWWWd1WW45blMxallnampTM1JQNDZIVmFTT1NNWjNTLWhnNzRNVFh2RXh4ZEVxU1BaSnJzUXg5QzlMcHV0S3VKbkR6X1FuYU5rbXZhRkc4YzlkOC1kMGRZUUZkTDdtcE5WS1VwWTE4NDlaRllhaVUwdlZfMWZ2N0JWU3hLODhVWGFGbnNZWVlKOHRMaGhSRndVVnBGVlFGV19uT3gxNDRuR1RiYzh1Q1plMGfSAeMBQVVfeXFMUFE4YTAySWdhdFBIUWdIcGxPWmp4Z0dmQk5IMUF3ZjBPemJTTlpuSFNfMkJOQ0RPRDRscG1RS05lOGpjOHJhV3BXSVFOcktwOVJ5akR4OWx6VC04QkttYkdvUWRvQkxGajJkNEJFeGxfc2VGbm13T2JvY09rYjhDV0xfTzNYRnN0ai1uT1pFM2thQkJxTlVJNFA3ak0xNjlINjBPUmI4NTBPM1JXZS1fZjFrMG9hd1hPZXVqMGt6RklZVklJOWFDLS1USjczT095Ujdza2RfMUNGQVVIc2lkdElQNUE?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 36 news articles reporting
+  citizen complaints about city services in Milwaukee.
+
+  Top issues:
+    • Other City Service: 25% of complaints (9 articles)
+    • Water / Utilities: 22% of complaints (8 articles)
+    • Sewer / Drainage: 17% of complaints (6 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

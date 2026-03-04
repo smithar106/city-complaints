@@ -1,0 +1,225 @@
+{
+  "city": "Austin",
+  "slug": "austin",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 83,
+  "total_complaints": 53,
+  "complaint_rate": 63.9,
+  "categories": {
+    "Water / Utilities": {
+      "count": 20,
+      "pct": 37.7,
+      "samples": [
+        {
+          "quote": "Texas utility paid $200,000 after disputes with property owners",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdU83RzBaRGxOTGt5MVZjTy0wY0p5OHZmLUFtdVJBcXNXZXpoU1h4MnNVMjhhdVVoNmdPeTFLSVFGaXhfQ1Z3MnFOM3ZldV9BVVo4UVJ3Nk10djkzcE5jWHFBTGM0ZzRiUXhzME9SMlZ3NzIxN0dmZzZaQlpUVUNFRk1ialFkV052cFptWUVGNE95emhpT1NXV0Vyb3p5c2hNbkl5MERvMXRvcEFzQVdnVVN0QlhfOGpqM0NQeS0taGpSSFMyYTgxbmtCNVFsRXJ1WlotRnVWYTVsNURyX1p3SmVIOWtSQQ?oc=5",
+          "date": "Mon, 24 Nov 2025"
+        },
+        {
+          "quote": "Boil water notice rescinded for Llano residents",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYkxPeGZHV0E1UzJ3Tl9rYXhBOFFuc05wc0tzU3pBWW0yWmxaTUJ4QU9vcHliRUE5YVN1amNGdkQ5NGIzQzRaelM1MVRjLXZ5VGg3MHdYWnNlRXZHMUZkVmR1WEhxWHpWUUtTdUkzeS1YRENrbFdOa1JRX1ZBcUJvb05INjN3QkdmbUYwR0g1azQ1bGp3dGVuN2daLXdJTjlMSEJoVjRac0s?oc=5",
+          "date": "Tue, 24 Feb 2026"
+        },
+        {
+          "quote": "Water main break affects residents in Pflugerville",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNy1yTmxWZmx6dE1wWlZidWdkd1NMX1RSMEJUa2R6T1U2NHhWeVd6Qjl0UTBMRXBiNkFtYkdtTGJMQXI0M0oxMy1Xc1N3bHZBaWUyOXRrUFk2MGRwblhwaW1XbzFoY1E0bnBzSjNabTJNVjdXYzFZcHREb1hlRVJ5THVhWjlDTkl4c1RiWEd3RG5tNUNMdEFwc0FzeFpOWUxNNk10X2ZyQWZNYXRV0gGyAUFVX3lxTE9PM3RWZFltVVp4OVBwQnlUbFU2NjZLVGlLR3ZyWktSQWVWV3dEcXZIZ3NlUWpfWXRCaVhOSmc0VlB6V3llVXFGV3pGMjh5MHdGSmJfX3B5czVWMEx1RHREMzdwU1ROb1RBQXhuVmVmRVNRald0QXotTmZXMHpCU1FiM0pTNXI1YTFiVGVlUkJhZ1A0V1dYNlpQaWY0eTBSSHhHQmNld3AzNVotVzJMNElIN3c?oc=5",
+          "date": "Wed, 31 Dec 2025"
+        },
+        {
+          "quote": "Water main break service restored in southeast Austin",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMDgxVEJlQ0dVN1FTS1pJQnVMTzB3dktmdDlPZ19vbW95SEZYaUNuV3lRNG8xZmlubTJQODR6NklyX3MweDh5Y2lXMUxNUXpYdDZqTlpUT3RBNEZ5VjQwY1R2SFhsenMyYXEySWNKTGdvbDFjdmhsQXl4VU52NmJnYXBVM3RwR1kyNzF5Z2k5Tk5Zc081dU16TTJQcGM0TEVkYXNpeWJvYTdPMGJyeE9LSkFmM3FzbnEtSzVuY08zUFNHOE14ck9sTGhEOFNndGJ5bjVGVVQ4ZlB1NVlaX2phZFV1Sng?oc=5",
+          "date": "Mon, 03 Nov 2025"
+        },
+        {
+          "quote": "Water main break in NW Austin",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BaTl1VGR3MVJfOFM1bGFXRkxVVl92TTVVSDhrWkM5Ym5JT3Q3Zkx2dy1nZUhUbm9QcUJJZDV3TURsM3BYOEtXY1k2cmR6UzJEc0HSAVdBVV95cUxQMDNSbEVydXhVWDZmazktOWlzckhhVFlHeXgyeXI4djhoakZzY0lXbDYtWHBMQXVtMUZJbVVuN2VuTVZIbTh4MzVHdXphVm1CTFpfMHFsdVU?oc=5",
+          "date": "Fri, 26 Sep 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 10,
+      "pct": 18.9,
+      "samples": [
+        {
+          "quote": "Houston paused heavy trash pickup after service issues",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb2Rsazh4Rm1VR0swM0FOUjA0cEw2WTBUY1dENXdUbG1TdndxMXItdHYtZHhGT3pvT0p6MzZydTVtY1RjNEpOUnV3QnJTNEpPRWJreERsc2FsVUFDaUpnYVdhZnJvbUU2Q1dXZ0ZLS0Z5YldCdFozU1FUSlFmZGRfdE1heGhFS1l5MzRscUM5bllBZw?oc=5",
+          "date": "Tue, 03 Mar 2026"
+        },
+        {
+          "quote": "Houston has a garbage problem with divided resident solutions",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR1hxdHRMNVJ5TjRHQldIb05HUlJfb2wybTJkb3dqY3V6OTViZUxzdWdtSmRHelp6YlBRamZpbEJrZDgyZ0FsbDlSSmwtVFdPYlJNRzRCelA0QVh6T3A1MUM0b1ctODViRGFkQ1FXNWdqekJhRHZIR1dkamRSYjdSSW5kSHVwM21TQmtzcG5sZXR2RXUtNXFQNXNkd3V3Tm9hSGo2UGhVcUMySHdfOXRxYTdEdm1TQUF5RVpnZWZwVGFKZ19PR1dJZHp3RU1KT055NWtCTFRFencwYzdHeGxic0hRcW45cUZxalJLUtIB9AFBVV95cUxPdmtaWEN4NHVzTkNXd0JTeG1LNDdXVkExLTZ2LWozRkRReTVuMmF6R1NfRExaQ2pRUVNiV3dsdjdZVmpLcElVN0lXcDhIU3lqM19CV1B0MHY0SnpEcmEtdDB4TUZtYXVMOFJBRXZIZGhfcTY1NjNIUlJZdDRmdWpzaVBOWmpRVXVBSzdaZWRLMXkySEkzWWRPUUExck9FUk0xd2NaQkhIWHpZd3NqRzdVcVNHRDl4RkRwM0NXTktJbTNHc0o1UXAydmJILWphak1UT0dTeUk4UFAwUkFBRWZxQ285cUpMbjBYejh4dnQtREs4Rkxv?oc=5",
+          "date": "Thu, 04 Dec 2025"
+        },
+        {
+          "quote": "Crestwood addresses growing waste collection complaints",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQME9rYWhOOW05alhTQTNyQmRVbjVwNEpWeTdZR3dRakJ4WUVmb0lWMzZDN2dlWWJQSmplTkIxOFVzMTE3QjlJUElCZ1p4Yl84MzMtUW1GTjE4aVB6R3B5c3RhVC0zTzhQX21vQ1h2NXlRcS1FbWFNcFlSSG1rZ2Zlc2Y0cHBGcWV5MlZwRXl1R0YzQnRJNVo0SFBTZUlLWm9hVkNVOE44TQ?oc=5",
+          "date": "Thu, 05 Feb 2026"
+        },
+        {
+          "quote": "Houston Solid Waste aging fleet blamed for recycling delay",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUzQzdWJyc0ViM2dXeE1ac1RJbWFUSEtjYzdFYXprYWtuekt4MTdBMDVaSzViVU1NdnJNano0N2Y3VTJFa2FUZ01nN25uZDEwZi1SWDFRYlVNZ0tSaVFVd0lpeVgzaFdBMFQzSC1DdXlYUW5FZ2trMnhKdVI4dW9hV3B6Sm5WOEw0WEJkMURIbHRmTkwzM1NqTlRSNzI?oc=5",
+          "date": "Wed, 18 Jun 2025"
+        },
+        {
+          "quote": "Door to door garbage collection remains inconsistent across Lucknow",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRTN3cXBLQ25hTjJvMng3cXNDVWdvS3M5SWczZnVlaVNISXhsMno2Vk1za18yajBJTHFtczFfQTBkQnU1Q29uamNUVW0tYTZ5dUs2ejJ3Wlp3NC1IRTA0MDdKNWE3QXFQdXdGVW5JTEFXVW1VaG5mU3hNRGgwYVBPaDF5cVFNeGttbGNEUzkwakRuajZpNmlEZElkMTdJNW1HSnpROW5wLXc4VmNIcFBCazJ0N0lyeEZfendWRVlzWktqOGRWeXozSjA1QWJGS245a2dWa2w5ODBXd9IB3wFBVV95cUxPZFoxWGhOMkFndjN2ZE5SZUFyeElZTXNOemQ2cmFETXVyRlp3elFabXpTcGF3WWY1T1FFVmZoYmh4bUd1RVV5OVhPc3gwNnF4bzU1ZkJ6dGdsYmJWZGNQWXpIeTQyNkZwYy1YN21haEJjenpIdHdHQmtLUVNGRWlMVk5iTnVmUlRTYnduNXdmVjFDaTlJMmRjcHUwWUI4VVUxYVhPNm45ZXplYlcxbU5udUFUREItYWhHX1NfTFZiVFRBaXFFcVBqS25jYmltVGdPM2tlQkdOMnhSZVJ4bEZv?oc=5",
+          "date": "Sat, 05 Jul 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 6,
+      "pct": 11.3,
+      "samples": [
+        {
+          "quote": "Austin 311 calls include loud music, coyotes, garbage complaints",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeEpsSDJjWldWVHZ4NkdxNDRpMHprUWVfMmFaT2FGNXNCLUlDMFFIUV9fYWxBdEZDanJqWFpIQndLUHdSX2V4SGJmWXQ3N2hGU0VqNVk2Zm0xSU9uYzduS3U3Y2ZnZjdwTC1WQkQtMjViR2JTRi02RDFuUG9OSW9CTkdXUnJ0S0xwUXJNMGZ4ZlNnRWM?oc=5",
+          "date": "Fri, 19 Dec 2025"
+        },
+        {
+          "quote": "Protective bike lanes removed amid resident complaints",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaThoUnZ6WEtHajFvUnltZ29OWTkyY2dfdjRyaWxMMEI3X1c5Tm1Wb1REUDQ3MDFrMUszNndBVzFZZGxYeHlPNFJkUzFHa2hHajBrNG5kWW1fMEMwcndQejNfQ1RLeTJjSTFZOFBnM00ydDBQek9vM3drakkxOXVCS0VoanBaVURqNl90dWNlbVJtZUNKbTZ0WHpoX0lCTmRQYTRSeTA4NG8yc2ViSlh2S2J1eDVBQW9VLWl4MWExSWZsbkVma2RVS3QtSnF2dHVWU05mSUlXY1Fob1U?oc=5",
+          "date": "Wed, 02 Apr 2025"
+        },
+        {
+          "quote": "Billboard receives resident complaints and city violation notice",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTUFnQm1zRjR5ZDlhN3dzOVJvRnloWjlJcmlEb2p0VE9vek8yTmJfanpHVEItNHV4bXlQTzdPTlFreHVubU54YUxBZ0FHd2lwSjdUUEVhUVRvaFN3SlpqTXJvekktaVg0YnRLR0I5M0FwZkZEbEJNeG1EdlNCcThpMldGZ3FmeEVJc3ZZNHRRUUh4R1cyVU9JS1FvUVo4WGdidURGc0NERE5ZOEFUSjBMT3o3OEExZ2thWGd0a3M0WWhpUkRxOHNiWkV3dEt2bk9Nbmo4cG5HaWZTSXNnVmowR0piTXZTNTB1QXJUS1BR?oc=5",
+          "date": "Wed, 13 Aug 2025"
+        },
+        {
+          "quote": "Austin's new $1.1 million logo irked residents",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3BzRGhoZWFrcURidGduZ1VfaFhPQjBXZlppM0ZJZ1g5SE9JMEc0MmFVaVVGUkFfTndPV1NyMkJ4LWFneGF6R3lQWTRlbkVtQnBTUG5HZTFJbFB5MHlOQnM2V2t6eGdsa29XM3ZmVzZLM0RHOFZibUhEMWxfUGNGY3diQ0Q2VVNiQ0xKSG16MzQyczd2elZKdFRjSF83T3ByMlc0XzB2X2IzVFhJWDQ0?oc=5",
+          "date": "Thu, 25 Sep 2025"
+        },
+        {
+          "quote": "Complaints mount against city-funded contractor for home repairs",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQWVjUE9UM0xjNG53YW9ZZ0hVbW02a001QUNVaVliYVItSmNqX2swcWxfcmVFT09mNVhMdk1qQ2k5S0p3cGxGREJERUVKRXFfVEZYZnVNY3RubnJTd0NOaUlMRmxUei1YRHRzTG9qaWlXcW9lU2E4ZW1EaEJFaGdJN09oSmlLNDVjSHl3NW83SWhwRDVHNUUxMzQxMWdueTdvMDFXaXNoR3dNeEY1N3RsMWdkWUVTV1lfeE9kamI5QXNtd25lMm9FMjBPX3VOSXc?oc=5",
+          "date": "Tue, 25 Nov 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 4,
+      "pct": 7.5,
+      "samples": [
+        {
+          "quote": "Houston has a pothole problem with next-day fix tracking available",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjRSc0tldDdCbEtpb0JuWV8ydGx1RWlwby0wUmxoTXZNYkFUWU9wYl9zM3JnNEtwVXFaV1NEdFlKRnlPQ2JWbnhVdVJaQUdIZE1qbk00b21jRmpfdWljWXB1OEkzNTBKM1BJY0dyWGhDOUhIV2V6aEJDb3VlODVHWC1LaTh6LWw4UDZKdG5VcUc1V2UyeDR1U1BGX1RidWlzeVlRREZTTXg?oc=5",
+          "date": "Fri, 26 Dec 2025"
+        },
+        {
+          "quote": "Winter storms could increase potholes across Fort Worth",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwNmNHak5tbkJTN3NjZnE1TWhLWkZSY3RvYlZ4TGdpSnZKbVhtR0VxNnZ6SGVwX0gtVUJFa1hzY0I4VVF0b2JMdElVbXp2ME9NalVmbWE1ZkZIUVpZTWUxcDNkRnFsZ19PQ2ZPVHFSakRQZlNrZm1iMw?oc=5",
+          "date": "Wed, 28 Jan 2026"
+        },
+        {
+          "quote": "Troy residents frustrated with deteriorating road conditions",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObjFHOThoS29mRHRmVjZaNGxsQ1MyM21hVkJqbzJjQnFCWTNscjc1NXFCN1JDdl85QkpsMkZyZkQ4b3lUYXEtek9hWk5fN1NfUmVzRl9FUC10MFhsc0VPQlZLYXI2eGJ2NXdJbWRva3YtSHZqalZteUllRzhwRFpaLXNnaWxvWFU2NlRUNzE1bkY0a0hqeXBEZzJpVHZCZWFaM1VtRHcwN0QxbWhSWUVKMFRKYWVQaGRrSXhzdlloU2R1OFFWd1QtS0FJNzZGRGJlN1F3WTRHOVJsakx5V3c?oc=5",
+          "date": "Tue, 04 Nov 2025"
+        },
+        {
+          "quote": "Residents' road protest takes root over pothole issues",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLVYwMHNTT2R2WTVkMGhNYnVFSk51NWVOVlIwRTFHME9kUS16ZVJQamRPdnIzbVE3ZnEtZHI4QWdVZDRXOGV6M3IybWsyS18xQTN1NlpiRTgyVmxDM3I2SWxLd1VsVTlidDIta1UtM1pDQ2lYTFpKbGZtLWlaZGIwWFNjSEMwRC1mMDhhODZPQWJVUG53cjVDbDNVUUI3TTd5SHBVZTRXdE9iQ2x0ZmpWS2s2akRhSU9lRGZ5Q1k3OGxuTURuMFZqVWprazFGenJEMzNRLTRydUtjdDFtVUHSAeMBQVVfeXFMTXRfb2R1eWdYcm8xUFpvMHYzbTBtZGZKX2FPU2xPMnNqRXZheVdiUTFHUkFiYWcyRlFJbmxUVTFueUhnelkyOUl1b2M1NnAyZGtiWWlabVRLZTZlRnBCV29nbjJmU3dXUHFDVmdlTGlDUzVfSlA5U2xQTmd2TjNXX0Z6WkVxclNDTjlKZEd5WDhTODBpTFpIOE1kMkNfZmo3VUlXb0tZR0J5VFVhYXItWG5wRVZERkwzTHd2YTBzMXlKVFpNWl9JR3J0S2VvelliRnZOdXI5OVNqWUNfckxOUFJJUW8?oc=5",
+          "date": "Sat, 12 Apr 2025"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 3,
+      "pct": 5.7,
+      "samples": [
+        {
+          "quote": "Residents demand action over nighttime noise at dairy plant",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdHBVaEVHazNKTU1oRU50NzRTR0hiaU5id0pubmtHMG5RYVJrZFhFMWUyZWJKWmNnNHlZMUR1clJ2R09NOG1yVVdVVmxaM0UtbFY4TmhhUXZVRTBDd2ZzSEZPZzkxRnFpc0F3c3ZJY0M0LUlnaWdELUc1ZDZ2S3hCZ0E4Zlp1bzQtODlZNTh5cGd4NWVGa2t2bWIyTEVESENTVHFuVTA4dXA0UGZaVUl6Mnp0Mm1pZjAtQjN2emJLak4xOXYyUG1hb0RWMXZwdjF5TzFjWWd3bko?oc=5",
+          "date": "Wed, 18 Jun 2025"
+        },
+        {
+          "quote": "Is Houston's noise ordinance working effectively?",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS2hZNEZ0V2U5VlJaSmdvaGdfeFY2X2dpMkstaUo4TDRUSmxpbDh5cjdxMTRWNkd3OHJ0Z3RSNWRMR1BYTm1ISEthV0lTZWFlLVhQcnRUMXNpajN5TVdNYmwycy1YdlVJQTNCMjUzYWRWZG52TGNfb2JPQi1NNmxEV3J2dDBkbXJubGQyTXlZajlpSnBVQVprbkNJY0hvSnBDX05Ud09BbGtISHRrYnc0?oc=5",
+          "date": "Sun, 08 Jun 2025"
+        },
+        {
+          "quote": "Austin Council to vote on loud vehicle engine noise ordinance",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EUmEzWHpqdmJfS3p1SEJKWUhrb2xmeXFUaU41WUNSWEQxelRVeXpYWHFfdGlEOGdUV1FmMXFjTVFwalNHZHUzanJKSEpfMFBvdkFIRmV1NE1Tcl9rOWxEOXBlWVJOV3VHMHJzZk1YWHhhUnJNUXVfQ29QRnlENEU?oc=5",
+          "date": "Wed, 25 Feb 2026"
+        }
+      ]
+    },
+    "Abandoned Vehicle": {
+      "count": 3,
+      "pct": 5.7,
+      "samples": [
+        {
+          "quote": "Austin leaders vote to expand vehicle removal program",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVDN6RnU4NmN4emRBVUtmSFhLU2FhZzBObVk0UmV3anlQd1owbGZORXphdWx3UmlUWlh0Wk5NQlc5a3ZvUndVMFhydTVzN1BCc3NSSUREWjZvRGJSZk0wSjllWFJHRnJwUkpPLThTRWNDWEg2bGQ1d2dyRGQxRUV0M2JfM0tULUpvbXdTYW14dEhHOFZaOEZxSGlBRWltRjRmR3BOblkxNmxTTktrSDEzV1QwQTRCYmxMRk5tcTd1Qkg4Sm1MSjFTSlB5enhIZmxwVW5yQTlEWFdYRzBnVXRr?oc=5",
+          "date": "Thu, 25 Sep 2025"
+        },
+        {
+          "quote": "New Orleans shows improvement on abandoned vehicle complaints",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLTZ6NEk0UzBfaElmVjNsTFU0dUxKbHdldW9lV1puUHI3eHZYNDJxMVlKY0QtNDhYT0ZLUzVCQTNIV0c4WVo1emVOTmZLb3paM0VXVmdteGRLVFVzZ3VDcTB2SDhndmNsbXNkUzlBbmpQTUg2ckJlbUFlVDVLZUxJMkpXOXdXNF9qWDJESVg5T3BTM0tNRlpfOV9UTWg5cUpDcUd2eFY0U1JiUdIBvgFBVV95cUxNQ1doRHJDUC03OUFOUkhtY1FtcGtNUE1Wbk5hTFdndWhwMy1TVDE3YUliUjJwVHdXQTM3LXJzQzlrdGQ0MWw3a1FpSUhxdElwVE9BUDliOFQyN2ljWUVXRXZ2Rk5YUDM2dHZJTmNvcVBTQlA2TkUtaE4xT1FvUU0xUEFxNktZMzRMejNUb2VhZEN5U21NZWZucFNpcmEyTk0zeG1HRlFrUm9tX0FGZFdlUzdqZFRpYlVJU0haRDB3?oc=5",
+          "date": "Fri, 26 Dec 2025"
+        },
+        {
+          "quote": "NYPD Q-Team tackles everyday gripes with abandoned cars",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcnhON3UtdlRWNE9ZOWh5N2hPT1JXNWtHMkFQT0ZTUUxrR2hyRUNsUVk3QVR2NklwMTc4RDZKdi1VVWRncHNFRXdZWVVVVGpKT3pfZUZjZjBoU1RkLTIzcVNDckxKRTdkc1MzVWktSVlmUGduQ0pSUmlVSVllRFRCZWlyNlJUdWNtTy01RWQtZC1yMlNEZUk0NVR6VVZHZlB6QmxvZ19LRUN2dzFFUElzUjI1SGZRQUVqNDF1N1Vlcmw3ZHdSbS1lb0g3dVo1VlNzSFVlYTRMbHk?oc=5",
+          "date": "Tue, 29 Apr 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 3,
+      "pct": 5.7,
+      "samples": [
+        {
+          "quote": "Clairemont park honoring fallen officer vandalized days after dedication",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0pRdmdTdWVUSHBQOWQ0eDFUU3FqTU9PNGo2M2xCcmlySTFZbEc1ZzdTUDBXTnU5MXRZM1pvaFlsWmk3TE56Y3BnYU43Vk9mUmVWQk00V0QtU0JFN3Zhd1B2V2ZUempDZjlCSWpaM2dPbVVBWGJ6VWhZbDgwMllmaU16OXFmTGJkQUotU3R4ZmF0TkhlVG9oTjFxQ2lhc0NrVnBvN2RHY20xa2l0UkVTTERrb1diMXZlbm1ZRmFEZF9NZ9IBxwFBVV95cUxNdEdzcURSM3lBLW5MQ2RfNkU3VDVySElsYks5QUV5TllaV1VEVDVXMGRSQXZJMkdCb0lVZFVvRWs1RkRRVFFnSFlINm0xc25leGEwRG9QZS0xeFNCLWdrMFlkakRSMnRGcXBjUk55VnRCc01wYlFoM3FSbjd3cVF3M0RFWTI4dzh5UlBWYi1hdzRDZi1GOEpHcVFlSnEySktMXzEwNmtueDg4RlhRYnNNSGx2NjBTMmpHaktIb0diZXV4ZzFzNy1R?oc=5",
+          "date": "Thu, 30 Oct 2025"
+        },
+        {
+          "quote": "Church removes hateful graffiti, converts to Pride mural",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEV1bUstQUhvTVMtVVBEUkJqal9ZNEhKOS1lTFlTdi1seGJhMW5OZkxSOHVvZFZHbXFJbWNnaDRiQ1lNMjE4WFF6U1hUM21GaG5HaE8yYk5ja0RxVWZ4SEM1cmU5UmZIdktjRm9iOTVkV0RoY21HVG8xa3Qxd05xLWNTRHhUdjgzMkVPWF9NcjIzR0NHbjVKVkdmTU4zbHFkX0lFclRMbUw4dXI0TDVuU3VLVWl3M3VGX2FkdkdJSVExYnotakpjM3RJNGc4ekU?oc=5",
+          "date": "Mon, 04 Aug 2025"
+        },
+        {
+          "quote": "Carlton responds to Ikon Park graffiti issue",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSE9mNDVWdUtpc3VUTDAyR1J2OGZ3TXJaN2dhOTI3Ny1iLUM4aWRpTXZneXRCWmE2WVNMdlhwWHV4czROWjNzM1FmUnFCNFZaWkJwS0psMlJYZ1cwR0FqUDBDbUpLVzQtQ291WXdKSms0aVdEZE1EemJDdFZUZWNYMGViUXdPM1E5MlhyNkNCdw?oc=5",
+          "date": "Thu, 26 Jun 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 2,
+      "pct": 3.8,
+      "samples": [
+        {
+          "quote": "Residents fed up with street takeovers and turn-ups",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVBraE8xUWs1RzdqcFJxUmpBRklXcTYzbW5jLURqSkV3ZjdDV2FJc0tQQ183bklJUU9GSmo0VmVzX3B2dGYxcWlQeTJSd2NFWHJINXd5eHVqZmxxa1RRTnFOTEcwclVOTjdSNWlCUjFadXVMT01OcVRxNVFrWU1OdTJnZFh3bUZSZTk2X25SeE5TT01WNm5waHlQVEZzaHNEN29Ka2dHd0xuV3llVW1HOHVoUEMtT0tYVDk1dUtWUDkxdzFwU2JHXw?oc=5",
+          "date": "Tue, 01 Jul 2025"
+        },
+        {
+          "quote": "Waymo gets dozens of complaints in Austin",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TYUV2LUgzREhDYjNKTV9FU0gwdy0tVWhmMHp0VjBSYWpfQlhBREpRQ1NybjBfRFBHWmtKcDQwVnlVRkxIVDVoeVFXTFpxZ1k2WVHSAVdBVV95cUxQTEx1TFdma1F2dXNTbGlaY3pqbWFFdjlSU24yYzRibnphZXF4RzMzZk8yRmpXY3ZhVlZsZ2o1SEZ1Q3E1TVZRTDhTeUV4WG1qc0VjMFZIdTg?oc=5",
+          "date": "Tue, 22 Apr 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 2,
+      "pct": 3.8,
+      "samples": [
+        {
+          "quote": "Months of sidewalk disrepair in northwest Houston Timber Grove",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmVqeXF2RjIwamdpRXdLbUZKbVVjYktvb0NSSVFKTWEwek9qc1F2SlVMd19wSUNVRm94Zk40bmI4RDhpa2ZvUVNUai10SHRNWUhEcXJYQVAzM1duV0NlWm53OG9oQVZZQUlBVzlXa3QwcWJoUnFGN3JHeUViVndaams1a2doNUhjRVB6T0ZNeWNOTmxmQjFrUG5UQzVScXVhMC1SQTF5ZUVtaEd2WkUtUF9yMUxFaEEzWDZRa9IBwgFBVV95cUxOSHdpaTBZejRpbWtycGJnVmFWS3M5cnE1WkxCdUgzOUROa1NjMXQ4Vnpza1RaQUFNNUFtUU5jc3gwelhkZ0liMWFOMXlmQ3FiN3FBVm5ERDA1LTN3aWVLZDExSS1WQW9GbGtsUUJpa1Qyemp0LTdlQlhCS25QUXhhYUJmNUFLNGhIVVlkSWQ5c01VZWc5SWgyeGVBT19vZTZJdXRVcnRHYkFiRW1EOTlWM2FiX3Nkbi1fXy1JQThLTnBtQQ?oc=5",
+          "date": "Tue, 03 Mar 2026"
+        },
+        {
+          "quote": "Bay Park neighbors push city for sidewalk fixes on Morena Blvd",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN2FXUDc4RmRWVF9WWFNiZy1PbGlLWnJpemE2eHhPdjcyVTQxeVZLbUZEdHIyZmZjeHlNV2xKXzJJcU5WS09XV1psZDNTOUNaSjVTSjd3Z1NwRkNJYUJtc0ZKTVNYM3BQM24tcElIT1htaFRQMEJ2VVptWl9pNHVvYklBZjBvMDUyMlotcG94RW50M19taksteUt2UDV6bWw3RS04N25sNEgteXB6ZzRyQThiWjEwZDdzUFZKTDdhakppcGFxQzNwX2txNULSAdIBQVVfeXFMT1BGQWdJTDdmOVFVd3ZEZ0oyTXcwVlJiMG9nMk82T2xvVURtcExpV2Zwa2JPdVl2TlNRSE1KVkpWX1RReEVjcU9KdE9OTmZDSkF2eFR0RVRYUkRTQmpIdlVkWDgxVkZwb1JhLUdTV0pwMzVLbnIza25oTTVidzkwUEZfMUQ2Ny1PZDlUYzZILXF2bzN4UnBEMlRWYW5nMHRmYUlCMVptbEtGUHhLVnNxTm5ac3hKZG1TSjhGaWVYV3dXblpETGdkeEFhXzAyTGl5cThn?oc=5",
+          "date": "Tue, 07 Oct 2025"
+        }
+      ]
+    }
+  }
+}

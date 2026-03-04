@@ -1,0 +1,133 @@
+{
+  "city": "Albuquerque",
+  "slug": "albuquerque",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 81,
+  "total_complaints": 34,
+  "complaint_rate": 42.0,
+  "categories": {
+    "Other City Service": {
+      "count": 16,
+      "pct": 47.1,
+      "samples": [
+        {
+          "quote": "Residents report fiber construction damage described as 'complete disaster'",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU1NORVVZVlMtYklna1VMYzFWVUVnQmloSGw4X2lfWlZxNTlxcExBSzRTSGJnelhRN2tvNTVhMUJSblp1c0Y0UkhnUk9GZ2hJRTN6NWR6Q3hFQ2ZnVXcxN19hODk0V2lOdjVSTDdSMDlPakhjZHlocU1ER1M5QWxOTktQV0RSRTY2dGxKd2hTalY1OVFIR0Rnc2NYYXFsMVg5ZFhwTzlfdE1EVFdfUktZdGdn?oc=5",
+          "date": "Thu, 05 Jun 2025"
+        },
+        {
+          "quote": "City orders Ezee Fiber to halt construction amid resident complaints",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbEhwOVlYX1ljc3FQdnNzbkNGWUo0ajMzNXg5Vmd5Z3JINjhwTWtJUG8xVk03amEzd1FJLXRrTENvWGwxWG9SUGhJRWY4ZjhFNUJJZ054TlB2Y0t4bHRRdWxfOEU2MjRhSDRuaV9IWDJLY2wwZi1IRTkteFNha0poVlZra1J6Y3AwUEhvQnB5OHRGc2U2TGY2MTQ0Z2doNVBZY3QzTGhB?oc=5",
+          "date": "Tue, 13 May 2025"
+        },
+        {
+          "quote": "Residents concerned over fiber installation process; councilor proposes fix",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY3dheXZGd185Q1dwWkFtS2pwbHRuQVFHcVRtSGdzXzk3OFFmWGpudVFzM1V4cHc3cC1paXBCRXQwTlZ3SWdnSzdEWWhXUks2Q050RU5YU2hwMm5qSXplbXJVcEl3RWZ1N0NFR3g3ZTVnYTdNUC1OcWZMZTNPMFFCMzR0Z0JqZ3BMdmpGWG1GUEh3TjhZaUpXNGJKZ0FOVlRrUkNiVGRyUG1VSWNDV3dXWWRRT1pCeWNDZ0JBRDlGd1NVdm1PSTdMOGtKekowX3U4V2Fua3htOUo?oc=5",
+          "date": "Tue, 20 May 2025"
+        },
+        {
+          "quote": "Vehicle sustained major damage during fiber optic installation project",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT1gtZll1Y0lCeEc3MUZHLVREM3l4ZEdzY01RQkt3M01ycmpFWlg5X0g4eGp2b1lIdDEzbEVKa2xVVG1MVUlBVm9qZExTZHprdTRWdEJxTDlGdDVVRVRTV2dLZmVJUExzVi1Wb0RCaVgyc2VQcnFrQ1BOYVlQRDRwQy05UTVBc0dtc0FDU2F0blIyZUtPZ2tZNEtvVENjc3JIV05UT0JNU2Zvc2tUc2FLcFFqcDRZM3hWSnc?oc=5",
+          "date": "Fri, 27 Jun 2025"
+        },
+        {
+          "quote": "City halts new construction for broadband company Ezee Fiber",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMU1zR3ZCdFJfR2VLb1NxUlI0bjdpVlF3U1pXRXV6dlY2ai04UHJGbHJkXzhfOU5rNGxUSk03VDl6ZGVtelZ5eUwxaThJRnVNVVFseFBrcWItVXVXSEFQdGZZaU5lWG1jbTNUdm9mS3lYRVJ0T1JTQ0dHcjF4aWdFb25VbE9RUEw1blJ2bHh4Tkl3OW5oUHpwQlVEVQ?oc=5",
+          "date": "Sat, 10 May 2025"
+        }
+      ]
+    },
+    "Water / Utilities": {
+      "count": 12,
+      "pct": 35.3,
+      "samples": [
+        {
+          "quote": "Major water main break leads to early school dismissals",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc19veTVtbF9TY3g3S2xHZFAzdXZSckFPOFh4S3V6NERuYUlfQXVnYTFSaHNuU0E5X2ZweFZDeDBPQThMVTF5LTJXYm9lZUNLV2JrSlI4SjdwbGlUZTdhOFQ4d2dFX0pkN3ljcVdKU1I0WVlrNzFteWJRUEpsNnY0aS1kQUgyd1Z5NUVkWkl0ZjV1aXFOeEVodXRwZUVFdTF0QmlFbzdNY3R4ZXfSAbABQVVfeXFMTXQzUXhNQU9CSmxuSGpqTmlSY0pIQThpbzhfTGNVVEl5dlpMZkhiSmtDbGJWdm9DQW9oYjdxLXM3LWRRU2hIMlZqVDlOR0Vmc2IyNFlVWXZYRjJGQTFORkpTUTk3OVBvYWxxdXRGZGd1b1hrZmYxTE9HZ1ExeUhkalJvcEIyYm5nV2NWNnFnZnh5UzVRd1V5WVJJcDVTZ201RnhoXzR5WTNEYlZKX2s2cDY?oc=5",
+          "date": "Fri, 21 Nov 2025"
+        },
+        {
+          "quote": "Water main break repair work completed in Rio Rancho",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0tUS2tMUGxubWpOTVhrejh2d2Q3Y1d4ajY5SzBCNWJ6dmFJTWF6aHJtRlZ4RHpYVlRzcWMtUmRKTGt1N25uYjNkY01HdzNGN3hJSTNGLU9XNmZ6al84UnpRSDhWMmVvZDA0SUstZkl0amszbXFkeHpZOUlxOEZGUXNXcUJHN0VmZ2RLUmVB?oc=5",
+          "date": "Tue, 25 Nov 2025"
+        },
+        {
+          "quote": "City repairs water main breaks, requests residents limit usage",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQREk5bzhMWE1DRmwxNUtmY2hMZ2hfMV9CaVh2OXZRc0RpMV9GYW5DOTBLUVlGdnlGTUNaM3Q2WVZoTkxueUk0YjFSeWZNanctWUVMQ01OdFp2YTZyTGJiakVlU3RLOXJRNWFMMUNxb2lMMU93T1pHLUxyT3BQb3VPYjFma3JDRk9QLTAtbThZQTk5WWNVVE5ub1NCeC1sN2pl?oc=5",
+          "date": "Fri, 27 Jun 2025"
+        },
+        {
+          "quote": "Part of Rio Rancho without water due to main break",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWWZfMmFTanc0ZDd1LTVuYTR2UjlKa211QW5OYnlmU29ldktMLW53S043OVJoblVhNHd0UTduTW9ITHZ2ODFjdzQzeE5ZT1BjNlRuWHRJRjNvU0RmUFd4SjJ4Rk5vOE8tT3h0U3RIRnVzWkQtMWtsUUhYX3A4TEFCOWc2d3dING5meThMcVctcmc0aXVacTYtaw?oc=5",
+          "date": "Mon, 24 Nov 2025"
+        },
+        {
+          "quote": "Water main break drags on; should be fixed late tonight",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlUxYW4xTTdTVVE3TlFleGxuQzZnX05RREhVa1UyLVpqU0h0cWVGMmJLTXlMRmgwQjdEY3otY3gwSTNXT3Q3c0phZENPUXNLVzlTZHRTdTlWeTM2Y1VhRkxyS0V3ejFoMGVMY1RITGFfc01wXzktR2tuc2ZQS1hySzJrNDhDSFYwa3dIMm1QX1JaeTZITjNhRlFXZmI5cUY0eklkRg?oc=5",
+          "date": "Sun, 23 Nov 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 2,
+      "pct": 5.9,
+      "samples": [
+        {
+          "quote": "City responds to complaints by installing more speed bumps",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFBmUUdaUWhCVUdVcWM2NkVhdEd2ejFWaFNPZXd6aGFyZXlMb3ROUENGMEl3dDYyYXdrZC1UYUN3aFZsdmtpUkVVbHVFb3ZQMGk5akY4Z25Dd3ZQUmhzNkZaRGZoMWQ3X19qSTBQcUpxdEhodEtKWC00cVVVVHM3ZWE4Q0ZqSDN2Nnozdm8xY0ZRS0FvaHRndDVrSTFld2lHYVo2LXZnU2xWSGdxTjRF0gG0AUFVX3lxTE52aWFTa25ObkNQNUNWeXBpV0RDbkdrRXgyNEh3WE1qVmFpNkpQbmYzS1BlNnE5YWViakx6ejZhQmMxMGNFX0FZekJ1UUhwWW14QWZqS2Q1SVRaazJkb2NFcUxCUmR6UHUtMVprREUtdnUyWDdJc1dzeloxcndmOU0yQXR5XzN2NkJSU2JqSGNsY25PLXNYRDNPWnZ6LUVoRnVFQ1VhcW5GcTVBNkdTTUpnSkVJVg?oc=5",
+          "date": "Sat, 30 Aug 2025"
+        },
+        {
+          "quote": "Albuquerque has a crime problem requiring National Guard response",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JVTlFejA4YkduYTJKYjIzUDBab3hWdU1icXhnQnpTaTZONU9RUDBWRDF2NnlENzJrc1puUXJNaHZDNktuMmlobVpoc3BpT284SGdRRUZka3ZvdVlWLURyNFVIZGJScC1IclRVNE9SRnRpYzBGTzNrdQ?oc=5",
+          "date": "Wed, 30 Apr 2025"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 1,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "Downtown residents complain; city turns off anti-loitering speakers",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ1htN19Bc001eDNWSVV3d1BWU1BlWXkwckEtbDBROWNMdGpDZnljU2pJQ2hiQ2FNbTktWm9RdGtMb2pzRXROQy1LQldUb1B6eDFRckpqNUg2UTRMdlYtQ0U0UndVT243MVppYlJRVkJ6VE12a1ZGUERiTThaTi1pVGZrYnhybTVaOVlRbk9BVDc5S1BTU3I2RllINk5jTHFVT2VOcEx6MFhqYWlHdk1hTHItb2oyTmRvbmRtaVB4RlgycnBxQnJFRFQ0YW_SAdIBQVVfeXFMTXFTcFAwY1lTbUxoRWZ5ZEdqWTBjaUxEd3R2Z3VqT1BybWRSYkRRLUxMaDJGMklOcGFtdFdtZk9FbU5zZzgzTVpFWnk3TXcxYWYtODBRSzBqQTNYbTJOaWc4SkpCa0FRY2hXeUlEYnQtcVdNOTNVSnJCUUlyZ0owTUhTTWg5VlhZVlNqeWpzOHpvM0hUQ3R0QXJrQXhkN3dkeDBFX1JaNXgwUDBSWmZyWDNTWkxORWdHLVczV3plcGNFbjF4RWEyTmxWLUtxNURsYXJR?oc=5",
+          "date": "Mon, 17 Nov 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 1,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "Residents oppose duck pond renovation at Mariposa Basin Park",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUDZVTDYtYXhPMmVLYnphTU40U2dxT2JiNGNRRUlKeDJZZzhMZGo1QkxhRkRVSUpTN0RMYjlxaDQ3TGxBakQ3Z3d3NEJFVHpYTmlYNGp6VDJPZllFUE1sYWxiZVRoeWRhWlY2cTRIQW5CRi05czFpYVo0WV85dGkxbG9GZ3IyTjR4Z0h4SVFyMDRkNzZWUUR5bG1DX250ZmxoY2daNW9Nc0E?oc=5",
+          "date": "Wed, 16 Apr 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 1,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "Homeowners challenge proposed San Diego trash fee",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZGtLRDQ2aUw3STNZT1FpSG1DNjBaVFo5dW92STd1SUVMRXQ0NDNVeGduUEQ3MF9CUzV6VWk0dnMydkVwakFEcWVjeHUteEZVQUJVaWx1ejFNNHphd0dpc1JPU2xNb1RkMnZ3VDNWVFU4aFY4Z003ZV9fWFJOQlNPNW0wN21HY1IwQUtvVU0tdE00NDRILVgzX2g1YUhIVFR6VHZjUjktUDdFTFVsZUFUVnd6M25LNnRBRVVHM290cS04bzVZRk5OdU1GTl9ScEk?oc=5",
+          "date": "Mon, 19 May 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 1,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "Rio Rancho Police Department cruiser falls in sinkhole",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORDZXMndIOVZNWkx3eXZzcWxUODNKMnotOU5pdGpBSkwtT2JjY2tBaVpFbUc4eDFpYXMyMlJ5NU1OckFFLWt0ekQ5T1RldTZUTkxWYWtueHNMQTZJNmRwMHFjdTBMd1ZsYnR2bTUzcnBJZy1menIzcnlVanRuQmxNREJuejFHazdNcjZnT2RTWkY5eGdRX2JR?oc=5",
+          "date": "Sun, 23 Mar 2025"
+        }
+      ]
+    }
+  }
+}

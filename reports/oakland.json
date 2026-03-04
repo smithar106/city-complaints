@@ -1,0 +1,193 @@
+{
+  "city": "Oakland",
+  "slug": "oakland",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 117,
+  "total_complaints": 65,
+  "complaint_rate": 55.6,
+  "categories": {
+    "Water / Utilities": {
+      "count": 29,
+      "pct": 44.6,
+      "samples": [
+        {
+          "quote": "Inkster water bills surge after meter swap",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdVpscXZ6Q01XdkZISnVPTHBhSkx2RTB6TVNsdHg3WHM4VHR1QlhzUzNpSUR5MGZBYzdKb21IRVJFaVBzbnJBYmJjZ05VV3lCUGlOZXhBemphMGwydFhZMVpka3I3Nl9FejJDUEZDc3dNNWpYdU9rdElKcVZQbm1Mb01kREhRVVJMNFN1QTRjRFpTWGxJVV8wVTZJb2thdGRteHpsenlOQ1ZXVDBzdkV0a25vVi03bkszcVp1dEtkckwtUUU?oc=5",
+          "date": "Fri, 09 Jan 2026"
+        },
+        {
+          "quote": "Water main break in Pontiac floods apartment complex, displaces hundreds",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0JwR1UyWHVvMVdXRU02eHZUNzRCWlpHSFg1LVFWVTl1NktUdzJjV2JXNjl1SWlaUjJTdmFieEdYMlVOZGp3c1UyQjFsS2ctT0tfZnlkNWFHVUtRTFczVllHSXpFMFdCSF9zR3RFX0tUb2N2SG0yMHFackFQa29lajhWWnRiTnNpLW9qMWotdlhzUkZGUEpkcjlqTlRkMWFXai0zQXEtbXhodVdHSklyVUVrSS0?oc=5",
+          "date": "Wed, 25 Feb 2026"
+        },
+        {
+          "quote": "SW Detroit residents still recovering from catastrophic water main break",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbVdsWFEwRDl6VlNGX25FRXg0bXcyQlBkbTJBRlhUWF81Q3YyR2VNV3czRXBNMTBTYWxRTHFWX0E5UG5RaVhWRjVPaFFldnFEUWlCTzhqM1hVcVoxM0RXQVZ5dGx2VHVkeTNMbUo2VzBiZnlRdjFMOXNaRVBZelhqbFVQbTAwVjYyb1VqREFxc1VzRjRwSmswRk5ldGdRb0VyQ1BReFVUS0VWYW1FOHN0QWVaTE82a3QtY0hvbTlkRDFfMks0SXpVYTUwXy1GQzVEVXpLMnhR?oc=5",
+          "date": "Tue, 17 Feb 2026"
+        },
+        {
+          "quote": "Main break off Oakland Park Blvd. Bridge prompts low water warning",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaS1OX1FuQkNFb0d4R1JrRklxbWlIMGNaMUJ0bXFsSTZoZ2FLXzlKWk1BcGlvcy1VUVRlMU9ROFowTGFCZVBTZ01zOVZoMVNBX3JpM1dhc1VCYXkweUNTWlg0TUdHb3BaN09ERF92STBKUjVfaWpobGpoTm1FQUE3S2htSWxveWRQRTI3SzFmeFZFbXpfVjBjanQ3WjBCMjRJUGwxdA?oc=5",
+          "date": "Fri, 20 Feb 2026"
+        },
+        {
+          "quote": "Novi residents react as crews work to repair water main break",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM2JrMUNUTTNONUZBN1FxWEdDTTNYZXplYkJLaE0yZjBzWTJBbjhLamlLd3BLUHlTaFB3QTIwRktMRHBnd2xVTU1YRFd6c2tzVklTaDBTckdPa2NxNnI3UGJ4RWtRUHE1cWJoY2s3SVp4blZaNGJKbVpWanY2SnItaHFJT0Q?oc=5",
+          "date": "Thu, 25 Sep 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 16,
+      "pct": 24.6,
+      "samples": [
+        {
+          "quote": "Residents fed up with Priority Waste service",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVVJlNE5rcVk2RGcxTHpuVGZTak9KOGlCLTA4ek9ORVdLY3hueXNfUFhaZmRydHhXQXBQOEtnUjZOVTRsdDRHdFVBVTJMUEUzNGloVlNfR2FmSWcyTy1sZGhNSGg2bFhnQ3JQUzRqVVlWRlFxejd1M1dUZEMtTDI2MXotVGNYcDl5X2tjRXY2Y3FYYWJteHpDQlpabjFrSy1iZHlYRDhHekd6Slp4aUVrdEI5UklFQkt0alJGbl9MS1BRWFhPUEZv?oc=5",
+          "date": "Thu, 10 Jul 2025"
+        },
+        {
+          "quote": "Trash collector sues city for breach of contract",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUV96SUh4bDAxa3VtYmhkYTVGWmJ1Zl9TUkNhaGJXWlgtb0lSZW9KZExxSi1aUmRObzA2UGJPVVluM1YwdVZiVGsxOWYzZU9FNU9rUGt0ZjJHbEFTOTlBTENhcWMxZU5PRzQ1NmRxYlhiWWhpVlNMQXlocFV6SDlaWGQxVC1CZGwzYzBNdHBoSQ?oc=5",
+          "date": "Thu, 06 Nov 2025"
+        },
+        {
+          "quote": "Trash pickup expanded to seven days to tackle illegal dumping",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcHJ4RUExakhoYS01OUxUaVRreDF6eEc5ZV92OHRKeV9tOEFsbEROOXlqOHV2MFhaLWE4dUlPVDladm5SQjBkWDZZaG5zdG0xT0hCQ3ZrR1hIRlU2cmUyb09nbFhfTTl0enZPc1FyQW9iZDhhaTFBdktwNlY5eDFEX05UVF9xcHlVd2dWNjc1ZXlMdnk0QUNUUXV6X0Z1VkV3eEhZ?oc=5",
+          "date": "Fri, 17 Oct 2025"
+        },
+        {
+          "quote": "Trash cleanup mission faces persistent illegal dumping problem",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMGJEckNMRDE1Qy1XLUNFQm9sTUw1WnNHVk12MXVVREhTODFLdE1xenpMdTBEV2twaUVNNVlDVk1sN3plWXV5Tl9ZME5LblN6SWZOTFFac0hFUWhVdjZUQ3k5UEFPcnE3S29KSWFDTVVSaF9VckRHSlhEUzY3RlRaOWxUTXcwWjYzanYwRnAzYw?oc=5",
+          "date": "Fri, 26 Sep 2025"
+        },
+        {
+          "quote": "Township pays $1M after trash pickup complaints",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNczB1akdJS3BsMjRjSDBpUlY3d1BFRUp0V0xqZUFranZna18tRUZXX0tmVmpYakgzdlpjOXJwRFRlcDdZOXdXUVo2REFHcGhnU1NIVkYyMXJ6aUpKYi1vZGV5UHQtYnlLRl8tVG9vUUtqNjU2akFjSUdHcDVSWmlfTWpQbkwyb01EdUVpcV9hTkQtNTJ5ZnphTVplUFN3SkhCSjl2STNXd2V3bGVmY1c2ZWtqZEZwSUxtdUh3SVVUV1JjcXdTVVp0dDU5a1NOZ2xNMkNSU0JhUQ?oc=5",
+          "date": "Thu, 13 Nov 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 7,
+      "pct": 10.8,
+      "samples": [
+        {
+          "quote": "Apartment changed name, but still has same major issues",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMkJmR0Uxcl9ZdTIwSWpNSGs2R0RlOFhKOW56SW01YjhRUnI5TjFiY3kwaUNqa0tFZ2FINWYzUHZ6dE53WDhuR0ttbEpfZEpSUjJVZC1QNXBfTzJZMC1HaEZqZl84M01oVlJObktxSFdqalJRVldXTWdZZGNhU0Q3NzFkRGhDandRajJ6NVBWbVAzOHljUmJuRkpwM2daTVlhZDFqYXBOaUNDdVBCMFFscWNFQkxfQk1ycHZWaTN1a19TVFE1cWVHX3N1NmJFN2RDZmpV?oc=5",
+          "date": "Sun, 15 Feb 2026"
+        },
+        {
+          "quote": "Oakland homeless shelter left in shambles",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CanhmWDExWVhIWXdRT0lIaHFaUUgyUndzTlNpLWdnaEhRRG95X1FVS3BMZHNvTk0tZGhUUG52NzNURnhDZkdZaGVYOTJVbkRxUEZ3WEFVOWllYjlCYlN3Nmc0MUktZ1k5bUhDeGxLVlY0T3FadHNxYkQtdw?oc=5",
+          "date": "Mon, 31 Mar 2025"
+        },
+        {
+          "quote": "City officials reviewing snow plow routes after complaints",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVFFZ2I5NWRmU3NIdkFIN0IwZ2hLcnBCMkxpaG9uTnBZVVRuWDNHdDNlOU9MaUs0MW96REg2UnRocUJPRXYzMW9qX1lodGJXM2dCaEFfb3ZMNnY4M1Z1bWJfTzFpdkJJdUlwaC0xbng0WlBlVVRzT1hnSkpndUd5NjNUNzVUMTNybFJyakJONzE0WUxxWTJwdzVFOC0zYjZKNVhF?oc=5",
+          "date": "Thu, 29 Jan 2026"
+        },
+        {
+          "quote": "Complaints about FoodPlus bins; city looking at smaller bins",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTVBlS0tWTGRKUGRzdVFnYkNLcjdGUlBZMGlfQXIyUmREZTd5Wm5tbnpaRG94NzJhSHZMX2dSOVQyaVNHOFJzY3hHMWpYeDFhQmNjNFVIUGxHZmtsUDlkdGZpcDhCc2FodGxDNE02LTBnZ013eWgyMzBPUzRLV2lHLS1aTFJfOHZGX29UZnhnNWZSM3I2ZjhwODJNdTByZjduTW5QVnBveEV3UUpoN0JKTm9FdENvOFBYQkxfNzBvWQ?oc=5",
+          "date": "Tue, 15 Apr 2025"
+        },
+        {
+          "quote": "DDOT employees abandoned running bus during duty",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUGRmaE8xUG5qdTQ0NlpRNmQ0QTdGc3MxdDBCVzNtTUVFSHRWNUVaankzMGR0LTREWW9hZmtfa3drVGNHdnlkWnVQbmgxTnE4bVg4Mnp4SEFqeXlLN1RXenpibDlBNzd2RDBZOHU1TjRjZy12NTJtWVdWSElXTG9GbWVtYzdzT2ZhZjRvTUdJdS1pc2hfR19vYy1oQnBFdUdndVUyRENhalc5c01ySWNVRmItMUpiMWVXYkM0Vldsc1I3SWxEVERJY01CdGpTaFlRTVZZOWNLdnJLdHZl?oc=5",
+          "date": "Mon, 05 Jan 2026"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 5,
+      "pct": 7.7,
+      "samples": [
+        {
+          "quote": "Vallejo ranks as having worst roads in Bay Area",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUy1qVHpELW0zZWRmNVhPZWp6eG5HQjNsMGlXbVNtUW5MZFJmUXdqN0laUXNLYTRScFBUbzdCMGp5ZE1yNmd6TzMtd1BIQ29hS21jNWdEMWxOQUNRaVQ3ZDBuYWhWSndkek5SZ2xuY2JlNVRmOExMMTBxRW92VUdxbXIxUi1VTGRSVmxDbWJ6QWRNMXZHXzUyT2xR0gGfAUFVX3lxTE83QlFSaWtjdkxEQzZDSVBiZDFjZHE5ODVTVkxBV2d5bDZCeWlRS25TODBnWFBJcDcyQzlDT0NQSW8zN2NDUkFwYU1JdERXYklxS2x2MGdfVGU0VHFuYnRSMldyZ0hZbEIyU0dvZmxXaXYxYlZlUVdid09ORDJvLVlPMmNmYTJ3Vm4weVBiajlKT3Z0cmJDTVFuWHVWTUtqZw?oc=5",
+          "date": "Tue, 18 Nov 2025"
+        },
+        {
+          "quote": "Cyclist injured, Oakland settles for $7 million",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0FpWlBJUGdIZjYwem5tcTBpX1dONGQwcW1nb2pVV2l2N3NKaXoyRkhiU3NJdmtpNjF2UHRTMG5yNm5VWTZCaEJzc0I0cUZ6MnF3UThwdGhndFlvOU91cjB1WEx6ay04Z3lTYWZVdVdOZWIxN09haHpxQzMwYkZrZC1mcUQ4TURMWWNUV0lHbw?oc=5",
+          "date": "Fri, 19 Sep 2025"
+        },
+        {
+          "quote": "Cyclist seriously injured after hitting pothole",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnVRZUNNYjBiTk53RXBQTlBia0daSWJvOHhpUHVpYzJESHBNU2lrMGFSUkluWEdVemJKcmZzcV9BcENLYW45T3lzYjlsRlRVVlNzc2hFemtvVDgzaDZHX1ZEaE4xZVl5OG4xQUJQLVBPUXM0ZlBWd0ZGMHRXX09jN0F0aWxRZWhGZ1RRSmZpUHgyem13aExwNWZjbjZaenJDWkxiRk52SGIwdFFjbFlDWi1NTFFJUThl?oc=5",
+          "date": "Wed, 01 Oct 2025"
+        },
+        {
+          "quote": "Oakland trapped in cycle of potholes, grand jury finds",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb2QzaDRvZDZhZ3NGb2pCNDJfdW5wUXAyaFFmYi0xdHhMcUlWdjVyUnVZdS0zVWtuOTZkYjlHQXdyTjY3aVB2cHoxRG00MDdIMG1kcW1aZlhpUDVVNVZ0RUFHcUVteGFFNTh0Tk1POTllWjlFSGI3dHJYQmZrRUZQUWNxS1Q3R0dJdWlYampVZVlLdzAwU1ZV0gGcAUFVX3lxTE1jbEdVQkpXUjR5bXlIR0cxc0FURlJtX3Bwc0xoM09tZ2hPSzB3YURJQ0R2azVrUnhvQU5SUmQ0NnBTQkgtRVdubFk5T3YwYkN4T2xVTElERFJnc2huR241ZU95NC04ZWFYR3lKekJsMXBVRjlaMUJlTHRxejhrcjZucjI3QVhwMGx5VW1BOGhIdTdjQVh1LWgwdnhubg?oc=5",
+          "date": "Thu, 26 Jun 2025"
+        },
+        {
+          "quote": "Oakland pays bicyclist $7M in pothole settlement",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORXJ0dV9jX1c4YWtFRG9MN3JCU1R2cXNCaUdhRkZCSXU2b1JHUU5uWEZUWFBmNjdLT01zZHR3MVl4SnlqMFl0VXNsYlA2X1JrUVAwT3hBNmNwOEVMQnc3RFhuaW5hQkdpV2cwd2Nub01FZy1ITDQyQm1RR2hOMXVsRkFvYkt1eTJZRVpMUnZmZFE1STly0gGaAUFVX3lxTE96djhaSHR6ZWg1TmFWVWlHMXpoOFF0UzRPM3FSWlJMcTFMa2FsYjA1R3RLRy1BUUFmNHpCWkZwbkh5V3RzV2hJWUdLWWViRUVlUE1wNDJVUmFpZ1dSMDVVNGlGMHRpRUI0QmFyZUJYRGhaelFoSjNkOUtFSzREOTRuai1LclBFRDJ1bEx4U3ZDYkVRMEZZVHc5WXc?oc=5",
+          "date": "Tue, 30 Sep 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 3,
+      "pct": 4.6,
+      "samples": [
+        {
+          "quote": "Residents report nauseating sewer-like smell on east side",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONlRRZ3RKdXEwazFPelAxdDdFRVZoYmRPdGQzenRIU3JaSEgtWWhwSmt6MUlrUEtSZUhudUI5YVZrM2ptNFdDSENxMEw2MjJ1NHVfSThfM1ktd1VHOEFhR0dueFM2ZVo5emVjXzlJZGhPYlJtTjRZdFZ1VTI2bEF6V3dfR2VCY2s2X1hXQzQ2ZEw2T3FmS2JUQm9qSFBuemZfN1lvZVF5NU1VZVYxZGFaUHJwMDBlSkVqMllwLXZIU091UFg2OTZXVGRuWXM4R2pOd3Z4QkpFanc?oc=5",
+          "date": "Fri, 19 Sep 2025"
+        },
+        {
+          "quote": "South Florida streets flooded, residents report issues",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2lJQ3lNLVRqMVZCQ0VOVDBDbklxbUhFVkJEY2F3VVVNTVVNVVNyYVBDakhNREhMWi1ZenhsSWRBb1cwWkZNUFFpTnpkaks4cWh6eVE0TFg2X0ROdDJlQXNPN1ltSkc2b3BoTGZjX1FQRkdTcncwTmVRUlJ1b05LTHQyNnQzclFEOUxwOVFBVTkwal9rLTRBODRB?oc=5",
+          "date": "Wed, 12 Nov 2025"
+        },
+        {
+          "quote": "Erosion complaints about Oakland's Red Run discharges",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1h4Nl9GZWJ4a3JfNkZhcmV4SlhlUWh4bmtMSTR3UTBKTnBKNXY4MmFsRTJKeFNYanppZFIzcXBQT0JHOWN1cl83d3lWRDBueEFpUDlwYURZcTNfY3ZRbS1xZnRxekN0dVFtbU5ybGR4RERrUFdta2duR2hjUTg5NUtCYjFNZE9OcVJ0aFZDNUZfbGdCOXVQVk5ZTDk0TUE2d2Rqb1pzTkNGdHFCdWpqUUZRZGpkQlU?oc=5",
+          "date": "Mon, 23 Jun 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 3,
+      "pct": 4.6,
+      "samples": [
+        {
+          "quote": "Vandalism hits Oakland coffee shop",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaWpsWHNuRWVtSl9WTGhpa0cyV1VaRnFROWdiVWFQTHBBV3c3bnFidUNGTVh1NWVUVEpPTG1HbzBPS3FVLU5aVktRenA3YXkxZGFkYWtHbnUxbE5GV1BxRjRVSWVES1VDeHBEdFlCcUt4S3FZbGdpR2VsWW8zSnpDdWdiUnFpakpBQ2dOWnNYa1kzM1k4bDlaYlpjM0txNEI3NTlTRjJqcw?oc=5",
+          "date": "Wed, 08 Oct 2025"
+        },
+        {
+          "quote": "Oakland Chinatown businesses decry fines for persistent graffiti",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYW9QN0sybU5vZElrX253N01RUzdiVWVWb2loQllKRy1vZXFUdkU3MFU0X2t3ZnhVQXk1cVg1MDRpdWxsLUF6bXJ2QUJtcGliTGR4dm05T2JMaUxQaTkxUUNIdng4d2F6bV9aODBRWnJsYko2dVZxWUNWMkRUaVo3VW1Ocl81VHB5b0h1Mlpjbm1ESWpLRlNoNWQ1RTVXRlptQ3JOdS1aLU8wQQ?oc=5",
+          "date": "Tue, 08 Apr 2025"
+        },
+        {
+          "quote": "Oakland mural depicting Native-American genocide was defaced",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNVNYSnJ1VUlMelJaQU53R1dhemh1dDhhblpmTmt2RDNWbDVpSFlWWm8wd1hOYVVhemhNSWY4Vmh6TzFfZlRYcDllM2E1RzVOYVktVmNkVy1hRE1hNTYzdFBaTzR0TGhjOEkwZTVsWUUyb25OZ3BUQ2R2YWJjOUE1RGk3Skk1VTRYYzR4N0U3VXA2UEQ5eFJEUEpaaEt6OGl6bng0YjRFMzA4ZHllYk8zWU1KY0ZhMWY0QzRLS013RDFaeWpFVGQ5TGpQblNIUUxycHfSAdcBQVVfeXFMUEw2RDhvLW1idGpRV09QMkwtMFB6VFN5SnB5WGtUNjhwNkowYkxNUVFFbktscDlXLW9nWFJBdk0zek5WMkpqYXZmbEZkbXh3Ty12MGoxQk92cmlDcmdlNEc0T2ZveV9iM3Y2OTJXeS1QVzVhM1NnSDh5bTdQeU1IUHdxOWdnTG5qUEJhcjNlVWR4Q0lrZXNHbUZaRnJ5VVF5WmsxdGVvY1laeGRhRWQ4MHFscndtdWQ1czRuYlJMcHZJck1pU3g5YzdrbVN0X2Zmb2pmanIyclk?oc=5",
+          "date": "Fri, 05 Sep 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 2,
+      "pct": 3.1,
+      "samples": [
+        {
+          "quote": "Resident sued Oakland over busted sidewalks and won",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWVnWks4ZUpBYkF5elAtajU1M01mWkdseTdvdWxEeGZOendIWGExZjhwQzR1WTR3YUMzdFc0SmthUzJrN1VlVThYbzA5dlJOVUQ5dEU1V0hwM2xwaFQwYlpRVldqV1BMclF6cnZrdGhFNUtwdFlFTzliZUhpSGtDWmM0WEgxRnVpekZFNkdnSlh5LXh2VkJyZ0lKd2VkeDdLX0tr?oc=5",
+          "date": "Mon, 27 Oct 2025"
+        },
+        {
+          "quote": "Mayor announces major investment in sidewalks and curb ramps",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSnR2bkNCTzl0VFFYTS0zaDExZE9aeWlDbFV3eDkxNG9lUHJ5YWdBRC1kWXZuU0V6SmZrMUtUSUpiSnRRWGxSR1dvcXBPZVB3d1JwaXJQUk4teVNkWjRCX2xhU2VlNFktRWZiQWxxLUloQ182TG1EcU00ZFdfRktEWTZMN2wwT3N0RGlrUVNDRTNQWmFLb2FqbFloNXBkQmJhdXNjWU51UjlydUlGYUNlQWk0ZnA5SGJ3djBDVXY1Qm1rbks5bFZ3UHJCNmQ?oc=5",
+          "date": "Fri, 18 Jul 2025"
+        }
+      ]
+    }
+  }
+}

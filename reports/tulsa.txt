@@ -1,0 +1,82 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — TULSA
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 58
+  Complaints found  : 35
+  Complaint rate    : 60.3%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   22   62.9%  ████████████████████
+  Graffiti / Vandalism                 5   14.3%  ████
+  Trash / Illegal Dumping              2    5.7%  █
+  Other City Service                   2    5.7%  █
+  Sewer / Drainage                     2    5.7%  █
+  Pothole / Road Damage                1    2.9%  █
+  Public Safety / Crime                1    2.9%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Water main breaks get fixed; how to report them"
+      https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1BtZF9LQVdVNHhXVi1oSmR4ZjlpVlhZZ1QtS2xuUnM0WC1xd3BZUEZtcHNRSlRLWWdQdENBQlBIQ19ib25mWUk4UzJSVjh2UVNIYTNud0xvNmk0ejJJcENHOTc0b3JNZGtRQ2NVVHhtYURyS2dMc2JfZS0tckRwMl9PbE1qUVhOaHIyb1pVWExNRUVZNWl1c1RqTjBqQQ?oc=5
+    • "Water main break causing slick spots near 21st and Lewis"
+      https://news.google.com/rss/articles/CBMiywFBVV95cUxOQWlsaWZIQklRR0ZIWVpaazJCYlNEaTBTazRsMDZoZlhmMmNIZ0NOcEpWN2VXS2VlN2tvcVF1djduSmNTY2xXTHYzaVdfNTdwQlRaSmpoU1FXbVhyaUhINVFDeFI0dDdQR1owLUlCUERCb1NnY3Z2SHZpLXg5TGJfRHlaYkcwdERmNFB2Q1MtN1hEV1YtbU1qaE9uYkg4X05SZWlCLUxTTXhCRlJZdDRtcU53bWlnWjBUT3o4OUZVTFRHZGh2VGgwZ2I1SQ?oc=5
+    • "Water main breaks impact several homes in Tulsa"
+      https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGU0LXBFSDNxNzFhY3RxQ1VkVjd5YnlydlFFcFAyM05sMTZhSUhPNG00cFU2YUVydEZYX2VNMjZYY2M1VG1kRG43VkZBLTlvcnlEcUYwWWEwQlpMb3dQWU1pWWdTQXlBUXZnZlk4YzVMR2YtMDdwREZ3UjlqM1JCLXNrUklCYW5wc2twUTZvSDQ5blk4NHFmOWVHbER1dUwzSEYyWEd6TnVUNDF4Zk43V2lUQjVRalhoRTRv?oc=5
+
+  [Graffiti / Vandalism]
+    • "Tulsa business owners say graffiti vandalism driving up costs"
+      https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFM4ZGVGeXJpZ3h4RTZIZU1NWF8tM25ocW1reGRZLVU0aTFrQW5zRlRJTkxpWUxCMFljUFJEem1vM29aU2EyVzNxX1lNMzV1bUhjaHJYNzVpbk5rNFJCMWhNSHE0eWltT1oxMTJyLXFPYm9TeVp6YWZPbERwa1ktNnFmUlNHNnY4amxaU2FLLUZYUFpyT195dC1NQk5hZ0RUV01zblhfV1p1dktsaGpHb2hfdjA2VzR6RkR2X3BfWHFVT2dfSjM4?oc=5
+    • "Tulsa police arrest street artist linked to MANGO graffiti"
+      https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEZXejJXTms4UFY2dXZtVUIyZ1FJSGhDVGtmRk5Ma0hrOUctc0ozY1ZrZUU4VGpOeUF2M3RIQjZQaHVLTk1yLWlwMWxPYUpBdEdYSnByQ0lZaXp5dmtSeUpOM1dZNExhSWxab1A0eHdIc3JDZ3AxZHNVODdMVTNZRnB2RjQ4SzJFbW5TM05jT3JZZzRSaW91ek9ZdkJXZHp1UEwzbm5fX0J6RjhHOEVR?oc=5
+    • "Tulsa Police: Mango suspect tied to 100+ vandalism cases"
+      https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3hoZXFEdlktUXB2MVFBaThmLXFjZmZMZlRsUDZ6WW1jT01BQ3BtdmVQMjNRNTdsb1NhNjhIaTdwbUI4SnZlWTg1QXFrMVdicGctanNBc25mdnc5MVdtd2E2VGhLSkdvSWlKUzNtODVFeEZ0OHRjc2Q0endGaDRPMG41X25mdXlDenF3Vk9oOEs?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Apartment trash clean-up progress, but residents still frustrated"
+      https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVZxWHpKRWdRMkgyR2VUYTBEb3I2aEFrWkYzM3FJR21Ea1hjTm9jRXVmb1dMTTh1THZ5RGpsOThWV185SFpiMm85akZhTVNyOVFQbE9La2ZvRUs3VWprNmI3T2lDVmFoRkdqNXVudVlFSG5nenFsZUp3SUhJY0hWUndmVW9UcDVNTHNrNUFpZnZ6Uk5hQ1l5ZWdnN1hxRzV3RWsxTjFMWQ?oc=5
+    • "Mounting trash, mounting legal problems against Vesta Realty"
+      https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUd6RXBsNHlKZzFIVkRYb0RBQmd4UVdUU0FlMEpqSTk5Uzk2UVBUU18wSGhReUtfQ0kxQWxLQjBYb2hwakFkWHFBbTBHbWxDSENUbWV6bGcwQl9xbWYwUFgxLWZxREhEOEZIWDZONVhpUTZ6Q0x2aGRHd3ZHUzJpdjNmTXFZSldJU2tjcnB6MVRfTjJQYnl6a0dFX1pUeHhIOVZKdkV6eEdLcnhwREU1M3FWLVc0M0pIN1I1OVVNQVQ?oc=5
+
+  [Other City Service]
+    • "Senior residents share concerns over future of housing"
+      https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTU9PM0M4b1dRRVNrQnRrbWNvUGJSUEZwVnF3aWlJVmdpR2pMSlgzcWktQUVSOTJEa3RpNTRBa1dNaFN5cVBLeGpzbU9ZVHNoVExBMjRTTDJDUEFLalFCY2llZlRRNkZKaU5wbmVsaC0wWE1oWkZtSE9RanhWUlpRUS1ISUJiaDM1elE0X1VOYWk3NXl3V0VrQ29ubUIxT3h0Z1hiQlZ1SkJURmppMHdQTDZoU2lyLVdYd3FKYkZMeXJvZWNtTGNnMUYtc0x4UjdVZTFOMWFIVUV0ZG81amJURkVid0M?oc=5
+    • "Tulsa renters raise concerns over living conditions"
+      https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTGN4MUR0TjVES0lmT0lXX3FQeEV3bDlFNElCeW1IQ2dJTzQ1TmM1UlNJdWE2RTYwRndIbGhDM04wRFN2VHJ5X3RId1M2clc4TUU5cXhlak9xZmpDMTlLUHRvRzRTZWdKMHgzQ2pKaXgzd1VzUE9RU3ZwMGctNF9DZjZLVmFYM0VfQ2RITEdqUjFKOU5tWnJXd1I3ODVnQkJrVGtpWWhGRHZMZkU1U2h2d0VEOHVGbnZfOWJQR1NKWUx1V2xJeGhhQjF3SlFqOTVUalVxRXdTekxGM0pTSGlUSQ?oc=5
+
+  [Sewer / Drainage]
+    • "Section 8 tenants live in squalor with sewage issues"
+      https://news.google.com/rss/articles/CBMipAFBVV95cUxNb0dSbjM4eWpkZ2pKcDJScFNNMUtyZzJ5SUMzcGFwZ01zdHh6OWJGcE14bUpWbEtKbzZLeUZTLVNRSHEydjJHVzRnSDBNNTlqVFlxeGh1bTFPS21rR2FUWjRXWGdHaFV5Um1PNGxIaFJGUE9BSU1DME8xVGZVeHp0TjF4ci1vTXBXYlNsZTh3T3VzZVpHZDVWWHNtMTlKcTZyZDRPVw?oc=5
+    • "Broken Arrow residents express concern over drainage issues from development"
+      https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcVFIQnJYZExiNnZLazcydXpKYW90MXlmb1lSaVRxS05NY2VQLW9NMks1VWh5QzVwZmFDdjZsclNZVmFITHliN3NQWWJhaENFU3U2TmNBNl9PWXk2ejVVR29pbjd1b2s0OWRLeEVYWW9SdW4xU1BNa1A0ZnpKREI0UldJWFNsclU1dktncW9DREZkRWVoYjRvdDhKVE94VmpiaFVqazhkWU9oanBkWUhNZjBvSDNOWXZSRnk5M2szRE9LUC03RXM3LW56eDBmX0Q5d2FreHV1bWdSWmRmU2Z0Tmpfc3pmVWxNNURmaUpxcXNkVk1EMS1obGFuTGZLdw?oc=5
+
+  [Pothole / Road Damage]
+    • "OKC voters strongly support fixing pothole problems"
+      https://news.google.com/rss/articles/CBMiigFBVV95cUxQdGhyVUJZbVowYjBMTjh2WFFKSWhhZEJYWHdjRndDV05ISC1wR2x5WjA2dHZHNVNsUmpkMmM3ZTBSbDBaazFpa3JwRC1oLTRvbmlZaVVFNlhJNmRaS0ZubEtkQkpPZlNUWGQzSGpoV1pFRnZBNF9wbW9Wd25mZFhWcGFIRkhvSU9sY1E?oc=5
+
+  [Public Safety / Crime]
+    • "North Plainfield residents call on officials to make intersection safer"
+      https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0dDM2trQlA4WHBTYWpwdUxDOURHX0EzVldFV1BVQnlOcEFvVlBZR0VIcjVheFBob010QXBEVjAwYXY0ajdHZmI3Yzc4WGRIcXNNdUR0RU1YNlUwbUtkc29PZTFNWjFPWkNMdzItaVlfYVpLM1JwSTRINGRaV2xNY2JjQk1MNWpxU1hENkNPRFhKRDJ3eW9RX2FxZlpNRTMwSXc?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 35 news articles reporting
+  citizen complaints about city services in Tulsa.
+
+  Top issues:
+    • Water / Utilities: 63% of complaints (22 articles)
+    • Graffiti / Vandalism: 14% of complaints (5 articles)
+    • Trash / Illegal Dumping: 6% of complaints (2 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

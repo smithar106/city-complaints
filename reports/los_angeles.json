@@ -1,0 +1,272 @@
+{
+  "city": "Los Angeles",
+  "slug": "los_angeles",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 147,
+  "total_complaints": 82,
+  "complaint_rate": 55.8,
+  "categories": {
+    "Water / Utilities": {
+      "count": 24,
+      "pct": 29.3,
+      "samples": [
+        {
+          "quote": "Water supply failure in Pacific Palisades",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZHN3TFpBSExXS0x5ZVQ4Ql9HSzNJeDNTSXFSNXhLeEpnUlVBcGMxbWZMQ2M0a0NEcmU5Z3lTR2RIOTl5YkU3VkhaZWk4U1RKWE5kUjREbnoyNkdQanNudXZZUUc0THVsUHBTMXNLVUVsWDNmWFY5cEtTX0ZUV0lxWlREUWY3cF9DQmZoN1liZXNFLW5RYUYtaWJJNjJLbFVwRUpQS29RZEZuQUhNNmJSYkZOSlZ2ZVJ3Yy16R0t4ZGFSUTVqQzdkREFOT25ySGlteWktVDgxc3lacEhmUjFGNEhHTmpBeVZrdDRn0gHzAUFVX3lxTE9VcHZPaEhlVFB1dkZ5eDVlZVRjMGI5aTM5Q3V5UFdqaU10ZUlnNllmVnBGVFpZTkV6VUtudEZWYmxTM0xHUWVFVjJlcE5QQThSZm1jWXpqcXdwTXFEeFVvYjVzcFFCSHRZU0ZJekZKLU9neU8ta3Fkc2Q0SGNJOFdlMWNIeFRpdEd1VWlwdjJwRXA5NkJYZmlvbGRPZ3BKWGNlamRqSnVseDFmN1pOempNc1NKTUtfMGF6OTBPd21FN1JrZXpiYmxxNzY1ZGUxVUJjRHRQMzlMX2tfRU91TEpVSDNoeDFETjlfYkJqcGNvSE5rNA?oc=5",
+          "date": "Sat, 08 Mar 2025"
+        },
+        {
+          "quote": "Large water main break floods streets, impacts Thanksgiving plans",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmxTSDlSX1J2SGRDUXFCS2JLLTlVdmRjYUQ3X2U5MFpXWUdOVjFMYUk2a0p2WGlNTU5KTU1CVndscDAycU1JTnM2VHNUbjFmdjhhOFJtb0Y2OTR5SWpsY3BDZEo5UUt2eVQtZDczNVpsdGpKTmNVemxmTG0zampfZk9YUmI4UW9zVXFJYnRkd0dkOHQyUkltYVBwYWVHUnhKVU8tM0F3dEJIOEpmaGlSZ2k4WldkUjIxNmU4dWhYaUgxdlHSAcgBQVVfeXFMUEVVa2NLSlpUWEIyam9iU0VFSWlwd3FqVUxCTnp1V2R1Z2ZhaXZ1SmpZMjhNS2J0NGpyMlV0bEVpeF95T1pnQnNkNUpRQ2RPT0Q4c1hsb0FWbWpxUVFrbzBVMWxKd2NFX1F5YnBvTGFOTlFrb1BOTVZOYURqNGMydnlBSHhPTndJMmhoM3dsYWFJelRKUWV6dHdlbWloVEplbjhpeXU4Nk9sbUlZVjR0WjRaWW42aVJnbVhYRHVOeDlkcTU4RnFVd0o?oc=5",
+          "date": "Thu, 27 Nov 2025"
+        },
+        {
+          "quote": "L.A. tells residents to turn off tap due to water issue",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzZNdzRYalR6c0FmeFBUQmhxM1dRWHJjUld0R2tFMGI1WFI1Ui1DYlZEX21kOEFaREVRcDZPVXp4TG9WUmE0anM2UHI0b2tidlVIekozWFlYd2JadG9GOTJFcVVsazlpOUIwbGY5UEFOWURMalhnSXRVT1VuaDFOMXlYZmZmWWNkanNPTHQ4cTYzUXpfWmRUSk9HWEk4NXZyX1p3ZmU3TWFwVkVDbmlMb0t4OXVtcDBH?oc=5",
+          "date": "Sat, 09 Aug 2025"
+        },
+        {
+          "quote": "Massive water main break rattles Fullerton residents",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOamVRUThNUGVrUW1XSmdKQV92Rk5aUzlHTkIzdVg5WWtlWEtjUW9MWDlOZnJTaUItak9ZM0JMam5JQ1NqU3FpYUlLR25tT0hnUjQtMERVSWlkT091RHhfcENGTmROX1k5VXEteFRHWHF2V0h2dTREcURITjZrd2t0TTF0VVFiZ9IBiwFBVV95cUxQR2YxQkc2VWJLQnY4ejdRRDJXb0RhRnpRNkVoNlhqRU9xa29iVjZEMEpkTVVtSzFOQ2hYWkVkYS1GWVZTWjVuR3Z3X2d3MFVmM3ROc3RTTUowVnduUWQ2ZGFaemV6Q1l5eGN0Qi1uVWJheC1NejNiMldidHNZZHF5X1ZybVdrcHlZTjFv?oc=5",
+          "date": "Sun, 07 Sep 2025"
+        },
+        {
+          "quote": "Water main break causes street closures in San Fernando Valley",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVlpxaU11cERZSEEyZHJuakNKYWxQMUlBdndBdlFJc3pHekllbFhGVFBBbG1QSVdZY25hMkg2eFMxcWc5WGFTTzEyNld6Z05oVk9LWmo5dm5DNHM5Wi1hZWhfcHJ4SDNVLUt4UDhQUGgzc1VZdHlHdDdSZnZHOU9aZk9DOA?oc=5",
+          "date": "Sat, 12 Jul 2025"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 18,
+      "pct": 22.0,
+      "samples": [
+        {
+          "quote": "LA Council seeks restore utilitarian street light infrastructure",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQkFCU29GQjdRbG90a2J3VjBDODZtNFRNQzRTX2ltR0F3SmhjQkY0enhhdzJVbFRtZDF1VTAyZ0xCeE5HdzMyRkJtbnVxdnZWYzdWNkJyako5cldweGs5OTNONm1TMGthVmJNVkYwYktmWUpfaFpTMzRsT2VmWG5iZVNqV0VsazBCeENNdXMtQXBtblU1aFBNUkJFaWJVNnV3RFUyMzRXT3VIUzdxQ3JB?oc=5",
+          "date": "Fri, 27 Feb 2026"
+        },
+        {
+          "quote": "LA streetlights take year to fix",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQblpVNU9TM2RLQUtuZy0yZ3pZbHFUaExXa09hZ2xfOVdXRFhXdmlsb3RjLXhrZE9wSWR3eGpXY3Rjei0yQ1FHZmNWTm9DYXJvbnUxTU4yWGN4ZExiczRoQlN2M1oxOVlWeU9xQV85VlBXUVpXUjMtYzFzX2tmbGVVUmxaaXU5LUdHOUZtU2Z1Z3VuQUtCQ3hMTXhNNnBBSk82Uy1uNXpTSnZSNzM2a3NuRkVsLUFTZw?oc=5",
+          "date": "Sat, 14 Feb 2026"
+        },
+        {
+          "quote": "Property owners asked pay more improve street lights",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MN19QUGc5cmtyS01nRjY4b19rMjNDbFkzbG56VjhVVEJwNEhkTkRHdk56SVlnQk5lcFVUZjZ4YWMxMWRObjZ1QUg2TV9vS2VBN3l5OGZCQ0dBX0JlN2NBWHZZQV9IU3pOcjJrdWdyOA?oc=5",
+          "date": "Thu, 03 Jul 2025"
+        },
+        {
+          "quote": "LA councilmembers announce motion for streetlight repairs",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMGxlb2pTR0NOTnNTR0dDWjBlR2dqRjE4TzI2MFBJdHAxTVVQdW1rS0dTOHdiQjQyOGp1ZEJ5WlNad0t3VjF3NGFiMmRIOXZadGxZTkRGdS1jMlc5dFh5X3hvODJyUGxFQjFoV2xpZW14YndFSzlmSXFteGw0YXhXTTJxVTVGRk14VGNzbUpCUHgweFdQMEJPYnZSSDVBVUo3cDliVjY4V0FHNGl0WmZLOVFJOU5PQdIBvgFBVV95cUxPMW5kM1Jrc2V1ZXFzLUZCdmZSeFNTWFhRV1Uwa0ttcURIUTNDd1dNeXhNYmlXRjZJTnRmNTBrUWdTMEU5RHZJM0RCMG9qMDE1SXhjMlNfMDVtU282ZnM5Rk5jdS1fbGE5OU5vYk55WEZWTVFsTUg2U3Vna1htdGZMV1dWMFdSdkkzUGJBVDhLMmlXYTBQUUo2Vl9rdFgtbGpnQnhoV1g3SHk2YThmc1ptQndoUExaSHFNUVVfZGxB?oc=5",
+          "date": "Fri, 13 Feb 2026"
+        },
+        {
+          "quote": "Proposed streetlight team speed long-overdue repairs Boyle Heights",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYkxiQlFiNnZtT3A4aUlvRXM0cmNISmhUQ1NRbDZtQWp6ZElNZlRRWl9OTmNiY2VfSzlzOGRVNHVOYUhxdndESllqY3ZnRHhMZGNjNmNlVkstN3BfaHB1a2ZBRVhHdk41Y3M5TkpvLXh6LU5rTGlEM0dvdi1jNzdYNEgxS2pkeFl5dW05d2JoMWg?oc=5",
+          "date": "Wed, 08 Oct 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 12,
+      "pct": 14.6,
+      "samples": [
+        {
+          "quote": "LA's 2nd Street Tunnel covered with graffiti hours after cleanup",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTTlRMmZLZXpQNjRBMl9SbkVNQWRKeEowSlRDSHIySVdkNnNpWHY2aHZ6UDB4RXdIMkVjVkRaU1dmVUdlUEUybnZKM2JFNEIxSzAzbk1BbGQzbExReVE2WGYxaDF6elRHNlJmVjBpNjVuNU9OZ3ZEVnlOdW52SU1xM0ZuWV9abUJFc203VWRDX19ybU05ejh2SjhNZ29YbFZROFU1c1pxcVdfS21JTGI1MzRLYmVhc3ZmeXkxQjQ5RGlCTTRCSFRFQWx30gHSAUFVX3lxTFB3dmFDTUMtZTlISjZ0VHNhejNPc3dDV0tybzlONHpHb19UcHA0NkVMQUkzVUlNS3M5TjVzYmJPa0s0Z3ZWSDZuZ21neUxyU0dtSkNVY01teVNqNGZZLTR2cGxpYXlqcFA4M0haQ2hnTlNHVTdxQVEwUDhmeUNYZjN2akVmLWRDSklhT2RBVHkxYmZneDVlMll4YldGM1FNREF1bTE1OFVwbVlpQTBYdG9EY1QtaWtaOVdqd2lRQnBxME9VanAwakN5dFhfbWdPZDhqZw?oc=5",
+          "date": "Mon, 28 Jul 2025"
+        },
+        {
+          "quote": "Temple in Northridge defaced with vandalism",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZm5rOUJFWURsa3ViQTFfWDFpbXVxVGl4RUR4eC1BSjY2blJHWFZxSlowWlZCT3lkNU5YTnpUb01BZzY0UVVxN2ZLRi1HM19rVlZFRHNuOWZ3TFdadnpJNTcxYTI5eVNWaE5VdU80RExvb1FUdVlDenZ6M1dUZzU0MTEwY095c1hXUWcyLXRkREpkTW55UUVsVVNYRjZhWHFNbWNxM1VYbU5SenpkbE4wZml3NlVlcEdkTDhiSw?oc=5",
+          "date": "Sun, 27 Jul 2025"
+        },
+        {
+          "quote": "Officers make arrests for vandalism tagging soundwall",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeUJyV0QwYi12LWt5cl9xdFpHeS01WExTaXZZVzhWNlh6N01wTUNHMGE5U0ZEQkVwbk5adVQyc3MwdnhVZldJYVRYWnk1anZKY3RmVHNoQ012X2FQQmNGTDZfMDFpQU1TQ05DZWs2T216Y0lYS3ZwMTFYZy05S1llZ0hIT195VjhUb1RwSG1QdGlZamFMWXY1cVVPUi1iMzFXMC1WZ3pwRXNibUZqTWM4ZkZ6RUpJUUwyNWhNMDQ3aDNzRm4tV0pPTi1BV09qUQ?oc=5",
+          "date": "Fri, 14 Nov 2025"
+        },
+        {
+          "quote": "Property of Jewish temple destroyed in fires vandalized",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRVlNU1dsVEh2b2NHNnB1Qlo4MDlZdDc4V1Z5TllvSWd2WV82SW0xWTZ0VWNEdnExY1R0UEhIUkVqbkMxU0tjSkc5Y2g0a2N0cjBTWTJXcUFGckg1cEY4c2pKRkdVZjcxMDdvdzM1NnZOTFZQbHJMQXhtckFtUGI5Qk5WdHZ3TldiUW54UQ?oc=5",
+          "date": "Wed, 14 Jan 2026"
+        },
+        {
+          "quote": "Teen linked to antisemitic graffiti vandalism arrested in Burbank",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFNyVThfUEt0V2VxaU04c3huS25YM3k2Rk1CT2tWSFVBWXFiWm8zOTJpWFN0cDhueGdkZXFlR3VZU1oxY2ZORndYaGdLU3dmVS1BT0lZM2pObFJHN1VoZmJaeDJ2MXVJYU5mQkcyVk5XQnhRRjRveTFKYXJVWUlnZnhhSnJXcjhCTGdLZC1qZ0Y3MDBDQV840gGfAUFVX3lxTE5vQ0FXTFBtMHllRGViMzBfYzFmT0J0Y2dVal8xMVRwSk1GOWV6MWtuZlZXdzJ5S0ltc2doTDRvbUhLQnplclN5QWFvSUcxQjNhS0Y5Sy12cHhsZnhPcVZONWRsX3ZXSjl5Snd2T1lMWlZWN0s4ZFRDSWtLRmdXY3dvQWJKVEY3bFItYzl4ZjB3MVJvN0Q0R3lBSFBXUkh1SQ?oc=5",
+          "date": "Fri, 27 Feb 2026"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 8,
+      "pct": 9.8,
+      "samples": [
+        {
+          "quote": "More than 100,000 potholes filled since December in LA",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLUplaUVCVHZjNTlQVWhSaGZ3SG5aNGJDekU4T3haMlo3U1p6bDY0WWpUaGlzaW03R3dBeklVZHpKRGFoRjlUWUZLLU9pU3BKa1o1ZkYxRUtXX0JCN0ZFVHAzMjlveFR3akV2VTlqek0zM2dFbDZwV2lMYUtNWEsxWndheWdIUEZYT0x1b1hSRlVzdnJlVjZwRVZnT0NSNmlUNDRvVExWejM3bHRSbTdwei0xSnRfaFhMMXpualZYWTFWV1NxWWdsZ2Y4RWd0bFU3Z1kwVVdqbHNrcWE2aVZwYlZzWFI3WEdhb3V1ZlUzOXhRcUFm?oc=5",
+          "date": "Mon, 02 Mar 2026"
+        },
+        {
+          "quote": "Crews stepping up pothole repairs after storms",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVS1xWVgydzEtOUpvcWVPTzVBSi1EZnZtRWJxT1J5VWhfSm16c05tN2lwdkptQVU1VVdvSW9FN011eVl1aDJBTXUzY0dNRDM3akVzVHk1NVBYZ1dxSEhDQXJtNkRubF9RN0dMd2xkWFZTZzFLZ01LdE5VY3JGRDVCVm9mMFFqYXc5eDRxMWdrblItamptWHBGMXdoaWlBUjdUajRuTmJwaFdsd2NydWJTY1R30gG3AUFVX3lxTE1seFl3NVhWWDhROW5NSDYxWWJVNDFqNVlnYnpiZklfcmcyQ0ZWRGV5V0x1NnpFWU1KVTR4TmlNbk5hNDFIeVpPbW1hRFZZbHFqRDQwNGoxUTJqU0NnbFNBOHNPU01EUUdFajFZTFlaa3FXOENpdkYzQVFmQU94eXh1RGNXdnNrYUlRSmtOS1pBUlkzc1NOU3VSeUFhcHRXb3FuM0t1T0t2UnJqZnFKa0RBdkJkQ2RHbw?oc=5",
+          "date": "Sun, 22 Feb 2026"
+        },
+        {
+          "quote": "Los Angeles repairs over 2400 potholes after storms",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQenhSUkFSYkhCdTVtNTNNU1BqS2lHaFc4TWJSN0MxaDhkZ3cxMXhvRzI0Um05cXRCQWoxaG9VM2c3MkpGcHF3WUNQNHV4RXA0SmJSVjJEOVRXdGtYTUR0Q3FwYmRJLWdGcjdsdHZwYi12NG1kUHN3NmRaelpaWmgyR2dvZVJqWG5nMVZqaGRR?oc=5",
+          "date": "Sun, 11 Jan 2026"
+        },
+        {
+          "quote": "Storm-caused pothole damages more than 15 vehicles",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMS1uYUlBakhNU2p3aXYyWDJvTmZTX2paNTcydTFPUTFYZnlwWVRFX19rc1ZNM0ZUcWVvMFpKUnJXN3ltSFh0UllUZm1oaGdpVkNHV3NzZXlBcGVkc05QUTc4bWV5dlQtOFQ4R1FnSlF4SXRYektoTmtHV1UzSGY0bFdSRlRVUWI1dnNMaHYydUpCTWZSWUc4WVhvUW1DUDZncUp1MHViQURqcUhnWDUxeHBR?oc=5",
+          "date": "Mon, 19 Jan 2026"
+        },
+        {
+          "quote": "Pothole season in Southern California reporting and claims",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVBhajNFVHVxUE16Q1otM1g0VjFzcVo3clF1MG5DaEd6dGpyTGlYMzNiaG9lNjRaZDFFbTZaT2VUSzV6emw1YXdfekFhUkFrUXM1YjN3Mjc0b1FkVG42NUNjQ0hBeUF4QjduZUtNVjc1Tld0Ykw2TkllUHg5cXFjanhQVTJhRGh6VWtNUlEwaTc2LVdUellGbFJMUEZWQUY2NkMwM1g5b0FVcTItMldyeXJfTDZyaUk?oc=5",
+          "date": "Mon, 07 Apr 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 6,
+      "pct": 7.3,
+      "samples": [
+        {
+          "quote": "Woman, 85, waiting 8 years for city to fix sidewalk",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUjJhVG4wMkhTZ1dxc2Y3RjZUekM0VDVTVFN1X0hqNWlHM0NuTTZxMmZWWHExeGkyT095Qkk2YkpnUVFnekVrczNvaERubkw1blMtUm0tMDJydW12OENzdG9XN2RxVVRTa2FHUG42NlNqRlpvY3U3VFFoNE9naGlQSW9ZaGM3bGlaemhaNlpB0gGTAUFVX3lxTE03SUdENEFuOU5sU0hnM2V0NnFSeEpFZ1Y3bVVJeFVGbUo5SWNRZl9MVkdVV3hqYllPUlZadWhPSjJlc2hjX1AxcF8xLXBQTDg2cEl0NnBENWI0WllDX2dqWU5zMmRZMTdrd3ZxSk5oYmJFWFV0bEFPQ1hFMnl0S1JOcDBpcmd1RHZEbG05Q1d2RXM1dw?oc=5",
+          "date": "Tue, 05 Aug 2025"
+        },
+        {
+          "quote": "Woman reaches $7.5M settlement after sidewalk fall",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVTlrU3ZNQUxqS2kwcjJnZjE5ZnJaTXhFLVZNUHRNQ2s5YWxiNkRxYllvUnlxT0x2cTlPc3dleDEzRUduS09vSkVUVGY2ZEs0cVA3NXdsWFNBaUp4NEhkeG5uMFFrczExYzA1X0FMM0Ewank3X2dMRzNJTWVnUWRrb9IBiAFBVV95cUxNU3RseHN4cnNkaDJMSzN4d20xS1IzWnNMMGxCQ1A1T0xwcER1MzB4MXlxNkxJbHh5M3dUQWd3c2twSXZFR1kxTGZ4WTZtZUhKcDdvN0FlZ21kdzZlOHB3MnFnQ3d5UksyeGVUY0E0cDdvNHUxa1JjNUh5M0loZU9DWTZIMVVTV0dV?oc=5",
+          "date": "Fri, 17 Oct 2025"
+        },
+        {
+          "quote": "Teacher wins $7.5 million settlement over fall on sidewalk",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUjBUbXB1S28zRDJwaEVjZjNlRFY2Zl9QYmtQV0JHUG5MLTY3SU9EaENDSDNCXzdGWVNHeG5kdUNTSVFxcnZ6VXo0WTdrUEI5dWRrZ2RSQ2N1Q2M0a3VUcm9LRlBLLVVES2tZR290dkRaQjh6LXotcUwzTFRKOUZVbUdHU3pxd08tQUZkNUZZQWJuUFVFQ0haQkIyV1VVVkRmVmt0YVRUdUhRQzFqbTA3MURpNGFkbmd3SkNqQjdoalRkeXBy0gHEAUFVX3lxTFBSMFRtcHVLbzNEMnBoRWNmM2VEVjZmX1Bia1BXQkdQbkwtNjdJT0RoQ0NIM0JfN0ZZU0d4bmR1Q1NJUXFydnpVejRZN2tQQjl1ZGtnZFJDY3VDYzRrdVRyb0tGUEstVURLa1lHb3R2RFpCOHotei1xTDNMVEo5RlVtR0dTenF3Ty1BRmQ1RllBYm5QVUVDSFpCQjJXVVVWRGZWa3RhVFR1SFFDMWptMDcxRGk0YWRuZ3dKQ2pCN2hqVGR5cHI?oc=5",
+          "date": "Tue, 21 Oct 2025"
+        },
+        {
+          "quote": "$2.3M approved to repair sidewalks in San Fernando Valley",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaEFNVjFvRXJwYWFGOUE1MDNpdlFDZDBldzBSeGV2bUFXTXVJUW85Q21DNGV0SVpUdGotdEdyaFg5X3JSVURsRk1nX0QxelZHdmxZWUtjVUMxOXhpOS1wejZPVGxWeVZSRENyVFhybnZNUjBSd1VrVnlteEFQVG41V0RyNXo1SUVlNERvX1pzZml5UUxVWm5Pc1Y3UnZCMDjSAacBQVVfeXFMTVlTTVZSU1Q1RjFFb1Vvcm4xSlpiandSc011V2hhVHRrTEJPdms4UHd1alh3LTFoaVRTZURReVAzVjJIMDBVaTRNdW4wVGVtdU5sNTJ2c0psM19BM0J2Ti13MllHUU5UOUFzdDkyOTZIRE9IOEt6REtqeDJ5bUs4cDJzNk13Sm5Fc0UybkdlUXFyQ2x0d1Z2cGVsM3drZl8yYmphSkoxd0k?oc=5",
+          "date": "Tue, 25 Mar 2025"
+        },
+        {
+          "quote": "Woman wins $18.5M after sidewalk fall leaves her paralyzed",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSTFLUWF4a0pFQW1pc0I4V3BKUWJLQ1EtdnkyRERxaDlldXRqU2RiSmhtY3NlZi1pQ3c4UW1CNmlSQVJlem5aNUlnWWY3RHV3dS1sTnItY2p2MGRfc2lNSEg1bEhCM0cwNkJYX3p5TlZEbU1KUC0yeU4yREdoYmMtVUJCYWVUY1VHR3BLM05zUGhMZ3BzTW1PS0xvUkM?oc=5",
+          "date": "Mon, 24 Nov 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 5,
+      "pct": 6.1,
+      "samples": [
+        {
+          "quote": "Long Beach pays millions cleaning LA's downstream trash",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BczJtY1RMWVFwVkhoeWl1N3JBTndDdy01c2xkRFc3bENVZXB1dEgtaWtvYWl3NnQ1NUJUNG1MejAya1FiOUNQMExMclIteEhxNHlwcTJGdVppS0NiZXJfZU5kbUVLWkVHWFdOdTd4RXR1U0xlbEE?oc=5",
+          "date": "Mon, 29 Sep 2025"
+        },
+        {
+          "quote": "Green bins clog L.A. curbs in organic waste program",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1pqRjlsY1J2QjBBeXBFYmFJSDROcGd5bVRWQ3hQcE4tYVF5MjlDVFhUQWduOWRvNjdxTWFJLVlaeWZud2kxQnI4OURDekZPUWhiMUJCSHZERUVJRDJsTVRrVTBfems0QWFVMzdXc0hGaE9XQmJQMi1vdWNPenhHRTlNanJ5NEhacmktUVhfcXRaRUNEeG14SDVMVHF5Q1lmdmlBS25WSUxjYWlMZElaRTZWbDgxbHItNzBSSHlJWjNhTTB1MkE?oc=5",
+          "date": "Sun, 16 Nov 2025"
+        },
+        {
+          "quote": "Trash fees for LA residents could increase by 54%",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSUVUSUM5TUNaM01ZZk5aRmg5VUhLdkpyZUNNQS0xdjFrVGw0Qk96c1hvOFRlb21wVnBzeTM2QU1mYUFzQUk3ejd3elNMOGpMS3Zab2J4Zm9zZFBjcDM1eXRrZ0hPUEIyMWduUGZEZjg5N0lsaDA4NkVQN2ZIeDJFdElvY05NcXBLTWRmT0o0SlpYR254RlA1UFRXcHZCeTDSAacBQVVfeXFMT3JvYmlxM1JnXzZBUDRndm0ySnBWQ18zN3k1c0R0Smx0RzJhSGlqRnhsWUhUMm5JMV9QdWFVeXd0aEtUamY0dld3amtEUm4wMk5nUkFCcTM1bTFNMWczOFFPSHlLOUROenAyVDJqRjgzTnBzbGlMSWNTUk15YW9VWHFVcjVkTzRQcFlWOHdtQ2x0aGpNQjVFMnVYbmJVcXJ1WHk1Q1FOMUE?oc=5",
+          "date": "Wed, 09 Apr 2025"
+        },
+        {
+          "quote": "Multi-million cleanup budget but LA still looks like dump",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWmZ2dElZR2NBbm5kdEh2d3BWbkRMZkxaVGp1WTNzX050bmlTam40OWp5V09kUE9xZmNyZVk5NHh3ZnRKYXJYem5oLWNGeFBxMnh5LW5aVjZ2U2trZ1I1YlNmWUM1N0hVaHlkQXBNTWJfbkEtZmNVQjJyWnpGV1JUY2J4WHJjWUZOTVVPMnVnMHNvWTE2Z2swS2pOVGpiZ28?oc=5",
+          "date": "Fri, 12 Sep 2025"
+        },
+        {
+          "quote": "Stinky landfill torments neighbors in northern Valley",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaS0xLThpZkp2Vk02cU9rS3lhNktsRzNvZ1pyelIwUS1VRDNPU1U5U0hkb2liT1R0bDl0T3FDYjlqYVZONWs1cnZzRGxsNURaNEI3S0pSVlVoMDZDTVBCci1QaW5ER181c0JPV3ZCSDU1MEJLTVdCdDhJUTRRZ0Z4UXYxcUtoWFNRQlBXX2FJSE8?oc=5",
+          "date": "Tue, 11 Mar 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 3,
+      "pct": 3.7,
+      "samples": [
+        {
+          "quote": "Ghost kitchen delivery drivers overrun Echo Park neighborhood",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOGJTTndFOVNXVnJ0djdPSFBHSmlKUDI2VkRaa2taRWxoek81a1hpTEZOMXBFaURJUF91Wm5CSUotbHM2V1JzT0swcDFmM2FpUmpBX2M0Wm5LYlNRc05jNDgyWEx2RnBUeWJQZ09Hb2tLVmJ3RzZTV1dKNmNwR1ZSTjNMSFlkenEwektNcFpkUzVYdlZFSkhNQVdydVJMTGt1OHRaT0JLNWE3MUZWaGFGdnVGeC0tb0hXZGhWRzZiaUxuaGRYaDJvMW0yZUxkVUNZTVBfNkZsMXVpWlIx?oc=5",
+          "date": "Wed, 21 May 2025"
+        },
+        {
+          "quote": "Copper wire thefts from city infrastructure due to weak penalties.",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQlFNNUlRR1F4LXVnVXBoaThLTGtlckVhV2xTQ2I3ZWU0RUh4bVI4RW5XTWZwUmpld1NoLUgxcWRhd0otS2RPazA1Ykw0a05ZQVYtbVRYVGhFbkNrRWhxUzJoUDg1Qko5SUN1ZGl5cVJ5Ry1uWUh6SkF3czc1OVF3UXlOLVpSdmNCVDBkeW1pc3pORkVoY2MwTEQyYjlWZnlaOFBVOFhVRGkxX05hUHV3Z1k4NVlWeGw4eTZOemZTVWZWd2dmbThoVmhtWdIB0wFBVV95cUxPNTdvcHZFUWYzbE5QY0RHSmhOTDhCSk96bTVzeU9tSnFMZFVwVGFYOW5Pbk0wYnR6SDlBZTZIeU5EcjBKMnctZGRfTF94ZF9FRzJydi1Jb3d4bUdEODVTeHRLaGNiQzBZLW53M0JuQ21DZ1RMOHRUQXFJUlVPQzA0Sk0tWWVIMGxIVzFESi1halZaaFg0VkF5TDd5cVUyU3lZTDhaQmtHanM5WTl3WENsNlJYVkF1YURjNDRadldXRExMYkI2MkpPSE9INjFOcElYVHpz?oc=5",
+          "date": "Thu, 05 Jun 2025"
+        },
+        {
+          "quote": "Abuse and filth at LA tiny home villages; officials did nothing",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZEVubk1lV191TF9kT0hDX1J4VkdQSFJTUmRUZW0wYVkzS2RaZE5kYTlPSUZFZ1M3YTFUXzBnclZfMTZpZHp4VmRvU0FiNlNCVGwwam5PVFpvRU14WG5Ta1ZqV2dqYktjcTkzQ1lzbDBwSUxuQlNDQmQyUkJCZ2lpZ0p6cC1LZUEtWVprOWZCQTBibzR5UmNQdEtPWC1UWjFrci1HQWs3cktkMTkwYmZnVENsbTRWOVZVTEdZ?oc=5",
+          "date": "Mon, 10 Nov 2025"
+        }
+      ]
+    },
+    "Noise Complaint": {
+      "count": 3,
+      "pct": 3.7,
+      "samples": [
+        {
+          "quote": "Neighbors fed up noise pollution from Waymo cars",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWm5BZUp0NEh0VzRjdzRpR09oRTJLYlg4NFZZT1FqaXZiNkdZS2pwMHdyYXpsTDBNUWU1V0RNdkN2R200cUlyM2NxeUUxb0t4YW84YkZPQ2VaZXdxb3RnV3pOS3ZraDdacHh4NWE4TFJ4RzJ4NTNsWVZTZzY3ZExjUWtPVFdJLW96MFRWVUNzLVdrOGPSAZsBQVVfeXFMTVBkU1JqTEJqcE81Wl9veW1MTTdjMTFuTVkyNDZ2cXhUZVNlVC05eGhLamtUM3JweGZrbXhYN3lqOWE3MG5lRGlIWHZfQlNxMHBYOV9UZjgtQzRMeWNpeTJ5c2V1b3k1dU5wczRSckFtb3FJaFZMNmZkME84TzI4WVVIbFFGak05ZV85RUwzdV9aYnJ3alh0aUdBUms?oc=5",
+          "date": "Thu, 29 May 2025"
+        },
+        {
+          "quote": "Man arrested for blaring horns and alarms on Peach Avenue.",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFpQZ1ZDVDlsclJmNEVZOE0wcmlrMWZEUWI2aHdEMzNJdjIwaEZxYUpnRHNRMDhaTW9FNnNSUkJ0bWV2ci1ueWExdW9fS1YtTHYxdmR6QTZNeFlmSE9sZHF2NVRFQkdHSWhKWnQwOG5tek9lbEZtdnQ4QU1YUmd6TGtjcWRlODFFRU5hV0VvaGtncTFQdUs4QkFjTHFuTDhSTk1rel9rZml1c045eTVkVjhlMUR6M213V0NBaGFLdWtMSzZXSndn0gHMAUFVX3lxTFAyaEZiNnIta2pJdHJLeWZleUIzb0oteFFhd0dJaTBrVXJOM3F4eE9VZEhMVVlkdGdpX2ZKNGsxcldiWW9ORFJIMlFJRUowUjBIQkZISVFNYTBWMTZUdE9mUV9nTmdMSldoMFhlUVM0Z0ZTYjBHWmdybzRjOFVyYWs0ei1EMzhHaGVVc2RaajB5b2kwVWZTVVg5eDAzd282ZHEtWFVKcHZ1azJxdV9DaGE4SWJDc0FpOVRKNXJJUG4wQmVzQ0YzMV9wU1daMA?oc=5",
+          "date": "Thu, 14 Aug 2025"
+        },
+        {
+          "quote": "Waymo faces escalating noise complaint tensions in Santa Monica",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX3JVaGlvZUo2clBZRzU2cU5SZ3JqSDNUSnA4dVQ0SkVDLXZOdVg5bWNJUnE4dE9tNWpUODQzeTB1N090NlhORXp0LUM3UWhYWWxsTnpiSmZBc05TaE5XVmZ6X1o5WUJ6QzNKSjlFejl5cDhJOFpVZ2p4ZTJLXy12MVFEU0lZQ2xtTWtWcTgtZm5hcEtCREcyeGdrM3lmTjliUnptNVdzM3JfN0hudVE?oc=5",
+          "date": "Mon, 02 Jun 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 1,
+      "pct": 1.2,
+      "samples": [
+        {
+          "quote": "Sewer overflow floods Noida streets, residents fume",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMVdXdkhlSF9Ka0Vpb0RPQ2VySVVwd3Rhb2dfMElaTXhHWlRhcEc1UGNsSkl3M2g3YlFGX2Rkanh5d0hWeGQwVUp1anBheFRhMW1zbkx4TXotMDlLVHZkRk9PNk5ReFk1VVhkZVFHRlpGRXRVUmdwcG9KYV9wU2VuZC1MVFhoZG5WZWoyYW1GQWVXWnJCWWJSS1FRWUpEVFhteWJ5eXNka0M5YUIyRDYweEJGQ2d1S29qTlQtVGo5SVPSAcYBQVVfeXFMTklSMWY4NTRPMDA0WWRuR1BHT2tqTHlyVWpXdjE3NGs3ZkxNMi1SX0pxOWJNWWRLUFN2bVpNaWVpcWtEV2cyTkFQN0RDMDczYXhaNTdjQzBoWHFNcU50VWxQaE5OU3NGQVJLNUlJN3RoSG9Hbm1ObXl3emJtcVFUUnR3R1dSY0pLWUlaYnluV1JlTHFvZTZQdHVyUkl5b2VhMDdsSUQtZTBFdUU2VG5KWkc0ekxydXoxSUNyX1VyU3dBNEY5VlNR?oc=5",
+          "date": "Thu, 04 Sep 2025"
+        }
+      ]
+    },
+    "Downed Tree / Debris": {
+      "count": 1,
+      "pct": 1.2,
+      "samples": [
+        {
+          "quote": "Army Corps mishandled LA fire debris cleanup",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWGZqZVVsaUJmbEI0d09kSU9HazF6ekhhOWx1bVJKdWtGUGVoSVpZR2w5djBVREhwOXdwbWg1UkY4WURnM2pHVlpOOTdPa1cwa29YdmppUk96LUUyTWhDWlZKenlkU25RdWFSX2ZuaWJBcVVXSjIzU1M3UW5tMlZTQ2FzVkpiMHhXdWlJUU85bURDd2lp?oc=5",
+          "date": "Thu, 07 Aug 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 1,
+      "pct": 1.2,
+      "samples": [
+        {
+          "quote": "LA City cleans up homeless encampment after resident complaints.",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNjI3NENiU21rdl9UMTliTmx4TDNIU1ZGTlZFZ1ZNbmpWQ3pUTTdvUFpJLU96aEZOeEtUbkhnR0NESDYzMm1rQjlHQ2p5bFJnQ2xkS2ZXbnpYc2FmNHZrUW1FMnE1blZxUUhoSFNIUTRVRlp5Umw3UUVRM19Vb1o3OHVKQWd2SzdlOTV4UV9kUnVJNFotelNSOVNib2RmWm9mcnBNWnVHcDlvcGFjdC000gG0AUFVX3lxTE95SURocjNvMmNyZHpSVGpfTDNuZGZ6bmdHOFNzUmJmQU9ySWhfWDJXRXU0WEhGYXRyY0pBZG1vLXAwUEJKbkxtcEdHbmpEb3Npc3dsMXF2bURfcFFoZjM4MmN6ZlZLWlVJVWliOVdkWVRSTGY1eTJIYzBwSlhqVk5jZ1lvTm1SQjNKQl9YT011d2hyMjJCeXF4aE9tOXZISW1qdE5SUVV5blVyUXZ2SUgtcTQyMA?oc=5",
+          "date": "Thu, 15 Jan 2026"
+        }
+      ]
+    }
+  }
+}

@@ -5,17 +5,17 @@
   Source    : Google News (past 365 days)
 ==============================================================
 
-  Articles analyzed : 44
-  Complaints found  : 24
-  Complaint rate    : 54.5%
+  Articles analyzed : 47
+  Complaints found  : 27
+  Complaint rate    : 57.4%
 
   CATEGORY                         COUNT     PCT  VOLUME
   ────────────────────────────────────────────────────────
-  Water / Utilities                   18   75.0%  █████████████████████████
-  Trash / Illegal Dumping              2    8.3%  ██
-  Other City Service                   2    8.3%  ██
-  Pothole / Road Damage                1    4.2%  █
-  Parks / Public Spaces                1    4.2%  █
+  Water / Utilities                   22   81.5%  ███████████████████████████
+  Trash / Illegal Dumping              2    7.4%  ██
+  Pothole / Road Damage                1    3.7%  █
+  Other City Service                   1    3.7%  █
+  Parks / Public Spaces                1    3.7%  █
 
   ────────────────────────────────────────────────────────
   SAMPLE COMPLAINTS BY CATEGORY
@@ -24,26 +24,24 @@
   [Water / Utilities]
     • "Boil water notice issued after water main break"
       https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmRaZWZLV1pqU3lMX09rWVk2SWJCN2NIRy1td2FRZmFvRFNRVGdaSDVTbExyemIxZ0wxVHoxRnVaXzFxYWFTT0JBdTBQUEpIcnNXd1p2d3NuYThlcTg4bmJfUDRBRlNsNmtxZGM5UUN1cUk1UGZmY0hvZFM2LTJjUVdSVFRaSFdvcFp0MXhlSThxS0NiNVpma0NzWFc4ZVVnMHJ6WW9Sd9IBuwFBVV95cUxOdTR6N2tueXBOdFl0NnVOTU1TNXZSYW9qbF9EeWVJY3lkS0ZkMVNBTGNpakV0UXFKdENqekdSOEdaY1ZrYlBnYk4tVnA1bEV6TVc2dFNrRUwzU2VRUU1KZmFiSm9XOWlBRVRzZDZ2cTl0WElBNzQ0Q1Z4Rk5mSGctY0NWSDgwWmJMc2dkOFBUbWEyYzFCaGo3c3UzaVZCOFk5MHc5c1pLRnJzVnotb05Odk12cGRoaC1QVi00?oc=5
-    • "Water main break leaves residents without water"
+    • "Water main break leaves Navy Yard residents without water"
       https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWUJWVnV1aW5yUTYxMEV6c3I2Tk00VkszMXVUdEU2SHk2ZHFOUmNWS3JCNFU2ajltcmZoYTRVSmdGVHJXVzdxdWZwLVRtM2Vta01RUmtMVkpBbTR2UzgzaVFHekstMmtwSEVnQ3ZEX2MzMUVjdnMzZlJNMUFFUFRNQnV0NC0xZWZJVlBBeHV4VlRid18wR3pkaU9YQVBXdDY2bTFnREtHUEtydF9XTWNCOU9RWmk5eHFt?oc=5
-    • "Residents still suffer from massive water main break"
+    • "Residents, businesses still suffer from massive water main break"
       https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ0l5a2t6a0RJcDdvWEgzM25Td3k3YmFUU3BWanFpTXh5WVZiZ29IWndMaU9MRkRKMFloamFRamd6UldUa0J6UE4xRC1NcGhETXlfVnl5cG5wellkZENtcmlZRDZTaHZWUlRRRFRGZjliT001SktWNGhOR2QxM3NpTzJqeWN3MnVWQWZBNFFRVFhLQzAyQV9aWkJCWQ?oc=5
 
   [Trash / Illegal Dumping]
-    • "Trash piling up for two weeks at apartment complex"
+    • "Trash piling up for two weeks, unresolved complaints"
       https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSUxPdmVaZnN0eC1vYl9Yanl2WmdNSXJhaWZsOWNPVzFGUFZwZS05eUpYV2JNenFCSnZERGlUaG5YUzAtSXNDNlZpTU92cWM4WlZWNV8zcWQ1VjJCOUJIMzQyRXQxc2VkSDk2ZjhZMkxIdF9mUW9QQ3FrNUduc0MxMUJ6aG9CdjllZEpFYkc5UmZQbnlkeXUxM09hMmt6aVhqMHRZblppQ2FDaFVBOXRoY1lHNFBfWld5dzltSUV6SllLR0JIaVJjbVVTbEYtR2htYzlLTm1zN2E2UU04cmJGbEtFUQ?oc=5
-    • "Trash issues at Mezza Apartments described as overwhelming"
+    • "Residents say trash issues are overwhelming"
       https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTkZfNW5GUktfdk5FSzZmaE50YWctWWdTUk0taGlpa1V6cHVmZUh2SjFmeFhzWXhfTlFwcWRqQW94b2F3NG5pc1hLZTd4dmp1YUd1YjRLNG50Szg0UkdyOXk2TTNnN1o0bFFPTjNJMVo1LUhTZE5XRlFRZFZnXzhwWHAtT0paXzkxNHVkYnY2V3VudUVDMmVuZnB5dXhoNGJic293d3JnLVBwWWlWZUVNTGVIaEVYRlN2TFR1cmNGYm9qd1k4Tkpqb2FUMG8zYzYtQWFCX1Z6TVI4ei1OMVBEZHRoc1ZBOXVveDhQM3ZzdzVVVFRldVUwdTJIUzZmQQ?oc=5
-
-  [Other City Service]
-    • "Municipal waste systems leave gap in residential sanitation"
-      https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSUlxM3dDMU5fU0RBZEx3VHhFc24xRG5XQjMxcmlxLTRXbWotYk9tNjkxMzZMd1JJMHI0elRDMWRrbWdtME5HZWYydGxtUEhMRk5ybHh0aUJ2Mnctd1VXVldkUDlGM08tWDRkbTFyb2FOa1dxUTd6cmxUWTRqS200dTd1WkJEMU5sRURubDE5cVBiUW43bnZodFFjTjNaYUlQcWgyQVloeDlKVTgwNU9vN3NMdGV3bkE5eXNIcERVZnZJVzBPeVM5UmVneTFkcnZiVlU2blhRLWNjVWpTYVkyZ1h6dHE?oc=5
-    • "Complaints of obnoxious odors persist on Westside"
-      https://news.google.com/rss/articles/CBMiigFBVV95cUxNUG5jMGtzRWpqSEJnalNqRkx6dFhCbnhncEVxbjhBR3haVk5WUkxGamdlYm1rTHpSd1Awb0NmVExBLXJUUHNMV3dGZ0Vwa2VtbVA3X1BySUU2UjMtMkh4UUxZSXJrbHF4Nm5DMUhRVHkyM1NPa2pNUTl4bWVTR1VMUWhRWEpFRnVVY1E?oc=5
 
   [Pothole / Road Damage]
     • "Top 5 roads in Jacksonville with most pothole problems"
       https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbDcydmVDYUNSc0ZSaTFIMW16MFZYY21kNnRlQlM3TkxJR0tWTEl6YzlaVEo3ZzZlUFU3S3FadWRsWWh1Wnl1MS1jWFRuRmNTa0NrdjZpeUFWcVZKam5GT2xfUmhYdExDWjEzcVBRSHBPSUhvNWx5aGVDaDRfSUdaNkdBSGdEbzlwOWhVMVo0TDk3NGFMT3ZQRlo0UzlzWVZDakdjSjlmaEcwS3ViUUZpSUoydWZqb1R0ZEVQS28xUDAxYTdlVzh3S2NTRUprVGNJT3p5OW5iMnRMQzFKMEJZalZxTXJwZ2Y3US1OddIBgAJBVV95cUxQR3hoeGFOYVpHS2s2QVhuTzdrS04wbFljX0c2c2pUU2dHbWFqLUN0eHBZMmQ4R2hRQXd1LWh4NVhaaGZoZmVndWRodnNhZWYtbDVrVV9XNkVOZ0h4NzRzWENZV01wSnBOT2YwczB3YnZ5MjZtckdjcXBpXzRnZTNRZ2o2RVFBSDhqYXl4V2lSY2xQWklNekp2ZExLa0UzN2o1dzdYeklYcHdrMFF3MEdiOHhOWDB5NmZoR3Z3SlZURUwyZzFDRGxTdUd0QWpFaWxJUXRBWlNEcWFiNi1CWnFKT0NsdlVTZW9EOWMwcUtfMm9EZTY1SWEyMjJkNnk3emNt?oc=5
+
+  [Other City Service]
+    • "Complaints of obnoxious odors persist on Westside"
+      https://news.google.com/rss/articles/CBMiigFBVV95cUxNUG5jMGtzRWpqSEJnalNqRkx6dFhCbnhncEVxbjhBR3haVk5WUkxGamdlYm1rTHpSd1Awb0NmVExBLXJUUHNMV3dGZ0Vwa2VtbVA3X1BySUU2UjMtMkh4UUxZSXJrbHF4Nm5DMUhRVHkyM1NPa2pNUTl4bWVTR1VMUWhRWEpFRnVVY1E?oc=5
 
   [Parks / Public Spaces]
     • "Mandarin residents fear loss of trees for sidewalk project."
@@ -53,13 +51,13 @@
   PITCH SUMMARY
 ==============================================================
 
-  In the past year, Google News surfaced 24 news articles reporting
+  In the past year, Google News surfaced 27 news articles reporting
   citizen complaints about city services in Jacksonville.
 
   Top issues:
-    • Water / Utilities: 75% of complaints (18 articles)
-    • Trash / Illegal Dumping: 8% of complaints (2 articles)
-    • Other City Service: 8% of complaints (2 articles)
+    • Water / Utilities: 81% of complaints (22 articles)
+    • Trash / Illegal Dumping: 7% of complaints (2 articles)
+    • Pothole / Road Damage: 4% of complaints (1 articles)
 
   MyCity311 turns scattered public complaints into structured,
   trackable reports — giving city staff real data and giving residents

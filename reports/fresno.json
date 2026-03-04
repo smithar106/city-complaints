@@ -1,0 +1,96 @@
+{
+  "city": "Fresno",
+  "slug": "fresno",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 32,
+  "total_complaints": 12,
+  "complaint_rate": 37.5,
+  "categories": {
+    "Water / Utilities": {
+      "count": 6,
+      "pct": 50.0,
+      "samples": [
+        {
+          "quote": "Skokie residents, businesses still suffer from massive water main break",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ0l5a2t6a0RJcDdvWEgzM25Td3k3YmFUU3BWanFpTXh5WVZiZ29IWndMaU9MRkRKMFloamFRamd6UldUa0J6UE4xRC1NcGhETXlfVnl5cG5wellkZENtcmlZRDZTaHZWUlRRRFRGZjliT001SktWNGhOR2QxM3NpTzJqeWN3MnVWQWZBNFFRVFhLQzAyQV9aWkJCWQ?oc=5",
+          "date": "Mon, 16 Feb 2026"
+        },
+        {
+          "quote": "Second water main break repaired; boil water advisory remains",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd21tSEFwbnpCMWJZQ0NBWWt4MThOQkoyTlZoaTdzOVBLQmRSSzVxODVuTFVBSzlQVTR4dGpBYzBnMFk3ejRkakQzakJJMm1KTG1QYWpPYmpxUW5aYmZtZ3Y5ckhtMmpPNjZjUV9JaElrRnRjTHpjQkVjbmY5ZUZDLWs1UFNNMlgxSUlJZnpVZ2JSc0ZaNUY1WmZRNHljRFE5VnROLWZR?oc=5",
+          "date": "Wed, 15 Oct 2025"
+        },
+        {
+          "quote": "Over 100,000 residents left with little to no water after main break",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZm1tWjkzX3VWS3VCV1lpQTBDUlRWZDdfVlg5M1ZOYmlsaTVnM3VLYjBVTVYyRk52T0VZVlhnTWMxa0w5dFZzRDJKWklvQ096OWFyQ2lPa3BxSFowb0RvajJZRmNIV0VfWmd3ejN0Y2QxU0pvY3ZCMGdja2hibnktT0dqam9la09fR0tFcVVVb1E4b2xtak1kRWM5YXVVU0dpSkFWVElUQWV3UE1sWXUwNzZoOUt0UVZXbzVfRE5SbWo4aWIyM2VpRFk0T2ZTdTg5eDJmZWFR0gHbAUFVX3lxTE12U2FiSnhsVlpPeTFiTXNVYnFHQ0I5NG4ydkRlWndESFAxWDNHSXY3ZElNLXNZU0o1WWZlcDVOQ1lKNHVuUm1NRDZjQlRncDltMm5OU0xuWjdSeWNpd3RDQ3FsZVBYOFJtWjhIWmhTWG5vYzN1ZDBVakR0bk1uVnV3QUJRLUthT2R1LUlES3BwSTJwWDZlR2xVUHZDSTkyTTJZZWw3QWVpOXo1LUltakY3SER6YVlZcjdGdFY4R2ZNbGxCcmZqcUxTNEc4a3N5a29TR0pZNHVHMGNFOA?oc=5",
+          "date": "Mon, 12 Jan 2026"
+        },
+        {
+          "quote": "Water main break triggers boil advisory, creates sinkhole",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM2R2dXhGcEV4aUF0ZUpaanR1UjdBSExLdy1vdjhTSEVpQW5sSEpQWVVqWUJJSHhQeVdRWTk1T05BMXpBb2NLcnZhRzJ6aXNRdGxzd2wyRWlDdDFuVVh4TDQ2X19aNGZNMWN0U3lHamoxWm1faTQ5bEE0ZGxoaVlnNjFvNUU0X0ZSampNV0xnR3lDTW5ESDBuZA?oc=5",
+          "date": "Sun, 01 Mar 2026"
+        },
+        {
+          "quote": "One year later, residents and businesses still suffer from massive water main break",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTdIUDRJOFowSnJVSTdid244VzJPWHFGeHNfZzd1V2J6SU9ndWZ4eU5VNEdXcHljTEtycV9CMWV1dG05VVdyVTVhQl83dGxKem54Z2ZObTh1TWthdE1IRlhSa2hoYkM3LTlaZWowTXE5OXZaMTJCMGdyUWJXeUR0VXpMYjJ1RVIwaGFtdVExYmE4eDZ5M1hlMjJaQkFqZ05H?oc=5",
+          "date": "Wed, 18 Feb 2026"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 2,
+      "pct": 16.7,
+      "samples": [
+        {
+          "quote": "Fresno launches $34 million plan to fix potholes and aging streets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1dGV296dGJyWXRVVmJLcURtSkxvWE5ELWVsRi1kM21OS013UlFOSmNwRVVZQjZJd3ZvUEJIRFFWVlg1cXJYTXgzR3dJMmx3bUNrQnhzc0pKU2oyWjNySTVDQUk2TjNycHlIdldKNGNMVVlDa0I2ZDM3Q1ltbnZfLWRmZWllNFc3YVdxSC1Wa1Nyd2ZtSmRnOVQ1UTNCVTJYZHdUbWt30gGrAUFVX3lxTE9FUktsNm5lM3hwT3N5eFd3czhJck5vbkhuMlhZM1hPS2swQXZDYWJiekl1TndFRmJYZkJYeFlGajJPNUdxdVpfX1BGOEVvQmJUR2Q3U3pxMzVCVldrZDlDcDhmYlE1X0JkQjFZdEdEZGt1dzdlR185TFZ4YkdjRUpsY2hjYVRXYVZmaFBjQzhTZmt3bzA4bUx5QTdqY2dZUVBOR3RRVjhyQkZQZw?oc=5",
+          "date": "Fri, 08 Aug 2025"
+        },
+        {
+          "quote": "Fresno must fix city's crumbling streets, even if means extra debt",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOUNUYldCQ0psa0E0bWxZWi11QVNOanpnMnBOY2hwWDJRZm1VUTItOWp2a0NWZEhwUXpJT0dHR1hqX2tMWGVwVnBSN21lS0pNMzlRaDN4NGZHTHFDSG41ZFhMOXlQT3AwU2lHQ3Y3MWhraEZMMXNPYmp2c0JicHFaZ0Z5cTRoUUZYeE1LQVpGRXZ0U2Ja0gGUAUFVX3lxTE11bktWTEkxOTRnMEI4Q3NXZ01XNmx3ZTJpZy1YQkVtcWZYcm01VUJqQ3VoN1VfY0hDZDYxZEhwNk5QaFVVY21EYWFnTTVhSldwSjl0VUhhekRpSVdMQzNNMGhXX1ZiUllOTjJ2WmZMNHNMSWhTc3hET1Rvbi0xY0MwREZnXzVHNHNaZXg5eU1BVzBGUWk?oc=5",
+          "date": "Fri, 13 Jun 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 2,
+      "pct": 16.7,
+      "samples": [
+        {
+          "quote": "Mary's Chicken plant sewage strained Fresno water system, cost residents millions",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZRmxQNGJxSmxZR2haZnZoazBtZ3FlY0htc2xGblIwQ3JJeFp1enRnT2dPQ29MVzdrN3cyZXJYX2tkSDRreWcxS0RIckNTTzJCR2lNRjdpV0k4X1F0RWVNYzNVTXJhQjRrcHfSAWpBVV95cUxNQlhfeVBtZWlTLThnYzRtNUJEQW9TM0ZPTm02YUhfUmRfU1FhNUxFOFJ6aW1QRzdtNVlweFVBNUI3NE1jc0o1elRFYnBQLUo2NXdLa3hnRWEwY2pJMXdoY3J2VnNZWlBQdHFn?oc=5",
+          "date": "Fri, 22 Aug 2025"
+        },
+        {
+          "quote": "Sanger company trashes wastewater plant as City Hall ignores problems",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iMHhSTVI4NTVqTXI2N05aY3VGZmYzdmViZ29EY2dhUFdSX1VoNW5uZ3g0WmZDMDREemFIVzRnRjN0bE52MXZqdzAtZnFzYmNpWEx6blRJNDVVRUxFQS1MSXpvaTI2N3F6ekFlQTl1cTU2ZElJ0gF0QVVfeXFMTWhTUElNT3lTOXZDV1BVMHBZNTFTR3NqenRSYy1QMXNzYjVsN0JiTkRXdS0tdU00R19Hc29WVDBfb2NrZ1ZJWW1JWmlmWVdncFV3eEszYkQtbXo5b2Izc0xibnhMamZDMUZhOEJtazVfSTFQY1g?oc=5",
+          "date": "Tue, 26 Aug 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 1,
+      "pct": 8.3,
+      "samples": [
+        {
+          "quote": "Fig Garden residents complain about sex offender housing in county",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fenhYTWp2OThSNzFSWUlxckFRVEdDRzlFdk9vNDNZbmRKc2U0QnJBajBLaElJRDRZNklmaFc5SEE2Vl8ySjdhN2w4elVRRmFScmhlaEQ4SXN0aVRrTmxJUXZ1ZU1ocUNEQVHSAWpBVV95cUxPajBaZHNDczZxRUs0X3lNemFoLWFvcWJaYnpUdU1vdDNpNDBuQklNSHQ4d2NHSnhPRkU5QWxGNk4tVE9xUUVVc0dMTTM3czVCODBHby1oc3YzNkxHV0RZai16WE84bC1yVlJR?oc=5",
+          "date": "Fri, 09 Jan 2026"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 1,
+      "pct": 8.3,
+      "samples": [
+        {
+          "quote": "Traffic light at busy intersection took years to plan and install",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xR280ams5Rm04UHk3STY1UlRHckRKRmZ3Y2pfUmtRUDlCMElncjZHZE15X0NqLVN5dHFUZEpXbk1FOU9ETjFjaHAwSHJQVHFXclhMb3pBTzY4MXlBd2V3WVdqOGVWbnI4c2fSAWpBVV95cUxQOXVYdnNUd1p3LVRVR01JLWhyeWdRNWJYOU4tU2Jqd3JsMlpyWlF6Q2pxX2FDTHZ0T0F5S1g0cXlJX1AxQTJiTjlNeGhXcUJRNTlfS0dCaG9lZ1JaSXdndDl2dGlHQTFReDd3?oc=5",
+          "date": "Mon, 13 Oct 2025"
+        }
+      ]
+    }
+  }
+}

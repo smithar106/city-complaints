@@ -1,0 +1,73 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — VIRGINIA BEACH
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 77
+  Complaints found  : 37
+  Complaint rate    : 48.1%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   25   67.6%  ██████████████████████
+  Sewer / Drainage                     7   18.9%  ██████
+  Other City Service                   2    5.4%  █
+  Pothole / Road Damage                1    2.7%  █
+  Trash / Illegal Dumping              1    2.7%  █
+  Parks / Public Spaces                1    2.7%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Power outage closes public utility offices early"
+      https://news.google.com/rss/articles/CBMirgFBVV95cUxQWFBJdXRxYy11VmVfM2lBcVN4MjJyX090bWhyYTkzTEE5ZFlDc3AzZGVfQTNydC11Zi03Vk1WTktQWV9PSlEzUXRHdEgzR0RyVGVwamJicHl4R3VqU2laTkprN2JFVk9NR2dJQmZtTDZfWlJvTExkeWR3Rk5hRlJTUnNKUXVNS0Ywc01pMFNaZVFEcGxlVndhb0ZWbi1ZZGUxYWtEdF9SWkpKazJuQ3c?oc=5
+    • "Norfolk residents face high water bills due to extended billing cycles"
+      https://news.google.com/rss/articles/CBMiogJBVV95cUxNdFZDU2wwcnVaNHFGd0duUEFQeVBxZG13TE03ZjgycXZSR0hwSU9VMXpsMHRsZVgzR2hFUi1WWmhHVk1OTnZQYWZlWmgzMmRUSXZWV1E5dHk5MUFlOXNjUE5VTVpYSE5vNGo4MWlweE1ETkpWRUlmZ3pIUzlJR2Y0UE00T0hBWTc1QVFCbFBlX003WWlsTVFXV0pHdXVGdWFTU1c3NmVHWUN5aVhpUVZ1YVpvX1JiVFhmTkZldW9LZjZ4alhNYkNjWE9WX1VXZkQ3a2VrMlFnZGVRQ1dHQ04tR25fVXZNSXRQQVdNb25QUnJ2OGhhN1c5Xzc3ZnFjSExyTVFYVlM2Q1JhWUtmclg1cHZ4M09NMm9wYTQ5b3ZoM2RfQQ?oc=5
+    • "Water main issues requiring freeze to fix understanding"
+      https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40WlVuZklZRUtPWEFZamRLcmFRYXlGNHl2SnI5c3k1ZUt6MF9JSTJDWDBQOXpULV9rSUc2UXhzb0ZySGFHVEhIT3F5T2VVcHZkWFFiQmQ1cXFaUnZZeDl4U0s4NnV4ZkU?oc=5
+
+  [Sewer / Drainage]
+    • "Virginia Beach leaders meet with residents over Thalia Creek's smell"
+      https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZTllMnd4YjREQVJlek1qWFVsa0MwcHd3ckNoRmd5VU5TbGVsOUowZGpKQjMxdzlybUwtaHVLZU8zYkxMVGJfUTdNRTY1cnJNWXZ1RVJFNzNjajhwSmY4MDRsLXcxTnBWUjlVUkRuWl95c3UtTXRaVGtwbGk5b181bGJlSzRjbmNsWDlDRDhONWdDTEVENDRvaTRKQjVtNG9JdVhlWGF4Sml2QWtwcUJFbWpmR3QzUUItTFJQWV8tSDE4Nk0wTDNKX1RHU2NuVndubXZLVjN2Q1djaTF0WXZYVmZCNTFydW9vbDhlWlQzYXJMZUZnTFE?oc=5
+    • "Delegate proposes aerators on Thalia Creek following smell complaints"
+      https://news.google.com/rss/articles/CBMigwJBVV95cUxOSVdGcEwwYUMxdFJnRFJ6RkJac1JFVzZNRkdfaVV6SVJ3YTMtdDhwTWpIX0U5dHBwLTk2b2dCeGVUSGZqX0RvbWhDN3VtTEhnLXNIWURPYU5rTm1rR3Q3ajhQQW9PbnRnX2pqMi1SbE9KOEU3Q0VrWmZuZ2N5QVJ6bWs5SnF6M1NaQ1Y0M1Y4aUhPR2NJSmtLcXZNMlhGSnJVZ2hsUmVHaXpGeS1idGtEOG5qb0lYTzQ3Y1J0RV9NZHdpNHZFUElaSWVIcTNFaEdYTTJrYlJDelVyVnBoVGNmTUVTUWJsb1VxR0MxUkZ3Rmliem9nNnBUWWV3cWdLSTlLa2VJ?oc=5
+    • "Virginia Beach neighborhood hit by pungent odor downstream from Mount Trashmore"
+      https://news.google.com/rss/articles/CBMikgJBVV95cUxOdDlhbkF3eW9idDNnT0NOcWlSV1pmLVVOOW9CaDdWa1FhcHNuQnhtcmlGbjYxX0I3RUFUZzZkZ2JVY25qUWZvOW95Z2VtdGZaRE82OW9Cakx6M01zY2VOM1d0eGxxVDE1N0hWSXhXSkhXNDBfUG96Qmk0YmY0bDkzWlBVS1BwSHE3ZXhpb0RwNHVyU3VSN3hubGthbDg2UFdQcXBIWnpmUUwwQ1ozLW5aZE1qbEJ3SDhWV29sWFFzLXJQZUpWU0NRYlJHOVJRa3BoM2F1YU1lelBzZFVBMFdFM3hDcXJ6LTV5dTFrMWxUUzJGY3VqRU1aWnFJZTdydkp0ZHVKYTN5QlU3djRqRFFpWXN3?oc=5
+
+  [Other City Service]
+    • "Pungent odor near Mount Trashmore under investigation"
+      https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRkJrMVlpOFVNU0pEWDFxTGl4LWRYZWRYNV9qLV9PNUdKcl9GdFZSVlB2VktFUFY4NjRjbGZtN3lIMEtnTXhyeUpUSVpVc0NnWVJ1dUZndmppUk9mWWhoUk52TmFpaU94WVFOZzBBa25CNW9JUFZLMjRMWFFuSGFUcXRuZHN6M3VqUDl4TzNQZ2FhVmt6SXBHb1c1N1h1MVQzTVdrRFRuLTNKQm00aXFEc2xzYl9qMEE3NlRldGRNSmtuM2t5X2R5alBndWpyN3d0c1Q1ejgwOTBRRHZNSTJDQ2JNc2NlV2RiMlZBU19BYWhIdFlXNmc?oc=5
+    • "Moss Beach residents face growing geological disaster"
+      https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTmFoRnhibEtuWTM4Z0IwdWt5NFBDTWk4dXBMUS1tTE4ycllJU1ZvWVZuZjZ4LThfVDVZd1ZhcE12LWQzM3RzeWVnMVk0bklzanNpdGE1TVBmOEJtb2FDOHRPZjF4ejQ1NVlyRFRKWENGVDF0cG1FM0VCczBfMkw2b0w5WVl3ZHNCd01SWU1ZaTRsd2JFYnNac2N0YjE3NlhKM00zSVpFS1RMcldwT050cF9XNi1MQ204bnNGa2JhOE14REdyWEZpd25hdWNfckhRNnZaSw?oc=5
+
+  [Pothole / Road Damage]
+    • "Lots and lots of potholes affecting Portsmouth roads"
+      https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkNKbC01QXhDcFJCQjFGTlJ5OEk1Qzg5TFVsZ0tUR1FPRG1oUUNNWl91bURtanhCOWdoUUJVcGlaM3diTEtjc2NrMGtxRnRQckVjRlpESzJtMXgxRGphSkNiTUxSOXpqMTY3Sm9ZcEVLSDdZVk5iNWYxdXp6OWtRaGNzUVEybnVQb1lhalN0d3hHVGRYVXBlNTB5TmlaZEdpMjhmSHdRZk1LcWRMUEN0MUdkMEpvQUFpbXc5Z3N3M05sOVl5UUJCTHNaUVRscU1sTlE?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Barrels and construction material litter Pleasure House Point"
+      https://news.google.com/rss/articles/CBMisAJBVV95cUxNVmI5THBYRkU1RWRKM1gwTl9QVHlZaVo3RS1XcWFoX2xqcGpaNDNPOGp4a3FEY0hmeWVsZnBFRlEtbHNDVEJERUo1c2o4U0J0TU00bGVCZDJ3bHJPRGhRSEd1b0FlSTdMb1JuWGV6T216MF9MM0M2eDZobGhKdkZCMGhuMzB3NE13bnVGZlNCenRSYTJJTnRYNU1RLWRNcEk1VmZDYTBhYnNRcmtCZGlYS1A1emtiWElBX2ZSS3dIVTJOY3ZlWnFVNkcxdzZYeXNEOEpLQW1qTEFLVFduMTU1bDhVdWxZZlU1NnhZSUx5blBtbC1WRUFGN1o3TW1JZUZtUFVhVGdWU2xMU19WY2FRRFBMamFIa0Q0Nkd2MlUxZ2NDWXdNQ1RSMkxPNnhadGRf?oc=5
+
+  [Parks / Public Spaces]
+    • "Boat ramp renovation in Virginia Beach draws complaints from boaters"
+      https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRDhoUXh0azRpdG95Vk5QS25HbGtnaE5ucUh1YkR6Q2lrMUdURmdPMWFpTXo5VnBiaWtoX3kwaEs3b1dzZjdXMmgzREpsaGtqNXdGVnhwZ0JtblcySGx5UHdjVHZhQXBhSVR5VFFDODZkYVVLemtTYlNkbU0xcTlxUFcyRWR6bjl6dUZoLXAtNUNkb3dIZFZhblFUWGNabzMzejJVeElyVWVPd9IBrwFBVV95cUxPUXk0MGo3cTNoc0RYUzdBeEl3RUxkRTlBQTNVOTFZa3RyZGUxaS1naDFtY3VTNTVqOHEwVGYtX09ZdzhJYTZ4TWpjeGpVU19rNUlJSDFZM1FIdWtBNHZ1TFVhMjh5ajNscEFJMkJ1bktMeFp6eXJQaHJzUV9Fd2NjXzZvQmtTbkdkQzJmcFBENHFBcnhKQVhMODVMVGR5ZzRjTlhxaVEzQl91SjNRNFZv?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 37 news articles reporting
+  citizen complaints about city services in Virginia Beach.
+
+  Top issues:
+    • Water / Utilities: 68% of complaints (25 articles)
+    • Sewer / Drainage: 19% of complaints (7 articles)
+    • Other City Service: 5% of complaints (2 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

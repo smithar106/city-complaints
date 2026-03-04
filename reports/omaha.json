@@ -1,0 +1,153 @@
+{
+  "city": "Omaha",
+  "slug": "omaha",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 59,
+  "total_complaints": 46,
+  "complaint_rate": 78.0,
+  "categories": {
+    "Water / Utilities": {
+      "count": 23,
+      "pct": 50.0,
+      "samples": [
+        {
+          "quote": "Omaha utility district sues contractor after 14M gallon pipe rupture",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTUNuXzljeTBULThSbzdBbHBxZkdrVjZVWS1zQlRLbkVNdGh3M2JMdVI5OHNmRkZmOEoyUUROUHlZdEptNXlYQmo3Y0FoalpuR1pTUFRiMm1uYUtRRU1CeHl6UXkxR2pEenFLZkdjOUpCdTM4OTJRZjhEVnI4Unc0OUptQUY2NnlPNS1LV1hKcVFqUENGa1lISlE3M0JCVWFCSHJZ?oc=5",
+          "date": "Tue, 15 Jul 2025"
+        },
+        {
+          "quote": "SW Detroit residents still recovering from catastrophic water main break",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbVdsWFEwRDl6VlNGX25FRXg0bXcyQlBkbTJBRlhUWF81Q3YyR2VNV3czRXBNMTBTYWxRTHFWX0E5UG5RaVhWRjVPaFFldnFEUWlCTzhqM1hVcVoxM0RXQVZ5dGx2VHVkeTNMbUo2VzBiZnlRdjFMOXNaRVBZelhqbFVQbTAwVjYyb1VqREFxc1VzRjRwSmswRk5ldGdRb0VyQ1BReFVUS0VWYW1FOHN0QWVaTE82a3QtY0hvbTlkRDFfMks0SXpVYTUwXy1GQzVEVXpLMnhR?oc=5",
+          "date": "Tue, 17 Feb 2026"
+        },
+        {
+          "quote": "Water main break causes road damage; multiple houses flooded",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVBDekxubTNlYmdtUGtFVjcxTmtMa1ZISnZ0YjRMQlhGOXcyT3NPekdoVFBGUzFuUFFmaUJWV3NfeHRVVXR6UFhpT2x6T2t4bFNZX0RMQ3RoeWhnSDhDUVU5b3JwbThkUlJiZnJEYndMN0t2SlpnNVRmbU02Mi1TOTh3R2lpNGJicVY2cW5uUkVLNWxvSm1pbl9yckQ4MkZoVGR2R0d1RVV6UFkyZlVWM0VSMnZ5aVNkaEMzVVVpNUxvQQ?oc=5",
+          "date": "Wed, 04 Feb 2026"
+        },
+        {
+          "quote": "Neighbors face boil order and main breaks in Clarinda",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRExsMUFmWnh1ODhnSXBzNHBMU3RYa2dSdjB2c3dkeG02cEJKdi1qWFBBU1FZSEtxbFlLQ3c0c0hzenh4TkFEYzg4SmpGZG1mN0x1X29TMlBXbEJmSS1zbkpFZ1lJaEJqWGpVX0VrTURLenI0Um1vb01sM1ViZVJIVEFWODlTeks2TXViOUNjdXQtcmpTMEl6UGM5SV9BNUJFTU1ocm5n?oc=5",
+          "date": "Tue, 16 Sep 2025"
+        },
+        {
+          "quote": "City officials work to fix water breaks and boil advisory",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZFllX2V5UkFkYVc1REhzRXVsaVEwaDIzTjh5NHBjRnNlV2xhNXl3emppLXo1SVFUbE5lU21PdFdDSzQ0YnR4aVkyT08tOERYUUlla1l4eUlNaXh5SjNXQTZ0X0JfcGo2WG5fUnUtYlhaV3V3VVBadlNTVEk3U0JTSmJOSUlJT1FqNVFuUl9OS2J4blpmM0NyU2hLOVRlakli?oc=5",
+          "date": "Tue, 16 Sep 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 13,
+      "pct": 28.3,
+      "samples": [
+        {
+          "quote": "Chemical reaction in concrete causing Omaha streets to self-destruct",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbmF2aWpSLWJZNWFnUDMtb0ZSOTQ0UHA3Uk1CV1J0UFVhdzZLc2haR3ViUkwyRkV1UzEycW4yU3BFRFY4dnBqaVI5c2p5ci1aSmNvdWNoeVY1VDNhQ0V6RVRFblBfSEtjelhMZHhqS3B4WS1SdHR6TVRCVDVFcktkZXFBM3E?oc=5",
+          "date": "Mon, 05 May 2025"
+        },
+        {
+          "quote": "Pothole danger in Omaha after flat tire leads to vehicle fire",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXJmNFZfTzVtY3o4Tk5YcE9aalVUZTktOTRocV82UExuem9DY0pzal8xRVNIdV9YRk03aVVYb1owNXU1dktOWTdwMlhVRTdRYnJGX2d3WWZ1eWlXMHVidnhFYnJuRm1VNU81THJZRElENTc0cm8tNFF3TDJKbXJfeGJVZlc0ODNjVlVTQVY1ZXEtWkQxNmU4Vm84UE15TVo1YlRRSlFZQU3SAbwBQVVfeXFMTnJhS1FJWkhTTGRpWGR3ZTJCSTMwVFN2WkxuOTlwR3dwLW54NkJseVpEd2VzV1Fia0N2S3hzZXlha1o3aTFDWTkzSTVMRnpKaVhKTkl5MU14M3diY18yWjZxSmRJUmNTRFhEUVpMZmdybS1paUJvWXZnTXZpYXFMZHc2cUZpaFRNT2Z0R0pGTHZvYW1xUTRrOEM5MDFVbVBadVdVMzVHQjlXT1hUMTVkejRKemRiTjQ1TmdfcW8?oc=5",
+          "date": "Wed, 26 Mar 2025"
+        },
+        {
+          "quote": "Sinkhole swallows two vehicles on Omaha street corner",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZGtHeE54MWltQ0Zqd1lPS08xVnJuVGRFWTFVcGNyQWlPTl9sTDR4Ulh0aU82WW1LbnNJWXFxVXdGYk14ZEF5ellVSUM4aTA2ZnEyQzVMNkgzbkdweGE4cHlKZURKT3BPWjJUMGtTbko1LTVtaUM1YXhuY1VqZFVDdnQweDN2akE?oc=5",
+          "date": "Wed, 25 Feb 2026"
+        },
+        {
+          "quote": "Sinkhole swallows vehicles at traffic light in Nebraska",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGU2YkQzVnNhQzhOckxlNkhIa0taQ3ZRX1htX3VEUXJzQ1FpaThlRDBvc2thX2h0QkkyTUU4SXZiX2pWUTJGUUc1dkJuSVo5ekp4MndxWFdpSXJ3dlJ0LUVzbVlzM3Z4aXFJZ2tTeXEyWnNpbE5xMEVnd0o5dzlVcUJmdFFzQzRuSEJKaW9qNkw1dC1wZlI4aEZudkhrZDFfa2dIREw0OUtDLVRTd3N2XzZKQm9Rc3piUDJLdE8yQ0FMUUtQTFHSAc4BQVVfeXFMTmdtMDhLTTQ2eGRRdml3TVZfUXRNZEYyYWdQMjAwME8yOXhsZHgwR0JzRUVhMlB1VVB0VDdSTV81eUx6bl9FUTJ5cThDSUFkaWJCTzdqSXJ3NDdlTTJTQk9sVW5hdFJUV2N1TG5LZC1qVkUzU05IZ1E3a0g5UTVvdWttMnhNbG84clJodXVtYVdCa2Q5c2F5VHg2a0t3YUZKbWVQLUdaWUZBblg5V3BwNXRBRGZvVmRVNkNVM3FaQ1k3d1F3NDZ5RXJYbHhuMWc?oc=5",
+          "date": "Wed, 25 Feb 2026"
+        },
+        {
+          "quote": "Massive sinkhole impacts residents in Conshohocken, Pennsylvania",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFFoQjhidmdDNGRQemlscW9ONUdTVG1ZUVc1Q1YzNEs3QlU4TWRkcnJ6eTV1S0JTVDJPRy1HQjNIRVdadmNFUnJCUWZ2MEc3SFpzVGd2OWRqUDBjNGJhTzdnU1VZMzFWUk8xcjhHRnpVVDRXZVRMSE81ZWxBN1VwN3dyNGVMRng2ejlOOWZZeWs0NVFHbGgwRTln0gGfAUFVX3lxTE0wR0xBWVoyNGRveF9VTmktbjVMeEgxaVp4TUMwMU4zdXRFWDJCSGl6NXhUX1I3NFZ2UTBJeVBGaXpOM3QwOE94UTE2OTlsOWIxa29Ya3pmN3ZpNWlyRlZDT0tZTGZMekRGbG1PbHpwS3ZET3NQMW56UnhBVGxfdlhuUWEtWUg2U2x2aUw1TUFOZFlXZ3pmZFA3TjN5eWlTMA?oc=5",
+          "date": "Fri, 13 Feb 2026"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 4,
+      "pct": 8.7,
+      "samples": [
+        {
+          "quote": "Bedbug bill aimed at helping Omaha public housing residents",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU0dnUnFFeTkzQkpUbm94dTBuZmFlei1PSVFRV0hGUUFiTS1fVjktRFZDRFBFMGpqRkdablRRYndXWmpLUm43QW9TUTQzcF91MkdlbzhNWFRDODZBVlh5MFc0QzhoOWZCQURqeHFQTVlFYVZnY21jWjFRZXJRcnc0QWQ5QzhnS0hQMzR6TWR1T2RxUkN5RHpEV3BqYlZvUElfemgxUXBvUVA0bjYyaU1BZUcxVUJvU3VBanc5RHJsQTNDdGJTcEVKUnZ3?oc=5",
+          "date": "Sat, 22 Mar 2025"
+        },
+        {
+          "quote": "Composting odors drive complaints at Cass County meeting",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa0otZzQ1Z3h1eFlCZE1IRUlLem4xZGdXZzFGcng0TXhadVltRnNVcjQ4RDRiYnFSNVh2b0hsSzdVY2pmYUhldVhZRG5QMUtWbm05OFJ1VTl6Q29vWTNpZDg0bWdscFBCY1dEcDJVZmh5T05aSVYyZzY5bGxBSG5zZ29oa09KUGtqU3RiUFZOTjhxNXJsUk42Ug?oc=5",
+          "date": "Tue, 25 Mar 2025"
+        },
+        {
+          "quote": "Less than 3 dozen units remain occupied at City View apartments",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR1pSQ01Yam5RelpSX3FReWhsVnBpZms4T0JVWEJTRjFGTkVycU9hMnpaMmZ0eGtNcV9QZE5qT3dSYzNFdGg4YkozZWJSUTBjbzhkZGdxM0ZuVmxnc1hFNWxFNmZZbWFKWnlkZTBHTnJvUUVyOU1oUXZJZWh6UThPSWF3dWNkMGVHUUJadW1zZw?oc=5",
+          "date": "Mon, 28 Jul 2025"
+        },
+        {
+          "quote": "Cars towed from lot with no signs, operator missing",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSThNY0RlSnd0UEtPalAwVTlYbEIwaXR6WDNYQ0lRdWIzRzFldEwyc3ZiUWFNUHVBdGRXX0FLQTR2ek9QekUzOFZjUWlIT0tJNF92R083VEJ6WUNUbm5IUFgtYnZIOS05TXJRWUVURnBjTnJsNXRwS3JHWWE2M0pwVmZuUGU?oc=5",
+          "date": "Fri, 30 May 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 3,
+      "pct": 6.5,
+      "samples": [
+        {
+          "quote": "Residents want action on Omaha homeless encampment",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYkFlMVg1RkJZQVRVTWtuSDE2MnlWaE5TOF9BOWl2RUVPckg0NGFVS3B5RzFsNU1IVDZoZFN5WnlpUkFNN0cxUTVNTWlTX0dkemk1MnhTdktlMWFXTFpqVWFHMjRtOWtmdExUaWl6anVuMU1WMXFSWkQ5TWFwcTFDWThTZnItc1haWGs5ajJBdw?oc=5",
+          "date": "Tue, 01 Apr 2025"
+        },
+        {
+          "quote": "Residents testify on proposed homeless encampment ordinance",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNHRVME5HQWVEWDFvWE1yWXhhQk05ZWlqcmRCOFZiRTFqY0xSRjlncm1oc3NaZXRYencwT0tTd25ZZm41RnF2OG4tTl9RMDNTTWd4SkhKckRXRklGcERNN2E5dXIxV2xaQXluYkV4TllsSlZkTXdzeVc3d2R5czZlclg4c0hGVDFnWTE4NWhxS0ZUMzZMellyVVRyWWhseUNzR1ZRVlM5RGk4aUlkWU5ucW5YLW0?oc=5",
+          "date": "Wed, 24 Sep 2025"
+        },
+        {
+          "quote": "North Omaha residents frustrated as large homeless camp grows",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWERnWHNSeGVDdHYyajJfYTM1OTFxaHJXYUFuZVNPRVZFZ0VzcEtFOWVpci1qMkhHSjNsNE5PcGdzcW5OYzNMZ2J6OUVWVXhpT05VUEYwYXpsa2JtLVpyWFRfaFdNOEN6WUtCT3NzVUVPSXpyYnJGMFhmanFHX3A1WjEwLWR2dWpZM2FQMjhrZHJzci1idVc2cWszMW1sNjVZMk9KTkRGSjdoSk1ZZ3ln?oc=5",
+          "date": "Tue, 01 Apr 2025"
+        }
+      ]
+    },
+    "Abandoned Vehicle": {
+      "count": 1,
+      "pct": 2.2,
+      "samples": [
+        {
+          "quote": "Douglas County authorities shares reminder concerning abandoned vehicles",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtZTWxQX3dFMHZMVFE1NWVVTzQwckVrcmNaclIyMUNVVWxpcnNyYjk3ajRMZ05la1ByZkZrY1UyaWJoanNrMDlqWTNLV0Ixb1ZZVkFRT2pQQVkxMmRPbjl3dGlDVlFXSjVabWJkUUJBNE1aNjZSc0h5Skp6eEZrRWdqelBUREQta01yOENzM2lna3l6eG1DNHp1VFNjdzUtTG9jLURBdw?oc=5",
+          "date": "Fri, 24 Oct 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 1,
+      "pct": 2.2,
+      "samples": [
+        {
+          "quote": "Homeowner disputes sidewalk repair order for panels beyond fence",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLXhsLS0wNk1md2hRcVBVbnRwZERyNUdIVkRGeUlHbjh3c2ItMmpCR1gwVXFWR2U5NlR3QUF6Z0dkRDFrQ29WZkFzckdxbnNDVmlPUzRWSzdqS1lXTHlxT0haV1RaZ1V3cnl5em1QeG9vbGRldlE5WTVGcHFzYVoyMzZMMEQ1OFFlN0VJMmpwazlPY3ZqSno4ZlFnSDJkNFR30gG0AUFVX3lxTFBxbzlmYzNSWHI1MGl1bHYxcXRWUVJoUlJxSUtRZ0Exb0lPcU5raHp5U043aGlScUN4WlBRREk1SFpDVTFRTUg5aXdvc1NxQWdUU3FFanpZTHM3WTUwZlhiTk4wRlFmNUFiVnN2NDZBX0U1bE1tOW5VZlotTDZxaHg4Z1pZdEVXeGhmbWJmdmdCT3d0cmViOVVpTnNNR3Z1c1RKaXFheVVvTjk3cDlsZG1mTFhrNw?oc=5",
+          "date": "Wed, 05 Nov 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 1,
+      "pct": 2.2,
+      "samples": [
+        {
+          "quote": "Constant flooding on Detroit street has residents fed up",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOEx5MHhtUDNod3pnOThCR3VHLV9WMnBtTU9JTHBWU0NsN0ZwRXVuNnpzcWlDN0xYNkxhUHdMOHVYTWdZeTN5U3NidHB5ejF6OGFkdi1GWS1VU0FRWU9RdXllVHAyRzFRU0hUVFpUcno4cjZlbHdGOTBONmt5UnNIbVlBTzNlc1ZtVzJKbU1oSUs1SEp0ZEHSAZsBQVVfeXFMTkp0X21zZldkNVZwS0trTTdDQlZrWVhpUW1HUDFYVEFDNmVsRXZyZ1VsVmlYTmFQZU5WYVpaUWNvblpXNEJvUld4RGI1OVVMYWxZTW1qN2pXWjRwd2xpSklHZXpKb2FiaE5BVExEZkJCYmV3bTIwVGMyalE1LWdtMDlmY0RiWFJiblVaODFmbUdPMHAzNzUzbmE0R1U?oc=5",
+          "date": "Wed, 09 Jul 2025"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,106 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — SEATTLE
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 110
+  Complaints found  : 53
+  Complaint rate    : 48.2%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   17   32.1%  ██████████
+  Graffiti / Vandalism                10   18.9%  ██████
+  Parks / Public Spaces                6   11.3%  ███
+  Other City Service                   5    9.4%  ███
+  Trash / Illegal Dumping              4    7.5%  ██
+  Public Safety / Crime                3    5.7%  █
+  Sidewalk / Curb Damage               3    5.7%  █
+  Pothole / Road Damage                2    3.8%  █
+  Sewer / Drainage                     1    1.9%  █
+  Street Lighting                      1    1.9%  █
+  Downed Tree / Debris                 1    1.9%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Seattle City Light responds to Burien's power outage concerns"
+      https://news.google.com/rss/articles/CBMijAFBVV95cUxQM3lMWG8tNFZpd3E1QzJNeU1VZVkzdWxYckVkT3AteTVHdXBtdEhPSTFTSk9hSFFUSV9HRUliOGxyazluRXRkUVlPS1JkbHRhR3VhZGJ1Y3Z3bk5HbEt4THR3YnJGRFNncUMzMmtBOHVzSlpsWlh3eHlES2hBOUxoZDN3QXU1bV84YjB0YQ?oc=5
+    • "Water main break requires Crown Hill residents to boil water"
+      https://news.google.com/rss/articles/CBMivgFBVV95cUxNam1uZlR6NFhCTlJuT2VjX0J0dnhTaVU3RGl6Z1NuUWg0NUdDbnVBbThjYkIwR19oQTBWWXVGeDZTbFFuRWlRY1RBUHNFSFdHOFJvY3FVUkJjcmhYWTRTZGJtdVV0bEoteWVidFU1V2dOSnhMVkR3a1RhQUU1RnFWNXNCRHBvUXpzb2tSOTNOczN2TnlwdkRTcTJSRWVUZHVFTE82M1hpZlJkMmo4Z2lxZUhIY1dja3VuU2N3SHpn?oc=5
+    • "Boil water order remains after water main break repaired"
+      https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMWRuSk5FTkRLVVlmRHFNQnhlTG9NSUZqbWhybnNWbDZyMHRpOXRjWEF6MHlnOGliOE1VbUplbGx1a05wNVhsd0xKY1VxazFEWl9UZnVBaUFTYkN2R3pmZ2FZOEptUjB5R0pVdEJ0R1dnQ2dCUmg2ckRpTjA5ZXRfcGVoZmkxd2N6ck9rdS1kdk5GMDRGYy1TMUpfcFlNT3lONmh0VFA5bXd3aGVlM212UGYzdkV0N3BzbjF1UjI3SzNEd2M?oc=5
+
+  [Graffiti / Vandalism]
+    • "Council acts to curb graffiti with new tools"
+      https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmNiWnlFVVprNlhxYXBCTUxRd3J6RjhSODdqQkh3UEg2VXJodVVkcDJDMkxrUXU1SW41bmh3QmpXMV9DV3Z6aXdmeUFEUFV0bVl4T25OeHA1bDMtOWdoSXRROXVEcmhZMGJwN2RJaWo5S19SZE05QldtQ0RCNkQtZ3R4OE9nam5yVnNZZA?oc=5
+    • "Graffiti causes $6M in annual cleanup costs"
+      https://news.google.com/rss/articles/CBMilwFBVV95cUxPOExzRGlXWWd0YVNfd0F1RG56Q3IyeVR4RTlvNFAzMDhGU3lyV2RIWU5QM0xtenl5U0FHc2kzRzF4S1REY2hZMWNha0FxUEpoRFcyVzJtaWQ4bldXRzVOUGFVcnR1WHZHQXU4UmNtRVNZN1d5SUlHdEJzV2x0bW1DVlBFNm5DOV93Ymc5Z19RNjVGc2MxMUtF?oc=5
+    • "City Council approves civil penalties for graffiti vandalism"
+      https://news.google.com/rss/articles/CBMi0wFBVV95cUxONGZVcjFNcWVubVhDMnRYQnVINXUtallKM2daQjc1a2xwQVhhVEVySjV4S3RpQ3ZlMlVFdV9DLUxiNHgxNTVDQnF1dlhjRllYT3dYc2xzRHlaX1ZCdmhVLUZ5djFhR3d3dUEyUmlMcDZBcUJaSzVLaUhiUXRHOS0wNDUyendlbmxGSHp3a3l3RmR6S1VYaWFFc1pqYkRsOUw5eFFEaS1xZk03X1A5NkVyZkdXLVBjY1VxeHpjSVdjZm5uMjZ1WkFvWmlkUXI1Z1I2LXBz?oc=5
+
+  [Parks / Public Spaces]
+    • "Denny Blaine residents sue Seattle over nude beach management"
+      https://news.google.com/rss/articles/CBMitwFBVV95cUxQWWRsSWVyS081bUpRblNOV2U4X3ZQTTRqMFpYRW1SRFluV3pONkVlZFlCS3BxQnJVc0NKUi12M2J3MEJyak1fbDRyVUdlWDNZOFVlZjhQUy1mVzhOeTJtRC1xM0hLNDBHSnlZWUNwUVhnS2JhUDljb3RaZXFNLXplQXlhQVI0SEhOX1hLczEzZEo2T2NwenlUNHBQZlNXcHBRdWRlVWJhQmpFdFVsNFB5NjBNeWxuSFU?oc=5
+    • "Seattle residents fed up as city ignores rowdy Magnuson Park"
+      https://news.google.com/rss/articles/CBMifEFVX3lxTE1QQlgwRU5zdVVheGVjSTk1R3NkUlRtTFFpLVVXWjFSYzBpb2pnOFROdHlhYzZ5TkR0dGl6WnpVLU11U1d5QVBQSmxRR2hXWjhRZ1hWUjNWYS04ZjQzU0FWaVc5MTJmNnB1UjUxeUZGQXFlczhXa2tWbDVZUW4?oc=5
+    • "Complaints about homelessness and drugs at Capitol Hill parks"
+      https://news.google.com/rss/articles/CBMigAJBVV95cUxOTEVsa19jT25NU2pSS1BiV2tCTkVLYkFQOVU1cjR6ZTByZ2tOLV9OUWRWM2RXR2hmbld5dVp0RkdoNDY4NEd1QVpqSHNDWWpiR0JpTUFkcXJnTWNQTkw3RWdxUHNHalhJeVhGN3JnT193bzhYeUh6NXdPUFpWN0VFSFZvcGFjUnpRTjI0cWllUWJMeGQ5Tm9ZbDVTZDRqMXVnMkZJT0FyLWtpNjd4cXVvMFZ2bVBCbWlkTk1jaVJnRTNVUUZUNkNUYlhiLUJvUWwyRGtxLS02UzloM1doUm9rV0RLQzVsZHdmcXAyMGZoZEZkQlNINFZ1bFc5UFU2SnFX?oc=5
+
+  [Other City Service]
+    • "Seattle neighborhood endures pungent smell from unknown source"
+      https://news.google.com/rss/articles/CBMitwFBVV95cUxPTjVZZTdwYWUzV2ExZ0M4ak5pUWJENVJZcm5mNkZNdHlCWVVzWTgzd0JhRVdzelpFODZaY0tFQ3RTcmR2WWVYbXcyTnowdm1IOTZtbU9JdTBsd3RVd0gwRWxPTnB3RlRkd0pIYk5LWWU0RUZrQ2N3dUZXSnVEMGRVRnA2MWRsZU1iQ1FZX2F2ZGk0RUU0cER0TGpZM0FxemFvNmRxc21aRDBvRVhScXRoaUVFMUoxc3c?oc=5
+    • "Apartment building concerns over other complex"
+      https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcGdFaGdxemdybVpaVXFoMEdncHR2RG85NHVtLXBiZHg5dUpUdWFnNzhPRTB4Nk9YMi04aEZETGQ4RS1SSkl1T3hwREpwbldpa0w4X2ZZR3FKWGoxRF9zZDA1eGxQTWkza0pWRzRueGdzdGlKaGV5LVZoZzY3aVAxVldqOGxubUp6RHFjdTRwSFVXSlozUTJsNDVPckhMREFCRDFJM0dYcl9zalFlSWtLcXBrb1VqUUNMX0NJYlVoRnRTSUN5SmZmLXhYb3VfaHd0cW12dUtFZWx3LV8xdmxTdjZn?oc=5
+    • "Apartment building concerns over other complex"
+      https://news.google.com/rss/articles/CBMi-AJBVV95cUxQelNlR2o2RGJaa0pic05rOHBLWWQ4empiREptWTduU1dGYngzUy0yRWlEN0dELUhVbHdRUkUxdnE3ejJLZ2FKeDZQOElzTDJpa09kNlZfR0xjSTBEYXVNMThRQ1BnbC1GLUhWWjNQN05BU3BobC1ncFlVRDM3NEdfSGhrMS1GUWU4RXhmTFNyRnpHNFdtUUVyMXBHaTRvem80QTBpeXVtbFJ0NlJ0MWRIdXYxR3JSZVJ1ZGJ5V0Ruc3Q1azR1S182aE5kSUg3cU5RZC04N0x0ZURuT1BrMHdtc0YzbThJZU1xM0JmOVlwX2FTWDFsUTd5azRjaVg3UnpwRGFBRTJZcVBRck40V1c1X0NoWEp2V2cyWU8yaFVoQXdrQVQ3MlUwOC04dmRqT0YyZ29DM3ZxVDk2SDlyV1h6SFQxOEdNa0Jrb3lZQ3lNUE05RTdoQ250clRwYnRFYzB2V2xFMDV0RDBuUUxtS0hhWEZSX2RHSUFq?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Trash piles up in Renton amid nationwide Republic Services strike"
+      https://news.google.com/rss/articles/CBMie0FVX3lxTE4ybmtZRlZRM1YtalpMbU5YUHNjeU0wVEF3bWp0dHFKYlJqMTVwSFRQRFlMTGRzbmxjWU4yb0hqQkZnM0Y1WU9HWTVSei1Qa1VWWU45Qk8yWXNEYXBpaEMzcEtZdXNPNktQR19IcXdxVWtSX1NQRFpqT3R5UdIBgAFBVV95cUxQaE5ZVHd2eEJoUTB1amV4bTZrVXdqbFVSbWpkT29KWVJtbnBhTU12Y1JFc1hYOFcxWVE2VVRpVmJlWU1HQnQyWWhnMzc5X1pybVRncXFXZ3EwSjVwTldPZ3pfNGVpbndJajJxZl9ZZ3hZbVVSVmk4eEZBWnV0V1NFdQ?oc=5
+    • "Garbage strike continues as Kent, Bellevue offer new drop-off sites"
+      https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaGJMdDc4dDdGU3lBNlYyV1NTRmE0TExBZ3pGTkQ2cGJIRnYyNnlYbW9qd0JPNXA0ZWdXYVQ4UmF1c0gxRzc2Z1hVTUlUNGVPVzB0bDgyZWoydnp1VmxlMUNnVXFsRlRIdlhZQVNSRVBVNUpkaEMyNVhMWEo4emFOb3p3ZGY4WENWcGJFSzQyUC1RMy1yaVdRLWtPZW1CNkphRmc5WXNRekZWRjlBbW5iMHk3UzdEaXEtNDRSWXh5NXMwTlFORmo5YTNrUjJVMGpvaFd2LVZFTElDN0Q5TXdXOHJhenUtdw?oc=5
+    • "Republic trash collector strike impacts service across region"
+      https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYlY4ZmJBby0yM0trbkxfT3ZxNFhwUjlYRkxyVnp1bFJ2ZGhOOEktVHM5LVhadFhrYzQ1dkozczMxQTlSNkpMaF9mZ1d2UXNOM0Z2SzhUbnBFN0xpa2JMQUlvMVAxekEyT2wwdzAyeTVqS0JwcnE2ZFpQUWYxVGtxSUV3Z2pTRUxHYTVyWXY3LXFNVmVIYlM2X21wZUJFWWVUZnUwMDZBYXVOdDBMdk9Cd2tWV1QyYVZneWFLaUR3N0FkajTSAdcBQVVfeXFMUEZTNXo4S29LMC1PZFc0YzYwUHpFbE5jZ2sxYTFLeVpjLUlZb1hSWG9LS0xVVHowcG5zb3hnWE9CM1JNSWNGVTNRd1BYY3pNdV9wTGtrdThybkdReHBBcHJOTDU5RVhLU29JQjB2RmoxcjFOaHlILWtaNThrWWlvVjlZaDBYcWhReE9fZU9qLU50NEY2TFlrQVFwQ25fUHhJZHZEMkVFYVdjVnhPcEd0Ul9oamxRYmV6VnFpM1NuWWFlUEJubHVQT183YU5DanloTGwtOXdxTjQ?oc=5
+
+  [Public Safety / Crime]
+    • "Record number of people reporting homeless encampments to Seattle"
+      https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSndxMVFJelVnZnJGUlNfTERrcnJXM2hfVUlhYWZxZDZOVm45Y3lkNHZhbU1HRjNJTmRKZ0gtSlNYMnBPRWNydXplcjFjUUVwMVpXWi1JWEhVWTh3UXNVYkpJU0lXbmE5NnEweTJxbGV6RmRJN201dTVWbVp1S2l3TEZqZ1BCVHVFYzhKU3J5dFZmOGRoQjBVUTJuYUV5R1ZrMUYtRnkwSmVIZw?oc=5
+    • "Auburn residents evacuated near Green River due to flooding"
+      https://news.google.com/rss/articles/CBMiqgJBVV95cUxNd0lGaE5lSm5hTE05MnBGXzZCUDVSNy1xMTVhamtIM2xYdGNhekowRjdWSkp5aklpd0ppUzNneW9OX2dlM2R0eVg2XzY0c014TmdZcEJvRWFhNEJiWFdGSDJBSVlRbjBqVC1JY05YbTgwWDZkc0RvMzJEemtJbG1oSXBJaFc2bWh0Nnlpc0trU21Fc2ZQQXFTbmNHM2YtcVdlZ05yMVpjbWUzUTl1djc1SkljaEtqeHBDTFpNTUdUVGZ6RWJ1SkZLdnZaVTRvanZNNUozLUcyQUwtcFJKU3NLX25DeGlvQWZ2VXJESEptT3M0azlKWjNzOWpTVUxSVXNQT3VlYTV1QzlGU2N0SlFUMHNaVV9oOExZNFowQU93RHJyeXE2T3pabS1n?oc=5
+    • "Evacuations underway across Western Washington"
+      https://news.google.com/rss/articles/CBMiugFBVV95cUxPeXU0c2p6eE1TcXoycTY4RFhjUEN2Um1tUV95WjZ6c1VzQU1RajhfNUFLZkdEZnUtaWpMd05iNEVENlNGWTBpQ1dFLVdWbk9meFdsMDNJeGE1MUxDX0FxcU9QdW9zaU93NlByTENLUGZ6QVJGR2l2VmxWNElQY2Nicndqd2dSNUZFcnF0NHg2TlhxSkRtdkFHZk44RXQwNGtRSUpWLVhfay1fNWw2UURfOWhlUlhwcjc1OWc?oc=5
+
+  [Sidewalk / Curb Damage]
+    • "Beacon Ave S & 15th Ave S safety improvements needed"
+      https://news.google.com/rss/articles/CBMixAFBVV95cUxPcEdGaVNXN1g3QjN5ZVVSbEtkdWVUY3NXT1JVb2xoWFRCcnhTQXZWNmY5eWgxNS1vblA4a1V4SWJlYkJIcmlyTEtneDZuR0ZMVGR4UHd1SERTMnFiVkpKWHlOMXgwTnFEbmx0TGh1dlFlQkxoTnFRQmJ2STFuTEdYMUxwMjdTa0Z0c1BNenV5S0JBc0JlcXNsRUo2d1daVGhqUjVRVlQ4YUdleko5S0U1c1EwS0JSTk53a0dGZ2NubktreFFI?oc=5
+    • "Greenwood Ave N sidewalk improvements underway"
+      https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEhRMU9IUXZCbE9RczBWZ2dIZHRiRm5ReWxFcE9yYWwtdjNsOEh4SnJEcENyeHI5a01PV0ZDZWhxcVd4Wk1rMXVMUGNycWdfLWRsLTBiREhfNHUzUHQ0eGRuX3QzUXc1cWJmejJHMmlwWmVicWFvc1hEbGhUQW5iQ1hHMVVJVG1kUFV2dExaTS02WkdKX2g5RDVydTlGQWhpdFdBT0tMa3JwWVlZeXhLb0xxaDN6QQ?oc=5
+    • "55th Ave S sidewalk repair project"
+      https://news.google.com/rss/articles/CBMitAFBVV95cUxPRWhWd3RFYlU3V2h4U0VhczYxRXVFeWhQeDVEamM3VndZcENLWkw3SXludlpCN3pGUFZkZjVLSGpCdmFZYmZyaVV5c0kydjFEbncxTzNCZi02eHlIbmVzMjU5RHAyakRQM3BJSDRrTVh0aDdaNTljLVhfR0EtejNYVkswRG81M08wLTFvRUllVjQ0clZsU0pHa1h6SDNOQkFYS2ZpMzlRMGdPMlF0RWNldy1CTHA?oc=5
+
+  [Pothole / Road Damage]
+    • "Seattle overspends on potholes as $2B road repair backlog lingers"
+      https://news.google.com/rss/articles/CBMilwFBVV95cUxOTFI1U3hOSlMzUTdaUWpFU2FMSlJ0Yk9mQmRwTkRvOGJjWmZJMlRhRFFNX3kzRGZQMHgxTjdsM3djSlVpdzhBUm1BXzF2YU0zUmI0Z29nZFJwSnlCbVU4cS1ZSjBSRzVOV0tOMTgxSTVUdGZhTnEtd0pnX194cXF3a2JFSUhfdUdEcU42RkVPd3EtS0pHOUhj?oc=5
+    • "Residents fume as Eastside city abandons neighborhood's streets"
+      https://news.google.com/rss/articles/CBMivAFBVV95cUxOMTk5cHRkSnFpcnAyVy1Na0NXWEJwWTlKZEZqekJfYmRuTjV6Y0llaVRBTFV2NEwtZ1lBX0VfOVFYUG1jaG1haWdNU1RqSXdSeVRKbnE0UnppdU45MmhJVzBBdllvVDNSTjFHMUZDT0MtUDRfVDFsWUYxV3A3ZmJndUpfYW8tVFl2ck5fR1U5dExScmhpQ09xUTluemVHUGJPaDB4RDlwQ1lLT295RHBfRHV4Q1ktS3VYa2NGaw?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 53 news articles reporting
+  citizen complaints about city services in Seattle.
+
+  Top issues:
+    • Water / Utilities: 32% of complaints (17 articles)
+    • Graffiti / Vandalism: 19% of complaints (10 articles)
+    • Parks / Public Spaces: 11% of complaints (6 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

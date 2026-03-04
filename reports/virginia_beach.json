@@ -1,0 +1,122 @@
+{
+  "city": "Virginia Beach",
+  "slug": "virginia_beach",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 77,
+  "total_complaints": 37,
+  "complaint_rate": 48.1,
+  "categories": {
+    "Water / Utilities": {
+      "count": 25,
+      "pct": 67.6,
+      "samples": [
+        {
+          "quote": "Power outage closes public utility offices early",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWFBJdXRxYy11VmVfM2lBcVN4MjJyX090bWhyYTkzTEE5ZFlDc3AzZGVfQTNydC11Zi03Vk1WTktQWV9PSlEzUXRHdEgzR0RyVGVwamJicHl4R3VqU2laTkprN2JFVk9NR2dJQmZtTDZfWlJvTExkeWR3Rk5hRlJTUnNKUXVNS0Ywc01pMFNaZVFEcGxlVndhb0ZWbi1ZZGUxYWtEdF9SWkpKazJuQ3c?oc=5",
+          "date": "Mon, 28 Jul 2025"
+        },
+        {
+          "quote": "Norfolk residents face high water bills due to extended billing cycles",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdFZDU2wwcnVaNHFGd0duUEFQeVBxZG13TE03ZjgycXZSR0hwSU9VMXpsMHRsZVgzR2hFUi1WWmhHVk1OTnZQYWZlWmgzMmRUSXZWV1E5dHk5MUFlOXNjUE5VTVpYSE5vNGo4MWlweE1ETkpWRUlmZ3pIUzlJR2Y0UE00T0hBWTc1QVFCbFBlX003WWlsTVFXV0pHdXVGdWFTU1c3NmVHWUN5aVhpUVZ1YVpvX1JiVFhmTkZldW9LZjZ4alhNYkNjWE9WX1VXZkQ3a2VrMlFnZGVRQ1dHQ04tR25fVXZNSXRQQVdNb25QUnJ2OGhhN1c5Xzc3ZnFjSExyTVFYVlM2Q1JhWUtmclg1cHZ4M09NMm9wYTQ5b3ZoM2RfQQ?oc=5",
+          "date": "Tue, 27 Jan 2026"
+        },
+        {
+          "quote": "Water main issues requiring freeze to fix understanding",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40WlVuZklZRUtPWEFZamRLcmFRYXlGNHl2SnI5c3k1ZUt6MF9JSTJDWDBQOXpULV9rSUc2UXhzb0ZySGFHVEhIT3F5T2VVcHZkWFFiQmQ1cXFaUnZZeDl4U0s4NnV4ZkU?oc=5",
+          "date": "Fri, 16 Jan 2026"
+        },
+        {
+          "quote": "Water main repairs on Northampton Blvd affect traffic",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTElYYVdOTElkWnJ4c05TRkcyRXJTQWpzVmlrODM0RjY0cEw3ZENDeTdtS2hCMFpOdXNEYi1aMmhmZ2ZwQ1c0LXJkbWZmZFpwSlM2N3A0aERMcWJ2MUtZYzBNR19CQl80TW9ROERWYjFnTzltOVdXWTNodFVXUkYxRnFDcE94cmdIWTVEc3lKbXJmdDlBTzhWdXFGdnNmazdVOV8wQkx0TVhERzJvWGZKX1pwLUh5cW1IdUFFa1QwbUwzd1XSAcgBQVVfeXFMUFFYRmd6WVZOWEFoWmtWOWVyQjdVWlNWYjZ4MzhQQXd0cl9IdDIzUmdUdFRXWkdOWjRDZS1acG0xbE5TcHpZc0YwNHh5UjFGUlVjYVBkZHdYN2NhUHBMQWp1SlFiSW5scS1VbnR6Rlh1NnhCZ3dFSHF3NEVINXlRa09lMnNqNUNyd3V3QnA5dHJNYWlWaExlal96bDNSd29PNy13dXpuaHJORVI2anBQSDdtbmZFbS1lS3RtT2l3UUlxaUo5Y1h6TFc?oc=5",
+          "date": "Mon, 02 Feb 2026"
+        },
+        {
+          "quote": "Water main breaks flood and freeze Columbus neighborhoods",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQckdUZk9SaTRSY3BBU1k3dWpTSjdYYXRhRU1ZUmZwYWM2MFZhdDdYaEVQTnBWaTQzei1qdkhLanZVTnpONXk0dTZSLTRPTGpEa19pbktLa0tnTXBySEUwQ3hVR0Q3VE1hMG1hdXpJcjVVUTRnWXNraGt5d3lUUzJWRWxoVGl0S3VHbmxUdlFaNHBVQUVsLUJGQkxHdXotTHNsSVFrRkp6cEhqS1BWOEY2S29fSnU5Vmg5SWhqaDNZb2t2cHJ0UklkWGdzbw?oc=5",
+          "date": "Fri, 30 Jan 2026"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 7,
+      "pct": 18.9,
+      "samples": [
+        {
+          "quote": "Virginia Beach leaders meet with residents over Thalia Creek's smell",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZTllMnd4YjREQVJlek1qWFVsa0MwcHd3ckNoRmd5VU5TbGVsOUowZGpKQjMxdzlybUwtaHVLZU8zYkxMVGJfUTdNRTY1cnJNWXZ1RVJFNzNjajhwSmY4MDRsLXcxTnBWUjlVUkRuWl95c3UtTXRaVGtwbGk5b181bGJlSzRjbmNsWDlDRDhONWdDTEVENDRvaTRKQjVtNG9JdVhlWGF4Sml2QWtwcUJFbWpmR3QzUUItTFJQWV8tSDE4Nk0wTDNKX1RHU2NuVndubXZLVjN2Q1djaTF0WXZYVmZCNTFydW9vbDhlWlQzYXJMZUZnTFE?oc=5",
+          "date": "Fri, 29 Aug 2025"
+        },
+        {
+          "quote": "Delegate proposes aerators on Thalia Creek following smell complaints",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSVdGcEwwYUMxdFJnRFJ6RkJac1JFVzZNRkdfaVV6SVJ3YTMtdDhwTWpIX0U5dHBwLTk2b2dCeGVUSGZqX0RvbWhDN3VtTEhnLXNIWURPYU5rTm1rR3Q3ajhQQW9PbnRnX2pqMi1SbE9KOEU3Q0VrWmZuZ2N5QVJ6bWs5SnF6M1NaQ1Y0M1Y4aUhPR2NJSmtLcXZNMlhGSnJVZ2hsUmVHaXpGeS1idGtEOG5qb0lYTzQ3Y1J0RV9NZHdpNHZFUElaSWVIcTNFaEdYTTJrYlJDelVyVnBoVGNmTUVTUWJsb1VxR0MxUkZ3Rmliem9nNnBUWWV3cWdLSTlLa2VJ?oc=5",
+          "date": "Fri, 05 Sep 2025"
+        },
+        {
+          "quote": "Virginia Beach neighborhood hit by pungent odor downstream from Mount Trashmore",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOdDlhbkF3eW9idDNnT0NOcWlSV1pmLVVOOW9CaDdWa1FhcHNuQnhtcmlGbjYxX0I3RUFUZzZkZ2JVY25qUWZvOW95Z2VtdGZaRE82OW9Cakx6M01zY2VOM1d0eGxxVDE1N0hWSXhXSkhXNDBfUG96Qmk0YmY0bDkzWlBVS1BwSHE3ZXhpb0RwNHVyU3VSN3hubGthbDg2UFdQcXBIWnpmUUwwQ1ozLW5aZE1qbEJ3SDhWV29sWFFzLXJQZUpWU0NRYlJHOVJRa3BoM2F1YU1lelBzZFVBMFdFM3hDcXJ6LTV5dTFrMWxUUzJGY3VqRU1aWnFJZTdydkp0ZHVKYTN5QlU3djRqRFFpWXN3?oc=5",
+          "date": "Tue, 12 Aug 2025"
+        },
+        {
+          "quote": "Sewage spill in the Potomac River",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhYUhYWkV4V2V0YlB6aTAwRGotMU9tT29TbnNlR0lnODV3SV9iMTRCUThrUUU2empEUTV3Y04zYV9nc2M4S1Z5SjR6alNCYV9CSW5EYlJFSTVKQ2ZPbzdRLTQxRE9LUQ?oc=5",
+          "date": "Wed, 25 Feb 2026"
+        },
+        {
+          "quote": "243 million-gallon sewage spill in Potomac River",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeVRITUZqMG1hdTVJWmpBWnQxd3JLeGJNSEIycENrUlFPVzB1VmZ5Z3RNcm5YbHQxckVfWDE3YlctY0pTaFoyZk9nQVk3NHZyZE9pdHdibmRqaHRnX2ZHOThOcnRRNjZRLWtIcFlIeEZIZEhNdFpLeXhsVGlDd0RiSDRyV0RwNGkzaGNKSjJUcU43QncyNS1qblllaFNOTkNnME9KdkdtRWVMTmxxd0tKSUowNXc1VlpFbjItanJydXdwTjBhVk8zUC1HNzlLUnhTREE?oc=5",
+          "date": "Fri, 20 Feb 2026"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 2,
+      "pct": 5.4,
+      "samples": [
+        {
+          "quote": "Pungent odor near Mount Trashmore under investigation",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRkJrMVlpOFVNU0pEWDFxTGl4LWRYZWRYNV9qLV9PNUdKcl9GdFZSVlB2VktFUFY4NjRjbGZtN3lIMEtnTXhyeUpUSVpVc0NnWVJ1dUZndmppUk9mWWhoUk52TmFpaU94WVFOZzBBa25CNW9JUFZLMjRMWFFuSGFUcXRuZHN6M3VqUDl4TzNQZ2FhVmt6SXBHb1c1N1h1MVQzTVdrRFRuLTNKQm00aXFEc2xzYl9qMEE3NlRldGRNSmtuM2t5X2R5alBndWpyN3d0c1Q1ejgwOTBRRHZNSTJDQ2JNc2NlV2RiMlZBU19BYWhIdFlXNmc?oc=5",
+          "date": "Tue, 26 Aug 2025"
+        },
+        {
+          "quote": "Moss Beach residents face growing geological disaster",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTmFoRnhibEtuWTM4Z0IwdWt5NFBDTWk4dXBMUS1tTE4ycllJU1ZvWVZuZjZ4LThfVDVZd1ZhcE12LWQzM3RzeWVnMVk0bklzanNpdGE1TVBmOEJtb2FDOHRPZjF4ejQ1NVlyRFRKWENGVDF0cG1FM0VCczBfMkw2b0w5WVl3ZHNCd01SWU1ZaTRsd2JFYnNac2N0YjE3NlhKM00zSVpFS1RMcldwT050cF9XNi1MQ204bnNGa2JhOE14REdyWEZpd25hdWNfckhRNnZaSw?oc=5",
+          "date": "Sat, 29 Mar 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 1,
+      "pct": 2.7,
+      "samples": [
+        {
+          "quote": "Lots and lots of potholes affecting Portsmouth roads",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkNKbC01QXhDcFJCQjFGTlJ5OEk1Qzg5TFVsZ0tUR1FPRG1oUUNNWl91bURtanhCOWdoUUJVcGlaM3diTEtjc2NrMGtxRnRQckVjRlpESzJtMXgxRGphSkNiTUxSOXpqMTY3Sm9ZcEVLSDdZVk5iNWYxdXp6OWtRaGNzUVEybnVQb1lhalN0d3hHVGRYVXBlNTB5TmlaZEdpMjhmSHdRZk1LcWRMUEN0MUdkMEpvQUFpbXc5Z3N3M05sOVl5UUJCTHNaUVRscU1sTlE?oc=5",
+          "date": "Wed, 26 Nov 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 1,
+      "pct": 2.7,
+      "samples": [
+        {
+          "quote": "Barrels and construction material litter Pleasure House Point",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNVmI5THBYRkU1RWRKM1gwTl9QVHlZaVo3RS1XcWFoX2xqcGpaNDNPOGp4a3FEY0hmeWVsZnBFRlEtbHNDVEJERUo1c2o4U0J0TU00bGVCZDJ3bHJPRGhRSEd1b0FlSTdMb1JuWGV6T216MF9MM0M2eDZobGhKdkZCMGhuMzB3NE13bnVGZlNCenRSYTJJTnRYNU1RLWRNcEk1VmZDYTBhYnNRcmtCZGlYS1A1emtiWElBX2ZSS3dIVTJOY3ZlWnFVNkcxdzZYeXNEOEpLQW1qTEFLVFduMTU1bDhVdWxZZlU1NnhZSUx5blBtbC1WRUFGN1o3TW1JZUZtUFVhVGdWU2xMU19WY2FRRFBMamFIa0Q0Nkd2MlUxZ2NDWXdNQ1RSMkxPNnhadGRf?oc=5",
+          "date": "Mon, 13 Oct 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 1,
+      "pct": 2.7,
+      "samples": [
+        {
+          "quote": "Boat ramp renovation in Virginia Beach draws complaints from boaters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRDhoUXh0azRpdG95Vk5QS25HbGtnaE5ucUh1YkR6Q2lrMUdURmdPMWFpTXo5VnBiaWtoX3kwaEs3b1dzZjdXMmgzREpsaGtqNXdGVnhwZ0JtblcySGx5UHdjVHZhQXBhSVR5VFFDODZkYVVLemtTYlNkbU0xcTlxUFcyRWR6bjl6dUZoLXAtNUNkb3dIZFZhblFUWGNabzMzejJVeElyVWVPd9IBrwFBVV95cUxPUXk0MGo3cTNoc0RYUzdBeEl3RUxkRTlBQTNVOTFZa3RyZGUxaS1naDFtY3VTNTVqOHEwVGYtX09ZdzhJYTZ4TWpjeGpVU19rNUlJSDFZM1FIdWtBNHZ1TFVhMjh5ajNscEFJMkJ1bktMeFp6eXJQaHJzUV9Fd2NjXzZvQmtTbkdkQzJmcFBENHFBcnhKQVhMODVMVGR5ZzRjTlhxaVEzQl91SjNRNFZv?oc=5",
+          "date": "Fri, 02 Jan 2026"
+        }
+      ]
+    }
+  }
+}

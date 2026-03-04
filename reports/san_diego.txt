@@ -5,89 +5,89 @@
   Source    : Google News (past 365 days)
 ==============================================================
 
-  Articles analyzed : 153
-  Complaints found  : 86
-  Complaint rate    : 56.2%
+  Articles analyzed : 148
+  Complaints found  : 68
+  Complaint rate    : 45.9%
 
   CATEGORY                         COUNT     PCT  VOLUME
   ────────────────────────────────────────────────────────
-  Trash / Illegal Dumping             24   27.9%  █████████
-  Other City Service                  13   15.1%  █████
-  Parks / Public Spaces               11   12.8%  ████
-  Water / Utilities                    8    9.3%  ███
-  Graffiti / Vandalism                 8    9.3%  ███
-  Pothole / Road Damage                5    5.8%  █
-  Sewer / Drainage                     4    4.7%  █
-  Street Lighting                      4    4.7%  █
-  Public Safety / Crime                3    3.5%  █
-  Sidewalk / Curb Damage               3    3.5%  █
-  Downed Tree / Debris                 2    2.3%  █
-  Abandoned Vehicle                    1    1.2%  █
+  Other City Service                  17   25.0%  ████████
+  Graffiti / Vandalism                10   14.7%  ████
+  Water / Utilities                    8   11.8%  ███
+  Trash / Illegal Dumping              7   10.3%  ███
+  Pothole / Road Damage                5    7.4%  ██
+  Sewer / Drainage                     5    7.4%  ██
+  Parks / Public Spaces                5    7.4%  ██
+  Street Lighting                      4    5.9%  █
+  Public Safety / Crime                2    2.9%  █
+  Downed Tree / Debris                 2    2.9%  █
+  Sidewalk / Curb Damage               2    2.9%  █
+  Abandoned Vehicle                    1    1.5%  █
 
   ────────────────────────────────────────────────────────
   SAMPLE COMPLAINTS BY CATEGORY
   ────────────────────────────────────────────────────────
 
-  [Trash / Illegal Dumping]
-    • "Old trash bins remain curbside, residents frustrated"
-      https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnRkUy0xWk1GU3RuWjBNTkJqMEEyMzVhdDFCYjNoYTdMNThqaGwyVGpVNnc4c0ZIb1JSTjJhOHpsTkYxS3pWSzZJbEJlMWd2TnJQTGZSVW43QzlCc2ZjcFZkX3lMNUJyOW9VMERFMUxtRWcyNVcwSUsxYVZidkFCbmJDQ1ZFc1FJeXd0N0R2MDFBWk9GMVE3NlVWckUzUnRQd2NPYVJxbnotTW9td1pXYVlyUWhhaTg3amfSAcIBQVVfeXFMTXFUTkpjWmJCbnBsbnpxdEVZODNVdmw4dzEwVklIUWRINzR3MUo3RWszZDZ6UlhDdzgydS0tUG9LZXVyVENHbnJMVmVrWnZ5WVpfdmJORE9ENzh4VGMwY0pVbzlwdmVFbVEzR2diYVNyMkw3bVdXVlNIS0FreUctWUtUYUhIWGFfUkFlaWJ1SWxCTjBJM1JubE1vUFEwZW5hWU56WWt0QVQ2WVBKSVlDazAyUGFvWWxtQ1BtTy1BSTZwenc?oc=5
-    • "Recycling pickup delays and long customer service hold times"
-      https://news.google.com/rss/articles/CBMivgJBVV95cUxNeFNfellFRFB1WU1XbHBIZWtkTFZOcGpnazJIcmtEZUxObDRWTXdPdDEzM256ZWZELTg1dnlRYUo0YnVvWnJfbzhwb0tSZS1XWTFIMXM1MVVvTlMyV09mZUNqaTRfZ1J1aV9hVXltcWxQeVVDaGx6elBFSkd6RE40blNLTllqM3l6SlNvaU5CNE85S3kzVkhyRzBFaS1hNC1mb2xJZkVoQlJnYXpsaTEwVHFfVklKOVdCdFFtTnRWQmM3Si1DeFdpWUxCRGdTWVpGaTNBOEFFOXlQVC1xZG5lbEJaRVhncldNNUVYQUtmb1gxYmtma2FkOWhheGRSUVg2ZXFmeUJDMXlDMGJSR0ZiMmcwNWU4NUpQTDF0R2ZFRl9VUmhGbG1FV0VjOGVicGJPOXJLRTdydVkzaE1kV1E?oc=5
-    • "Homeowners sue city over new trash fee"
-      https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUEzcjFGVm9GQzA2bHkyamlad3BSOWw3cEtzLXJQcDF5dEJ2TkItVjhocjlRa0Y2N1BEcVpTZC1ZTHA5c045a3VVbDJFMGJBT1VXa3Q0WGxBZkhBSHFGMmJ3dlAyYlZrUjFsdFJGVi1WbkFxeklIcGctTmtlMDdJQkNBMzZndG94OUh5QWE1OUgyLV9yZDdrZV9NVzd4QVo1MUFiVmJCZDZWeWV5QkwwbQ?oc=5
-
   [Other City Service]
-    • "Coastal residents oppose city's community parking districts plan"
+    • "Coastal residents oppose city's plan on community parking districts."
       https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1BGSWxBY0Y2X1RNSlRTRl9PbEJyWHVDUmJLVmxFaXBjMGhYcXVhcjZDOHMtZGlwVE1saWRYNlI1WC1JUEpUZjJ4TUphQ3JNZEZWczlDWW1hcVpPdFQzNnhHcHpvTG51VXI0N0hkejNQN2RGRHltQVMxTFNhd0pGQzBTdjRyVWhHYkNpVkx3Q09hU2wyUDQ2SlNCZm9PdnA3LS15ZDE2MEMyczZnb1ZvOQ?oc=5
-    • "Graffiti, trash and potholes ranked by neighborhood"
-      https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaTRSdy15TmZtUmNvTlRfNVd5Q1V0Skhjbmt1OUs4anUzU01IUzRVQWlpenBQaGlNNFg1S3lTREJPMHVTUE83RmEwVlFuV3JReHZHSGJNb092aHBkNWlJQmJLTUU4eEFCQXU3X094N01DSDFXVE5mVUprc29xdmZHdnVnRWVqa3Z6Y0Rj?oc=5
-    • "City of San Diego files countersuit against Jan. 22 flood victims"
-      https://news.google.com/rss/articles/CBMiugFBVV95cUxOdklYMk5fMk8yak5zWmhaVHFEOVA2OC1Rek9yNnpGbVAyUHVRS011bWhpcTBodWdKTnUtN0VJZ3BXNE13YThLX2dKRjJBcnl1dmJ4QmpKNjFFWFJCZ3JBV2xtOG5sREZGcnBncENHQzdObHI5TWhNOS1BanNOOGV0SE5ya0s5VEM0WnplcnNYYUtEWXBiVG1vd1l1X3RsdS0xa0dsdFBpOWtmSFhia1Q3WGVNN05kN05UWlE?oc=5
-
-  [Parks / Public Spaces]
-    • "Residents sue San Diego over tent encampment conditions"
-      https://news.google.com/rss/articles/CBMihgFBVV95cUxNNmtMY2dHY3R3WnFQM1g1c0E3ZG5ocWNwbjNxUHJGUjc0bFR2emRsb1IwVWRWamduZ1Vhd2lpT2lIQVdFQms5d0hESEZ6TFFCekZzRi00OUk2NFRCc2JndGhRSEJQRmV2dE9OQTc3d2dLVm9lTU5WTjZUbHZkSUctODNiMzV1Zw?oc=5
-    • "Unhealthy conditions at designated homeless camping areas"
-      https://news.google.com/rss/articles/CBMivAFBVV95cUxQYnJvZE54VjdxdUR0VlF2VUUyNkoyc2lnTXhpWV9FdUNldjdPVHBaUW44d3pGV3BRNFRuRVdGems0MW5WRnhIM2x3aDBES3QxWWZaNHBoY1ZWanozX3JlRDlHQ2lhcGplTVB5Z0Nyd0x6NVlfcEh1SDJ6UExIUE5TN3N4eEhHMW8zZW0zbzhWSDRlNWJQODZrRjNObGZyQVh2a2l5dmRvV3VkSlc2NW00akV2b2h4dFBzN1cwTA?oc=5
-    • "First-ever parking fees at San Diego's Balboa Park draw anger"
-      https://news.google.com/rss/articles/CBMiggFBVV95cUxPeHdGSHBYOXB2MWJqNHM1V0xzazFITFg1OTQ3R1NCUlVxTEhNcGZaeWNaVmNOQXo5bThqbWc3NDBMRU92eDBfV1FYWlJUdWhrZ3V6RFhEY2w4QzdVNTNyeVBqNHFNQjRMdG1fWllzYkRkVjhSbTlIT0liY0Q1Q0hIR1h3?oc=5
-
-  [Water / Utilities]
-    • "Power outage affects Mission Valley, Kearny Mesa, Tierrasanta"
-      https://news.google.com/rss/articles/CBMickFVX3lxTE5aemNVWjN4Qk9rVjRZWVZUTDQxazN4SjNmVkZvclI5ZzRjLUtodWtyV0E0QjJxdGtyckt4NlliS1JscUlnbktXTzhfV2JrN01JQUhDbVZISlNMeXdXemV3Nkg2VnQ3Xy1rU0xIa2lIRldBQdIBd0FVX3lxTE8wR0o5cC1adWlxMWdwS0FuTnFmdHZkWnB3bHlMWU9BQjdhc1NzODZYTGpJTEtsb3NrRXlQYk5BZ283SGcwaFgxMzBhbEVMaENWdkFrbGNCci14RGVVc0NaMjBNdncxY0s3WG9ic05kWmx2d0diVktv?oc=5
-    • "Emergency declared following water main break at major intersection."
-      https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUEhfRWVjVnJyZ1Q3NS1nUEtscjdmcGdlZDF4S184UjkxbTJEbDJmSE5DTEttbjhvSWNvRjB1bU5jLVNlS09HMUZPSkNPUVpEV2FFbVVxM2VHWEpEb2o4RXYyRGJqdGVyanVKcEI5dnV0WmFwVmNObFZWZ3Buc011amNYeFFZSGV1?oc=5
-    • "Intersection closed due to flooding from possible water main break."
-      https://news.google.com/rss/articles/CBMidEFVX3lxTE9XQVdQU3IzckVtQm1hWVRDUDJQTXI1Mk5zdXdQMFlhSUJPYTJ4ZFlhTHJkdUI4REtsbE1XMW5TS1Zad1l5dGx5SWEzTGNPTklFalFhSVdPcDVjTEoxbWFOREFxVGc4YlphbFdxd2VyYTdwY19G0gF6QVVfeXFMT2hPU05ISE9HZFRLOE9vSlpncHpwUVhTVktCdFdPX09iLUMzU2tFZjBOaFhDT25SVWxBNnVJSFNCLUhUUWVxcWJ1X3hMWWVmaGQ4TERTV3I3OUdlNlg3R0dhS1Q4UDlvbEdyU2VuY29JbUtlMkVST3kzR3c?oc=5
+    • "Cars tumble downhill into La Mesa restaurant parking"
+      https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzMxVV95Yk9TN3BvSlpTQS1KTXdaMG9nWmpraEJkRUhWWEcxbDQ2NDlfNUxvV3R3RVBGRU05VnQ0YkJma3RSb3JoT2xKMlIyRTduRnNKd3RnMzJQMDBRX1pDV2lBNWxpREtNaVJ1TVFUeE1uQU41V1lXWDdhVm94YlpHLXg1aUdMNzBLbGc0SmFkUi1PX0pobVZXSEhRXzdITWNpbmJrNC1oLTJXQnFRQndPTDdVZ21ZalY0UDU0dGZhWVEzWDM40gHPAUFVX3lxTE5CZXpTc3VwV3g4S1JDXzk5Tkx0WnQyZk9telZsVmo5R0FRZm14SkhOUGdKMWt4VzBrUHRLVi1nX25HNnFLNjQ4VW5QU3V4SEJZbXZhZ2xKLUNFWExHWlhjd2lHM0V1QVQ0eWNnUjB4U0NHalJiS2t4MERLY282M2w0aXJwcHhtWkJXdF9UeUpaM2hyempfWjk3b2F4RGduXzdPYWcxZmQyYUpTcXNIR2xtSElWY3NxZ1V2UnhoZlVhSDYzN3ViRlhXOW4zVEwzYw?oc=5
+    • "Complaints prompt Carlsbad to remove traffic circles"
+      https://news.google.com/rss/articles/CBMiowFBVV95cUxPSjd1ZHJsY3dUTmo4Vy1nU0x3UVpZU1I5Z2NCV3NVSGM3dkVRT2FNRVVVTWxSV1lLZHlFOUJ3R1VGajQ0RVVPckNENWxHbHZER015VWNpV21HUFRkSFRJMkpBMm1wTE9pX0lEWWVyOUwwbnNwNXpKQU9zLXJvTXBrVjAwUjBBeGRFbmY1VUh4NDhybUU3SVdJTGJDbjdDUy1JWDh3?oc=5
 
   [Graffiti / Vandalism]
     • "La Jolla mushroom house cleaned and secured from vandals"
       https://news.google.com/rss/articles/CBMixAFBVV95cUxQamJBRFVvWU5nMmdYdjRpMVUxNzEtWlRUM1VCT2FIWDVUOUVOU1N2YjkxYzlSRWUyVDFEdlhLemVhQ3lEbGUxWDd3YVJiYW5EWUhJV3F1YVc4OE1SbDVMZV80Ty12YmlvRDFyTjczN0xuUzFHOWlfa1JSb0lpQ2puY1I2ek1iXzExY3pjYV8yZG55Q1ZuYk1XRlZWZWMwSV9La1VIOEREcmUxRFVkSlpBbEx4WXhEbFV3MUd1VjBMVVE5SUY40gHMAUFVX3lxTE4xMzNZLTBPdldBekc1VDFSM0haUE83bmNtWG1SQU13RnBYX0JLX1poOE96SGUzLXpRT2lPdWN4Uk5wNEhVWDNHb1NpcDFmWUVGMUZoVEtIZVp2U0lrenRheG9SekRwOGFkRkltV25pMFh0RFQ2MFZxSWsxMGZtMzJmanFlOWRxdkN5Um1TRTdscC0yOEFLOHhGdVQ4RXkyaEhidEhGZk1La1VteE9lNG9hdnQ0aE4yaHlSbHdiYS16S3lOOHFBYk9Fdmkxbg?oc=5
-    • "Hillcrest restoration fund established after recent vandalism"
-      https://news.google.com/rss/articles/CBMiqwFBVV95cUxOazhjcjJsZ1B4QWU5QnhZY2NzeWxjQWpuU24yOUZ0NFJPelFQb0Z1TmlGMU9wZ3ZCb1d2SldFZDhDenRab0tXVHFnVGZpbDR0dmFPNGlLR1lCTU9YRHo2S2JacHdHYzJHbm1mZ2VvdDFXaHhnd2N5UWVQOUVfdFZrb3Q3SzlpTnpGdDhQOHd6UFN4RU85U19RTkNDSUZ6WG54cldFdXQ4UnhvdW_SAbABQVVfeXFMTklRMmRnTFhHMXEyanZWQmZxRm92alJIZHpPUGJzOHJTS3dVNWN2SVlFN1NWby1zTUxzMDVKT1VRTzA2NFozSm5rM1VyUTZTY2IwemFJVUtSYmo4UnFrX2ZEWDhNbm9wR3NuZDQyYTlwVkhhdXlOQ09Ua2ZBTDVyMzlMa3VFQ2ZSWFZUNG12cUFER25Sd0tUZ1FmWTEzdjJYUThYZGtnMXZ5YndyMHByay0?oc=5
-    • "Man commits 14 graffiti hate crimes at religious sites"
+    • "Clairemont park honoring fallen officer vandalized days after dedication"
+      https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0pRdmdTdWVUSHBQOWQ0eDFUU3FqTU9PNGo2M2xCcmlySTFZbEc1ZzdTUDBXTnU5MXRZM1pvaFlsWmk3TE56Y3BnYU43Vk9mUmVWQk00V0QtU0JFN3Zhd1B2V2ZUempDZjlCSWpaM2dPbVVBWGJ6VWhZbDgwMllmaU16OXFmTGJkQUotU3R4ZmF0TkhlVG9oTjFxQ2lhc0NrVnBvN2RHY20xa2l0UkVTTERrb1diMXZlbm1ZRmFEZF9NZ9IBxwFBVV95cUxNdEdzcURSM3lBLW5MQ2RfNkU3VDVySElsYks5QUV5TllaV1VEVDVXMGRSQXZJMkdCb0lVZFVvRWs1RkRRVFFnSFlINm0xc25leGEwRG9QZS0xeFNCLWdrMFlkakRSMnRGcXBjUk55VnRCc01wYlFoM3FSbjd3cVF3M0RFWTI4dzh5UlBWYi1hdzRDZi1GOEpHcVFlSnEySktMXzEwNmtueDg4RlhRYnNNSGx2NjBTMmpHaktIb0diZXV4ZzFzNy1R?oc=5
+    • "Man targets houses of worship for 14 graffiti hate crimes"
       https://news.google.com/rss/articles/CBMivwFBVV95cUxPRlhvalYtb09ESkRoS3U1QkF3N2dOMnZhVEwtQlJWN3hZcE5zdzdndlhwTEthVHRmRkszRnlJTkl5VE02ODRuRGFNZFJmQU8zeWFlT21SN2I3bUxnSkxkMmNKM1daNTB1b1pCOXZIaDlsVnVNMXE5Nm9XWHdYZW9tU2tab3NkUllPeTNablk4bmxMQTRYLVQwaF9nLS1nZHN1YUJiQlU2cGtSR1k4blJxdWxiS1JldHMxLXA1bXRYY9IBxwFBVV95cUxPbVY1UExHemNBczZUR2FGekQ4SXVuS1F4aGZnZ2NvM3lkUHBacVhVVEJGek9kQmdtUy1uRzNmXzhvR2NkcnJadHRlc2o0SGJIYTBpbzdUX2lIajVIVVFmMWxGN3Q5cVZWRjVkLTBpTV83R2YxYmo5STFWeW9iQlZ0NDMyWm40bW1WTjJsYS1JTE9OTzlMNWJEek54MmFzVVcwSG5nSFVMUGplbEdDUlE2QTI1bFpRTklIUXdMNGl3bG9yVVY3Qk1V?oc=5
 
+  [Water / Utilities]
+    • "Power outage affects Mission Valley, Kearny Mesa, Tierrasanta"
+      https://news.google.com/rss/articles/CBMickFVX3lxTE5aemNVWjN4Qk9rVjRZWVZUTDQxazN4SjNmVkZvclI5ZzRjLUtodWtyV0E0QjJxdGtyckt4NlliS1JscUlnbktXTzhfV2JrN01JQUhDbVZISlNMeXdXemV3Nkg2VnQ3Xy1rU0xIa2lIRldBQdIBd0FVX3lxTE8wR0o5cC1adWlxMWdwS0FuTnFmdHZkWnB3bHlMWU9BQjdhc1NzODZYTGpJTEtsb3NrRXlQYk5BZ283SGcwaFgxMzBhbEVMaENWdkFrbGNCci14RGVVc0NaMjBNdncxY0s3WG9ic05kWmx2d0diVktv?oc=5
+    • "Emergency declared in Carlsbad following water main break at major intersection"
+      https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUEhfRWVjVnJyZ1Q3NS1nUEtscjdmcGdlZDF4S184UjkxbTJEbDJmSE5DTEttbjhvSWNvRjB1bU5jLVNlS09HMUZPSkNPUVpEV2FFbVVxM2VHWEpEb2o4RXYyRGJqdGVyanVKcEI5dnV0WmFwVmNObFZWZ3Buc011amNYeFFZSGV1?oc=5
+    • "Coronado intersection closed due to flooding, possible water main break"
+      https://news.google.com/rss/articles/CBMidEFVX3lxTE9XQVdQU3IzckVtQm1hWVRDUDJQTXI1Mk5zdXdQMFlhSUJPYTJ4ZFlhTHJkdUI4REtsbE1XMW5TS1Zad1l5dGx5SWEzTGNPTklFalFhSVdPcDVjTEoxbWFOREFxVGc4YlphbFdxd2VyYTdwY19G0gF6QVVfeXFMT2hPU05ISE9HZFRLOE9vSlpncHpwUVhTVktCdFdPX09iLUMzU2tFZjBOaFhDT25SVWxBNnVJSFNCLUhUUWVxcWJ1X3hMWWVmaGQ4TERTV3I3OUdlNlg3R0dhS1Q4UDlvbEdyU2VuY29JbUtlMkVST3kzR3c?oc=5
+
+  [Trash / Illegal Dumping]
+    • "San Diego residents frustrated as old trash bins remain curbside"
+      https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnRkUy0xWk1GU3RuWjBNTkJqMEEyMzVhdDFCYjNoYTdMNThqaGwyVGpVNnc4c0ZIb1JSTjJhOHpsTkYxS3pWSzZJbEJlMWd2TnJQTGZSVW43QzlCc2ZjcFZkX3lMNUJyOW9VMERFMUxtRWcyNVcwSUsxYVZidkFCbmJDQ1ZFc1FJeXd0N0R2MDFBWk9GMVE3NlVWckUzUnRQd2NPYVJxbnotTW9td1pXYVlyUWhhaTg3amfSAcIBQVVfeXFMTXFUTkpjWmJCbnBsbnpxdEVZODNVdmw4dzEwVklIUWRINzR3MUo3RWszZDZ6UlhDdzgydS0tUG9LZXVyVENHbnJMVmVrWnZ5WVpfdmJORE9ENzh4VGMwY0pVbzlwdmVFbVEzR2diYVNyMkw3bVdXVlNIS0FreUctWUtUYUhIWGFfUkFlaWJ1SWxCTjBJM1JubE1vUFEwZW5hWU56WWt0QVQ2WVBKSVlDazAyUGFvWWxtQ1BtTy1BSTZwenc?oc=5
+    • "Residents frustrated over recycling pickup delays following new trash rollout"
+      https://news.google.com/rss/articles/CBMivgJBVV95cUxNeFNfellFRFB1WU1XbHBIZWtkTFZOcGpnazJIcmtEZUxObDRWTXdPdDEzM256ZWZELTg1dnlRYUo0YnVvWnJfbzhwb0tSZS1XWTFIMXM1MVVvTlMyV09mZUNqaTRfZ1J1aV9hVXltcWxQeVVDaGx6elBFSkd6RE40blNLTllqM3l6SlNvaU5CNE85S3kzVkhyRzBFaS1hNC1mb2xJZkVoQlJnYXpsaTEwVHFfVklKOVdCdFFtTnRWQmM3Si1DeFdpWUxCRGdTWVpGaTNBOEFFOXlQVC1xZG5lbEJaRVhncldNNUVYQUtmb1gxYmtma2FkOWhheGRSUVg2ZXFmeUJDMXlDMGJSR0ZiMmcwNWU4NUpQTDF0R2ZFRl9VUmhGbG1FV0VjOGVicGJPOXJLRTdydVkzaE1kV1E?oc=5
+    • "Residents frustrated with new and old trash bins coexisting"
+      https://news.google.com/rss/articles/CBMixwFBVV95cUxPQjVzRmhmWGlfcXhmekxGUW0zcmtiYWJDUUNDc3FZYkhWeUdqZi1jSHRhTlE1cDcwUVJSbG5ldW9mbUMwMGFUQ2ExVUhjVVRRNlM3S1FOaUtMWkFNQ0JiQVp0VFJJVVhvVkZURDlNMWVHQlFBX05nVG40OFp4Z1g1QTVaZ2Y1UnlES09mMm52ejA0V2RHZXdET203aTFoRFdCejZqWW5iVUR0LWJ2bTlacklqejN6aVJqZGtPVW9tZHdJa2F0OUVV0gHPAUFVX3lxTE9aLWxPejFhTVZGbUUwVlVaRkhoejFMeHBma2xWMDhWMEloUGhpZnFxblU2c1N1N1B5cy1WbUVhSU94ZXlWNGplX2JaMWMyaTdtLUt4ajJUejhJcGJVeFFBWWR1WjB6aWEzcDFFVl94NnBiSi1HYzNwYnRPekJLS3lpNzhkaHh3NjRZTU5BUlZuMGhmcGJQR1BaV1kweXQyNkdyZjZhT0pIS1BZenRPVkc3dnVlRUVsVnRsNjAtamxfVWVfRGdGSkZDRERuczdXNA?oc=5
+
   [Pothole / Road Damage]
-    • "Share road conditions in your community"
-      https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFZQNDRzS01rRnc2LS1TNWhkNFNIVTRtcGVNQWFmVnJaM0ZGVE5xdzVoMmo3NGF1a0N3MWtvME4xM0Y2X3lZZU9pMjlGWW8teGk4NC1laDhOSzJBVTM3SWRQRFZJdmt2aXFjUUNOOXUwYmxXMzU5c01iRWNueVAtV2pVN0o2Rk1xOExIaUZ4Q1FJczVzUjRRalYxVGF1LTNwU2I1LXltbC1kS0dqSkZZUW5wZkdNQW1xb19n?oc=5
-    • "Potholes on Gold Coast Drive causing car damage"
+    • "Potholes galore on Gold Coast Drive causing car damage."
       https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY3ZKUEtMNkk0c3FLWU40N3QwVHI4WkNzUGxCREtGVjktNTUxNG5nTWpELWxGQVZQOVdsVVFMaGdmU01FUExDM3VFTDF2ZU14cDVBMkIzYjFiYllwdXN3ajdNMWR2Qm1kaHJGWTJNdmtHMldSRjVIU1Y2YlJrcFJ3R3ZBbnJiSXZ0TDN4bVhRLThzQ1ZWMGVwMHFaLTh0akVlbkgyeWlVTHZWQ0U0VWk3dlMwaVdDelduSUo3YWVDMVRGWW55c3BJRXZCemNyeTkwWVlCNEh5OEdEOWEyVFotV0dCRU5ZRGlLZXpN?oc=5
-    • "Hundreds of potholes reported after recent showers"
+    • "Hundreds of potholes reported in San Diego after recent showers."
       https://news.google.com/rss/articles/CBMitwFBVV95cUxORUdGcUlHLXpyRThPemlGYW1HWEM2SzRTN2J5a1FaSVdyZ0tKckdETTlFalFONXdaYUF5bDRUNkRDbTVEbjFKLVlWaXgxTmlhRkJDLTRmX19uRlRpa3VJTVZPYTRQdVkyVG01UmRoUWxJNzJUa1NFM2xpXzVCU184QXh6TTdyUDVRQ2hLTzlqTWttUmxvbWdrdE1OQ3dhdzFiaVRfMHlWU2N3RUk1b2FfelZCX2Etb00?oc=5
+    • "Street repairs to begin after parking district pause"
+      https://news.google.com/rss/articles/CBMimwFBVV95cUxOblVRYklKSWFyLWhabkREOW5vLS1BbEZtV3ZoMHk4NE9mSjdRbWpEbmlzX2dDSXVPckVGTmNuSGl5Z2pXY29McWZ6SFZzSUJpZmZRRXoxWFBlV3NIWTVVQ3ZxQ3c1X29RdTE3RFFDMDRwbWhnTTZtdlh0c2Y3b3Y2cmF4c2MwQzZvNGRlV3dWaGZPSUFsRlI2UHp4NNIBowFBVV95cUxQV2s0Mi1QNDJnZVJ4Wkpnb2x2Tk5KZ0tWY2xReGRwQmtjUENieVlzSWE4SkdOeXpCS2lZVFBpMExqQnZFMlVjRFRMc0FCX21vbDUyQTVzUV9wYkNXeTRNdTNpaVltRnZJM1o2LVdHaFRwaXMtcDh6NVB4bS1TOVdsM3l2VkdEMFZNdXpnWUN1SHVwdUJCSWxQSEtxTk82UDhKU2VV?oc=5
 
   [Sewer / Drainage]
     • "Sewage flows prompt officials to extend Coronado beach closures"
       https://news.google.com/rss/articles/CBMiowFBVV95cUxObTk5RlVBaXBMSnZqaUJ2OWpuUm5DMllBeW02TWZuci1INThZR245eUFsYnlDRmVEWGxkZWRwckJsSzM3WUw5ZDF1bzBBNDFlbm1wMU5Ob3BmdzIxZlRnYkd1VWs0NUxweDZMTlNoeWYzcHp2SnNHeDVLZGpFRXYwZnlWZTRISkFHa0FvejFnTUZKRm1RNkVaVEVmNWFEbDM0T2Fr0gGrAUFVX3lxTE81VzJmYmd1WUdYTjhuUHM1QnRLd1NMZkJnOVdxT0dGNjRSNWIzUEhvQWQxRVBCeEZUWGFOT0lEeGkxUXdtdEppSmhyMjVDemdrZHppTjJJYm1FcHNyMl9hYVg2V2Q3TWx3SlhWLXlHazYydVlReXZ3TDdQSS1SREljUnVLUFYwYkhKcUlYMzdsQ0NPTld6RUxpSFBpNVEyTmJMQjd4RDdsOHBWTQ?oc=5
-    • "San Diego suing residents, businesses over 2024 flooding"
+    • "2024 flooding prompts city lawsuits against residents"
       https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaWNjSzFlcFZBM0dSTzltaVB3RHU4Q2RfY1JZMTBsWHlPLWJLT3JrN2pJQ0hibGlYUU03RjIyUk81Sk5LUkxfdmd1WUR0NVhFRW4zOVU2N3l1VV9KV1lHVEN4S0JOaWJvN0ZZOGt4Mko2Wml6WUFOOEFtZGwydkpmbG54NUNlbHNOVG5zVFpiODVVaHFUV2l0bHRCN3ZNUjZ6NUVHbi1HM24xZjZ6Q3BLbWFRVjYtUHZjRkdrRjFDMnNLaTdxSkRVTkZkd0lEUlFtMmMyRDV3?oc=5
-    • "Flood victims say City of San Diego countersued clients"
+    • "Flood victims countersued by City of San Diego"
       https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN2FBSGhfQmNFN2NmNGJNaFk3WXoyaDRZeVRFWmRndktkaW5DM0RTRUVDQnF2OUZYQ3NTVncwU1hRcTMxY0xpWnlTR0lyUFdnMElQTWVScUNfcHdDWWtXZlZNSWdRNVJlNlFsTjRXMUF2Y011eUZqSS1QdVgxVnJqc2c0SDBKbmV5RmJfME5XNHZQc1VIUXJDeXZWcjJNdGJMVnhrRUlEN2JiX2s?oc=5
+
+  [Parks / Public Spaces]
+    • "Homeless sue city over unhealthy conditions at camping areas"
+      https://news.google.com/rss/articles/CBMivAFBVV95cUxQYnJvZE54VjdxdUR0VlF2VUUyNkoyc2lnTXhpWV9FdUNldjdPVHBaUW44d3pGV3BRNFRuRVdGems0MW5WRnhIM2x3aDBES3QxWWZaNHBoY1ZWanozX3JlRDlHQ2lhcGplTVB5Z0Nyd0x6NVlfcEh1SDJ6UExIUE5TN3N4eEhHMW8zZW0zbzhWSDRlNWJQODZrRjNObGZyQVh2a2l5dmRvV3VkSlc2NW00akV2b2h4dFBzN1cwTA?oc=5
+    • "First-ever parking fees at Balboa Park draw citizen anger"
+      https://news.google.com/rss/articles/CBMiggFBVV95cUxPeHdGSHBYOXB2MWJqNHM1V0xzazFITFg1OTQ3R1NCUlVxTEhNcGZaeWNaVmNOQXo5bThqbWc3NDBMRU92eDBfV1FYWlJUdWhrZ3V6RFhEY2w4QzdVNTNyeVBqNHFNQjRMdG1fWllzYkRkVjhSbTlIT0liY0Q1Q0hIR1h3?oc=5
+    • "Soccer league highlights safety concerns at city park"
+      https://news.google.com/rss/articles/CBMingFBVV95cUxNMFdVMkozZnAxS2d6Ty0xVkgyT2w4QjEtbE1PcU1Md2RsUTI2ZzlZNnpNZWh0N1dLOWZmVXZoWUl6bTBLQmFQX05NVUhpWnhZdkEtZjVWYmhReHRjMWZZWFk5ZW9yU0gzX2RtQ0psblN1bVlKVjZHVkZaZlI1TEtDdk90c090ZE1Bclg1NDJwRVVfcnlNdTlqSmxsODBJUdIBowFBVV95cUxNME1iRnZ1WWRXYl9IVnZnQV9sU3JGR0N0NVdJTHdVYkY0SXQ4cnozU2tseDBXaFU0ajBSaWhyREhLaWk1VUVWQzhlWVVpZUZoQnV1U09SYlBaSVg1UUhtRHRfMzdaWlZMWjhwamRTY1gyX2hXSElNNWl5N1lqLXo5UUtpLUM2RzdONUpmV1pqZXdnU3E4c2RmNngxdTFlY1lGTFlB?oc=5
 
   [Street Lighting]
     • "National City streetlight outages raise safety concerns"
       https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNUJoLUNIUUQ3OWNXRy0wOWs5VXFCVlVHanVCM0xQTHJid21GX29TSEpKajZrV3pKODR5THg3QjI5Sl9yejJmQy1hZjE5LUZWaXhsTk85SzNWVEVzakNVVUxZTUlMdHUzOTYtaXZMMnlLMmtMZkJSaHM5TDNvVGx5cHRoazFpWTFxNGduRy1iRHZSN1JFT3VVYkRRUldOUU5vbHNoMHFaYVVSMEpsQS1mTWZpSk5WNkdKQXR3WEJzSGlXRTB4Z05addIB0AFBVV95cUxNV2lhM1l6czBTZldMSm1tMmhidk5Lb002TGpoUGFOeWlEUkx2ZVhzU2paNExEbWw0WkNTVzlXcnNUQlBIejZ6azRrZGNSbEJYQVNEZk93SDM1RW1RbG5HMU5NZnEwZ21vcy1fb1drTklTWEJZWkhfUWpleFdsckRCYTJPbXJTSzhhelBHVS1mNG1jLTZXc3ZaOWtNcU1mdXZCWVN5WnFrSVFuX0p3aTlFbXU1ZkpYcjJlYTlzU3doWjlHaHpVQzFReFZJNHZVbW13?oc=5
-    • "Locals fume over dark streets in National City"
+    • "Locals fume over dark streets from outages"
       https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTljR3d4dDExYnhVSEFnVWNEenlTLXUyUGtlWmpmWUZmUl8xT19oMlBiZzNIYWJQT3pWVzdLU011U2ZRVFpTckZ2RXgyS1JHU3lCZHgtUkJLanFiTlpIMS1iVXdyclBGYWk0R09hWWJmdzNUeWY2bzZtcEMwZjcyMGV6alpkNnJESnY0dThPNU5mbVNT?oc=5
     • "Broken streetlights raise safety concerns in College Area"
       https://news.google.com/rss/articles/CBMitgFBVV95cUxNYklpejRETGUxQVB3Ynh0ZW9IbGR3VlAwWFAxM0VwOVhNVlNkRFZza0lpT1haWFhlcWN4NjFScU5KNU1iOXVOcjBETUVsSElWenQ2RzI2UU1ncGM1MTdyT2xlbVFQRHZSbnR6THh3Q0JNcTduVDFySzdoVDI0M0VJN2EtQ3phRzNTQjVOc0EtSVd4UFN1alkzRFA3VmZQZ1gwaVhGVkhPVHU5M2RVcXhpTExWclZfUdIBvgFBVV95cUxOV3FZbTFnbHVRZ21mc3FJSER1VWVKMHRqQjdvalJDdFFiT1hDTHhlZnExT0FNZ2licml0SFozd2ZaUGdxaWJqcnhMSlRtcUV6ZUFwVXpEWUZ3QjFnWW95Nk5fN2VNRjIzYVhnTDRfWUx6a3Bud2hNRW84ZnlISWQ0aFdlTnNSVXg4TzdVQnR0cVYtS3AweXJKSjkxLV9oZG1zNGd0N0p4cUcyNy1VNkVWNE9xXzJ4M0F3UmZjMU1R?oc=5
@@ -96,13 +96,13 @@
   PITCH SUMMARY
 ==============================================================
 
-  In the past year, Google News surfaced 86 news articles reporting
+  In the past year, Google News surfaced 68 news articles reporting
   citizen complaints about city services in San Diego.
 
   Top issues:
-    • Trash / Illegal Dumping: 28% of complaints (24 articles)
-    • Other City Service: 15% of complaints (13 articles)
-    • Parks / Public Spaces: 13% of complaints (11 articles)
+    • Other City Service: 25% of complaints (17 articles)
+    • Graffiti / Vandalism: 15% of complaints (10 articles)
+    • Water / Utilities: 12% of complaints (8 articles)
 
   MyCity311 turns scattered public complaints into structured,
   trackable reports — giving city staff real data and giving residents

@@ -1,0 +1,103 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — LAS VEGAS
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 118
+  Complaints found  : 62
+  Complaint rate    : 52.5%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   25   40.3%  █████████████
+  Pothole / Road Damage                9   14.5%  ████
+  Trash / Illegal Dumping              8   12.9%  ████
+  Other City Service                   8   12.9%  ████
+  Parks / Public Spaces                3    4.8%  █
+  Street Lighting                      3    4.8%  █
+  Noise Complaint                      2    3.2%  █
+  Public Safety / Crime                2    3.2%  █
+  Sewer / Drainage                     1    1.6%  █
+  Abandoned Vehicle                    1    1.6%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Water supply infrastructure claims disputed as residents rely on tankers"
+      https://news.google.com/rss/articles/CBMi6gFBVV95cUxPLV85YjhDekZaLUlUZlN4R1dGVFdWWXNhWHFxMkVETF85Rzg1QW1uU250dUpGNG4tV2diazBGMkpEclg3dExUcm1sV1RSVDVlU1BIb3VTeVNubmRjbWxyaHB6TjQxMnZNMnNwSGhfak9teGVyMkVTYW92M2hWanhoVXdFNGkzZzFvUFljYWdGSG54Q0lMdTVqaVh4TXVQanFtVGpyODUyOG9BNmhweDgzRXhfanB2T3ZsR1MtT0pZRmRtY3p3WU9hVjQ0UExhemlKbmxFN3hwbFFvYnNTdHZVd3RjbW4zSmNlZVHSAe8BQVVfeXFMT2l5dE1aQmVSWE1ES3MwUDVRbFhKSzQ3TDdIWFZvWmwxSUp6LURGNlJxQWR4VDNiSVJGaDdwU05jM19IRWV3SVU0ZlYwQUduT2N6RTJzZU5ZeUlXa240Wm0wR041UVA4UmFRNlB3cGFvSUFLVnlfMWdzdGhHaVQyZ3RKQmd4eUdrVU9BOEdEdldaX3Vyc0tPSG9rWlZKT2dfRDlIYVp6b3pGU19zRV83WDZTdjMwRVZqZU5tUmFWcHBvazlTSGFHSmJxTi1qWTlUV0xBRXMta0NuTjJSbjE3LUpTZDAyTnVxcUJ2N1QyTWM?oc=5
+    • "Water main break under Highway 59 triggers boil advisory"
+      https://news.google.com/rss/articles/CBMirAFBVV95cUxQYTZJbDJzYW5ySEQyOUxLUlJjWmJ4bDZqWlNnc2ZYVE00RGcxUmh6VFgwSVZpcE1LbjhxRXBiXzlnRy1wZWFWckh0cXBfZWVBZUduYlFRak9oU2ExLWRJaGxGbTlnWGZMUUR1aGFiZGVOS3VoY0cxaTZzNHdNYTBGS2hZYXNXRmdQSTdYYldrX3N0bmJXSGJ4NnRWTDFVNUxSUmsyUXR4MUxzZFlm?oc=5
+    • "Skokie residents, businesses suffer from massive water main break"
+      https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ0l5a2t6a0RJcDdvWEgzM25Td3k3YmFUU3BWanFpTXh5WVZiZ29IWndMaU9MRkRKMFloamFRamd6UldUa0J6UE4xRC1NcGhETXlfVnl5cG5wellkZENtcmlZRDZTaHZWUlRRRFRGZjliT001SktWNGhOR2QxM3NpTzJqeWN3MnVWQWZBNFFRVFhLQzAyQV9aWkJCWQ?oc=5
+
+  [Pothole / Road Damage]
+    • "Pothole tracker highlights need for road repairs in Bengaluru"
+      https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOVFHQWV0QVk2TFhLVGhsbkMyM1ZYWUNkM1plMEVweFJuSnVZV0hvRHBYMXprXzMyNTVHZzBYcVdFRjBPaW5UaEw4QXB3QWRhSkhoVWoxZ1FOcm1jVThQV1pxcnVsTGZ2cVJwMGpEMENVZUtoV1hoNnhmd3I0dFN1T1V3MW51WUJxeXUyX3lEcjFpMlZ6NGVsVzhPS2lDZDBIWS10eWVGczk3OTdVNjNKN2g3dTZHalVITnY4Q1Q3Zmc5amdSdVowVHd5UnRqaUJDRDdOMHJISFpoWDdSekFCUkRqbS1RSTZ1eFNGaTBB0gHzAUFVX3lxTE1tbGJuOGVoUGQ1b1lZMHNWdk9fVndaRHFkUXdKbUVCaldWRFFsYlFUeENyRW9NdDdHMktGdTNzUEF1aGN4dncyQWE0cDE2SmxaU1JNNG5SRHpPa01EdUtHS0gwcFhoTGFUVTZMdTlrUUJKWkgzQXRvT0RMdklDVkRBVmlFUERVMFc0MlVucy05LURoWUVLYkFmSXF3NjZ5MDA5aC1QeFU0TG9USm9FZzdUdEdyaENud1BlX0FXYU1PMTlzZ1F0eThwWTB3NWJIR0w0WlllTjRnaDVXbkYta1ZGNHpUN1ROdmE5emtNWFdnLU5Fdw?oc=5
+    • "Townsville experiencing widespread pothole problems affecting residents"
+      https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa3BoVGR3eWtLOWdUdFpFdFU5NUotLTZmU3hfMUNyVjdRSjVPXzBfTmlIYmgxbktJVXgzci1pNzVBalBaai1oMi1UM0h3eTU3bVFkRGpva2x3Wk5lVk1BN05SQUc2c0dyUjJxdFdHRDBkaDM5dGYyWHlkZHctTTRCRmZxOEV0LTZxcHEzWkNLbU5PXy1nT0hmUlV2bmJ1WjFteWZtYWdDWDc4MXhFV29RaWZXcGJOMGtuQVpyS2FqdFljNHZXUEUyX1pYcTU4VVE2LWotNUo0bWZVWXZqSEJSaURoOXJ1WlZNc2dlR2k2V1DSAfYBQVVfeXFMT01BWUZnVzVLeHU5bURqcHRvUDU4TFRDNTRHN2dZZDkyamtNa2ROcEVVU1FmWUpCRE0yZFhWbUttNUFoMHlWdVlpZVBJTTBWS09ZdVZhTEI0eVlHbzdqRjhhcm1IV3R5M2FpMFVKMW5yVzZjYWljNTVtek45MC0wTlJ0cnJkNlJZLVh5ZG9GR2ptd1BGektSS2VjMF9UWHIzZ3VQR0ZRUUtpZUllSFFGSDI1SzJFMXdJRkJaWWprQTFyZmZVeldtQUk3eXRHWlMyRGVTREhMUnBFSVlGZWF4Q0l6VDcwOXdhMV9SbHhMRy1Nb1JhQU5R?oc=5
+    • "Montreal pothole reports increasing, causing vehicle damage"
+      https://news.google.com/rss/articles/CBMimgFBVV95cUxQeUl2N0J0b2lxVWhPcVBqeXlNbHNodXNtaVh3djR0S2JCbVpRXzVNd1pDV1BkdEtZeUhsSTFnRWhqX3pGUWRQYUpRa00zWmRjRV9tcXA3RWJWdUpzS0ZobVVHOG5HS1pnWF92Wk9jZWpBelBmaXE5SnFURmI5WDd4WGtOUmItLVBURDFFRFJGNkdKT1ptdlNFdDhn?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Municipal waste systems fail to meet residential sanitation needs"
+      https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY2VmeFEyZWczaXNaa0JRd0R5aTZJNVNqRDByLWhNZTE5VzIwUkM0NHhIby1wUHlmX1pFMm1taHYxTmt6SGJiLVN4VHBLdnBvQmQtTFNKb1lHb2xHc05nM0JzbWVZc1pvOWUyNzlITHJwU2JoUnhTV25KNWRsUmQtQXVEMDlqbmRKZVJiTW9mX3pDbUViQ1NCdjBaYUktY1pvT0RHWldfNk5reG1CblNkLW00QnpLQ3hvWnV2VHFqVy1hbXRKc0hmaS00Rjl2cnF4b0JhN1JQSkszeDVzM01oM21Gbw?oc=5
+    • "Trash collection errors leave homeowners upset with missed dates"
+      https://news.google.com/rss/articles/CBMipwFBVV95cUxNY1prejBxOXRXNFo0em9GVkxIQ1ZzWjVOMk1HSU1kUlg2Z2MwY2pnTFRLeElhS2RidWMxSWljWV9OeVVZaGdqejRNVm9uV3BFVDA3Z3ZiSmpSdDZFN1hWcFhBQ0xWcFZxUk5HbEh2bUduMm41WTVnOExPS3Z2YktpUEhDM1JYNTREaUVyZk5JQnd2NDBkaE5WbW9naUoySGQ4LWhmcjJBZw?oc=5
+    • "Trash strike causes major service disruptions across Massachusetts"
+      https://news.google.com/rss/articles/CBMilAFBVV95cUxPTDlTLW1VM01aaTI2ai02MkVhRmI3bGxkUVpxdUNvLWNSZlB0RGt1R0MxOERTUlJqVklSS1hzY3ZtS2xDelByODQ3NHZhYkZMNnQyLS1LMEd1ZXJtZkQ4TjdTYmc5MnRTcXV6TnQ0X0xXc2ZudFdGZnF6aDBvdFNpSFdGMEFqTGdLTDBJNUZyc3dMX256?oc=5
+
+  [Other City Service]
+    • "Mobile home park residents report ground subsidence issues"
+      https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTJ4WFJybERWVWVZdjB0VzVkWDFzODBRdlN2RndCd3l5Z0F5LS1ELVZTb3hrcFI5WEs5ckxHYTQ2bWI2R2tkS0NsSDZYaG4tLUgzWWpkdk9aZTdEbFpHT1NYUlBmN2RjWHhXWmFpdXhVMXNoZnA2THkwa3VYYzRSdVIxRWZZTDhCTnpKZ2kya2FnVTduV2R3dHVSNTRIT3c2c2ltVTBZeGlsU0plNFE?oc=5
+    • "Resident battles persistent sewage plant odors near home"
+      https://news.google.com/rss/articles/CBMimAFBVV95cUxNeEJKelFBUk5jWnpxTklUVFBrZEJJT2J1V1NtRTRFQTk5Q0lhWU15b1lBc1hfMGdPaHhTMG5ReTFPRUtrZm9CbDlrRkpIYXBfVmZlMDlRMDJhM2hPWHltc0lWVUttU0pUTjg4LXk5NGdGM1BfRUpzck1Id0JueWxpSHVZNFdQbXZDdTBZMFJpeUM2VVZiQjVqZg?oc=5
+    • "City declares Waymo recharging stations public nuisances"
+      https://news.google.com/rss/articles/CBMitgFBVV95cUxOeldfSkx5a0NhZVlLUGh0cXVzMFNCTGhCUHVrdG1wNkRaZGN2LUJEN3kySWVlQlhUdE9YR2I2ZXVBbWJiMjVoNm15M2FYYXRJOUVScTl4dVlkbllmUWJ3dW5KaUltSGtYV2tYZVRWMHctaERPdG11ck8yYThRWUN0RElURmtDRVVwYTJWSE5ESXlPbVFDbHlCX0t6QUJOb1p4MkgzNjFSdmxVNFhma1pjc0FzTFAyZ9IBuwFBVV95cUxQRUxZcllSMDc4ZWxHV0dNMFQ3RGN1UzhqSDgxNnNTT0tjU0RvdDRyd0Q5RHhjMHBybmpUSnBIRS15YkpFRFRodlhxYVMwNVpmRVhaeGVVR2NYaHRHaDd1eXl1clhHWXNUeWJJMWdXMU9ORVdIRXlQMUYxaEY0X2hhaU1YRmlrVy1IdEpuYVFsOS02U0s4TVNUZ1ZxSENObzdxbmhlNkJ1bGlYTDNjN2xEYk5rcE5qaU01WHpV?oc=5
+
+  [Parks / Public Spaces]
+    • "Marina canal cleanup begins following resident complaints"
+      https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFZ3aHZRdmR3cG45d2dTWHZyRUNRNzc1Vjh1d2wzbmQtRFVzV0xTUE4yN2Z3SXhURWdtN2RWdXVkVEhwb2hneXE5cnNRUlZHTlMzR1VnQm56ZDY3Z2lUcXlaTFB2RlpfVW9hSU0yelZwMHJPTUN6UjBRQUpLYkNPV1hPRWh6TVZFREJoV1hoMWhNcmZFTlZVY1d0V0d5eDVscVlQMEpPX0RyUmdqNnprcDh3OHdHUU5uR2c?oc=5
+    • "Whitney Mesa Nature Preserve had 20+ recent complaints"
+      https://news.google.com/rss/articles/CBMimwFBVV95cUxNUkJ6bnpDcm1CUTlxbUZSMFlOeUlHQmRYbTJORWFpZ3N6MTNfOWRvVlB5ekw2cVZuU1piWkhxMjFBeGtoUkFwTVVOY0xaVTl2TmlLZzBFN3F2M0E1WEFzRTNZYlVsdHhNQURzYlVpMUFZM1B5Q2F2dVJzNHZMeDE1N2treUZIczRrMnR3RzVzNnBrc0FNdGpUdEg3QdIBoAFBVV95cUxQTnVHaG1qQVRpb0tORmtIcnVjeUlqM1FrcTVmdnZJOEg2S1hWSXNYcW8za3VpLTU0ZUlfZWhkcGZYYmFrVmthNzE0Rk5YYjRVdGY5bDRJUGIwdjdTdFdZZ000NmpVR3VOM3U1OWtTclRyQXpjWkJUd2JnTzZOT0pZVW5Jck9UcjJ3ajRmMXF1eXdtbFRaWGdIZjkxSGxzRzZz?oc=5
+    • "Looks like we failed Fair Park. Again"
+      https://news.google.com/rss/articles/CBMipgFBVV95cUxQaS1TTjRvNFhvX28tRFZYcHU0MHhXMnlZU1NRWVRjckdjc3prUHgtcm5mVjVWOGtFQlUzWUEtUlhUNVBoWFFXQ2F2Tm0wSVBkNDNiclNOcmxiSFRaRV91YXRTenoxRFBfVVFxWFB6d1pQR0J3cXBmY0pEQmtmVnRrOVEyOVVhSjAxV1JMTVhvUE94a2N4dF9PRmNwQ0xwNU8tOUNWa0F3?oc=5
+
+  [Street Lighting]
+    • "Dark streets prompt local complaints about street lights"
+      https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTljR3d4dDExYnhVSEFnVWNEenlTLXUyUGtlWmpmWUZmUl8xT19oMlBiZzNIYWJQT3pWVzdLU011U2ZRVFpTckZ2RXgyS1JHU3lCZHgtUkJLanFiTlpIMS1iVXdyclBGYWk0R09hWWJmdzNUeWY2bzZtcEMwZjcyMGV6alpkNnJESnY0dThPNU5mbVNT?oc=5
+    • "Street lights out raises safety concerns in multiple neighborhoods"
+      https://news.google.com/rss/articles/CBMi5gFBVV95cUxObmxidEppaV8xOUplS3NMSUVXN3UxT0U2YnF6NmN4SmN5R2tpYkRWV1M1N3RHQXo2cVhoTnNNM094SHJmSHRDUDUtdklZQlF4aHBIYmZ2b3liOXZpcDNBczNyLVhOb0ZHU3VvRUNLcFZpWUpoeFZlMy1yY2Y1cGlpemNnQmd5U3pUS0EzOVA2VVpBVHprdmlZdlY3eldOczQ0NzRpSFU3MHFHbC1lNWJlZGdJeVRDbTAxVmNZc1JEdkdQQzhoUkpSR29YbkFsUFNRak95TXgwZVdwZHdPR0Z5b2dKV09FQdIB6wFBVV95cUxPTnlpXzl6ZXVTX2o1cUMxMnlXM2EwMTVrVHVzNU9xMEVQYW1DcjdUOXdUaEkzQUh0dDZxWnZ5XzI5MTNUNnNXQl84YnBUQ3luR1NJbWwtQWtkRS02ZUdjcWVpT1djNHk4bnl3ZUhldmtlMFZBUTVFX25yd1ZIejVvZS1ueFlnOGREVGJXblV3emdvMWZBZjMwQk1GMzhvU3AtRFhEc0pKT2I1MUwwQzRqaEk4cTZCQXE2VWdNN0xHOUVTOFFNdzhYdHlaYWRFMmZQOEs5cnNKaXZoc29hbGlnWTRNWUh2MzRxLXF3?oc=5
+    • "15 crore streetlight project fails and blinks at failure"
+      https://news.google.com/rss/articles/CBMiwgFBVV95cUxORWQ4VHlLMXBQc3VTcmhrejBuT0FBdktUZ1FhS1B6bFgxSGY1UnNwVEQ0WjhsbXQ5ZkRlVkc5dnl5WUFBR05SVGtnVFBsWFJRcGRsTlF2VnRmbmFUZloyRGtTN0k2U0NQYjAwUktNa2NiaXp4ZmU2OTBGc19LV1oxQUszRWdUNlhZUFkzWXdxakxhTndfb1Zwcy02V0JLbHRfMFpjemxGR3ljdk5uVVVQeEVjNUFHS1RLbHNOeEZhMnVYQdIBxwFBVV95cUxPN1U3bmFjbjdlcnVqaUlCM3lRTzZITHNSRWFHTkY3SnctWm11OHctMGF5RFdyWkd0S19JajJ2S2tmcTBVQjlvTW9WeThjMDdrNW5tcjEwdGFzMmNUZGJFRDNEa2FGXy1nS0J3eEZmR1M0MVVIN3N0OGFaa1BWaWNQY3FlZGFIMWgwMEptb3FKMnQ5WFlLV2pveTNhSU5fSlJLVUhLWXFKMjM4cXJfZGVpTDJjdFdYNk9iT2I0bWdmcXh6cGQyOVlR?oc=5
+
+  [Noise Complaint]
+    • "Neighbors fed up with noise pollution from Waymo cars"
+      https://news.google.com/rss/articles/CBMikwFBVV95cUxQWm5BZUp0NEh0VzRjdzRpR09oRTJLYlg4NFZZT1FqaXZiNkdZS2pwMHdyYXpsTDBNUWU1V0RNdkN2R200cUlyM2NxeUUxb0t4YW84YkZPQ2VaZXdxb3RnV3pOS3ZraDdacHh4NWE4TFJ4RzJ4NTNsWVZTZzY3ZExjUWtPVFdJLW96MFRWVUNzLVdrOGPSAZsBQVVfeXFMTVBkU1JqTEJqcE81Wl9veW1MTTdjMTFuTVkyNDZ2cXhUZVNlVC05eGhLamtUM3JweGZrbXhYN3lqOWE3MG5lRGlIWHZfQlNxMHBYOV9UZjgtQzRMeWNpeTJ5c2V1b3k1dU5wczRSckFtb3FJaFZMNmZkME84TzI4WVVIbFFGak05ZV85RUwzdV9aYnJ3alh0aUdBUms?oc=5
+    • "Las Vegas residents complain about Formula 1 Grand Prix"
+      https://news.google.com/rss/articles/CBMisgFBVV95cUxPbjVxMmVpU29KUFRvZW1uaHQtY1VXTE1QRXNGV1RSOWZVYlp1b1JOaUNYbHZZOTBfQ1NpWHNLcklyclpQUzNoeTJ0YUdrc0tKbEdOZ3ItQlc0NGN4aTBXbVEzdnp4Zm90RTE5VWlWa3h5eTBLbl9lWHRrNC1zTk8yd1FyRTFmSC1EbmFuQ25wTWM5NWZsY0RvdV8zeGRvLTI1ZEFhREFQem5YOTJnQVg5bTFn?oc=5
+
+  [Public Safety / Crime]
+    • "County addresses homelessness amid resident safety complaints"
+      https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlo3b1k1V28zdHA1dmRJRFB1QWxiREpFUGlkTHptakhvVndtUzA0RVgxZzZQaHo1RUx3TDlzd3hfZHR0OFlzMzBVTGpPSUFHUmxVNXhsa1dfT1g5dVhtQkV6OWJ6aURWaW5hWTFJeUhXN1V4Vy1TMUtTUl84SzJhb1hyX1ZONkhBV0xJV0VnaklZdXppR2NZT255NTVyektNTHctb2FncmNkOVprTHFtRkVscXZkSlJ1UUsw?oc=5
+    • "Surge in homeless encampments after tunnel sweep"
+      https://news.google.com/rss/articles/CBMilwFBVV95cUxQLURUYk9pcjhYUjNlOVFSSGl1bDdsOG1sVUNfV0x3cmhGdTBmdGZhNEtRdzRqRjIwbnlTblAtWXl0QWp4STN2b2l0N3Z1NndrRGhtZ1hoeHZycDdNUVVpdTJOWEh6c3NlbXU1dEhLVHRKZkprQjFJNllBSDNGdkJpYUk5TENXRFRoOEtHV2FVV1B5cGJMZ0Rj?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 62 news articles reporting
+  citizen complaints about city services in Las Vegas.
+
+  Top issues:
+    • Water / Utilities: 40% of complaints (25 articles)
+    • Pothole / Road Damage: 15% of complaints (9 articles)
+    • Trash / Illegal Dumping: 13% of complaints (8 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

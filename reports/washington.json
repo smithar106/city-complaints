@@ -1,0 +1,286 @@
+{
+  "city": "Washington",
+  "slug": "washington",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 146,
+  "total_complaints": 68,
+  "complaint_rate": 46.6,
+  "categories": {
+    "Water / Utilities": {
+      "count": 14,
+      "pct": 20.6,
+      "samples": [
+        {
+          "quote": "Surge in water main breaks leaves residents without water, flooding",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbG9FZ1BhLWZkVXYzU1o1R2JXYm1HclgxTDhnUFNtTXZsb3N2UUdabUhBRl9rNVZ5N3N6QVhzSlNpV0N1SkxHdGpYaHNCT2JQVkNwZG9LTlZZRkhiMWFHRWlxLTktUHZ4UjhWelFiTnRpZ3pCX003TXotcVlndXZFdzJiVnNjd09RR09fUmtpYUxLckZnR3IzbWQ3cElfem1acFFnU2xEdjA0RXRTRVN1X2dveW9uMmU2OERHOUFaVzhXNFR2cmVkbDl6cWVseknSAdQBQVVfeXFMTW1hOFJxQ0JXWlFPTElHd1lIcHVVcDluR1k5TU5YSW1HdjBhMkxld2NSaGY0cy1rVXNuYjdfMnNkUUJTT19YVnR3b0wyeEtqbWZRNkJUeVJ0NFlYeGZGSUVMRHdxS0piYldneHZxdW5XZ1NZdW5XS1BPT1JRbmEtNGNOZTVPRmxlY0E3aWVBSVdoakZ1SXgtVU42VkVreEV4Yy1TYjE3dGxMN0Z4em5jLWdyQWFlb3NwZGJ2N1ZvbzZhU2NYMEpRYzNjMHJVbXhnRnlvOHQ?oc=5",
+          "date": "Thu, 05 Feb 2026"
+        },
+        {
+          "quote": "Mt. Washington under boil water advisory from broken water main",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT1pkX3lnODY1bTVhcV9aNXBmLWd1Wl94SzBZa0dCWXlnZklBdUZhLTRZeURNR19FX2QzS0ljNnpRODV0YW1Sc0NZX2VGbjl1MGNWMU15RjV2djZuS0FjMXBrOHpDcS1RNFdxYUNWWmRkWF9fYUVEc0h3ajEybERYUG5Ga25CVEVXQ2dFUmpWNWV5dzkya3lsT3gtYWRPcy11UXlqcEwyLTlndnNWWkZnUS1WNVcyM25rUmZqcjdfVkJuS2xSMDhHSHh5blY0NnJnYVctMF93bmlMVjlqWFJ4OG5B?oc=5",
+          "date": "Wed, 20 Aug 2025"
+        },
+        {
+          "quote": "Residents urged to limit water use amid water service issues",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXdXWFlLSDlPZnY4X2N5SzNZWk52OUdqTF9BUDJmcGt2dFdrdC1hVjFEalJRU3VLOFhVd0F4d1dCYmNfY1R2YTJUUUQ3QUJFTncyRkxGWm5tZ2ZpRGxYcDVPYWhNX0NTRzRLamdDd2txY2tVQ2E4NGY3SWxuYlRwUVpfWlBGV1lZUXJUU3Rpc3VWdGpwV0xtZmh2RDEyTDhGZ01YVGVXS1F5R2JVSm0yN1hVcEZHeVRPc3dUaFRsUdIBxwFBVV95cUxPMVpwUU1EQlViT2xQa2x3T0h0UU9oMFVLVmptbkJ0aHlESVg0RXBubHZNMlBzWWc5dHBneXFSdEZuN1oyTVg2dDJjRXpMeTdYQk5KaDNTMjE5djlMUXB0Ym1rWHhwNDRlUm5ybnFFdVlXYWRpSWVIcEZCM1pkM2xHaGtNSllxYWFLV1NEQ0ZEbW5TVUJwR0pXRElGdzMxUlJCSExfc1psdXdkZDR1Wmh0Ump6YlhPLVJqaTlSQTBsWno0c2FUZVk0?oc=5",
+          "date": "Tue, 27 Jan 2026"
+        },
+        {
+          "quote": "Water main break leaves Scenic Loop residents without water service",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOFR1enN2MW8xTXlWQzJ1c2dXUU4xVHA2MmVxTFZBOU93WVc2akgzd0pKMTZkQWViMUVTX1lZR0JqTFFfMHliWlRqbU5lYmYyRUdlYjNmNklwQy1qWU9uWXprQ25IREs5ekFtS20wc29KZk1JcUg0TGp1eWxFeGdObmU0Uk5FY0xWN0ItRHB5ZDlnSmV1MDllWWhBMXJqWk1UODlyMUJDYS1hbVRONmwyb3JxVTVnbUZqQXJ0TVE4SFJWVTFrdEYyelpfLWo5V1hOZVFPRi03Z2FRVVY2cDNuTHJvSUNoUE5VU3FIdS1Dc3hJSDVxQWtlT0dmWHkzQQ?oc=5",
+          "date": "Mon, 23 Feb 2026"
+        },
+        {
+          "quote": "Water main break leaves Navy Yard residents without water",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWUJWVnV1aW5yUTYxMEV6c3I2Tk00VkszMXVUdEU2SHk2ZHFOUmNWS3JCNFU2ajltcmZoYTRVSmdGVHJXVzdxdWZwLVRtM2Vta01RUmtMVkpBbTR2UzgzaVFHekstMmtwSEVnQ3ZEX2MzMUVjdnMzZlJNMUFFUFRNQnV0NC0xZWZJVlBBeHV4VlRid18wR3pkaU9YQVBXdDY2bTFnREtHUEtydF9XTWNCOU9RWmk5eHFt?oc=5",
+          "date": "Sun, 01 Feb 2026"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 11,
+      "pct": 16.2,
+      "samples": [
+        {
+          "quote": "Washington County residents complain of delayed garbage pick-up",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmpTWkNFZEJRNlRyb1EzVkFZTXdNLUVpR3hXTDNla2F0MFNwT29CZmxJay1CNjk2OFRidkxwM3JxbTg2ZVB1TUpadWpKbHNSTnBvU0lQUnQyV2hlVk9peGJrOWlUbGNNY3ZYRmVrckdLVDEyZl9TT2hJVzVFbHg1U0lBdW1uV2RzRl8tdnI4c19PQWZaeGVheXVwcGZzMXZCeW40WVl6QQ?oc=5",
+          "date": "Thu, 24 Jul 2025"
+        },
+        {
+          "quote": "DC set to resume trash collection after snow",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd1lTbWl3VFFMb2tPcHRScDhOU2hfeWtubnRQc090ZDBqNVg0TDM5RTdHZmZpS0FIOVVQZ3JYQm84bW9jSHU0bmxUb0hod09pOVBEUThzTWdmWk9Mb1RFYVViWlVDWE9rZkQ1bTV2S0VFYjBWWmNvald2cXhOYWlodTF6c2xKVlZKRFBuUC1EZ3czY3VSWThWaS1OaXRRR0pZWTViZ3pWNEE2TTE1TVZSU2tYaWpxX291d3BJSmlmVHBXdw?oc=5",
+          "date": "Fri, 30 Jan 2026"
+        },
+        {
+          "quote": "Washington County residents frustrated as trash left",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkZyVnQxQ1NrR3lnN29keGpEeDJ1RUxLY1VRRkZVV3ZKT2tOQ0NERVBwcXFTcmdSTllOMnVxR3p0SU56WUplU0IzMGF2Q1FJN1dfdmU5OFZpOFd3UXY0d0lsOFhSaUU0cUp5Z3FfalN4SHBRTWdjTkhqTXhrc2QzX3JNb0c5Q0ZXRGE2b2pjOUtoYktDWmFaQk14elh1LWl2MDQxdkZLRDdRTXB5ZHdSYU9OaENZZ0s1dnhiSWNHc3pTb1VqcHZGZG9ydlRsWXJMTXp1eUdJbnp3QWxESFHSAfIBQVVfeXFMTmJzRUJEcXR4YV8tZmwxQnBPSEtYanhSOGN6T0NDMkhMU3YwMWlQV0p1SEFjOHoyaWYtYm1oMUYybFR3U1FVZm9BYjZ3RGhoNWQzZGt5aXgwMjFTbXFQbW9Ob3J2alpBbVUzQXFXdzBfOTIxUDVHRldKSU5zb0RZM0JEbXJwbm9DX0dRd0NfQXJLZVNFWGt2R1VYSE1uYXJDeFhzWWJZbUI2cFZ3cVFWMjZHSHlhanlfcVp6LXNGMkIzbFBxTFZkdlZoaW1sRF9DVWpFV2xnMTEtQk90ZG9KTnpzU3Y1T3pxRnZhZmZ3RkYwOHc?oc=5",
+          "date": "Fri, 26 Sep 2025"
+        },
+        {
+          "quote": "Republic trash collector strike impacts service",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYlY4ZmJBby0yM0trbkxfT3ZxNFhwUjlYRkxyVnp1bFJ2ZGhOOEktVHM5LVhadFhrYzQ1dkozczMxQTlSNkpMaF9mZ1d2UXNOM0Z2SzhUbnBFN0xpa2JMQUlvMVAxekEyT2wwdzAyeTVqS0JwcnE2ZFpQUWYxVGtxSUV3Z2pTRUxHYTVyWXY3LXFNVmVIYlM2X21wZUJFWWVUZnUwMDZBYXVOdDBMdk9Cd2tWV1QyYVZneWFLaUR3N0FkajTSAdcBQVVfeXFMUEZTNXo4S29LMC1PZFc0YzYwUHpFbE5jZ2sxYTFLeVpjLUlZb1hSWG9LS0xVVHowcG5zb3hnWE9CM1JNSWNGVTNRd1BYY3pNdV9wTGtrdThybkdReHBBcHJOTDU5RVhLU29JQjB2RmoxcjFOaHlILWtaNThrWWlvVjlZaDBYcWhReE9fZU9qLU50NEY2TFlrQVFwQ25fUHhJZHZEMkVFYVdjVnhPcEd0Ul9oamxRYmV6VnFpM1NuWWFlUEJubHVQT183YU5DanloTGwtOXdxTjQ?oc=5",
+          "date": "Thu, 10 Jul 2025"
+        },
+        {
+          "quote": "Garbage piles up during Republic Services strike",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd25uVng5MDNhR1psaWRnRTN3Z29KcTk2Q19CNGd2VnkxMFkwSmVUOFFONUZTaG5lV2dhZ09RSTJHT1Q3Nk5LVGNNclpSaWhmYkRPZ21KR1Q5XzAxR3d4UTAzcklCYUlZX0dONk1xSG5fODVQQUoxR0J4dTBBeU80WmQ2U0E0cEZ6azA2dmhScEh3a0tYRzdGdm1tWHIySm5hS21KM0VTNHhBQi1zRXc?oc=5",
+          "date": "Thu, 17 Jul 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 10,
+      "pct": 14.7,
+      "samples": [
+        {
+          "quote": "Fewer trash pickups and more potholes in city",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWRhRGQxY09ObmpfM1lOTWxRUnZGZy1Pc1d4cmZwLWdhNWRHSjhBcUZhMmIxWGVuNkVuclFIYVFySzJsWjhoMTVCREtzRUw1NVROa1QzNTlGRlhUcXpLS2pQR0NQUERydDZvaElLa01nbEhuMHpBWlBCUzltQ081S0ZNWQ?oc=5",
+          "date": "Sat, 09 Aug 2025"
+        },
+        {
+          "quote": "DC has worst traffic in America report says",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0puUGt6TlUwQ2FQRXB3ZENPc1JKU3llOG51WGFQTGRsTXdsQ0FOdUp2cFppNzNhZE41Y1ZVYVI5eFdJUjZpOTBvQU5xNF9aY3RCWnhKck5nbmlGTmwxMGY0WEVKSzVfOVNjQWt1aUtMN3JyTnF5RXRhTHdiNzM3WDZXSFlfZnBhTk5rWlJMaGM2YUx5aE5ldUF1UnRkZkRjNlNhMWJ1LUFqQVZlU0tJUXBXNHDSAbwBQVVfeXFMT3h5SXJrWl9heFBtU2lZeUwzc25EN2stTmRHbUJ3QzJOT2FlazRWZ2gxbWxCVlBRdFZHUUlaWmV1aEd1eElhZmRQZElKZmFCXzROTF9yNTByb0lzNmtxR0FMVzc1aHh3ZWxMS0dQMnN5YWtKZFZFQmgzRWpRUVBpRENBV0F3YWVBeHNfN0gxZkJqVDNRMVJSc0xNOHh6V2JIaWNkeGU5R015c2pWYkx5RVVKM2k4NUhwbDBTT0g?oc=5",
+          "date": "Wed, 23 Jul 2025"
+        },
+        {
+          "quote": "Flood damage highlighted in governor letter for FEMA",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyUnAycHZ4UWRHQTlVQWFrSU9QVEw5bVFkU2JMdGlzeFVYeXp1SjlxcEVydUlDS2E5cHJDS1RMNmxKN0g1MlRTSnhiX21QTDh1VWpLWmpJSjZYTWNmNElDelhqRTRmdzBCbGVYeUtWRHR2TE0?oc=5",
+          "date": "Wed, 27 Aug 2025"
+        },
+        {
+          "quote": "Slow snow and ice removal frustrates residents across D.C. region",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSDlQUThNUTFYUk53MDRvdF9PZVBMaE9pcVJ6SzdVUDVOWTgzTk1sMEtZRjJkQV9jSDRROGlGQVdDcnZnU3dWUTRRRVJSZ1dzWjF2d0VWaUE4QkhvazFwWEVRUDJ5NUtVV1NkOW9OeXRaMi1xTlZlV0RNemw4VWtTTVF0NTlrUDZYZjJMWVplYTNqQQ?oc=5",
+          "date": "Wed, 28 Jan 2026"
+        },
+        {
+          "quote": "Residents complain of damage and disruption from fiber deployment",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUzhCLWp0WnR5cnRmbDNXOTgxcjhadGJrY1Y3TzNHY1RaMEhMbmNlamlySTlmZWhySDBNZUlCZFdYREtsd09MNUZNR1pKX3MxRTFwU1dkdjFtU0psQVJIckNTb3BzOTlMSlg0WlJJU1pQQ21TcTZzZDVpSjh0bVRIcHZWWmFQUHptaENNc2tuMExLalItUnFhbmZxTkpnZ0RQLXNfdkdwLUx3a2NEOC1jbzc5TVpMZHJwWk9yMTc1d3VjdDI0a0M0YU1RZnk?oc=5",
+          "date": "Mon, 16 Jun 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 8,
+      "pct": 11.8,
+      "samples": [
+        {
+          "quote": "Seattle graffiti costs $6M annually; city considers $1K fines",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOExzRGlXWWd0YVNfd0F1RG56Q3IyeVR4RTlvNFAzMDhGU3lyV2RIWU5QM0xtenl5U0FHc2kzRzF4S1REY2hZMWNha0FxUEpoRFcyVzJtaWQ4bldXRzVOUGFVcnR1WHZHQXU4UmNtRVNZN1d5SUlHdEJzV2x0bW1DVlBFNm5DOV93Ymc5Z19RNjVGc2MxMUtF?oc=5",
+          "date": "Tue, 24 Jun 2025"
+        },
+        {
+          "quote": "George Washington statue in Boston Public Garden vandalized",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFY3Vlc1RWEtNHRjMjZMYWJyNTlaeVpWbUg5SDBhMWV3b0wzY05DY1pxdlliVE5yQjZUNDRSU1ZjYVFLMUdoTkdycGRqY1Fybkl6SWo2d3YzeElTWkw1RVZ4dVdqaVhPLVQwSUxLRnhTeFBzYnR6d01GOU1JaFJmREJPclVmYXY4N0kya3dFUDFuWllaUklzaHU0OHpaT2x0emdF0gGrAUFVX3lxTFBJSFhJMy1aM3JuMGhLX1pzMVAwNUIxQVpVQS03SDI4eUdZM3ZmRHE3bUxJZXNLRWk0bHFXZnhCbXltOXB3end3dmdjenVUckFPRmJzU24xTUtfMGI1QmV5NW8yV2JncFI3Mmt0UEhWY3JyRHRYenNIN09LMl9RQk42WXRhTXk3N2piYXo4ZzBza3NUc21oX3RmVGxHS1VRSjNzc19WM0IzNzBJMA?oc=5",
+          "date": "Sat, 14 Jun 2025"
+        },
+        {
+          "quote": "Columbia University faces federal probe over swastika graffiti complaint",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd2Y1ZHhRMjhScFhpdldSOVZoNTJqYzlIbWVEZk1KU0hqeTB3eDBmRGx1QVdEZFJ0MVZKZ1gtU2ROQktIR1M3MS1qaFVuRDNISWNvSklWVG1faDVlMmp3QldNcmRJazhPVDI3UnFEZi1ucGpINHlVUmpFeWRMTFgybGJxb2hIVmQ0UnJSb2ZDclJMRTJlT1dXdFpZR1o3V2dHOXdZNllUQzBzXzZlRGpB?oc=5",
+          "date": "Wed, 19 Mar 2025"
+        },
+        {
+          "quote": "16-year-old arrested for racist and antisemitic graffiti in Fairfax County",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd01KT2hfa1BjS2dpSkVNYTlIdzd3TkdxaTRtVkdDLWhhdnU5RlJTXzdnN1FyWEs5Q1hBYk92SExOVHBuWFV5QVZSVE1KaUIzYlZZUjY4THdXbnRlM3pDTUxYY3RiQWVZNmhVMGVYbHF1MEcyaDhGanM0ZVF3T2swbHNkaVo0VHJpS0VvZ21HV1FFVnl6TkpiUFpBYXpyZERMUXkwRWtORlNrbHBqTW4xTldYRGR6bml3bVJtQlV6NHh6eGxnYzR5b3FuX0jSAdQBQVVfeXFMTjZXYXljSmd6RzBHYzI4SUowUVJYbTZWTUJuY29wZm5oNVB3OFI5ZUxRdXloSG85UmRkSGNvaHNRV01DRTFheWhWcVg5RWk2SDNwUDVONFlQTFdGLW80S0ZuNHVfREduZXh0Sy1LalREeUp6MDRJUzljcU5ZeWFuWGdRZXNDRjdiNFdKd2hUOTJTOXhlVEFkbjBvQ25ZLVVJRG0yd21VaG94WDVTVzJSYWZ4LWhqcXFxR0tlTWtVLTYxb0pGZWlSRjNldVhqZ2hhQXExZE8?oc=5",
+          "date": "Mon, 17 Mar 2025"
+        },
+        {
+          "quote": "Seattle City Council approves civil penalties for graffiti vandalism",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONGZVcjFNcWVubVhDMnRYQnVINXUtallKM2daQjc1a2xwQVhhVEVySjV4S3RpQ3ZlMlVFdV9DLUxiNHgxNTVDQnF1dlhjRllYT3dYc2xzRHlaX1ZCdmhVLUZ5djFhR3d3dUEyUmlMcDZBcUJaSzVLaUhiUXRHOS0wNDUyendlbmxGSHp3a3l3RmR6S1VYaWFFc1pqYkRsOUw5eFFEaS1xZk03X1A5NkVyZkdXLVBjY1VxeHpjSVdjZm5uMjZ1WkFvWmlkUXI1Z1I2LXBz?oc=5",
+          "date": "Tue, 15 Jul 2025"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 7,
+      "pct": 10.3,
+      "samples": [
+        {
+          "quote": "Where to report potholes in DC-area neighborhood",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV2RYQzBSQllRTzdQZVY3NkFyTnI5Y2Z1WC1TNlZpZ1cxcUstekhNeUpYcUJQWjYtVnRBVTJmQ0lGTzRTaWRPWDd3UE85OG1EaEExakF0ZTlwYWYtU1Q0UUxjSG9Xd055OWpSUnFHOVVSSkoyWDQ3Q0RvUmRwVW5HMktKYkMwNk50RVdZNEtR?oc=5",
+          "date": "Wed, 11 Feb 2026"
+        },
+        {
+          "quote": "Pothole tearing up car in Montgomery County",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRHJrdURkbzU2eWJERW81am1ZRGF1dUh4TmNLTnFnbjJHZlNXT0RVYi12aEpFYnNadmktOTRBc2dvSmhneUJWaVZNU1E2M3NJV1VENEE2UkJrMkhhamRTM0dQb2lZUE1CZlA3eVhMUGV6ZmN5RS1vdko5bkUwdl9IcmN3aWNyVEViZXpDbkhEZFpEN1ZUTGlZSXRjVFNKR1VRcXRXY0NFbUl2b0x5WnZEeTdBQWY4Qk1RYUHSAcIBQVVfeXFMTURvdXZuUFpHeHdDZ25OTFo4QjlfN2ZTTUVTX0VNRVBYMzZHbU9tTVo0alhxd0VrM2FnUl9ZMHdxTzF2RzhaNXkyWVpXcmUxSVNid2FlU0ZDQnV2VUlzdGY1LU40TG80aG9IQ05SdjVRSlltS2tVZ04tOTFxcGhWZWY5aXcxRTM3RV9Fc0h1OHlDZmFpeEt5N1g1ZmdBVDZjdnc0MHJId2NtemFRTGRLR3NnZTNoSVBKZWg2ZWc4VWotb0E?oc=5",
+          "date": "Thu, 12 Feb 2026"
+        },
+        {
+          "quote": "Philadelphia neighborhoods plagued by potholes on streets",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaXRac0ZCaHE2RUhEUVdEWVlfaEpmRXN4RXNoVUFIdkp2bXJmcUkyQ2tnLV9MU2VfelhRa2FMZnpWejNtbVppMjBLOGkyaTYzdkxHRURlWGlfdGpadXB6RUpqMFdQckp3dzloeHNYdTdoX1UtOFpRbEZEYlNvbG9mSm9nSVR2eVphVFItOWs2LXdQQ3Q2dkVGdlkyZ08yamZzLWJJRGFsZnY0eUlHeGhWS1JB?oc=5",
+          "date": "Mon, 19 May 2025"
+        },
+        {
+          "quote": "Michiganders seek cash for pothole vehicle repairs",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYm1pQlFxdHZBUXVaZXhRTkV6Z0RvVGNCUGVxQXZDdmt6eEZOOGNNaEItMVFvTGdBRnRFMXdGb2wtcUpWM3RId1BKYVFkQkwycXpMaWpDOG02bnItbTdCS3NaN0xFQlR6UWpxNnFja0dWZnY2cVduZDVGQlNWekR1UzlIdVViQWd6YnFyaW5KemFkcXlUY0ZjYV9QNHlfVmFPOGx2MlM4M2zSAbwBQVVfeXFMTUhYYmlTcDlNbnBhNUc3VER6UVZrZ2txTkpPMnd4Rk5JX0QyQldZRVg2LTljdXR0QVEyLUF6TnhWSUFwNUNqbDU2Tlh1YXBhY19qYUhnU25RZWJRZ0xaVkFOWkxOUFh0TWZ1eVFfTGlfTVhDeVBya1BsemRpN2IwZ0tWWDRfZXQwYWZOMGJkc04xWHlLWTlOVEZSd3FQdHJUTjlmTWxEX2x2c0lRX3RzQkE2cl9FLW1QdUJHRHo?oc=5",
+          "date": "Wed, 02 Apr 2025"
+        },
+        {
+          "quote": "Mayor reminds public to report potholes to city",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOakR5Y0Nsd0U3SHJsVkdZUzFpWXB3bkxwU3R6TmZLek02Mm1tN3hLNmNWV1ZCTGNIVjgyeUk0bUwycFlvdFRzcXF3MWRuRVg4VGFUdkVlbVd6NU1NSllWZGduN0ZwTUFzNTN3dDF1ck81dHVxbWtwRTNXRGtUSmd2MUxDalk5VXRvTjZhRjA2WG9kMkFUQ2RtZWZPbzJxNkFONXhUVjVQc2dMOFhO?oc=5",
+          "date": "Wed, 07 Jan 2026"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 5,
+      "pct": 7.4,
+      "samples": [
+        {
+          "quote": "Street light complaints",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkpFbWs5NHFibjhET3VnbUZ3ZGt3d1c1MHp3ZHhvdVJ2VWtXLXEzTmpUQXVMZktlNVVEYWs1ZmhmdUJ5SE9jalhiZkZmdGlqLTVtRks4NU0xRnlJNzlpLVhiajdjX0pGQllXUEhIUFVRR0c3dmJSNUREZHhtaXFPcFBUUzViMG1vRjFaaXNtb0xuUkZFMUdB?oc=5",
+          "date": "Tue, 04 Mar 2025"
+        },
+        {
+          "quote": "Non-functioning street lights raising concerns throughout downtown DC",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZDR4YS1lWXAxT25STzdVYnd5b3FNNm1KanZWV1NIb0hZQjhEYnJhek1FeEM5aW4zaUd0bkxyYlIzQWxsRTJxVHBwRkI3VGtxRlBHc3l5NFVnMGVjNU96Slk2U3lCeFhGQ09tamhZYnVQZjVhN2taOW1meUYzR241UHlEQVVldjNTOVNZNlhiUm5hZERfazFEZnJoSEVyV1FiRUZ2QkYybTFoUVlBMTJONnFhcTVfTHpMZk5pSGJfYS1ZU3NocW41V2VxR19Wb2RXRWg5LWN4a3M3cEQtb0ZYOXJJTXFsQm1nNjdKdzcyWkRlSk5KcnRjdTkzUGRjYjdNM3pGX1ZzaEtqVmZLV0h0cmJn?oc=5",
+          "date": "Tue, 25 Mar 2025"
+        },
+        {
+          "quote": "AMC got 4.8L streetlight complaints in 5 years",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYTZ2bC1pUzlYUnpjN2hxbHNMU1FQb09tVWs2NjQ3QlB3Y3FtejBwZXBYNm9HS3R0LUlfM18tM1owdVJkSzNFamFtU3N0czdwM2JHTGpJb0RaRUs2MlJEekQ3TlJTalI2dWFpbTBKY0FYWGNIamR6NEl6TU9kSm5ZbXhNZ1Q5ek5zcWJoSlF1OWxMN1JUN2dueUp3X24zbnhWSzM0WkxTYmt5NHpIVjluVk1GSk9xTmNjNTI4ZTNVZErSAcYBQVVfeXFMT1RoVHV5MnprMnM1dHE4NkZ2N29GcG4wbkFOa0hnaGZNQWFic1hDeENFcE0wdG1EamlzeTladDh4Ri1oYkJnal9VQjNCZUVlWGNLODEzR05LVUU2Nl82Z3ZncnQyQnhJcjBSdDQ5WmtfQlNzZHAzUjc4Smg3aTJQaVVQaDhocVEzTEUtLWJKN0dTdno3YXQ2Um9KQ25MV1ZKQWs2dWlrR2hQckIyaWlZTjZLSHhWc0NJNWk2clZndzhjTEVNdUx3?oc=5",
+          "date": "Fri, 25 Apr 2025"
+        },
+        {
+          "quote": "City council member works to keep his ward lit up",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHBsZ0JFdlBhWE5EcVBaRGl0d1hRUHFLY2ZScXdmUldXanlHbGMwWm5GVWxybEI3T3kzLWJfTkw3QTRtcDJoZmlyYWZ4bUVCc3I0SVZpNVFNTFRvY3JsQ2V3ZzZDcVZTaUhhX084Z1Z5V3VwUVlGcmRDV2VEUmxJNE1OY25uU2dCZE1BNE9VNG52dkFHRkxSazJKT1hRbWZSaGp4SDh5VUVOQQ?oc=5",
+          "date": "Thu, 20 Mar 2025"
+        },
+        {
+          "quote": "Street lights out; safety concerns rise in multiple neighborhoods",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObmxidEppaV8xOUplS3NMSUVXN3UxT0U2YnF6NmN4SmN5R2tpYkRWV1M1N3RHQXo2cVhoTnNNM094SHJmSHRDUDUtdklZQlF4aHBIYmZ2b3liOXZpcDNBczNyLVhOb0ZHU3VvRUNLcFZpWUpoeFZlMy1yY2Y1cGlpemNnQmd5U3pUS0EzOVA2VVpBVHprdmlZdlY3eldOczQ0NzRpSFU3MHFHbC1lNWJlZGdJeVRDbTAxVmNZc1JEdkdQQzhoUkpSR29YbkFsUFNRak95TXgwZVdwZHdPR0Z5b2dKV09FQdIB6wFBVV95cUxPTnlpXzl6ZXVTX2o1cUMxMnlXM2EwMTVrVHVzNU9xMEVQYW1DcjdUOXdUaEkzQUh0dDZxWnZ5XzI5MTNUNnNXQl84YnBUQ3luR1NJbWwtQWtkRS02ZUdjcWVpT1djNHk4bnl3ZUhldmtlMFZBUTVFX25yd1ZIejVvZS1ueFlnOGREVGJXblV3emdvMWZBZjMwQk1GMzhvU3AtRFhEc0pKT2I1MUwwQzRqaEk4cTZCQXE2VWdNN0xHOUVTOFFNdzhYdHlaYWRFMmZQOEs5cnNKaXZoc29hbGlnWTRNWUh2MzRxLXF3?oc=5",
+          "date": "Tue, 27 Jan 2026"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 4,
+      "pct": 5.9,
+      "samples": [
+        {
+          "quote": "DC residents struggle with sidewalk hazards and delayed repairs",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHd05XZjczbGxEVGRzVnVxZzc3NVJiTi03RHkwU3luU2Z6NTdCN1BGSC0xRV9UZmp4VW9UNEg5emFQcU5zamFkd0dmVy1sRG0tUWJsWkxnZjFMeUotejVqazhSUnktZ3NiNXhuc1ktLXAzR0hUUF9J?oc=5",
+          "date": "Wed, 17 Sep 2025"
+        },
+        {
+          "quote": "Pittsburgh names neighborhoods as priorities for sidewalk repair program",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0FDdmxGQ0dlaF9fcDlXZXI1aFA4aWFxV1pKdGQ1UHJUbTc4c2lqQ3IyQWVhUm5OUWo2RWhEeWdMdFc4R3VobXQyeGNVQ2dCRWdtTlUxaUlmR2xXZVV6ZG9LRnhxVHdkb0UwdU1TYVg5UEtqOS1ETXM0RlNkcEZyV1piV2MyOHM1NEc2djVyZlhGYk5idWVHcWJCMXQ1TGpwRUROMjlpRzc2RVdJOWg1OTJvRXNudw?oc=5",
+          "date": "Fri, 06 Jun 2025"
+        },
+        {
+          "quote": "City sued for ADA violations over inaccessible sidewalks and curb ramps",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzQXUxTlpYa1RTQTAwN3RSOWRQVzFVZWd5VktxSjVadWwxbm1CVm16ZDJJeTREcEh0NnpKb0FlcEJ6aUlwTlhvM09zMzh2SDFyaVlneTNmV3JkSDExSmFEaVpPRjlFa3VNZTJGSENLejFYalNvNUE?oc=5",
+          "date": "Wed, 10 Sep 2025"
+        },
+        {
+          "quote": "Olympia neighborhood leader calls for immediate sidewalk repair work",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTdISk03eUh4N28ydThrY1ZJWmFqc2FnSS1EdlZmZjNxWmV3bXgyRmxzRmc2aTd2OXJaNXI5cUYzUlB2emladFhJRFFiU0tyMFZJWXR0eVowdkFfRllsWkhNR3hNaFUzMHlLX1MxUlF6ZlM1dlQxOUxUd2tWd1RjcW5HU1F6ZE1meDEzWGlJSmowRko4eEdRd201VEhhcjc5OUg2OVVNbWg?oc=5",
+          "date": "Thu, 08 May 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 4,
+      "pct": 5.9,
+      "samples": [
+        {
+          "quote": "NYC residents report sinkhole concerns on Bennett Avenue",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPekhxbUhwUEJMY0lvWVVDRVpmMHRYMVRYeU5kWF9jTGZuTmpLRkdkcUM1QlJYN0IxM3pvZi1pTHZodFByY2ZaMU1xLVhhd1hUS0plRzZtWmU3dEx1MkhUYmRDejUtOXJadnpWd2FhdHJSYm9pOXM5NWROd2paZkVBQjdHODJ0RWd6YUxIa2J6ZnFSMGdhOVBlWGszTjU1b3V5UXRLcWstWVJYOXkwVzBiV1pQNlY2QjYyRUdkYWxqb2ZHNWF2UmNwWEtRN1jSAdIBQVVfeXFMTUVDaGhBYm5xNkxGVUtOb3I2VHM2OTl4enpacW5NU1BDUUZpTTkwaDFGeVlvZWpmRjh6QXZaTjl3ekZxWXNueWRKYjhoZk04aURIcThvaE5UVHJpUk1BV0ZibE4wOWphQXdCU1BoQnVtUTA2czFOY3RFUXFvLWJjU0VmbVFFMEZtaHZPUG5FRjJwVXZoNDV3LVAwUld5ZndLcFNFbGpRdXNNWGkyTlZSc0oyeU5NVDRMdlRwWXdJa1hwblpXTHQ0M1ZTbHYyMlJmOXJR?oc=5",
+          "date": "Thu, 10 Jul 2025"
+        },
+        {
+          "quote": "Massive sewage spill flowing into Potomac River",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2Q4YVF2Rmp5VldyNTBkNnpOTG04cVdhMm9rcmR4WVRaa0pkVkpQU3M4UGk2cEVmM3EwczBjM1B2bnFoaHRLTGREeEdhZUVZQ0hVeUVrM1FaWGRmM1o2OVNsQkZSYUNzVmpDbk5Qb21aNThsQ0J0c245aDlnVVprSWIyeWxsNFJLQ0MzZkJMQ21iNS11bXZYd2Z2dWlrMjk3cnBUb043Ymh5V1BLRlRmRm5JT0jSAbwBQVVfeXFMT21UcmxSS3pPa1BKbnVHV2xqX0g5ekdsNjJVY3lQU20zRDAwT05nWXZ5bFZDQzd1X20xN08wWE5jaWo0YW8tXzBNU3V1UFdfOHhGNmttLUlvdEZET25pN3E2eUpmRjV5bzlJdmw3ZzJDOWJId0phU0NVak9NRVh1eHV2NlBUZWQwMG9USDc2SGprSmxmUmc4QUZ3NWtqaGhqT09Wbzc5UXh0ZUpBdlRsR3d1NEpLejNuaTRRWXI?oc=5",
+          "date": "Fri, 23 Jan 2026"
+        },
+        {
+          "quote": "Company sues city over sewer issues blocking oyster bar opening",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDWXhoT3k1VGVwQnRGMVUtNjFlTEhzb21fOWJ6U2lrdU9Ma1l3bDFrNTNvSnVGTFJpYXZLbS1BWHowNXpMU2lZS1BsSWJJMGV2U0E1RGk0UExpNUtPX0dHQTFRbXg2cWxpRGlwdThPQWnSAXBBVV95cUxNUlFiRWVxaEl3ejV3bnpUYlVkMmtYdGl1cXRVZlFpbDRCdVJCV0tmU084WUFWRE80RWJLVkU5XzdHVWNvSTViR1VUQnU4aTNjeXNDZDRydnRfZXBkT0dkaEFobkIwbGJleWFFN0NIMjlr?oc=5",
+          "date": "Fri, 02 Jan 2026"
+        },
+        {
+          "quote": "Officials and residents dealing with major sewage spill in northeast DC",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdUlidlZ3cTZ4UjNVTmtHNTg4NFpfNVBOYVZ6RS1MMzI3czFsZlk5QU9Zak5KV1IzcEZDQkRwWFRfY01sQ2NucGJSeWJ2aVVpV09uTGN0TXc1Y2k1NUoyZnRZY1pyX1BNSjFQTndwQ1Z6Mk1CV2NOUzlGNG11dnN2OUtaNFdUQ3BoY2hKOExvRlVCUmNtZkJqV1RwRTlIWUxFRmxhcmxJaGxvUmFHZDZvV1pkNGREUGE5SXk1Q0YzTXlvMkR6aDVHMHNBSTlYSkFNcTBuanNPZ3N5ak9Pd2I3Z2kxZ0pFZ1cwbURMUnd1eWhHS3FLZExfSlJNOWwwMGRCVG1GdldYZw?oc=5",
+          "date": "Thu, 24 Jul 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 3,
+      "pct": 4.4,
+      "samples": [
+        {
+          "quote": "Residents want speed bumps after frequent crashes on West Montgomery Road",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYVVuVEYtZC1CTDRmeVl0LUg1d2lKRW00T3lUMG4zUTlndUEycWUycTZBZ2ZBdkpFYjk2eDExcUtrNl9qX1h1bE5ERTNzaDM2UG5Cc2JheDIyZ3JrYkNYWnVfQjEwV2ptZGJfMVdkb0lQRHVVRVRIMVpiOHBmNWpoM1RIbkgxMTlqVHl0dlFadm53YmpIZmJKcDhvOThlMWNDd280cUhlM0loRjZNVWRfR09vVW9Gc2JHdzl2OGNqV1hXZ9IBxwFBVV95cUxQUTRFc1JmZ3JEQ3psMlE0SGlIcXRKa0NKbzkzMEVoaThaejhvb0VYaWF0NDBFZjZwZWVmdnNOWWctbGQwX2pEeVpseWY2WUE4OWtta1pXbERqOVlYU0ZLcEdLNkRIVGN4azliZFlkblFYNGpwWTZ1cktLQ1JLRE1RUUNyQVZ4R01heVpqMUFhWnBDLVVBek10QkMzNzJwMi1US3V1RUVCTE10SVdxMVVCZjd5cUo5MWtteUY3aUV5R0I4Ny0wemxz?oc=5",
+          "date": "Thu, 29 May 2025"
+        },
+        {
+          "quote": "Blind pedestrians sue DC to make safer crosswalks",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeF9aLThxZ0IzLUx5aGNDXzNYclBnLTJ4cWxsVXRjSUdlVi1ZT2FncmFGa2h2alRoWnVSTTFETnNvQUJNZDktNDNiYlhpSmF2QlJsd3pKUWIyZW5GM3FyUFAyNkdtR1MyWVRVM2VLMXJNdkkxMmtDTjktRm9MM3VzOUxvMUFXNVJSM2JOU2V1cEx4MkZiRVVnTDR4Y2psLTVKeGtqNC14Y2JMQmx4Y0s5WldBNnNXcmdCUGktWVhQT2RSVDdVYWpzRWFzWU9BQ0lJRHVEc1ZLRUNGWWJEcGc?oc=5",
+          "date": "Tue, 03 Jun 2025"
+        },
+        {
+          "quote": "Washington pays $30M after boy fatally struck in crosswalk",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yclJlaFlGOWZxTGRsS3V1UUdfSXVyaWNNdS04eWY1X1QtOEdfRDF6MExlSmlvTHVvWjIzakoxS3NCVndUWG9fNzgyNXktZG8yRjJCdUpPa0dwQnVjY2lwdFIxS3JUNXFiTHJHUzVfc0_SAXBBVV95cUxNWjV4MEt0MnVKVUhGRDlFZkNzblFPSk1uWkhzeExNNWF2Mm9vVllUMlN2VG8wN2pCY1VaRk8yTF9tb3FVcXpkaHlNTl9Udm1vd1FMM1ZvbzYzSEJsc3h1RUZvU3lzMURHd05tNmFQQ3ht?oc=5",
+          "date": "Tue, 02 Dec 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 2,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "NPS lacks funds to repair Meridian Hill Park fountain",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU3V5UFdoemZHbXQyOE96ekE5QTU5aHBIbmVUaEdmUExETFQ1d3NPcHNMc2lMRUZEaEdQa2NEWE0xRWtPbVlFU2JlSWZGbXoyelhLTWQ5dm0yM0U3cnlQMC1tdnY2WllmZkFTTW8yTjBuR0xfdlBDYVZ6Q1hjRjgwdGNUZHJPaUhDOTZ2UVl3bjN6NVJHcy1iTnN4YU1ER3Zsb3ZWc0ZKN2xNYWYtcnfSAbYBQVVfeXFMUGVMRFE5OC1iMnBkZk5vRUdBUWhpTzlGblVQMGtpalBGQUMxYVZ3TzNNY1VaZlF1cXpQRVFnXzVidHdNOW9lbjZUbUR3S0dJVkVJZElIYkVRazVkZGpJYk5PaUlBSHV5UzdQRWhFUXNBMFBsQ1RIWldBcEhxT29uRFhBSWQzZ3YtZTYxN1VaajY2WVFzX2JDWUNpWnZUb0R3X0htekRleW1xdlFlQ1J1N1oxVEJvS2c?oc=5",
+          "date": "Fri, 07 Mar 2025"
+        },
+        {
+          "quote": "Complaints cause temporary pause to forestry project on W&OD trail",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRjNqQ1ZjOGlNUlNabGczdTZkdXV1cURNZVp6Ujg1b0dwb0lNbDFhNkNLVUVhM3VSMjFUNGlfTjZjdjJiaVp3ZWF0b3d1YXk4ZHo0amtWRGpnSU5YOF9qYmFTaGpqMzJOaUNTQnhfMGVmVmtBcmFNejlOREJ5aEVUenpsbXZhV24yMnU3bFRsVDhfM2hoeFUtZ0pHSUFJMHJSSTdNZ1NINUg1aldoVXUtMzZFSXlXNVBu?oc=5",
+          "date": "Mon, 31 Mar 2025"
+        }
+      ]
+    }
+  }
+}

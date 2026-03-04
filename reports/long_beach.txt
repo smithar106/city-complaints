@@ -1,0 +1,98 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — LONG BEACH
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 70
+  Complaints found  : 43
+  Complaint rate    : 61.4%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   19   44.2%  ██████████████
+  Other City Service                   6   14.0%  ████
+  Trash / Illegal Dumping              5   11.6%  ███
+  Pothole / Road Damage                4    9.3%  ███
+  Street Lighting                      3    7.0%  ██
+  Graffiti / Vandalism                 3    7.0%  ██
+  Public Safety / Crime                1    2.3%  █
+  Sewer / Drainage                     1    2.3%  █
+  Sidewalk / Curb Damage               1    2.3%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Toxic fumigant could be seeping into communities"
+      https://news.google.com/rss/articles/CBMijgFBVV95cUxNWGxPaUhpN0VXOGprRzJhVU03czl4MUFQSnkxLWlubk43ZXQ4YUFpZjVPUk9DQklWVDRnN2pXR1c5bzZBbzVlNFozVVFnbm9qeUt0enFtTXA5U3RST0pjTFJiTWhTVHlGUGJKclExQ21NU2J3bnA3N1hOaU93S1NVQ2h0UUQyMFpISGZfT1pB?oc=5
+    • "Lawsuit seeks to protect from bacteria in creeks, beaches"
+      https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYThhWVNDRUh2Uk9KMk43by1CajhnazdGbEVkbFJHVWVoSk90a1BCOURqb3gyQ0l1Qm05Rmo1cEY2bWc3aFg0aGIyZnRFZnUwLXpBaDlTd1JyNUNUVm1Qb2N2QmF6V1FrczF1YldfV0VDWWNIY1RCUW5tRVNTczZEMzdRUnR0ZGVYSVJnNkpHa1J2LVFVOEVEbmZyWV8yRzRnZHNSRzJUT2NEWUdWbFpmazNHSHBhRkFZVEZvNk5FLV9wcGpLYzBIZEpkX3lKNXdFOHE4UE9uTGtodEc1MGRB?oc=5
+    • "Days-long water main break drenches Sanford school area"
+      https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaDFjSEptNEwtY21nendlSE5GZVR6bEE2YWZITmVkakdLenRZYWRBTVZtZkJabnhYX1BtcEtMc203TU9LdGgybTg3a2wydVE0ekNfNjVScTRxbHNGWnVFWTFKU1dqVTl6UHV1RHZxTU5uZ2Vab3FsTmdiRUhIcXdwN1F2dkcxanZyRjBseWM5ZFNjZ2RKR25MVEZ4N0JxUVY3amp3VVRsRk3SAa4BQVVfeXFMTXh3RGJtQWNNbmRleG1MRHFxbmt5dVN6M2k4VVBHQXdWRFdPYzdqQkRmT0dPdHprWnNTY0VqaTh3ZUtTaUR6VGp3c0dBc0dZcXpZc29wNV8xdWE0eE5pRFYzM3FUX1I3Uld5VnltT0M4TW91NDlFWExHYzFyalFQRWxUV09zUHUyVnllaXd5WmJfeW1MNnpxYXlVNXdXNXk1NktCT1o5blhiMkJmQ3JR?oc=5
+
+  [Other City Service]
+    • "Coastal residents oppose city's community parking districts plan"
+      https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1BGSWxBY0Y2X1RNSlRTRl9PbEJyWHVDUmJLVmxFaXBjMGhYcXVhcjZDOHMtZGlwVE1saWRYNlI1WC1JUEpUZjJ4TUphQ3JNZEZWczlDWW1hcVpPdFQzNnhHcHpvTG51VXI0N0hkejNQN2RGRHltQVMxTFNhd0pGQzBTdjRyVWhHYkNpVkx3Q09hU2wyUDQ2SlNCZm9PdnA3LS15ZDE2MEMyczZnb1ZvOQ?oc=5
+    • "Road-obstructing barangay hall ordered demolished by Mayor"
+      https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVI4UzBHUmswMkc5VnZBYTBqU3l5X1h5aWQwdjktMDNFb2lXZVF5MU14aVotNEF3bk9xcHFuV3FBdzlQdUVSM29yTzcxVmdicndjWGNFTWVXb1hkQUMzNTdscTJlbE03MTdYckJEaEVJaFJPbzAyY1pheTUyQUxPcVM3Y3RUaG83RE5WREJZUS03VTF6ZWc?oc=5
+    • "Absentee landowners ignored citations, let properties decay"
+      https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0djRmJuVWdVcEhNMG9MQ3lESkFhalVFTWVLdzFKMk9TUFNIMzcxUExGWVJRRm9yY2RIRW9PN2JhNm92T25RYlpUUnhLSEtrSHJGaTk1azlhSk05by1wM0xsMXBVTER4dGEwNW1jQmdtNUVnaWViVFJUSFJLZE5fVTN1aF93ZnJjTGNGV3RIWQ?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Missed trash pickups spiked with new organic waste program"
+      https://news.google.com/rss/articles/CBMihAFBVV95cUxPem9PTllWRWg2MUthcTNpQ09HV2czRVI5dDNUNnkzYm5na0RwQVl6elJEMS0yQzF5a2pKQ2UzdS1rS29PQTM5ck53cGw5RWl0eUhmbW1NdzJhbjU2dThFeFpONmJZVG01TzcwcFc0eE9BRlpnMnd4UGl4TjJYWGpnLUpxQlA?oc=5
+    • "North Myrtle Beach rental owners sue over trash tax"
+      https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTFh3YkNHQXpGR0MwdmtNZGRaUDZ5VVhXYVpMTm5td0M4VXBmWnZYeXdfT3N2bFF6ejhzVVhKU3ZnUnRpWjVtbHJ6WFByd2Y1akJaMVZ5SjNYdU5raVJWaWFEVjBxNkpROVZEd011RkxxQUdWTTlneUdJXzRlNEpiNVVQOENUc1l5NE5saFhUeTVVXzRFdXNtdWxGbTc3Sk1qSDFLNTNHNV9JZElFZXdJbnhRU3hibVhuYzloYW0zbmFSX2VQS2luT1ZYZnQ1c1V6V2dNaXNBQ3A4SGdMZi1yajhuaks?oc=5
+    • "San Diego revises proposed trash collection fee"
+      https://news.google.com/rss/articles/CBMitwFBVV95cUxNdW8zNWViaGxCX1JrSDhJbWNEV0pGbVJqZHY0ZlpLZFppMGk0NEp0QTdGOHd4TnN1dVpwZmlHb3MzVEdvSlhNejZPS1M5U0RfQ0s2QXJ1SEZwTzlsUzVHXzJsZmxvdURocmZqR3VLVlpoUHdQcDJhQ2pyRzVzWVRpNEQtVlJiOFpDRmNhSkZlNWdDZUFpd0xWRzZCRWdBdDZZQ0VCMXJYWFpQaF9ZTGhueGx4ZlA5ZknSAbwBQVVfeXFMTnVNNW1ySjVSS0hvclh4Vi1hTTdFdjBMbzV6MEZfeDF1UEFQUUhPQlhoOEdEVXJhQjNyZmphYWx3dXdMdHZuMWl6UnFFWnVuM0ZLZzBCaVhWZURoMzdUUERqNVhvNER3ak5VQVlCeGM0S1ZnTWNYSjlRZmZTcEZNMTY3RTdOdnlITFo4b2FDdHZRNmlna1FoeGtDY1hJSVJGOXFJWEFGRkxCdnhLQU1GRktna3RoX3hWZ1g0OEY?oc=5
+
+  [Pothole / Road Damage]
+    • "LA sees surge in pothole repairs following storm"
+      https://news.google.com/rss/articles/CBMinwFBVV95cUxQTThIelBicWV3cWxRUTVxdlhLTjlSYmZ2dVNZMXM5N2lwM3QyTS1UTy1nS3JGeGdrNmt3aWl5WXgtbElmX0dDQTl6VUFmZ3BzZ1ZNMFFXZFpRTGtJYXhfdk1HVWR4aW4tRDNCdFVqeG9hZHdHY3NCNndrMEM3VTRaWUxuMzFJOGVzemJ2T2pUSTlNc2oyMFZqWkFwbzBRODTSAacBQVVfeXFMUGUzM0RBb0pTOEtPREE5VWFUOVJYTDB4SEMwSk1OUEQyelhwdFBUbjNwY1dmeXpGUEZoM2RMYmY5WHVHV21jZEo0SG0zazRUY0lCaEh6MWpZc09COTMwdm1PQzVkX0pIOFNNa21lU3BybFRBa0phRkxXX25PTVF1LU1ZRVlVWS0xVnpLWGpJQjlUNkw2TW9Hb1B5eTlmeVByYVVtckNHejA?oc=5
+    • "Long Beach streets improvement after $170 million spent"
+      https://news.google.com/rss/articles/CBMihwFBVV95cUxQWEFQSWk2X1BaMk1Uc05IVURxdGRJUGU3TDFqN2gteVRXd1hzZjNRSFBOQnFTLTZVNlhJaTNuanByblktT1ZUWDFqMUMyZ0NvemVtM1E0MTVnMFN5SGhDaTVCMTJRUXU0eXhRbDlSZ0pPeU10OV85bXRnUlNHbk5IOXdPUWVQSUk?oc=5
+    • "Massive sinkhole keeps busy Orange County road closed"
+      https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzBtWnp1NldxaFZBUGpYaFRXbWUxMUVIWXFTa2tQdWp5cGJiNVBrc1BiMHhmQkRvMEVvaGhMUVo4TTNWdm5uOVRHTkk5LW1CU2VfNm9WMDNtaUNGREFXaFZZUEhzWUt4dGUtR29zX1RKQUYtc3VyLXhTbWxDYXVHMUxuTzVRNm96TU5KaTdweV9zTFBXR1VEN0Jldnc4OWtzWEpkUUFR0gGrAUFVX3lxTFBPSC1sdkQtcm9xQVZpMkRJOVVsWDJpWHJjUllJSVJseXBxZmsxcEU4ejQ0WjBlLWpJbVFkUHViSnR4NWxNUXdXUXdxQmpUWENaeE1NWlR0LThjMzlkT24yWGtkNkk2SVhYUS03UWZ2Ti15VVZpaHlneF9hT1dxam55X1BCLXpCYmtiTERmNmtYUUt3MjdhcnpMYjFiM0JiNHB5djZSNGp4bTBqVQ?oc=5
+
+  [Street Lighting]
+    • "Would property owners pay more for improved street lights"
+      https://news.google.com/rss/articles/CBMib0FVX3lxTE5MN19QUGc5cmtyS01nRjY4b19rMjNDbFkzbG56VjhVVEJwNEhkTkRHdk56SVlnQk5lcFVUZjZ4YWMxMWRObjZ1QUg2TV9vS2VBN3l5OGZCQ0dBX0JlN2NBWHZZQV9IU3pOcjJrdWdyOA?oc=5
+    • "Flashing lights for weeks spark outrage over city's slow fix"
+      https://news.google.com/rss/articles/CBMi5wFBVV95cUxORzBMbVdMUXhXQVRYS3BaVnkwTWpLX2hIZ0lMYnRKR0tuM1F2RVVNekJTbGZJUkxVdC0wOWN5blNUR2VOSlhldFVxc1dzWHhjMlB2TnE3SHE3WmZzaHhTUEZ4X01FTUZpQ01nejBEbV9pT3pwUy11QmZPODJuMlpWQ1BZLURBSWZHYmhOSlA2QnFpS2pRLWJVbWdVM19ydWtnZERORnUwbzVoRmlyUXFfSzN0Z0JKRnFkSzJuZS1BSng5R2V5SVBEcEgxbUdNLXpQc3BwRlBOQ1YtNW9zZHo4RmsxTWhCMWs?oc=5
+    • "Street light complaints reported"
+      https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkpFbWs5NHFibjhET3VnbUZ3ZGt3d1c1MHp3ZHhvdVJ2VWtXLXEzTmpUQXVMZktlNVVEYWs1ZmhmdUJ5SE9jalhiZkZmdGlqLTVtRks4NU0xRnlJNzlpLVhiajdjX0pGQllXUEhIUFVRR0c3dmJSNUREZHhtaXFPcFBUUzViMG1vRjFaaXNtb0xuUkZFMUdB?oc=5
+
+  [Graffiti / Vandalism]
+    • "Anti-LGBTQ+ graffiti painted outside Long Beach Pride headquarters"
+      https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTlhdFM0V0o1eEh0OVh6dkhMSW1YNlB1VGdja0M1Qk0wZVV1cmdXekVWMGxGNnlLZkNPb055QW83SHdFY3R6cTE3Y2NLUEdpWVdGSE9tRmdtekhYcVl5SnNsV2l0RVZZNGszaWE0bTAyMUd5ai10Y3FqVlBNTjRpVU4yVDJkTF840gGQAUFVX3lxTE44MWVlcXdKeVpOQUhiZEg2SjJ4dVdpeVhlWU5jN1RFTGJIV2o2ajB5WXhsZFc4bWNCUUY5Q19qb0JDVGNIMGotNkQ3MEF4Qk5UWk14YUxfVEl6dk9DbS1nNmZpQjdpVHV2eEQ0T3ZUTjJ4VWtwU0l4SS1IWXdwY0FFcXNwUWFZNEphbGRmM3Rxbw?oc=5
+    • "Graffiti scrawled outside Pride group headquarters"
+      https://news.google.com/rss/articles/CBMirwFBVV95cUxPNDJPT0ZCaDZncWxQYmo0QW9keV96MkxScHpyTWt4aE1zTGVUeUZraUpwZktHdTBKOFRCTXBlUGVSZy1pRUo3YkVIRzRPZ3lQVU1aeV8tVUFfZUY3X1o0cjhPeWRna1RrVEZGR1J0Q3pqMlJhazhrcmVYQWNVRVFsNHUwUklDWjAwczBxSzNjakNTeVB4NF9jcjZUTzBSdDFrRHo0Z045QnZldGNMTnl3?oc=5
+    • "2nd Street Tunnel covered with graffiti hours after cleanup"
+      https://news.google.com/rss/articles/CBMiygFBVV95cUxOTTlRMmZLZXpQNjRBMl9SbkVNQWRKeEowSlRDSHIySVdkNnNpWHY2aHZ6UDB4RXdIMkVjVkRaU1dmVUdlUEUybnZKM2JFNEIxSzAzbk1BbGQzbExReVE2WGYxaDF6elRHNlJmVjBpNjVuNU9OZ3ZEVnlOdW52SU1xM0ZuWV9abUJFc203VWRDX19ybU05ejh2SjhNZ29YbFZROFU1c1pxcVdfS21JTGI1MzRLYmVhc3ZmeXkxQjQ5RGlCTTRCSFRFQWx30gHSAUFVX3lxTFB3dmFDTUMtZTlISjZ0VHNhejNPc3dDV0tybzlONHpHb19UcHA0NkVMQUkzVUlNS3M5TjVzYmJPa0s0Z3ZWSDZuZ21neUxyU0dtSkNVY01teVNqNGZZLTR2cGxpYXlqcFA4M0haQ2hnTlNHVTdxQVEwUDhmeUNYZjN2akVmLWRDSklhT2RBVHkxYmZneDVlMll4YldGM1FNREF1bTE1OFVwbVlpQTBYdG9EY1QtaWtaOVdqd2lRQnBxME9VanAwakN5dFhfbWdPZDhqZw?oc=5
+
+  [Public Safety / Crime]
+    • "Residents sue San Diego over tent encampment conditions"
+      https://news.google.com/rss/articles/CBMihgFBVV95cUxNNmtMY2dHY3R3WnFQM1g1c0E3ZG5ocWNwbjNxUHJGUjc0bFR2emRsb1IwVWRWamduZ1Vhd2lpT2lIQVdFQms5d0hESEZ6TFFCekZzRi00OUk2NFRCc2JndGhRSEJQRmV2dE9OQTc3d2dLVm9lTU5WTjZUbHZkSUctODNiMzV1Zw?oc=5
+
+  [Sewer / Drainage]
+    • "Residents kayak on flooded streets in Long Beach"
+      https://news.google.com/rss/articles/CBMimwFBVV95cUxNOW02ejBXQVVpRllRM0ZOQ1M0T1p6WEVaM0drT0NlblB3bUVWRmdnYUNDMzlDZ0kyU3JaZU41aGJiSGlJRFh1LWFwa1d3c2pGaUVPVWtSbGQyU0FiazF1dWw3bUFqMU1QNW1NcTFHZlZlbDJwdWloZUtiZGg0bzdfcUJDRFBpSGRINExFOXNTY05vSWlRSGVBVWZiWdIBowFBVV95cUxOQV9zblVqU2djYVU1THpNRlZHM2J6YkdIQ3VmTVVNeV9pNHU5X09DMHprYjlyZXlsOUM1R1o2TXFPeGZkejQ4aDZZZUxkM1c4ek16ai1tdFR5QlpKQWk5SXFOMy1FZFppdjZfb0FFVUczTTlaV3htdE1LZWVCTEE1ekNJT0xWR05kZGlic0FwRzlMSG1EY3NmSndTdC1hTWxjNGs0?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 43 news articles reporting
+  citizen complaints about city services in Long Beach.
+
+  Top issues:
+    • Water / Utilities: 44% of complaints (19 articles)
+    • Other City Service: 14% of complaints (6 articles)
+    • Trash / Illegal Dumping: 12% of complaints (5 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

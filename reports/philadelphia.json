@@ -1,0 +1,236 @@
+{
+  "city": "Philadelphia",
+  "slug": "philadelphia",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 136,
+  "total_complaints": 81,
+  "complaint_rate": 59.6,
+  "categories": {
+    "Water / Utilities": {
+      "count": 37,
+      "pct": 45.7,
+      "samples": [
+        {
+          "quote": "Residents criticize deplorable conditions amid utility shutdown",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMTlKOGtub2xjZ19VeE5YTkF2a2ZLZ09YT2g5dVc1cGpvY0h4R0dqa0lGQlEzVmtOckFFMy1PYUN1TXBidnRRZUlKWnZuWG1QcEU4Um1OSkdaQkNtRWNBZDJpd2FqVTI5UFNoRzMzYTdGTU9zdU16dUNYcE11Y0NEeDlBRlFoWnlRSllTbQ?oc=5",
+          "date": "Thu, 24 Jul 2025"
+        },
+        {
+          "quote": "Boil water advisory issued following water main break",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU9lalJIMm9zX1ZyNUhWOEtJdHdSTlJaUTFPYnY5RGJWM19xYjdXaTRMQjFaZjZaNi1sZGZoTnhwQWZSVjdlQXdYTGFPMlBWZ0pHQnJjNnJybTBWT2ljQ3RzRlpMYk5NMUsyS0dUWmtRT2ZxMkFRRWtPSWtjLXJLQmpFRlBZUVd6aEhuVTlCVEpvM3VhbTl4MVcyakNiWjNEakFFLVBPckPSAa4BQVVfeXFMUHdCZmE0Nk1ZTExhUHpvYnVkNFFEYTJoVnJqLWg4aFlIa0FuV2dfOWFLU1pTSE85UFpING1ld1ZfaWk3ZV9hQ25tX1J0bjVLRzJ0TTRiSU1WZXFjdHVYZFU2ZEdDd0toSGlOVDFsQUZSVzBjNkJ6QzcxRUpCU0xWdjd3QUFvc0RXX1NxaFgxSVlCOHFNOS04QS1TTVRjWi1ObV9LMG9tb2tkUlp6OTNR?oc=5",
+          "date": "Mon, 02 Mar 2026"
+        },
+        {
+          "quote": "Water main break in Camden requiring boil water advisory",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNel9BdE5jMEhUZlJnaGdMeTFleUt4WllfS3RSa051QXYyRE1fLXBQRm1NU052cVIxU01VVk1Cb2F1ZWZ0ZTVzaG9ZNVJCYk1NdUNYNy0wZEdpZ3doSklKd2xlSjRiT2gwaEE5emtld3pad1lHTENsd3QyVkVXZlY2QURDU3QwZ0ktbXVWSnBGMWFLc2_SAZsBQVVfeXFMTVZueVN2MUd4S3ZXaHRWdnpESGozVVpvTXhVWUpmcUpvUXkxVzd5OWpRYlI1elJ5M1lKeENxajlnekphRHhtTWh5cjZzQnBtTEdKbmprX21hcmJPNWtqUkNwVjNTLXl3UmJWbjduTG9GVVY1ckppRTUwemtoazdQX0N1WE1IdkVBSHE2enN0NjV6OUhHMU9xZXA4a28?oc=5",
+          "date": "Mon, 23 Feb 2026"
+        },
+        {
+          "quote": "Boil water advisory affects thousands of Camden residents",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nTlZkWDlTclZZdlhzam93T2Z0WjVVd2xkUndiSEJ5OHVWa19YOFllVlBhSENXODc4XzRWY0QzaVpfUmtfX1AzaTRGUkdZTmdQdU5hUllkUW5NdGZvS3ozc0dwZ2F4VEN3cDZBQlhXTnM5OTdGcFJ0Tg?oc=5",
+          "date": "Thu, 26 Feb 2026"
+        },
+        {
+          "quote": "Nicetown residents frustrated by water main break repair delays",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObFkyMWxMcXdUOVVWM0JZVUdrencyclNKbGxqbDJOdUtkX29jbUxVdmp2Tk1MN2pQZzJDdWk2OUZOVFJVLVN2anFUWmxPTTl6UnVrNEF4Y2ROOHc2MVhYTF84cW93anU3UlliR1E4VS1tWjVTdi1SOFVuSjJaZXhCWk1oT0ZtT19BazVBNlRaWkVqd05XTEV3dERtaG9nZVRQWWt3d3p5NEfSAa4BQVVfeXFMTWE1WUpsMDJqR2VwUWQwOW5meF9tNTg3R3NRckM1Yzc1dE1ya3JwZWlzNmN1V19wakNYMWI1a04wVWhZcHFISDVkSFhaRm51V00xTjhPQjV5LXlHMy1LcVlYb3A2RVhNak01MERJQ1dkM2dYS2V4RThfVU9YclJsSEFETDh5aWQyTEVnd1lvbXlVSzFKeGJiOVZ2eXRqLTlEZGo4Q2g5V2hOSENROEZR?oc=5",
+          "date": "Mon, 09 Feb 2026"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 12,
+      "pct": 14.8,
+      "samples": [
+        {
+          "quote": "Sinkholes forming on Philadelphia streets; streets are messed up.",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTzZKMEh2UV93VWRpSmdUSklmUk4xa1dZYVQ2ak1INGpLa1RUdkNiRi14bzhIVkpJS0R5SEgyNzF2QjJ2RG11QmhhYkNhRlkyaFROSXUyTlYwdkl2VzducThleU1JR3k0Z1lJNVZjRldhb3dGRDlkOEFuUmp5Z3dEUl81Uk85dThmTDBVbHdZcjdGMVFvUFVRSTVvQVRmT0hUalFpX2I4MDF1aWk0RWFOedIBuAFBVV95cUxQbFNLeEUzUmdfNTgxTHZzcVRPRDNSWk92MDRpWWZHTi1vTTVSQlRjNU42WjhOZFZfZmNpSFV3TzRtRUx2YnJUV2NkQ1JVZ0lLUTlMSGRYVUVWc1Yzb09mbUdWYjJkMGd2LUdTSDEzcU9HakFzOFRURk1lSFM0a2pFeXlXNnNlUWhDWVRRNW15amxjRmZKRVp5ekRRNVo3RUh5SXJqT1JGWkRQdklXd0FSU0xiZzNGMFd3?oc=5",
+          "date": "Mon, 02 Mar 2026"
+        },
+        {
+          "quote": "Ranking Philadelphia's most pothole-plagued neighborhoods.",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaXRac0ZCaHE2RUhEUVdEWVlfaEpmRXN4RXNoVUFIdkp2bXJmcUkyQ2tnLV9MU2VfelhRa2FMZnpWejNtbVppMjBLOGkyaTYzdkxHRURlWGlfdGpadXB6RUpqMFdQckp3dzloeHNYdTdoX1UtOFpRbEZEYlNvbG9mSm9nSVR2eVphVFItOWs2LXdQQ3Q2dkVGdlkyZ08yamZzLWJJRGFsZnY0eUlHeGhWS1JB?oc=5",
+          "date": "Mon, 19 May 2025"
+        },
+        {
+          "quote": "Philadelphia opens applications to repair potholes and broken concrete.",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdXpyTWx5dEJRU0JIbWs5SjdJVHVNUVl1R1pUOUpROU1aMGR6OU81XzBfMGJ6UWlicXoybU5vQnFUUVg5V1dPZnN4ZDNYbDdOWGNQV3N5Y29scDI3X2xXMU12MmZNMEMxLTEtdC1oNGZIY1l3QWRyVndQTGJYTzNENUZZZzlfUQ?oc=5",
+          "date": "Wed, 02 Apr 2025"
+        },
+        {
+          "quote": "City reopens program to repair broken concrete and potholes.",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUJJU3RCYW9SNlBZUmVId2JQTmZaRE5DOFAxN2hXVHJwbm1kQUszcmdZeE44NS13bWZ6RWFBWlF2andGcGNCcElXcmtXY2o2dVJjQlpGUXV2Ri04RnZuRWJjRmh6WGNWMzUxMDlBc3BBY0E2QUdROU9HRjBSOVluaGNWTTlPNVpMYUl4bVdUNA?oc=5",
+          "date": "Mon, 31 Mar 2025"
+        },
+        {
+          "quote": "Pothole complaint app fails to gain traction with users.",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQnJnbGVnY2Rvdk9PeDNBZ1hoZS1qTmlqVXdQMHF5NldqYVBid0xlMkE4SHVsTk40aEd0R3BQZjJ5ZHhZLXN3cDRJeTNiN3ZjNk51aU81aWtpRGVxM3BBNlVpNDZMN20takRudUNkb1lfRkhVQnlNaENTbi10V1YzR1BhY29vZFdaT1MxX2FqclZWdXFPa0VlakJvdGo2dlR5alUtZ0RweUE1RmRqV3k2eGh0NzNDMW43QUp5LXJHNmFtRG5z0gHKAUFVX3lxTE5Od21DRTRNdnU0MFlRZ1VfbUM4VEFoRTUwVG5yTE8wQWxMZ3dxUW5NMjl3Y2VTcXI1Q0VXUWZaRE1haUlWT0ZZQm5haXg4c2RYSGlldUpJckxCck9BeHUxcVpvODVvOTBDTFZEMTllVzh5VnMxdnhIb1NGMy0yU0FPWlRrTUw3bkxkMFdnZXBpYXZubGNQczFITzF2SFp1RExscUU1NDVPMEdpMGJZaFprc3p5d2xPamlILTVqX05BZXV4MHFjQTQyZ0E?oc=5",
+          "date": "Mon, 07 Jul 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 10,
+      "pct": 12.3,
+      "samples": [
+        {
+          "quote": "Plowing complaints pile up in Philadelphia days after snowstorm.",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnJTMkh6cll2ZzF3WjVXZGt6S2IzYk5YNkpVVFZCZXBsdEZpSFhNZlUtMHR2UnlQRlhVNlFCWFRSVUFwSEd2U1NWd21mUGwzRTVGclk1dVl3a1hIWnFYd0hxQmZhZUZtVjg4TDVBeS0wTExrNDFreFcxQ2lSOTZiRlYzWjVLb2RUS21keHd5MDk0cDVMaHpPY0VEVjNJWDBjNktDdG05T0ZMb0UzamoxdmZVX2FIZ9IBvgFBVV95cUxPbVlybmYtVkx0OTNrLW9mYXZrbHFwejZldzlXSkxpOGxLMS03X2xNTWV3NzJBUDNNeFZScmJXWHp5SDlNcXRFTklwVkV4amhkWngyX2pVZnJQVWxZT2VDandRMjBlWE1jVDh0VmJ5cjNwdjdaNU9JT01qcE02MVp2NzhSQ0tqSURwRVhSbmZ6ZlVmTkVFSFFQVVNFcXZPa3c3czJnblNscEs2dEFfenVuaHNESi1kckVPTFhvV0J3?oc=5",
+          "date": "Thu, 29 Jan 2026"
+        },
+        {
+          "quote": "Electrical workers allege widespread safety lapses at steam plant",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WMzZXNEJaZ2lzdU1maEw0d1N6eWNRQ2RhM3BaMFVncklPQjRMaDZfRlM2Zmg0dXVTZTdJVE5ZOGF2cXd6OVF6ejloU29oTF9keHpYRVdHTE5wOG1NS1doY1dZeXA1N25iSlZsRXhoUnE1b3VpY0NZODVUNA?oc=5",
+          "date": "Tue, 25 Nov 2025"
+        },
+        {
+          "quote": "Philly leaders urge funding as riders deal with SEPTA cuts",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR0R4Q3hnaHVxd1BlcEQ0c3dLWWduWGxZZ29Na3lTTHlaX1pHc2dyN3BhMjdzcmdTN3h4S1J1alp4bF9GQ2tmeWRDeEl2RTJJcDJzVnlNeGpiSjVkU01FNzk0T2NMWUloYU5IV0p0WU55MHFiRGlXd2hsUDAycGdlazNDTDA0RTVaUHJTdUdfbG1HWGRIX2tnaVViSWI5Q2lTN1F2WHFNTjc0enpjeW16alFKcUozZ0lweXFLR3Y2YWdPeHpQZ3E0c0FNT09hR03SAdcBQVVfeXFMUFd0c1RIbkN0THNEREZHR0pPcnprZmJYZ3pkSzQtV2FiLWEyVG1YVG1YV2NWaGpCMk5EdmZBSnNGX05zdVF2VExYUUl0eFNTQ1ZUVTVBVjljNkQzR3Z4UjJZcllPWWVITU5tbmU0dWt3OXRwV1R1ZHZQWmNBM1kzOFFtQW5CYk1rMFFSVGpQQ2l5eng4dGhtY1NvdkJSUzFaU2xBUlpsV3JGRjFxVXlwanZmWU9TUUxXVVFXdmlMbURpTXBOeUdzNjU3aEJmdWpSWVBZRjhER0E?oc=5",
+          "date": "Mon, 25 Aug 2025"
+        },
+        {
+          "quote": "Transit system's doomsday budget creates havoc for residents",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNcmowbzNpTnA2MUw1bUlJU1VuMmV2em9OckFMd29XaGJ5MnFnZ2xHdktjVVkxUGgxbGxtUkc1dnp6QkwyaFp6SXdrcy02U2hnMWhwRmQ1Ti00Z1RJSHF1YmhWbzNndjlu?oc=5",
+          "date": "Sun, 31 Aug 2025"
+        },
+        {
+          "quote": "Windshield barnacles are predatory and questionably legal",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWt0dU1GdHA3bzJOOGJXVmotMXYxdTV2UFZKdF9ZeWFTY1NJS0xFdGVhekZvQ1dnaDRZUTc4SWVSaTE1ZWduR0RrRk12Zm9xdEhPS3FSYUJFcGlMbmd4ZjRRc3Y2Ym8zbXhQZVZqU0JWMld1QjI5cl9fOVFqYjcya3o1TklPSTVkN2pmTTdTcUJ4U2paVWkzVkJCZ2ZsU1Z4dTFXWjktMXAxaGRkNWtfa2ZKOUZFUU410gG-AUFVX3lxTE9fS1RBTmZDd3UwMWdaVkZyN1NGRzRHeF9xUkhiSnVwVGZjcm5QVHUzbl9sVWZLa3ZGbXZ3QU1XaG43Zk0tdm1OZkNGdndEb05MY3JsQ0xIdUF2dEpuT3kzamtRUUl3WFAzblhydEZXSGV4dHJjT0c2Ul93UWNvbjZJZWJ6QVR2NW9rSFJabDg2X05ZSTRKTTA0OGtlWTRaX2lkYWYxTkJnTDdHWmFQam81M2dZamM1THktS2VGb0E?oc=5",
+          "date": "Wed, 03 Dec 2025"
+        }
+      ]
+    },
+    "Trash / Illegal Dumping": {
+      "count": 8,
+      "pct": 9.9,
+      "samples": [
+        {
+          "quote": "Recycling pickup running behind following sanitation workers strike.",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWld1bGxHTk9Hel9VRzlMM0RldHh2VTlrdndiYjBja052S1hDWmtic2ZSZzBNVDNiWDhvcDBxRG9LbGFaOWtsR1dvVGxvR1BhelpKLVU5ajk3ckhCWXVlNGxyUlNEUWhkSlhUODZ3cV9vU3g4djFxS0gyWVVOdmJUR0I3b0E4VlVTMUx1UGZtWEx1aTlqODRCYkdtcnZtT0libnJJb09GTnBjQVpsNUxlYkFQU1dJUdIBuwFBVV95cUxPRnNDVkh5LUNVU2p0RFlvWE01QUd2N2VxUjV4b0pJenVMdVAxMXl2VWdHeHBUS1dSWDZLbUFOaVRrU0FmMVRWVHVLQ1gyekxySTlQWW5tb0F4dEtQM2pCbEpleWVCUVVPMkxkR1l3S1ItbXhpeU9pMTl5SGk4dENkRTlfdDcwN2R2YWQ1cFdhZm9Dd2VvVUNVOHhreE5MeFpLcFpwdGgtNXQxYzZDWDF0WW9oaU1WZXRGTzJn?oc=5",
+          "date": "Mon, 21 Jul 2025"
+        },
+        {
+          "quote": "Twice-a-week trash collection expands to North Philadelphia.",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeUZvTVN2VkdXVnNtNEQ1Tk9BY093dDJaVU9TTWxsWWx6blNXTFJ6NHVHMWhuRG9FWjNJRGJzVlBtM0lBeWFQd0RueFRQZy1Rakx4VG0xWDZjUnVYRGdJUW1aS3paNG05Z3h2Tmo3M0dhUUkxa2xjbk5WTncwTVRCZHFyU3ZYU25zVDZTcGNESXM4T0o4NVpDbDZGU0ZhS0E?oc=5",
+          "date": "Mon, 05 Jan 2026"
+        },
+        {
+          "quote": "Trash and frustrations mount during DC 33 strike.",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUk1ZbDJZMVB5ZlgyYy1vbXlwcHNPSG01MEg4OWNOQXB2dzFmQ1dhelpRalNQT2NtemFSenZmSlgtMDh6Y0JDVlg1QUZiN1B5cy0tcWxYb1B2TjMtMkFJbklMSklOcE4yMWFUMGo2b0w4RHlfNS1GSGgtdlVORUUyb2d5OEVELXRD?oc=5",
+          "date": "Wed, 02 Jul 2025"
+        },
+        {
+          "quote": "Changes to trash pickup and pool openings during strike.",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS183UHdBcHF2bzhfbkpseThRODZpVWN1RDl2eW5EaTl3RTRJeC1WVFVOQjBuaWZIcG90WnJOQUR5d0F2R2tGSkdCWjNxUHVGanA0c19NRFBreGE0RnZ2TXBkRGlUNllycW9oRUxWSHJLM21fcXlyWjR2dHdPMGtDZDh3VHJsZXlSbEg1Ym05QnVMZTVmZzVNbVlKMFVDbEs3NXMzN2Q4NG9tTTNnV1ZOWUt6dlF1OTVBRlo4Q0xiZE85eDcxcUHSAc4BQVVfeXFMT1h0ZnFSS1BFWnlPcEs2XzliQXFxT2hUVmJOeG1SQ3dfT2h6TG5vb2R6MVdlWmhXemlvWkY1emd2MGI2YUozdUs2elB5MTZ5QjNzaXZrTmRtemRjX1lPVEVNQXNiSVpOY1VYZFp5TXZoUzJWcmlNZEVwbnl4ZnR4c19kQWpaOUxHa1ZjbWdKUlJzVUVpX1hjUXBHZkpSeUNoTVc2OHA4X2R4TzBzSEhfbjRsNzk0b29mNUhvbks3bjIxNDh2MUF2LUhySU1IMkE?oc=5",
+          "date": "Tue, 01 Jul 2025"
+        },
+        {
+          "quote": "Twice-weekly trash collection comes to North Philadelphia in January.",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94LWJreFZ4bWZ3bHVzYjFQRndNLUswQVBHb2x0ZkVwbGhLQUhzRHpZa1Q4NHVwWGFzYjRnc2dKYXVKeTJiQW5YMlNhd0JveU9lZTFGZWhHZHJ6SUNacHRXTlpjV0FEX01Ud2psR0VqTkxFeG1Zc29VM1lMd1p4UQ?oc=5",
+          "date": "Mon, 22 Dec 2025"
+        }
+      ]
+    },
+    "Graffiti / Vandalism": {
+      "count": 6,
+      "pct": 7.4,
+      "samples": [
+        {
+          "quote": "Crude, racist graffiti found at Roxborough High School",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUTlJQXZnc0VOM1RXWU1wUHl0VmdkV3JsaV9SOGl6Uk9OLTNLeWlDWUp5U2VzRkhxMTdIZkQydjc0bEl4ZjJVOTZ2MVZGM2ptMWliS1gtMFJUaWx6V3FfcEVqNGpqcWs4OXpUZHc5M2VIbjVYVWs2WDlKZjRWQXRsSzQ1TTdGOWtRWm9qdmJkdUdOZTdn0gGcAUFVX3lxTE00SXYzbDBYM01sYkk1TmJ6SnVTYkZ3OWt4eXdUSDh4LUFzT1NlOUh3cW41R0ZCSFhBRUVGUlJaTGZVd1p2LU1xSWR5UFZfdnJlR19SWjBnSEZHdXFYYUQ0TVdIQ2FpeGgyNmtwZ3d3STRfS0ZLUUtEWXp1cmJqWXhiNHFGcm5oVmgtYWdLUEdvRlhqQzFaV2VGa3Y2RQ?oc=5",
+          "date": "Sun, 04 Jan 2026"
+        },
+        {
+          "quote": "AME church in North Philly vandalized with racist graffiti",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlNfcjRYMFp0QWpRd2ZPNWVKc0NYMnJRMVFPQUJfZHE1X1pLdlJsRjJpTGhEdXZ3Nm01SEJFOG5fYzE2YzJVbXNwcW9Gc1pYdzB1MFFqbnpzb0xLSWVEOFhlSHBwdXdSam5NU0IzaGtzUnVSZVdOVkowX0RMWU9qSEVxMkU5TU9vd25Cb0g1QXpfOXdFRlg2aTdpZGMyR0ZJMjYtTtIBrAFBVV95cUxOZlU2d1ZlMnF2eGVUMmFadjl5OFBEWGlVeVlTeUd4cURad0VzRExDb2ZZRWNuT3FlTURPdVoyTGtuN0VaLU5ZdTJBeU90am1TMFgwUXE4Z1JMN2p6aE5OM1dWa2FMc2NDM3pmVDlsbTZzN3FTS1FIUDBpZmdkeDIzTGFyRGlXUmpnSjB1b0RIc2hBengxcmE1OWtGWThCYkpTTUFjV2NfZmVoNDBs?oc=5",
+          "date": "Mon, 12 Jan 2026"
+        },
+        {
+          "quote": "North Philly church vandalized with racist graffiti",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzBRa0dqRUR0NzVDNHNpNkwyUy1ra2NqX0tXYzNiQmlBUl90YldpSlNBSVd5RDc1MWl6Z0EtcklIQ3E0M2dSMlAwQzFDTHp0NEE4Z0RhWFZtNE9qeFNhdlUwNlpmbExWSlQ0Um9PM3d0a2dHZGJZTjA5N05rckpHeDV5NUNqTXUwZWRKVWhmTGVkQy02c0JmUVlPZ0JaQVFYblhtdlVJT2E0aERwWVHSAbYBQVVfeXFMTkJXTE1nUVpHbXhQcHpfWjBDemRIZkhfSlJEc1lMSEFhdjBJZmpzN2VwRldpSEZUZG84ZGZhTWtnRkJnMHVVQkoxcjVNSEE0bGtXNnBJaXFPVFJHV2ljdjhQMHhmQlhmTy11WDdWWldoV2t2QnRQOUkxSmpBdDloMXZlLURlRDRpSTlPUWt1Mk5pQ0FwM1h3UWRRQ19LYUdkZlNnTjlFanFzNlFrVkRnWFJmV3hsTUE?oc=5",
+          "date": "Mon, 12 Jan 2026"
+        },
+        {
+          "quote": "Swastika and racist graffiti found at Montgomery County school",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOUJ3bWpIVFRfOVo0Sy1naXk5M2FsQ1RRWmdpUUdlUjY5M2tHVVpHaDhIZ1Q5Tm1QdDdvZEtGVmZicUpxdWZ5QmhQWkU4MVg5bnFiM1Y1TEI4QTJva2FrRVNGbUtkbWdfY2xXYXBxN1YxSUpvN2M3d0dMUnBMX0VrR0dST3Y3X2NyNGxDMC1Jc0FIbUx3aDZNSngxU0t4MjE3cUpjUm1iR3ZQRjNBYXZrV1M4Z211NFJCWm5xTkhDTElPN1Y00gHMAUFVX3lxTFBKQjVkV0RMOEVHcFppN0ZBcFpTU0NqRmJ5MWdFRVpjZTBYZm93UVpVSkg1WDBtbXFSRHJiUGZNS0JJOFMxSFoza28wN1ZtOWlMc3VpQm1SeldrbnZ2Z05mTF9HNl9VOTAyV0haR1RNcWdEa1hUd280Q3ZjeUJfcXExQ3lEUzk2SThlVmRVWEVkczFub0tYNHczMXJBX19TTHdXNTRra25ZQ0RrXzR6VWFjY2ZheDhKaUpLT1BFMmY3VUl5cmVVdlR2Vlpxdw?oc=5",
+          "date": "Thu, 27 Mar 2025"
+        },
+        {
+          "quote": "Hate speech graffiti drawn at Roxborough High School",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFpfdzB0MERhTm9xdGE2MVFjVG9ZZnU0NGhWQk9pVjBvQm9wZE1lTzRPQTdOeHl2SDZ1T0VIYjFDeTBtUHBiN0VGTF80aXhXLTRxU1FKN0VIWTNfY3dDZlE5RFh0SVk5aF9SVE9VTUxRS2o1QnFSbXR2M19mLVNHbkFTRFd4d1RnODR0ZXhoeW51X1lVemEzaW01YXVYSm9ER0RpbVczUDdEWEI3c3pINlk4NUV6Zm1mWTlYU3UyNWU4VFJDMkkzbWtla9IB0wFBVV95cUxNYnpLYkpYSHk3Tk1hVzNGbGxNdERRdmswWWozR1JKV2w4SkNzNmtlMTdoQkFldTI2MzJaaVo5R2JOQy1LOFBSMEgtZVUtQlJnb2diVWF3Rm40bk1ZQWUxWjI2TDhhYjV0R0d2ck9SX1BDSmZMN213dHotamc0ekxZWHdILVZwMHlPbjBwOER5NXY5REtTMVFMbUt4eDJBbXdDZzIzWVhQRHBXczJCdENSdzQ0dExlZXFPbEt4NWtuenBxMC1DQlE2TWNOY25ORHk2XzlF?oc=5",
+          "date": "Wed, 07 Jan 2026"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 3,
+      "pct": 3.7,
+      "samples": [
+        {
+          "quote": "Lights go out at 30th Street Station, traffic lights also down",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFkydENrZzktSzlkTXlSV1RZcERDTTF3ZkR3bHZVbXhGT0ZuWTY0TWpESHJzTm1xUmt0cmVkbWtXWTBFeDRCY1cxbmVhbmpuQkxCOGlkVXhvNDdSOWZxTmdXWGN3VGFLWGxqMHFVUkhLOVhYREVjMUx1ckNuYmFlelFpNNIBiwFBVV95cUxNa2JrNTdmNXNvVUp2SXNscWpqd2dJVGtNUy1YZXZQbE0yWGRvemZnblpJMUFBWG5tNktfSXNQbEtWelhhSXVMZUQydGVabDR0UV84c184VEUwa2hWUjRLbDdnM0h3ZU4wSnp0WUtXWHB5Y2JJVGJBSkloeGVocFJua3otSkxCV211dS1N?oc=5",
+          "date": "Tue, 18 Mar 2025"
+        },
+        {
+          "quote": "SUV driver slams into pole, knocks out power in Manayunk",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaUp2cENpVzBJMXNyeXRRRUMwa3YxYndTdW9ZVkNlVm1IdmlKRUhPekIzS2tTUEJXQU9LbklqLVptR1FieGxnOVdFUXBGb29rYUVQOFRrUGdOUWVqR1V5QTZ6RjUyYVduUXFzWHNFaHJ0bUI1YVFYMXZpdUFoMEFQdjJJVDVubi1xeExF0gGTAUFVX3lxTE5XRkpUNnZSTU9fOEpkc3B3WnlSZFFUWHRxMkpPTWZ2Q2xsTUs1aVAzb0RVUklwR2ZvaXBvb0N3QmhxUXVTc1pfSngwNVdWT25UY3hzLXdnSS0ta2lmZXlJcVgtck4xdlhSVE9CcmdFeDl6T3VrTE54ZEljd3pHdjNGakNGa2tQZXZiMXFEQllZbGh5RQ?oc=5",
+          "date": "Wed, 30 Apr 2025"
+        },
+        {
+          "quote": "Power outage impacts traffic near 30th Street Station",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSFdPTl8wME1BMF8tcXA3WWhIY2p2dDN3UnM0VWpGMW0tZjJNNHNyS3ZXUjNFSWh0ak1DTjBCNUxWS0JadkZkTUNjeEY5bEdiaWN5bU1hTlk2SWJObnk3QzdsdU5oSkVhcWZzWmI5bm9nS2ZjZHREemNOcUpiY3Jmb1RIS21sQW1hVVlhQUpPd2FITEFMVFlmUS1qcWhxSXJWT2hYU0FOYW5oVE1wSkkwc3RYbkpsYnh1aEtLMEZBQVkwR3hKd0tFVXBEUFbSAdQBQVVfeXFMTVRMeEFOcHg0LVowa2k3OVpOY3lhTHg0djJIbzF2SDdSd0hGU3duTlRfNDlERXhzQk9waDR5Zmdtcll3ekwwbnd6MUhmT2FUMC01RWpHZzdWSGR2MXdxQUJMY2ttNUhOWV9CV0F4UW9DSDA1UDRxYUtXcVJfNGY0a0VEQ2ZSTGItOXpPTDN3TGFHLUZ1TUVXSHpyYmdDZmk0T2RvcmJZUzJ3alFJY1Z5RVB1Z2NzNHJGNEJ2alptZlVEc2h5b3p4S0Y3Z2RXWDlLU2lBTzQ?oc=5",
+          "date": "Tue, 18 Mar 2025"
+        }
+      ]
+    },
+    "Sidewalk / Curb Damage": {
+      "count": 2,
+      "pct": 2.5,
+      "samples": [
+        {
+          "quote": "Challenge navigating Philadelphia neighborhoods in wheelchair",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaHZQbHBtUTBnbFRhQUQ2TGxfbDB4LWpWZjVXOXJrMk15d293eWw5VFBhZHB6eWJmcElreDU1VVZhMGhpMUdXU3BUMEVVSWlrQ19Yc1otd3h4cjZQRDlJWGI4OE45TzZHam9NOFllQWFBRFFBaWRJMkpIRlZPWjJqdHZn?oc=5",
+          "date": "Tue, 14 Oct 2025"
+        },
+        {
+          "quote": "Issues with curbs in Philadelphia neighborhoods",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40R3phQ3VFQl81dWJua0dtZXpJTUc0NTFSbnJJQmtXTDV1bkZvTWhCMG1UZGtmdzJaVE43ODJzOEsxVm9HTGpPZE5iUEtCWHByc0UxX2JEaXlWZlhNYTJfaGJtMkpnOW1OYUJxWWlmVXp3RXEwNmxUUg?oc=5",
+          "date": "Wed, 17 Sep 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 1,
+      "pct": 1.2,
+      "samples": [
+        {
+          "quote": "City officials respond to concerns about dangerous South Philadelphia intersection",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0WE96LURrZ29qWXh5UTlBVXBCUW9JR01jR3ltczk2S3BwNnp2emR2cDJlbGdQd2hsbkdQMmJKOU1RTk5pR0k5Tl9YbmE1dVh6OWRkb0ZnUTB2Z1FtSGJpWDUteVJDaXNpUEJVS3hXM05Va2w1?oc=5",
+          "date": "Sat, 26 Jul 2025"
+        }
+      ]
+    },
+    "Abandoned Vehicle": {
+      "count": 1,
+      "pct": 1.2,
+      "samples": [
+        {
+          "quote": "Philadelphia has an abandoned vehicle problem on blocks",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YOTBvVzJMdFFEWjRVNDhiZl9RSEJSTEstaEJ2RHpxS2Zmd21XWVQ3SkRqMXJ1N0s3cC1SbUtMaUVSZ2dOZ09BdlRFX1BhREFwQ1FWRVh2eWFMaW9vd1VhdGctZGZ0aC16aWJWamV0LVl2M0hR?oc=5",
+          "date": "Thu, 04 Dec 2025"
+        }
+      ]
+    },
+    "Parks / Public Spaces": {
+      "count": 1,
+      "pct": 1.2,
+      "samples": [
+        {
+          "quote": "Large tree branch falls in Fairmount Park, injures four men",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUxyTDJuSzRjLV9xZy01LUFmQ3FJdmE1RUtyR3BPOC1QYXBhVTNuTlVjQnZ3X3ZueWt1b0RKdW1wMkxIb1ZQM1RER1N4YjNKa2lJTzd5UUVFOHM1YnJyMkI3WlBZU2tUU3Z6U3ZpUjk2Z1RoZm93Q0gxYXV3bVdTbW8zZWlVdV9pZ2VOckRqY0ZYMHRJRklIQldsN2R4TEJCTllTbUxnSE9oWW42Z1FTQ0VR0gG6AUFVX3lxTE5yZXN1NEY5bk1yLTZfN25jMUpvTndCSXA4b1h0RC1kNUY3ZWh0d1ZXRW8tQm1GMDdkV0prVUtJUDhyUTAyTTNlVU5VdVF5RjdNQjB3SlFSYURLN2tDWF9vcGpVRHlRTVZ5V202WERlNkZ6RDZhUlR0VzB1MzlYbklTUGxOdDNFaHlfUFMzQ3lJampjVS1FTGxncnN3Wnl2bzlLRGpZcWJJWFd1UWNwaTA4N2pyYmpPUnpVQQ?oc=5",
+          "date": "Wed, 27 Aug 2025"
+        }
+      ]
+    }
+  }
+}

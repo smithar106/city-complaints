@@ -1,0 +1,113 @@
+{
+  "city": "Tucson",
+  "slug": "tucson",
+  "generated": "2026-03-03",
+  "days": 365,
+  "total_articles": 70,
+  "total_complaints": 35,
+  "complaint_rate": 50.0,
+  "categories": {
+    "Water / Utilities": {
+      "count": 28,
+      "pct": 80.0,
+      "samples": [
+        {
+          "quote": "Apartment without air conditioning since July 31",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc3FLMUpJZGdSZ19EYmQyRm83MXljc0x0X3JuWHhJNE1TRmJiY1o3OFFUQ2JrX0t5bE9RUnNlOU5aLUktcWJKek1aZVlMbGlNTzVmZmRabWhMeE9iU1dlYWYxc1MtdUJ3ajYtSnRLdGZ0bkgxNlBMbkZjRzM1OUhzY2F4emdOR0ZEeWdhMWxxVHNNREEzVTBxMl8tclRaTDIxSkUtMjM4b2JZQ2NvLWxUUlNLMzhIdGh3UWVsX1FvQS0tcEN6MnV5b0QwREhHdzMwNlVyTUZsSWxuQQ?oc=5",
+          "date": "Fri, 08 Aug 2025"
+        },
+        {
+          "quote": "Broken utility bill system causing eviction risk",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkdUM1lRcjVjbkdPU0dCVm9teGdYbGoxX3JoTmljcDQzMjEwTktJc24zYjRyalY3MWhuaGZnRnM2WmpBMGdSM1BrU2p5cjNyeVZDUndxeGRzQ25NeXVQWDdKUzdlc3ozXzFTdEY4YVZkdmJQLWg2Ykx3SDRiX3JLelk2SEROZExZMHhMQkZQbXRoeGJaWWJWdVlybEJiQnZnV1VqcXVYSGdwdTdWWllvTw?oc=5",
+          "date": "Wed, 25 Jun 2025"
+        },
+        {
+          "quote": "Mobile home park landlord overcharges tenants for water",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ma2ZMbFU5cUVmOTNsN2NTUUxHcjhIQ3FHbVcyYWs2R0lsMHZsVmEwQ2RHN3lFMEpTMUR1T29GOUg5b01ZLXZ2Si1UbW5vRDRkSHZjRWVwcjFMdkdXMmgxNDc0LUk5SGs0b1NrTnkyZ0J0Mlo4ME1FcVVKWG1wbkU?oc=5",
+          "date": "Thu, 28 Aug 2025"
+        },
+        {
+          "quote": "Arizonans buckling under high power bills",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUVYcG5kVVhRYzg2MEdncnZ1NnY3LUtzNFlPeFlhZ2hqYW5LTmhtelY5cWFHenU3MXJDX3VTc1A0aHRrUTNlT1JTOEdYblFwZGJORmxCVEptVkg5RDhZc1hDRTBYeUtLcVBQaVhWcHpwZTlMaUhzTTFoZmVXM1hqZVFXcDZpd0RhSVBQbTVjbHB4TzRQenJN?oc=5",
+          "date": "Mon, 04 Aug 2025"
+        },
+        {
+          "quote": "Water main break in Tucson causes road closure",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc19NN3pydE5rUFJMczFMNDAtU3hCODJpM2pLSkg3YUpLd1o4bDM2eWQ0TFhaRVc4VTRQNFhIQWM4TkdhZUV3LWgyaVo3VVdrLVU1cGF3bVU5Qy1icjVWQTFKQUpfZ1JiVGpUNGZxN1ZPX294UVlxVEF0NWpSVGZ6TTFNNTZSLXJTVjNqNkxTQXlRRWwydHd2WXFpSU5PaUpYeEZVd3BfeW44WFRoY3F0azFOSF82VGJISTFZUGRwX2dBZDMtbUVLcU5uNWhETldlMnBUTnZjcU5oSEx3VEQ3dklSaw?oc=5",
+          "date": "Fri, 12 Dec 2025"
+        }
+      ]
+    },
+    "Other City Service": {
+      "count": 2,
+      "pct": 5.7,
+      "samples": [
+        {
+          "quote": "City rejecting residents' reimbursement claims under law",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGtFNzdYQmprLWJPdnpJNW5GbFc4VndPbG9mUTJuOXlOWS1yWXk4Mml4S3RXYWl2cWlDSjJQTEh2QjBCTGtGazloOUdJWEZZTnlRM2Z4RzFieXNaa3cyeF9wbXJWenBha2xKUDk0dldIOEtkSGpSNXZyNGI0Y2kxMnhucW5ZNXVPdHpYODhhaUhFMFVHY2FDc0pkdTBYUU9wNkVUN2hkVmdXOGVhcEZvY2FmMlBleDFyV09xN1N3d3BFRUJGaWd0ajVB?oc=5",
+          "date": "Tue, 20 Jan 2026"
+        },
+        {
+          "quote": "City rejects residents' damage claims under law",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODBhZXZwWTEwNkNtdDBvWTY3SzluMzVUQU4weFZrVmdxWFlzZFVMa0ZtN3FwemxqUUdmYmxHRll4X0phSldxVWFEa3FxSWNtYVJFZXNrSF8xMlBHWWQxSXFiZUdoSjd2bWhMYWY5Tk5wcnJfRHBtQk1yRUJQOUYzSHdBeURRR2ZicGc4REJOTnhWeUJ1?oc=5",
+          "date": "Wed, 14 Jan 2026"
+        }
+      ]
+    },
+    "Pothole / Road Damage": {
+      "count": 1,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "Potholes across Tucson driving residents crazy",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcHpHOXpUR3lJU1RVdks1U0xxTWtEOXh1QTVfaFVPenBvNkJGSUVrUklnVkNFTU83Z095WnIzTV84VUJmd1AwR0Y2TW5pQmdPdDd5NloyT2pwSS1NRE4wNU1WXzZGWnAtMVRUS3k4bjNyQXZXSk1QRF83aTFNaEdKejJkS2dJSGxkTG1aSk1tR1ZVbkVUclBBX1VSYjR6TGloRU9GUXBRMm90aUlaNURWSkVTU0VfMmhBRFRfczFxcHFpRlo0OE1MQ3l1cy1nQW9WRm5najJoUHNra2s1RWZGUE1MTQ?oc=5",
+          "date": "Wed, 07 Jan 2026"
+        }
+      ]
+    },
+    "Street Lighting": {
+      "count": 1,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "Streetlight repairs lag amid copper wire thefts",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQm5EOUtrcDE3SVp3enVxdjk2Y1N4Nm5fNHctWUtfdUlaeTA2bG8yTXdNd1NZR3o4QjV1NFdWZ1JIaGF3aWt0VmlmSmFLRTFBLXA2QXNMUHJHT2FfMElMQ3BHQzg2SEtxREI0ZE5sc0NBNnllZlc1TExIU1JTVmV5bExIbmpVaHUzOFZ6UVQtTzJGS0JFbGp5ZENsQ2pCcTF2cEoyMXBCNHhqVExKUnhIUEFmbTFaSFBmbm5FVHh5eGNuVzc4YU1XSzJDdURvQzRjQkpEcW0tVVFZaHZpODVOVjJQQlZfX2VYQmFhZFAwU05yZFlLUW00RWJXbkdUUQ?oc=5",
+          "date": "Mon, 15 Sep 2025"
+        }
+      ]
+    },
+    "Public Safety / Crime": {
+      "count": 1,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "Residents voice safety and pest concerns at apartments",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOG5xamJkQ3hLeDhzd3RHcTAtVGVMUVdyRmpUQXZBbWxFZU9lMjdfUS1NTmw2c1dQOHY5b0VibS1YcTNVendKaTcxZGdwQVc5SVN0bk5YcnNVUGNtN3RHSl84OWNHOEZObmNudlFCdjQxMkhUV0hKR1VDOFdmcXZfdHhtYjI1OHlJeGF1X3RTbXEtTHlrMF9kblFpRjh6QWFEMjFVRGZ5Z1Z5MUF6ai1JU3NsUGhPRW80TU9ld0o3NE9qaE0yTVBfa3VFYmx4d3hsMnpQUm5LWQ?oc=5",
+          "date": "Wed, 26 Mar 2025"
+        }
+      ]
+    },
+    "Abandoned Vehicle": {
+      "count": 1,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "Two abandoned vehicles seized after resident complaints",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY3MtdDBUSDQzRXNrazFrNVQ1Vy1HaExrck5XbVRCNjU3WlRlN1p5bUdmSXBaTldtQzYtWVluSHIzQ3lYVG9KQlNpWjJkTTFweU9nc1Z5VlZXdGlHdmtwalRHaHVfcWEzZ01yNDlQVWVvRDdjaGlQbkp6ckl3OG5LRENjc2lqMjNSU1FRTWZMUmFFUHQtTkloRVVTZHlFdWpiYUxzSVc5SlA2R2NiVkRsLTBCNlJwTmVxc0lVelpCa2JXR3diNWc1RTVvTTNndw?oc=5",
+          "date": "Tue, 01 Apr 2025"
+        }
+      ]
+    },
+    "Sewer / Drainage": {
+      "count": 1,
+      "pct": 2.9,
+      "samples": [
+        {
+          "quote": "El Paso unveils Arroyo 1 Dam improvements to combat severe flooding",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUHlwOXhGU2dvMVNGaDEyNm9EMTdUQVVZemxUc2lPQkNyeWhidjd1a3pnVWFXc1JwOUxVY0I4eFp3X0ZBbTN6V245enF4N3FnVU5jbzVLMlhEdHpzRk1SakhOVVlUVU5PRGRxczl2UlRSY1FkLWstZkRfdmI4OVJIZENCcUFhelNRZ1VNTUFJbXZPeWJURXZITWw2bHJHQVpkYTVXWVJNaE5DbFRiOG0wb3A0Tncyb2lNZWp1azBad1BuMnB1azVvWFN4S2dfU2M?oc=5",
+          "date": "Thu, 17 Jul 2025"
+        }
+      ]
+    }
+  }
+}

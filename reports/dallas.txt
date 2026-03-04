@@ -5,23 +5,23 @@
   Source    : Google News (past 365 days)
 ==============================================================
 
-  Articles analyzed : 84
-  Complaints found  : 54
-  Complaint rate    : 64.3%
+  Articles analyzed : 91
+  Complaints found  : 56
+  Complaint rate    : 61.5%
 
   CATEGORY                         COUNT     PCT  VOLUME
   ────────────────────────────────────────────────────────
-  Water / Utilities                   21   38.9%  ████████████
-  Other City Service                   7   13.0%  ████
-  Pothole / Road Damage                5    9.3%  ███
-  Sewer / Drainage                     5    9.3%  ███
-  Trash / Illegal Dumping              5    9.3%  ███
-  Graffiti / Vandalism                 4    7.4%  ██
-  Street Lighting                      3    5.6%  █
-  Sidewalk / Curb Damage               1    1.9%  █
-  Public Safety / Crime                1    1.9%  █
-  Noise Complaint                      1    1.9%  █
-  Parks / Public Spaces                1    1.9%  █
+  Water / Utilities                   22   39.3%  █████████████
+  Other City Service                   7   12.5%  ████
+  Pothole / Road Damage                5    8.9%  ██
+  Graffiti / Vandalism                 5    8.9%  ██
+  Sewer / Drainage                     4    7.1%  ██
+  Trash / Illegal Dumping              4    7.1%  ██
+  Street Lighting                      3    5.4%  █
+  Public Safety / Crime                2    3.6%  █
+  Parks / Public Spaces                2    3.6%  █
+  Sidewalk / Curb Damage               1    1.8%  █
+  Noise Complaint                      1    1.8%  █
 
   ────────────────────────────────────────────────────────
   SAMPLE COMPLAINTS BY CATEGORY
@@ -30,73 +30,75 @@
   [Water / Utilities]
     • "Boil water advisory issued after water main breaks"
       https://news.google.com/rss/articles/CBMingFBVV95cUxNSGtHWnM3ZW56TE55dEluanIyaEJnTFVsQVphVXh0RGJpMGtjaHZvQnJ4V3ZwMHNKdHdQNldRUlFHdXpwYnB5aGY0cU9tR0lzZ25aVF9qcHRBbmxEVWY0RjdidXNGekNhQnl4UG1Pd0VnV1NWdlFTZERyTnZTSWRjQzZCUWFqN0stSGZycWh0b1BkVm9ZQ29Ccm1iYUYyUdIBsgFBVV95cUxOZWZmUHhHeFlDUHBTTnhnRjFGV2tWR1AxZFR5YmFidGpZQzVmcUJhcXhZZW1lSDcyaWI0SUlXeEdPYjFWZHl1eU5HSEpZa3dRd3dwcTQwa2ltQm1QX3lyRUZZWlItV2tkcmViVG1LdEVOeTV2NzRxd2l3bWNIOGMtRG81bk9sZ3FsdHdQWVFJM01iYlBqckNsR3pBZFNuUVJuXzE3UE9LNzhpVG83S04tNDFR?oc=5
-    • "Water outage during extreme heat from water main break"
+    • "Water outage during extreme heat from main break"
       https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbXI0aVRERWpNSWEtbUdaZ3htNzNiRlgyMko4RkFVdlhqR0RnOVY5VVlTUFVDd0IxcFdyMnFNNzVLV3FXSGdLRGxPRW5OMGNzc1lvbzFFN0tqWmVTT2RRNVRfTDNaX3d2RHc0MTJ2dFNZalJDelNKOXdtUkhfOEI3V1B1MjNEVEdHNEp4NWM3NDFZWEpMTkFpVTBwMjQ3ZHNXbndIWXZrWDh4czJDV1p4WlNVM2pvai1sdlIw?oc=5
-    • "Water main break, boil advisory in effect"
+    • "Water partially restored with boil advisory after main break"
       https://news.google.com/rss/articles/CBMitwFBVV95cUxPQlp4YkZjYUJwMUlZMk9SdGlsRXFnWGlNaVV1TFQ4ZGt4X0pUbV9LdnJNMkRjMldkN2hhRGNSTklMcHdBeHBid1VMZG1qb0tXTmN5SVdFOWVtbmU3UlU2MENMektxZEpKanFNZ3ozMnFFYzlqRERHQ182YUxVeFV5V3ktc24zVVhLbzdVSzZIZThsYUxWWl8wVENXOUp0OFYtdE9rbTlNbDR6dnYxUTFfM1B5blBFdk3SAcsBQVVfeXFMTy1BcFZLQ3Y1bzFTMFVXMFM3a05DRlNsNEd1YTRqTG51TGZMbTBxU2tlaC1YdGhzSlhmUHlGTUx3MjZQMy1sS05YYlRaZkpVMGhmYjBjQ1pyVUcxS2FSdVp5ZHNwTXBfMkh1MkJDS2lJSXVVdTNWNnEzOGhIUkE2bU10LVVQcmg5a3pqcHplVkNoT29MUXMwdzk2N2JPQ1lpNEZ1VVV4Vlp2RlFDaUNEQk0temZxWVRCMzZwc0hLUlAxX0Z5cVJ3LXVqb2c?oc=5
 
   [Other City Service]
-    • "Annexed neighborhood residents say they feel forgotten"
+    • "Annexed residents say they feel forgotten by city"
       https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVpZN0pQTzNrOS04WGYxYXUtekl4Ml9vNFFienZsZ1BHZkxSYUZsZHFFWG16a1RPUUhzcndqRTczVXZNLVlVTVVmRk1PNUpjNzNtM3RFaWpiRW8tMkplVHFuOTIxM2g5TlN4MmozUkdqY0VJYkcwZXExMWpINlJBWnBJUVB6c2RYLUZVSWJxWVo1ZFlNelZ3bVVUN1N3TVF2ZGZ6Tw?oc=5
-    • "Home's lights too bright, too popular, city hall problem"
+    • "Holiday lights too bright, too popular, city hall problem"
       https://news.google.com/rss/articles/CBMipwFBVV95cUxOc3M1WkRDbExfNnVMam16bDVEbHpTLXhONGt6TE1XRWZROXA4TVA1Z2VyTjVoWFJzMnJBN09DajRvTTRCNVhQc1V3bktFRmU1MnpDdWNWb2N5YXlpbmYyazk2YXNLcjQ2bzRBbkhlc2ZYaGVwdlJoUXRMMkpfTEg2clNQQmQydk9vU3UwVlZiM2pVZm0wQndlOVlmUkRlZDdoVjBueE53ONIBrAFBVV95cUxPcnVmVjlRV0hxaUk2Y1hBeGlkRkMzX1h6a0RUUFhMN1RIcW16VHdJaXBaakNKNkNWd2k5Y3hNNGVFNThIczJyZUZlZ3FOVmNXdXpfZWk2UWw4X2hqNVRFakQxNENKa2xPOWMySm8wQm45NWdmZ2JzS3NVNnZDeTZ1X1oyRElkbUcwTG1nUGpsLTgxQ0pLbDRoRHNacVFXLWNMbDI0cmJCUkpNc0FI?oc=5
-    • "Viral mansion lights causing neighbor traffic concerns"
+    • "Viral mansion lights drawing crowds, neighbors brace for traffic"
       https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZTM0NTdmanhUaWdYNzU3U2FNWGZnREpmN2o5SkNmM2xfWnhyVzlxZExodzcwU18zSGhsRzA1QXpySGQwSUIxREpRcEQwZFJKNUFPcjBvV3g3aVI2WVlaMC05MUJGa2NZMFNRVHF4VjhXZERfSG1lbFM0bDFxYk1uQUtsQV82T0RfeFN3bGttTWdwQ2VpVFppekM3U09PbWtjbmVYQ2gyem8wZlJXaVZCUXYtREpJMGtjT1lLWVVfeGstNEZEcm16Y2FlSklSMHQ1RjZhOHVrOV9acWFLOEpzcDlScUhrbWpXOXc?oc=5
 
   [Pothole / Road Damage]
-    • "How to report potholes to TxDOT and the City of Dallas"
+    • "How to report potholes to TxDOT and City of Dallas"
       https://news.google.com/rss/articles/CBMimAFBVV95cUxOaE82di1scXVUZlNQcjVLRmEyZ0FPWkJ0RXZpZmU4S3Y1elo5M1RVVkhQdklhbmVDeFhHaktBWm1rSXdJRWpSNjZUNmUzY0VQRUhpcVNaZElKbENxenY4TVZLaHZEc2E0TEswNTE3RnR3TDF0enNNd2lqcmpnZFNWemVTOWJnMlh6SnJIbVBFTGRQV0RjaFB2VQ?oc=5
     • "Crews race to tackle potholes plaguing drivers"
       https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnhpaVNYZGJjY3ZtTXExcVFEbmpWYXIyMVdjVDVpRkdmYVN4VG5tSGRUdWpXLWd5QVhRZXBYR1p2VE9lX3ppQ1NJQXBKX1BJRDdvVnNuekFGeEtuQU5hSzhFVGl5bzZJYnh2QVE4OTlFVXNaN3dEQ2g1cXJxeEI1RW52TWZtbERvdkVN0gGTAUFVX3lxTE1LVmRUb0FhRjE3YW5wUU1WVHJxOHp6WUxqY0J0VmJyTjZEYUVmLU9SVFZCdkxrVTVKc3dDM01DQ2tGMXF1MlBnWFBLQUhkVnQ2Y3pDMXFxRXI2enZ2dy15MUZqRUcwRXoxQ0JVakNCalpRc0pSLTBEYVNuQnRMVk93OU1pSklYY0xfbUdFQUhVSzVGVQ?oc=5
     • "Dallas is a pothole hellscape"
       https://news.google.com/rss/articles/CBMisgFBVV95cUxPZm5RZVJOMXVCeXhUQlBZLW12QzNYU0Q5SzY4UEFjQkNoTVd2eDhkQWZ3MXNDV3BUaGVKRk9YQUdlcEtSZUg2UFlvb2NCVkFtTXNpZTZsbGFKX05nQVpYMHduMVBLLXJWZE53YkNLSFl6RGVqenZ0MFotY2d4VlRhaDJjQXBQUjFIZ0QxOWYyb25kdEdsMjhCVHZoZi1HR2JXZWEwU2p5TVplbVJ3Y3U1NVln?oc=5
 
+  [Graffiti / Vandalism]
+    • "Vandalism reported at Texas and California mosques"
+      https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEFDeWNYVVRxRF9MZFpSbkVwY05ZTEJlSThlRmFxWnJmeGFLYWhnOTNhX1p4QU1weTlOSEN4d3FFOFVFU1VjZGt6czNOd2J3TEtpbzRQWTR0ZGZxQVBQN01mOEFLb004MEYwbl9VTHRQZUt5eUZwbzRJdGQ4cW1sRWhSaDJfYlpvTmZtNUsybnF0Zm0tOV9Nck4yWnEzTlBkNmEwOV9LcUJGa2FxNUh2Q0F5Y3AtcFd3UEh3QUhB0gHGAUFVX3lxTE8yenQyd2tzUk9RWXhfaEFsQVhrRFMzOGZvX1NiOUVMZFZEbFEtZFlhS3Z4NXJld0swWG1QcjFrVFZrZWpOOHJYQWNoQl9qNkExaTl5NHFJWW51SDAwaS0wbUZJMGRWQjA1WWVZSExXMTA1Rkkwc1RCcXdYMzZiZFY3QkJQemlSRjlvc1o3NzNzemlMMHFia0ExdUhhVk0xV0FVX2I3UXV3SXROeU1lMkJtUzNMQTBlVU9LUE9XZzZNVUZYMFV1QQ?oc=5
+    • "Texas mural defaced with conservative activist's own words"
+      https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLXhZX2ZpMm9zbzZNOWo1VFE1MkFZY2VyejFvVlZsUlBmV0tKTnhqbUQ1OWxxUnRhSDl3b0k5alE3dExjWGpPMUI2R3RzWXpVdENUSlpyWDU3WGN2N24yUEUxRGV5Q1pyOWpqWUF1QjJiVmZnNkJPenI1WjhsOHVSVXVhSTB5R0c5OThEV1FVeENkaFpLR0FKVzRES0RSakxfVjltNlhRbGVWOVZaaDd3Z0NiWmc4dkFENGNiZWhPX3k?oc=5
+    • "McKinney mosque site vandalized with Christian images"
+      https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFRObTMxZllIVUtaSFE1WGpUXy1Uc1kyNE5PQkx2LVl3WTdvZDFZbVZBdEhkLUUyRWZkNmZSdTBTUTlrNzNLcVRmN2dLelhXMk8xb0RHSGVRWDlPd3UxQmpuOHg3dzdobWMyWldGWW9laW41UndCOFJrRHdGa1dUUGRvVzVIV0xGOG9wczZ3b09jaEptZzJKLU9zVFhQMVlJRVN6Nkl5QQ?oc=5
+
   [Sewer / Drainage]
-    • "Daycare suing City of Rowlett after sewage flooded campus"
+    • "Daycare suing Rowlett after sewage flooded campus"
       https://news.google.com/rss/articles/CBMiygFBVV95cUxOT05UbFk1MVR5NzJnSTR1dnNGNXpnaTZpZlZEMjNfdDRmVUQzLWVHZHZMbG93ZGRhWEVqcko3aFJPalV0Znd2TEIwdU9fS1o2Ul9hcFpna2p4bkdUUFhHNHJvYUxwOXdzZlNlcnl2NUxwS1o3QkdhLVhNLVBYem5uYS1kRF9ZV0ZJT3dMMWVna3VhTUgtd2QweUxyYV95eGk2YjZJeVEtUUh2TUFMZXZ6dXIyd2FkRlRzYjVGWDQwWUJKcDdkLXNzaEZB?oc=5
-    • "Long-awaited flood relief tunnel in East Dallas slated 2027"
-      https://news.google.com/rss/articles/CBMilAFBVV95cUxQWFZfSkJYUE9QSW5ZT3E2c21BT1c4MU1Cem1rNmNXTW5hdlJsQllYRVY5dUZLX0tSaFRLMTl6bnhTc2JKTTBKMGNJcTRsanRnWUtzb0tRVUxYU3VIU0gyYldxYU10X3kwYmpSZFlKZm54RHdqbVQ0ZElFd2pLbUNLRUplNWJfdWM2TlBBdGxadzR6eVlF0gGcAUFVX3lxTE1Wc1FVNnlvazRtMHRYLWliUlFfSG1ObVdVYkdnWkZBUXhDMXlpT1pfM0pPMVNUNHFrN21hN0cxZ0JwUVBieWp0RlAzeF9xQVlzX1I4NzlvMjdEbzk3OXljZnZIMERtdzJsTWJrX2M2b0tCRzRFUTRXM1lpRlhRcTRYLXBFeVoxZ1JOWkVOb2FmeVdFblpsS1FxTXIzUw?oc=5
-    • "Residents urged to stop using water after sewer main collapse"
+    • "Sewer main collapse prompts water use stoppage"
       https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUpYN0oyQnNybzcwQzZmeW5vWUIyMEJvTWdRWWZsNGJXNmI4MWZFbGRXM2FuZGZ2Y1hKZkR3X2xpdklJY1hzakpqS2xFbHh4dDVEdXpYdmxOSThYVU9BdEFYelU4bUpUX0FTaFJuUWM2Z0d2WFZnYzNqZmVCdHFRRmlNR1E3ank3OUpnTHFjZkZCWktfX3pjZkE4ZUE5Y3puMTUxbFBYRmFwQQ?oc=5
+    • "Water use resumes after sewer line break repair"
+      https://news.google.com/rss/articles/CBMilAFBVV95cUxOTndHbUlIamNxOW1kVFd3R0ZkbmNDcHc0U1BfREZlSU9MTy05MzkyVnQyV0h1cjRMckM5aUFhbWxzZnFlM1FhbkJMSWpkRmZRc2hwVGRTS1lzU0lLaTNfaWFyaDUybjFzVVNaMGNSdURiYUg2cy1meEowYUZnZWhnN0pBS1Qxb0ZDTmI1MXVQSVNDdTZH0gGaAUFVX3lxTFBZdUxZUnk4OEktWkFkZUwzOXVwMmVpNnJPZGFrbHVNRUpVSEJzeWFYTzI4ZWRvVVhxX0JRYlZqYnV6TlZEN1N3eTNYZzZMYzRyYWdKOGRjOTNDcTV3ekxfemViUW5rRlM2VzVjdXJ0SnNnNG5kbGZhZUZ0TjBwcTNxQ1N2b2R4engwV0tZTjVBN2xZQ283UGhEMEE?oc=5
 
   [Trash / Illegal Dumping]
     • "Residents attempt to delay end of alley trash pickup"
       https://news.google.com/rss/articles/CBMivwFBVV95cUxNczFNeWlJNkQwcnJqaHpDN05rai1sRjdQNHVxa0VvT3FJUjl5aXFkVzVFZkdUTjlfX2poaHZJU3JXTVh5OVoza2E1V0NKTkUyVHcwTWhpWnRHdE5vazRkQ1hqeXVta2dhREpaRmNYRDlwXzI1YWNfcmttNm9CVGpGUXFrbjdXWjluUWJlcmYwVWRGSnNlQVpvUURJeExXLWNhLTZid3Z4WFNTOVlESmVTTDNOTUdGalR6MTdCRnptSdIBxwFBVV95cUxQWUR1cW9yeENkWEpiTldtZ214TXpPODhadjBDUnRPclZaTGJOcl9YWnlKdUN5Ui1PTnJsUEZxSFlHM3cwemJnNmM2WGFwcndTeTREcFVuOFRvV0ZkWnRMQjVkZ01GR19IbGhjZ2RMODcwNmZTbmhZMU1id1F0ZUI2UnFfVnlKaVVCdHkwb3pOLWE1SjJSZlBjWGEwTHpxTDEwNlpDd195MDNWekxseTIySDZyNkJyM2dxRE1lWkgzSG1XaHROMDdB?oc=5
-    • "Trash service changes coming to Dallas. People are pissed"
+    • "Trash service changes coming to Dallas; people frustrated"
       https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGlyajczejRVaGJTT3YyV2hjV2pIMTZNTFBpb3dkenpyQmNvemJKTG5zMHk5aVpDcW9Cb1J4dUhWTlVheVdzS0dQaktublhjSVhYeS1sYlZ5aTdKQm11ZEVDQXN0YURQaWdTZEpwUEdqaUtXTUI2ZGhlcVl0bENhQ2pPdXdBbWd5bGFZbkpMX3EtU083bHI2SkdISi02cG94b1ViMk9yQmhjQ0Rx?oc=5
-    • "Neighbors want Dallas to slowdown alley trash pickup changes"
+    • "Neighbors want Dallas to slow alley trash pickup end"
       https://news.google.com/rss/articles/CBMijAFBVV95cUxPWUsyR3N4UU8xTzMzczlnSGd3dE1SOGZHS3JwODQ5aUF1djRLRVhUNjF1blBVWEpFOW1sTk50OTNBSkxZdHQ1bXVuV3lTMXBIbzdqUHhKbDJDOU1ra1FtUm5kb1FYb3kzMGVabEg2dkZwRmZ1MHZHTm91UG45a1ZEQTNWaVZfSnZsbjgyWtIBlAFBVV95cUxQUnlybUNadVRRejlqdGZ0dzhZbTlfc3YwMk1nb25GeXRPNENnajJ0bWxxTlkxd2g2ajhjWGR5TTgwbjNMQVpBakgwNVlzU2lmWnNBZ3dMRG1TOHU3blh2Ty1TSHhmaENjTzJQMkRQSEhld0hsYWZOVktEdU9lcFVneTY0amRVcUJ0WHduYklfU3ZwbTdS?oc=5
 
-  [Graffiti / Vandalism]
-    • "Vandalism reported at Texas and California mosques"
-      https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEFDeWNYVVRxRF9MZFpSbkVwY05ZTEJlSThlRmFxWnJmeGFLYWhnOTNhX1p4QU1weTlOSEN4d3FFOFVFU1VjZGt6czNOd2J3TEtpbzRQWTR0ZGZxQVBQN01mOEFLb004MEYwbl9VTHRQZUt5eUZwbzRJdGQ4cW1sRWhSaDJfYlpvTmZtNUsybnF0Zm0tOV9Nck4yWnEzTlBkNmEwOV9LcUJGa2FxNUh2Q0F5Y3AtcFd3UEh3QUhB0gHGAUFVX3lxTE8yenQyd2tzUk9RWXhfaEFsQVhrRFMzOGZvX1NiOUVMZFZEbFEtZFlhS3Z4NXJld0swWG1QcjFrVFZrZWpOOHJYQWNoQl9qNkExaTl5NHFJWW51SDAwaS0wbUZJMGRWQjA1WWVZSExXMTA1Rkkwc1RCcXdYMzZiZFY3QkJQemlSRjlvc1o3NzNzemlMMHFia0ExdUhhVk0xV0FVX2I3UXV3SXROeU1lMkJtUzNMQTBlVU9LUE9XZzZNVUZYMFV1QQ?oc=5
-    • "Texas mural of Charlie Kirk defaced with activist's words"
-      https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLXhZX2ZpMm9zbzZNOWo1VFE1MkFZY2VyejFvVlZsUlBmV0tKTnhqbUQ1OWxxUnRhSDl3b0k5alE3dExjWGpPMUI2R3RzWXpVdENUSlpyWDU3WGN2N24yUEUxRGV5Q1pyOWpqWUF1QjJiVmZnNkJPenI1WjhsOHVSVXVhSTB5R0c5OThEV1FVeENkaFpLR0FKVzRES0RSakxfVjltNlhRbGVWOVZaaDd3Z0NiWmc4dkFENGNiZWhPX3k?oc=5
-    • "Mosque site vandalized with Christian images"
-      https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFRObTMxZllIVUtaSFE1WGpUXy1Uc1kyNE5PQkx2LVl3WTdvZDFZbVZBdEhkLUUyRWZkNmZSdTBTUTlrNzNLcVRmN2dLelhXMk8xb0RHSGVRWDlPd3UxQmpuOHg3dzdobWMyWldGWW9laW41UndCOFJrRHdGa1dUUGRvVzVIV0xGOG9wczZ3b09jaEptZzJKLU9zVFhQMVlJRVN6Nkl5QQ?oc=5
-
   [Street Lighting]
-    • "GHMC addresses faulty streetlights with numerous complaints"
+    • "Faulty streetlights receiving complaints from citizens"
       https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUm1yTGgtYW1LTHhOb05YX1VjczF6Y3ZKOTN4Qi1GNnBNeF82N29YaHYtekdWVUJYTTNpcktBWVRBR2JvVXFlbWhnVGFNZzVwQWJoUWNSTnBmQ3NPaExic3h2U1ZMRzVtbmxBaTUxdmJzX0xKbXFCVmxLNVB1NkpDeVUwdnJWTEh3OEVXUEI3T3ZuNl93bWxDc3RqTUVXZ2ZjLUtYZm1uZXZxR3dkZXlhT2h4UFQtUE5wMDFmNUxQUXBJVHdrZDVfejJHdklUa1FlTEhqSGQxUk7SAd4BQVVfeXFMTzYwTjdaMWZxejV5QVFtUGwyeWhWZUtMamNYc0kzR2VWNzBKRENjT3ZNVTJLQjVjejdiWGtDXzBBbThHNXpxTzJQTmF3NU90eTZmZkxpSkdnN3NhSFhLVTdoOGZGeUJkVUp5Wk9PUnZxMkdIaGhyaDdMOUxLRzZ1REFaMjBfbzR3R3ROM3lwc2I1NnJ6RHdDWER2VHRyUUF1VGJSWHpoQnliWU9GRjZrUjBRVHQteXJlN2R6MXJsbmFKeG44SnNncTF5V2NGR0l6a2lZUkIyNURWNkIxR0R3?oc=5
     • "Corporation meeting to resolve streetlight issues"
       https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaVJOeVp2R3p5UmRnaUE2aHY0U1FMbGVlUzQxNEJkLUNmWF9EQUdVSWJCZHRCaWtvdnY1THhUS1dfWjhnMHJwdF9aRmFXQi1iaW9aWXpFQ2NXX1IzeGxYRWhiVC1yNk1UOGt2alRadEJQY3NjeVdMV0JwLV9sa1BZU0xLeGhicE0tY2tlbldPUFdVZFlTZi1OaTl4bWdfMnJfX0hRWUMwUkVxeTJTb2hnd2tNOWxmMGM1X0Nxby1wSHVDb2kxU0lRNG5tODZOMERoTjQ00gHYAUFVX3lxTE1Td3BXS0ctZE94d2tGNnlOdExSbDNnWDRSWEpQbDc2U3dJS29ielM3OE9DSnZZVWczSUxXYVJEaTdhR0FaQ2dOeEpPdEtGSjgtSzZ0ZVNHZmJOSzVMamNKR0ZyNlVjVzRNZU43RXFlbS1zOFNCTDZ1dkhFVlhtQ01qNVpFYVpYdzIzQ0FtS1FsWWdVU3NKYmdUNzZQazdVbUpCUFMtWXNmdGdrenR0R2NodHpEdjdyaG1UM0FCUXc2QWp6YmMwN3BJY3ZoeXdoUlo4R053TnlKaA?oc=5
-    • "Street lights out for months raises safety concerns"
+    • "Street lights out for months raising safety concerns"
       https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX285RFpoeTlFRmR0RUpPQm1TcUt1Sm9HNkVYNUZKTXVNVFhBQktBXzMwWFZST2NlVmpaRTNJcXkyRGpOV3B0eEs5WHFtLWhDdnBlTzBtQ21WWFljX2RYU0pBWGxjQzlhUE1kdVd4YUk1WXVMMzhxeW13Tm1kTGhSU1BPa3lQbVViNEU4dDBNbkVmbnU5b1k1WEx1RG1lQ2dXcWhoc1VCZ2NvX0lXQUF4bGx0VjMyWUpHbk9KdVRDODN5MDdLVnpRdUU0clBjQktROUhXdTl3dzdDSXYzVEZEYmJsUHkzeWRQTFHSAe8BQVVfeXFMTVFVeWZnbmRVZmxSSGVVa3VTczh6blFwcVU3NC1lS1hkU0hPMjZMY2NBZU1FQzJwUFpPTzFfRW9CeGtPYXhZUDEtcjJjanZnZ184TWQxbnlpcGpzUV9fUEtOemJHSUl4SXdEWF91WXhtVVpERENyYWhFbnkyMkFYZERMOE5UTGhoVGVHb05uMmdFbGFtaXlHOV84QkppekhDLVZxb0p2TVF1V1psdEhoTUwzUE9RYjFUeFlCdk5JM0VVUXhXcG4xTnlkYlJJZXZBdTFKRnhreV91Q2NlX3F4T3RiTzNna0FvN2FkQ1lzVTQ?oc=5
 
-  [Sidewalk / Curb Damage]
-    • "Pothole or sidewalk unwalkable? City Hall helps find resources"
-      https://news.google.com/rss/articles/CBMixwFBVV95cUxOUHJaU2xGZzlkaWNLbS02bWFCZnRyQUZjTTZRcDJfQ0dwYUY0TktmLTFINjVzZ1dLSG5NYnpJVUZrZm9WMHJoZzl1cTdtSm4td1dERzE1R2xsblkzNk12cGQtZ2VUM1c3bEZHZElxb2kyY2JtbWNRaDZ6cFh5NGFXOTRDN3U0NzV5YWE5amtLdkRhbVZCOXpXN2xSMU52QnNPaTZyZnFjdjVTaGJ5RlBMbnYxVlFyZndPYkNkdkJISnVMalR4TG5n?oc=5
+  [Public Safety / Crime]
+    • "Dallas residents call for police response time improvements"
+      https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2xmTGNhcWRrdlY5ZjRUOTF4ZFlWN05vajVBbWFqMkdLR0FmdU81WkZTMDNnel8ydnUwVmRtUUp0NlAzMzNfYk9DdXFDSWZ0dnFZdkw3SEJ1dGlVNl9adzVVUmlPM3lUNUdwdmlVYWpIU3FYc2tGY094cFRtckFBa19mNGxrbVBxSm5lMElQWFdJQVR2NkJPNHo3WkV3R2d2NEhKTldZb3JzUdIBrwFBVV95cUxQMlFBMy1YVFNzMElDWmJmMHk1WDc0bVN6ZXdJM1RYY004cC16eGZreklpN1FMT1NPb3lfTVRWS3gycWpZbG9hQ1JtUTVCZ3ExU0RHY1ZpUERCXzI3VTVmRXNCODc0ZW1WUWJrLVFLV3NmMFhfWExLQkJZUjlucGF1VEd2VUJjLTlDXzNobzdiV2pSYkg3LWZsRGZKZ2pEVnk4cHFHMERBZ3k2SHVIdGJv?oc=5
+    • "Gas leak downtown prompts evacuations, street closures"
+      https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjI0d3pwNHRDYXN2NnVTOTQ2UXdpNmJqVFY0VXpUcVRlNmZ0QTZfaHg5bVZhTng5WFpqWUlGV2ltaXIwWnZiLTRxUGw4Wk1vc1J0VEtyOXgwcDdNdVhlQ295MzRqZXhRU1BpanFDV3JnYXFTNE0yMFJDM2NMQ2xaS1hqNkxJekh0TUdycjZJX3hHOFh0QjJ1a2Vid0tBN2k2aS1GYTdIWDNaMGNOT0t3?oc=5
 
 ==============================================================
   PITCH SUMMARY
 ==============================================================
 
-  In the past year, Google News surfaced 54 news articles reporting
+  In the past year, Google News surfaced 56 news articles reporting
   citizen complaints about city services in Dallas.
 
   Top issues:
-    • Water / Utilities: 39% of complaints (21 articles)
-    • Other City Service: 13% of complaints (7 articles)
+    • Water / Utilities: 39% of complaints (22 articles)
+    • Other City Service: 12% of complaints (7 articles)
     • Pothole / Road Damage: 9% of complaints (5 articles)
 
   MyCity311 turns scattered public complaints into structured,
