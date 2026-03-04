@@ -1,0 +1,100 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — DETROIT
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 195
+  Complaints found  : 125
+  Complaint rate    : 64.1%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   83   66.4%  ██████████████████████
+  Other City Service                  13   10.4%  ███
+  Trash / Illegal Dumping             11    8.8%  ██
+  Pothole / Road Damage                7    5.6%  █
+  Public Safety / Crime                4    3.2%  █
+  Sewer / Drainage                     2    1.6%  █
+  Noise Complaint                      2    1.6%  █
+  Parks / Public Spaces                2    1.6%  █
+  Graffiti / Vandalism                 1    0.8%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Legally blind resident says complex ignoring heat complaints"
+      https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVlcyT2NsV1JBSEhPSlNIZ3IyWThoZ3NHTFZ4dDJ0SkRoZjlWU0FjcndsUEU0LUoyTTIyTnJ5Ymc1QVhkcjFSdEk3SldwODFndXpGTUlXWXZTNVJCME9Ea2I2ZmVNQ0xTN19hSGNWWlRWU2lub2tsYzhwM29IRDdUTEx2OTl4ZXhVb2FnWWY3aWh5RG80QkQ3WjlMOEJCRDBySGJTbTFLWmNMR3l0QzBJVHFfRGFBNHQxRmIxNjFheUktUlctaHI5SjlsNW14ZnlUZ1hCV0ZlRFBGTDFTdzB3QVg0OVBUdw?oc=5
+    • "SW Detroit residents still recovering from catastrophic water main break"
+      https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbVdsWFEwRDl6VlNGX25FRXg0bXcyQlBkbTJBRlhUWF81Q3YyR2VNV3czRXBNMTBTYWxRTHFWX0E5UG5RaVhWRjVPaFFldnFEUWlCTzhqM1hVcVoxM0RXQVZ5dGx2VHVkeTNMbUo2VzBiZnlRdjFMOXNaRVBZelhqbFVQbTAwVjYyb1VqREFxc1VzRjRwSmswRk5ldGdRb0VyQ1BReFVUS0VWYW1FOHN0QWVaTE82a3QtY0hvbTlkRDFfMks0SXpVYTUwXy1GQzVEVXpLMnhR?oc=5
+    • "Water bills surge after meter swap, residents demand action"
+      https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdVpscXZ6Q01XdkZISnVPTHBhSkx2RTB6TVNsdHg3WHM4VHR1QlhzUzNpSUR5MGZBYzdKb21IRVJFaVBzbnJBYmJjZ05VV3lCUGlOZXhBemphMGwydFhZMVpka3I3Nl9FejJDUEZDc3dNNWpYdU9rdElKcVZQbm1Mb01kREhRVVJMNFN1QTRjRFpTWGxJVV8wVTZJb2thdGRteHpsenlOQ1ZXVDBzdkV0a25vVi03bkszcVp1dEtkckwtUUU?oc=5
+
+  [Other City Service]
+    • "City orders tenants to vacate unsafe west side building"
+      https://news.google.com/rss/articles/CBMizgFBVV95cUxPREJVT19McjFxZ1d0bVg3Z2RXMWJmc1d5ZllhcjVaVFhOZ01XWTVJZVVMQjgybWtYQTZ5azlyS2E5aW1IaExQTUd3RTJZV0FlVVdncFBWX3o1ZkhLRWVqVDVQbGFQV2tHWEgyX3g0NWM3ODJRdlZoVTNxVG1UOWtvdU1qU0VkTXpTbnM3d2Q4Q2U5dkJ0bVpES1F6VkJWRG1Fd2xmYjdHay1YNVpwVjRINE85ZXU1cjh2NkpGdGdZanZiUHpkMndmajlrTF9jZw?oc=5
+    • "Residents urge state to shut down facility amid odor complaints"
+      https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdGtOVzJ6ZmdZVEdtOHdlQk5lS3JRZDBuQVA4cF9wS3c4M0w5OVZMVEJKM21PV2pIMlZfNnl6a0t5Mk9fbFVSRGlnOTh1RE5SS0hFV2ZuejhVbTE0azhycXllQ2JFSzV1WmpISWtMRkJNaE5ldHBHZUhybDBYc0hnUkg5Rm93MnlNUjhkd0tmVmVZTEVZdVVrbnlXV3ZCT1VnYVJsV1lndFp5TXcwajBLb1ZZUTBEODRWLWdmYmtkRlFHMnNzRFhwSTduVEg3UXd2blY3ZE5OVUJUWjg?oc=5
+    • "Cleanliness and bed shortages at community social services"
+      https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM1FKU3phVmNXb3ctYUhmRk50TnRpNi01UXNtSURLSjF0MlBsWXMxTmpKRjE2OEdEOWJjbnhxRndhUlJhTFpPdGpXWGg0bTVUSHlXLU0xWG9iSUE4T2R5RUVNMm44NXAzZUZocVhsSjlzRUlvaU9DQkNSWXFmZEJ1Q3o3Z0RmYjRqWnhENzhmbF82VHl6T19BWlJmTS11Skk2eHpoSi1MWXVDS0NuZGhHTE9DSmVBX2R1SWI2N3Q2UGs5NXRqemwyQjhrSU5BNWNjYnUzMzZWNTh1MDZTM1Fyd004TQ?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Residents fed up with Priority Waste service"
+      https://news.google.com/rss/articles/CBMixwFBVV95cUxPVVJlNE5rcVk2RGcxTHpuVGZTak9KOGlCLTA4ek9ORVdLY3hueXNfUFhaZmRydHhXQXBQOEtnUjZOVTRsdDRHdFVBVTJMUEUzNGloVlNfR2FmSWcyTy1sZGhNSGg2bFhnQ3JQUzRqVVlWRlFxejd1M1dUZEMtTDI2MXotVGNYcDl5X2tjRXY2Y3FYYWJteHpDQlpabjFrSy1iZHlYRDhHekd6Slp4aUVrdEI5UklFQkt0alJGbl9MS1BRWFhPUEZv?oc=5
+    • "Trash company put on notice about pickup issues"
+      https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbnJ3U25VNUd6aDZaYTFJMTVjeUtkNURRWXpyRjVfVEQ1VFhBWG1fUlZaNDk4TUkyZjQzbzlrZDF3TjVabDhGaXB2WnZtcTc0Qlp2bVRqeGxlMk9hSnowMVpsMDRFX3pMeUtwamQ3UXFUQktuUm85Zy1jLVBMUXRKclNiNmxMS1o2bTBvYXBEYUd1NDB1WW5Hazc4aXV2RTBMQXUxcF9uYklWako5dlREOWg3ZlhIZlM2ZG5OdEhuVVc?oc=5
+    • "Township penalizing trash company for delayed service"
+      https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZk5GeG9LZVk4eDhrQnFnSFBhTm5LazJOb2tHM2dqamxsaG5oTEl0Nmc4a1loUldoMC1ob09sUmplOEk4X1ZzeHZCMzJOdEpMNGVTaXFjdjhSbmtybmJTVUJiMHJFbjBtUDlOdHlaeC01OXBaZ2lYVUJIckl6SVhjVGtfcktKbXYwSU0wbDZQcG5oRzlXcGpydDZZVF9LRmx2NmJjTGd2U0dXbGE2cnhMSFRkZklocE03Q2F0bDVHM3FwODI5emRfTWIwSzFwNURnR0NsdkRRdw?oc=5
+
+  [Pothole / Road Damage]
+    • "City urges residents to report potholes after storms"
+      https://news.google.com/rss/articles/CBMipAFBVV95cUxQa1RhZzJrRW9pS0tsNWFTZHhYWEU4YkVtbmJjQU95eUVpZ2k4UjUtWW94eVJIUHA4bEJkRGI4UzhsVXN1aFNkV2pKVUNyVHZ3cWFNWjhpdllwa1F4UjlXbXQ1OWRLczBod0wwNHFWNFpvd3d6anI0eE5LV2l0alNvU3JUMXJnSHBYUkVCRzdQY3V0XzlMSlFQXzcxZ1FaMlhKU1hNXw?oc=5
+    • "Michiganders can get cash for pothole vehicle repairs"
+      https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYm1pQlFxdHZBUXVaZXhRTkV6Z0RvVGNCUGVxQXZDdmt6eEZOOGNNaEItMVFvTGdBRnRFMXdGb2wtcUpWM3RId1BKYVFkQkwycXpMaWpDOG02bnItbTdCS3NaN0xFQlR6UWpxNnFja0dWZnY2cVduZDVGQlNWekR1UzlIdVViQWd6YnFyaW5KemFkcXlUY0ZjYV9QNHlfVmFPOGx2MlM4M2zSAbwBQVVfeXFMTUhYYmlTcDlNbnBhNUc3VER6UVZrZ2txTkpPMnd4Rk5JX0QyQldZRVg2LTljdXR0QVEyLUF6TnhWSUFwNUNqbDU2Tlh1YXBhY19qYUhnU25RZWJRZ0xaVkFOWkxOUFh0TWZ1eVFfTGlfTVhDeVBya1BsemRpN2IwZ0tWWDRfZXQwYWZOMGJkc04xWHlLWTlOVEZSd3FQdHJUTjlmTWxEX2x2c0lRX3RzQkE2cl9FLW1QdUJHRHo?oc=5
+    • "Pesky and frustrating potholes in Michigan"
+      https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVhSOFRSOVJBUktmVzc0Znl5VlpzZ29ISGo4WDBCR3NtZC1razRYdlE5VFZSRjdfS2JzZ3BpX1Z1bGxCaVU2Rm1SUlBSanRnckVJWXQ2dGF0ZVdlY0lMMFJ6Ulc1b05seHNvRjVBczZyYzdWMGpEWDFOMDFHbk9aTw?oc=5
+
+  [Public Safety / Crime]
+    • "Police face scrutiny over use of force, racial bias"
+      https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWjJrdDkzUGF6V0NMUHhkeUdWakJqS0kyRHhUd19mb2Z4Z2pORTNyMmtUQVpNbmxGYWpVa1F3aHl6MTJ3WnVqMHF4eGVlcHpkZlYyX2dDcjdaLXFwOU1jWC13WEdNQ2JWdmhJWVRuU3F5X3JBY3NVRGlqeTEwS0VjeW9ZSUtuVU9LU0RXUktuRmt5eUhwRFpWNW85S3UtX1VEMnFOSkt5d2NxOEhhUVJTM3hNTjhFOUZzRmJZNWlkU25EX1pENGxsbGhTR3hxbm9VUkJCYl9xY0ZMXzZEbk5PV0JGZ1VXS2Vm?oc=5
+    • "Residents report increase in coyote sightings"
+      https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZEx6ZjRDNVBsNzNlSzlqWElINDdzME5jUkhzZVVHN28xQzFndno3T05WSW0yeEZIOFV1YUxlT0c2SW10b0xFNDcxT0xJQkdtNnNEMkttMUtaWTFWS3lJb1NZMnFnVEF1WjlGWTR2U1RpcXVEc3FPeVdrOTlIVTdob19YMUZaZU5jOXM4dWxZLXNHMUctSzROOE96LVFRMXJobVl0UmVGbEpHemYxVTBIU2h3dHU3M2FMXzhKaWxlNFVKQQ?oc=5
+    • "Safety issues raised at Detroit women's shelter"
+      https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaUdxcWVWX19yMHhtc0JndGRxMWhBMFlLZGZTWldfWVd4MGg3aTBWTmxqTndMeG5aNjZkaWgwbEUzckRaZUpVUEhqdlI5Y1ZXcjZzWXFGV2xJRDA1RnNmRVBDalN6RFdtRGI3LU14VjhmY2toel8tMlF2ZG1qZWJIRm01YWt5aVIwSG5adEVPWUFHY3JGX05Xb1NLaVJEYkF0X1hCTVpvaUwyWEp0QXlOZDlKenp6aFJLQXdfYVA3Q1NaTVhPMmRXanFMdS10NHUxLUJCT0RQamVMempGNzNmWGdkQWs?oc=5
+
+  [Sewer / Drainage]
+    • "Residents report nauseating sewer-like smell on east side"
+      https://news.google.com/rss/articles/CBMi2AFBVV95cUxONlRRZ3RKdXEwazFPelAxdDdFRVZoYmRPdGQzenRIU3JaSEgtWWhwSmt6MUlrUEtSZUhudUI5YVZrM2ptNFdDSENxMEw2MjJ1NHVfSThfM1ktd1VHOEFhR0dueFM2ZVo5emVjXzlJZGhPYlJtTjRZdFZ1VTI2bEF6V3dfR2VCY2s2X1hXQzQ2ZEw2T3FmS2JUQm9qSFBuemZfN1lvZVF5NU1VZVYxZGFaUHJwMDBlSkVqMllwLXZIU091UFg2OTZXVGRuWXM4R2pOd3Z4QkpFanc?oc=5
+    • "Water main breaks flood multiple Detroit blocks"
+      https://news.google.com/rss/articles/CBMilgFBVV95cUxOekt3elRzcGJmSmZBT2U2alVTSldyNl9FWlZLOHA0T3VnN29yTEJaRG1LdUh4ejg1UkQ5RXpsVkU1SXRJOU5hbXUwaXk3NjZWQ19abHE0WVFqQm1hbk13c2tpMTEzc0s3bk1SZnV4UkVBUEtHMTBuTkhJMGhMRnQ5anpWZG9yX3g2ZkV0WnRCcWUweEh1aFHSAZsBQVVfeXFMUDRCM19sSEtLbzJUbmtxMmk5S1o4YTZEMkQ3dkdwZVZGSHdKbTZBeFRlZ1UzN2hDRV9yOXF4WWczTGFianQ4SEtURmRjTUpDcjFZWXNTLUdkZl9hbmxhdnN4b2V3WDl0RE00cE9SUGZfWFVNUDZkQnBpVDV3eUN2QW1oWDVPMGlueHFlU3FyZjdUUWhSam9CUzYxc0k?oc=5
+
+  [Noise Complaint]
+    • "253 police runs from family-owned sports bar"
+      https://news.google.com/rss/articles/CBMi5AFBVV95cUxNckZrbHpBNF9DdU01VjRmWTIwNlhoUjRrQ0NmZTN6akRoWV82dzNhY3BMRy1zY3Rsd0FoQzRRa1dQbW9aNEM4VGI1WWI1UVdmU084bHJ5ZjM3SzlkdFdBV3VIc2NfTzZvZWtnWk05SlBrWXlPTzBLd0pXUUZ3ajE5endMYmxabHdMUkJtRUhWN2VPVVFSb1BsNnZCYzBKWWd4UzNxLTdFVmoyN1ktTktDZkpxcWt1NnVVdHhzZTBUMk5DTjNtREl5R2w1MGlaLVFGOXRnM2JHWmt1WWJzdGZPX2Z1UW8?oc=5
+    • "Dearborn residents raise concerns about loudspeaker used by mosque"
+      https://news.google.com/rss/articles/CBMijAFBVV95cUxOcEZJMkdTSUhGRVcxcXh3MHJ5TFE0T0s2ZHBsbzFlZ1YyWUxTeXBVOEp6WkNHaGpGTTNDVGFpV1pPVERGTjljM2wzVW1UMWx1Yl92dzBZbDZFeEcwOE5iNnh1LUtYc09raVNGZVlOZmZlOU83TlBuRlowMGhLN193SU95MVFueFg3bEJlWA?oc=5
+
+  [Parks / Public Spaces]
+    • "Park revitalization balances safety and community concerns"
+      https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2o5eVZpWHp1VmNQOVV5UzJ3YTVzQ2lWVTVreFA3bmh6bkRsaVpScHBUR2h3NU5Bd19TMktHd2ppaUp6NnhlNTJVUlJBdGpnNVNMUXZEbXBtY0hLZ1hOakx5SXYzclZYb19WaS1kem0weHhncmctVGYtaGRaTDEzalY1Ukd3cWVkVl9QQnc0alZuVHFRckRXeVlMMVg3VndZcEJHcmpIcjQ1M05uM0V3?oc=5
+    • "Clark Park revitalization addresses safety and community issues"
+      https://news.google.com/rss/articles/CBMiekFVX3lxTE5TZE5XamNUczNScEVZZFBZY19XRGVuWHltSUtqZjdBSHh2MG5SYWYxNXJPX3MzV28yODZuUVJKT2pyeTAwQm00c0F4dlkxX0htbUtIMW43THk4alpEcXhCTjlDRUJueHdocnU3YjAwaWZ6U1R6b0xYeGR3?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 125 news articles reporting
+  citizen complaints about city services in Detroit.
+
+  Top issues:
+    • Water / Utilities: 66% of complaints (83 articles)
+    • Other City Service: 10% of complaints (13 articles)
+    • Trash / Illegal Dumping: 9% of complaints (11 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

@@ -1,0 +1,108 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — SAN FRANCISCO
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 118
+  Complaints found  : 75
+  Complaint rate    : 63.6%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   20   26.7%  ████████
+  Other City Service                  17   22.7%  ███████
+  Graffiti / Vandalism                 8   10.7%  ███
+  Pothole / Road Damage                6    8.0%  ██
+  Public Safety / Crime                6    8.0%  ██
+  Noise Complaint                      5    6.7%  ██
+  Street Lighting                      4    5.3%  █
+  Trash / Illegal Dumping              3    4.0%  █
+  Sidewalk / Curb Damage               3    4.0%  █
+  Parks / Public Spaces                2    2.7%  █
+  Road Damage                          1    1.3%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Supreme Court ruling impacts San Francisco's water system."
+      https://news.google.com/rss/articles/CBMivAFBVV95cUxOVkxZai1idVo4Uk5LSWlrdm9mM2JYZFZkTlJvNVZfZW4yOGRLYVdXZ0YxZTFtT2lJWFBNbV90NDhTSEJEWE5sR2ZKRUNzVHIzOVRYREEtVGZwX2RQZ2dKdmlSSHk4RDU1RzA4YWRqaGdKVWpBcGxSaW4zdGtJMWxNLUpBLUVYa2R4bm51LVVuRW1rNEVHLTZrTmhmbE11WmhqMGVRZm94a1hLc2xwVGNtY0c4MG9YYmFhalBsRg?oc=5
+    • "Mass power outages blackout large parts of San Francisco"
+      https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ3drUVFURU5oMmx3Yi0zWmk1c3h1TXhsZ29HaXhNeU9mWXZYd0RIWUxfSG9sRms1RV9kZ3lEQklGbXQ0MS1sTFkyUXdXMHcxWlF6MldTcXJhOWhiVWVOWFRWLWVrWGJsOGF6ay1aYjMzaTBsR2ViTEZIbnpjLURXUHgyczkyRFZfcC01R2dUTFdrOTVZTU1lR3kxaUY2MzR2S083WThn?oc=5
+    • "San Francisco outages leave 130,000 homes without power"
+      https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2xXQmFHWFd0eEE0NEdQaVB6NDMwWHNUenl1bnlJVmZUWTQ0N08wYkNDUHdFMDMwNHdQOXZ2Qy1uV2xST2lhQzVWWHZ2b21oNVZhcXl1T2twNmU1eno2WHlaM2NDNXgycDRQVGVnNEJVRE5mQW5XR0YwQnFZeVZhNFFjS05nZDhfWW9QUGl2MTdBWUp4Z0lNZDJhTkdGbnBKc3c?oc=5
+
+  [Other City Service]
+    • "Staten Islanders made 130K 311 calls about city complaints."
+      https://news.google.com/rss/articles/CBMizgFBVV95cUxPaU12dV9BbE9lZ3MzZFVzQkdfZmp3d2ViY3dXMDBfN3d1NmhwcmFobEx3YjM3WHRQYTAyOGFTLUFVcWprR21WY29hNjVSdVItdTI3c3VKR283RFJaV3J2WG9INjJzMTZLaWtCOVpNNWVJSnRtVnFkSGNDWTlDallVdUFlamFBbGFORTJlTWt2b3N5ejI3Q3lwbXR0OFVBWU1iOUg3RzVER0lSdm5TaGM0RjlOOFVwN201cS1JcW9FSG1PUXgyc3lGOWhmZzdlZ9IB4gFBVV95cUxPVkhEVkxyWUl6WUlJakhNRkp4Vl9SMmQ1VHRPWmFsU2JselRDMldxQkNlZUtNYXFJRk10WVlqcWVuQzZyVFlpN0g4LVVpSUFmT2hjcDg0SnVxTkFXMUxpZWp3WXJsQ3k3RkotdE41M2Y2RmFTMGJVTUxFZzBYY1dUVDhJWktYUVRyYnFWSjlkQWIxaE8xRTlTNjlPazlEMkdhNFhhelJSTWdOWVdqUFdDRkFWYlNPUHJyU00wNWNQLWRlZlRCN0JHRXBWZktxSnNoQ3NHRXItTWt2Q3ByWWgyb1hB?oc=5
+    • "Residents sue San Diego over tent encampment conditions."
+      https://news.google.com/rss/articles/CBMihgFBVV95cUxNNmtMY2dHY3R3WnFQM1g1c0E3ZG5ocWNwbjNxUHJGUjc0bFR2emRsb1IwVWRWamduZ1Vhd2lpT2lIQVdFQms5d0hESEZ6TFFCekZzRi00OUk2NFRCc2JndGhRSEJQRmV2dE9OQTc3d2dLVm9lTU5WTjZUbHZkSUctODNiMzV1Zw?oc=5
+    • "S.F. residents filed 800K complaints in 2025 about services."
+      https://news.google.com/rss/articles/CBMid0FVX3lxTE1wR3dpcnNyU25fY3otZ1B5RE1aZUd4SjRxaXBFSGd0NlIzNThZREhEcWktbmJ5U0RjbVlheGpiZkFKT2NycTFTUFdwRzhiZTJMZlNUNG1yR1o4b0JwWmlGVlJZejFZV2x5ejhQOExiMkl1dGdfclVZ?oc=5
+
+  [Graffiti / Vandalism]
+    • "Man accused of vandalizing San Francisco church"
+      https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGVPMkRXeTN3RkxGWUNfZ1JOb3BqV3ltV3lwc24zX3JjZmZsbml3VW9QSE5ibGdCNl9ucjFHRVFyWUdKZ0ZEakllbWQ5YVpwbTRCRUtYd2JCdWFpMm9vZi1DNllGejhsT0NrdGxYaVlXMWd5TjRYUzZ0NWhDa1ZvQWNfZWRoVjhvQUE5Tmlsd3dnN2JkQmt6Z1hn0gGiAUFVX3lxTE1PNDc5MkF5RjZ1REw4YzNFNlpDa3d6UFhqUDhmamhxZ2h3Q084WmZlVjRiUVo4ZVJzRjNfQm03TXhlT09OT2s3bTVfVnNXM1JPTHg5ZWZnLWxlWDllanZyRXlqcDNQR0dmUGZFZXJZUUU1RS1ZZWRvSmY4VDczUDhYQ1I0RF9fVDlEeUdOc2FKTWxjY0lPR1huaTFkNzZKUF9yQQ?oc=5
+    • "Richard Tillman facing charges for San Jose post office vandalism"
+      https://news.google.com/rss/articles/CBMirwFBVV95cUxOaHphdU1WdEI5Z25XZXhjNDQ1TXdEbXdBMklYdFotVmJwN2hSblF0b1RmRVVvMXZMRmZrSmFYRjVUc2xCblRZV1BmOUQ2cjh3ckxkTFNqaTkzeVFsel9DNTRyVDlSdldnaHRwX0dNOHRfR3pUV2s3RmdWNzlBZ3RRQUo4V0dZb1lPLXZkdFVnbkowNEY1dEUzOHhXeEV2NkxGN2ZpamdxTUhlUDJZbGh30gG0AUFVX3lxTE9rb0djd05ldUt0eG9lQ2djWFQ1NmFvZnpnWGdrU3puSWdEUVJjbkdFTFR0SU14YWxkOHowSmg5eWlkT25XQjAwVmZxMjJvUlFTdHJ0bnhtb09fVzNZdU5oRS0ta3lLbEZkeTlRaDBIVzRKTjVLVHdqYktqTUcxU0xWbHY0eVk5RGVQTWZyc3NrRTZJTEZYUnZJaGpGX1pFNS1kR3llNnhpS25ySUt1aTZfcWhJNw?oc=5
+    • "Serial San Jose graffiti vandal GIZMO nabbed by SJPD"
+      https://news.google.com/rss/articles/CBMijwFBVV95cUxOaFZjaXc1V05MNDdZOVNHb3VoZVpxNnppSUVTM0YzR0F5akJBYkM1NzJaTlFTNTJHTFhoOWIxbm1TejMzWGR4bGo3UE5lcS04MkNtY0xYelExTTFkVkFtUUs4SGk1SC1SN2pISThCY1Q1aDlWLWtsNHlVTlVsWE5aQThfUDVxR3NXNlpGdjhIQdIBlAFBVV95cUxQQWp2UW9Ya3RINElITFdGZzRLZmVSNTF1QXdGM1JOb0Zld2xlSjhRcXQzSVpkeEhvUmNwTEd4WHpNNzA3R0t3WHcyTGRhODZORmplQ2lFSmQ3WW1qbjNiU2labHJrZGREUGE4OGF0Vmp4NzdCTEx5OVRPbmUxMGExWmI4VC12SWUwSGRLcmQxVEQzWWdD?oc=5
+
+  [Pothole / Road Damage]
+    • "City has poorest roads in Bay Area, report finds."
+      https://news.google.com/rss/articles/CBMiZkFVX3lxTE16cjFuTEV1SnUtazlVRHdEcjZTdEJwNGlyN3JuaDYxTUwyOGMweXBMYm5aYXZmTDRORXc4a25XOERQRHBUeXNOb3RQUXlMaVJQcFhuMmRCU0F3ZFJzNTlPazYzUG16d9IBa0FVX3lxTFBnX0dFQmROWGRORDg1b2MwaDBVTk5QaDdXZi1faVVmS2RhWlpmb0czS2lOckFCM0xCWTRlTnFaNG9KMXFSYWk3YlhyQVBRbzRTeVB1M0d2WFF3TlFXR0Z5VzNnSENmYzRWYzZn?oc=5
+    • "Cyclist seriously injured after hitting pothole, city pays $7M."
+      https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnVRZUNNYjBiTk53RXBQTlBia0daSWJvOHhpUHVpYzJESHBNU2lrMGFSUkluWEdVemJKcmZzcV9BcENLYW45T3lzYjlsRlRVVlNzc2hFemtvVDgzaDZHX1ZEaE4xZVl5OG4xQUJQLVBPUXM0ZlBWd0ZGMHRXX09jN0F0aWxRZWhGZ1RRSmZpUHgyem13aExwNWZjbjZaenJDWkxiRk52SGIwdFFjbFlDWi1NTFFJUThl?oc=5
+    • "Oakland settles $7 million with cyclist injured in accident."
+      https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0FpWlBJUGdIZjYwem5tcTBpX1dONGQwcW1nb2pVV2l2N3NKaXoyRkhiU3NJdmtpNjF2UHRTMG5yNm5VWTZCaEJzc0I0cUZ6MnF3UThwdGhndFlvOU91cjB1WEx6ay04Z3lTYWZVdVdOZWIxN09haHpxQzMwYkZrZC1mcUQ4TURMWWNUV0lHbw?oc=5
+
+  [Public Safety / Crime]
+    • "Residents blame city for worsening conditions, hire private guards."
+      https://news.google.com/rss/articles/CBMixgFBVV95cUxOOU5qZk9qcnBQZXotSFpmbkpxcHZkclYxSkhBLWRBb0R3VHNYWnk5WlBmX0pzSG9Ic2luVExocldyaU5KaWJDSVg1dmFobHV3VDBaMkZ0ZWl0YVNxSFZPVDVXQ2JvRUJzQUUzQk44M0dJR0JKNXZrRXUwWUZISC1BX1dqZHZRWFRGcHFwaTB6azZpeHpKeXQ0Z01jUFVnOUxjTl8wZXNnUjZ0am5lbmVfNlplbGVBYkxFUC1YUE5aRFQ0WUR2bWfSAcsBQVVfeXFMTTVWcTVvcVBZcmVhQm53VE5TamcxRVBQZUxBS0xBRENZQ3dGd1FucGw5aVV3OWFvVVMtXzhlWFFqZVU4MjBlY0w0LXl5NWxoM1p1eFR5SkZvSEhDNlVCRURSS0tNeXg3bEJpYVJkR2RrdHQyNnJvUjlLN3JpQ1lTeV85NWZXX3FodFpmeDZ0MkFNWDFzTXNoQjZEbEFkV01adWJaYTUyY0xDS3JveU1aV3RpSFlDcEFua3lLSDNmLXgtMjVpTi1mTHJvOEk?oc=5
+    • "Prostitution, break-ins, squalor reported in SF housing complex."
+      https://news.google.com/rss/articles/CBMiggFBVV95cUxQb1dnRC13QzNQLUFjREg5ODJ5ZDdfS0lNX2xXT1FhQURnekZQUUl6QzdzUEZrVHFlTTA3TGc2MnlhZnotVGh6SndnZnZVZ05sRTkzTWN0SXo2c0FycHJTTDRxRVplMXItellDUnNvc28xckxZVFhEX3JKQWZjaXIyUkdn?oc=5
+    • "Waymos blocked roads and caused chaos during outage"
+      https://news.google.com/rss/articles/CBMisAFBVV95cUxQTzdIem5HMEp2dy1DZEJVU3FUVTFVZ1RmelJVMF80bW82bWprdnZDdjBqamlnck94RE54WmFCWWxKUV9VNWtrM1BRZm9yYnhYM2FkLTIwOXdnQWM5a1JXLXhFLWRVTFh0b0IxUkhzWTJnTFJOeHVKc214NVowWUNVVUNZNUhsMDJzWlFHU0NLMHJ1TGlqNlZaa3ZVUUQwc0MybnBELUhWM3NGU1U5WjVsZA?oc=5
+
+  [Noise Complaint]
+    • "Neighbors fed up with three straight weekends of concerts"
+      https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDRWY3ZZdGZJOVNvZkpmT1hwSU85Y29BcWZfSktaTlFFalhnRS0xcHAzdzdGWS05d01kRTIwSWxlbjYyR25zd0JDTWtfSkltVEFXYWx0MU04NEdrejBjZGwtLUV6ZXZMRk1WS3V3MU91MFkwX1k4cUlWOGlmR25zSVVCbkVzV0tJTnVyQU5vZ1FkZjdWX3Jn?oc=5
+    • "Residents describe impacts of living near concert venue"
+      https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOEhidkFlcDhlenUtaDVia2pOaUFKUzNmUURWeW9HeEliYlkzSmtmVGVTOTl1c0NvVHlfUGQwU081eDV1NmFBVjZEZExrV0x4cFZKMXBNXzRyd2xLTmNISzY4NE5RUk9MX1Z1Q0s2LTFZaFVkZHhja2dNT0c4NlI4WHRaYXpPMDZs?oc=5
+    • "S.F. residents say PG&E power fix causing noise nightmare"
+      https://news.google.com/rss/articles/CBMihwFBVV95cUxPQkowY0Z2ZTlnYzJ5YllTaE9LVW9DX2trRHIwUjBJaHJINi1iT1VvTG1xOUZ6UFFkMzBwbllIblhVczJaaUl3N0xkbWEteUJZOXFYTzVOYzBqSllsdlJ3emRNRDl0SERuYTRQNHdIYkR6SUlmVmhSaFhqNkZ4X2pPdFM1dE5SdWM?oc=5
+
+  [Street Lighting]
+    • "San Jose drivers urge fix for I-680 streetlight issue"
+      https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDg0eVpVS2w5UC1FUHRZUWRTcDlrTFZsYmlFN0tQM0NSVmd4VGFzdXlRYmRidVZUQXQzUjNSV3otcUhBVWhKRWRGNlZXQ1k1bVlsNFZMTHdLRHRQNGZ1ZFRmaUpYQjlDbnNYazhFVml5R09ZSW05Qk1iVjlJcWM4OHlqMnFqVU9Q0gGQAUFVX3lxTE8tbTBzTnNSX05sZTY5b0JOTUJDcGZkN1piaGRCNzEtdU10Z3BKNXQyTWhhQ1NiWFp5M2RXZTJlNWlHNTlvbWNLX1FEMVhfOXZLal84LUxmS0NmVllsWWFnaXlDWEhCU3pmc2FzNmdJeW4tVzNjMGtRSVd1dGQ2NTVMSmh2TkxpSXduQ1YyRWhUVQ?oc=5
+    • "Boyle Heights streetlight repairs long overdue, team proposed"
+      https://news.google.com/rss/articles/CBMikAFBVV95cUxQYkxiQlFiNnZtT3A4aUlvRXM0cmNISmhUQ1NRbDZtQWp6ZElNZlRRWl9OTmNiY2VfSzlzOGRVNHVOYUhxdndESllqY3ZnRHhMZGNjNmNlVkstN3BfaHB1a2ZBRVhHdk41Y3M5TkpvLXh6LU5rTGlEM0dvdi1jNzdYNEgxS2pkeFl5dW05d2JoMWg?oc=5
+    • "Street light complaints in Los Angeles area"
+      https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkpFbWs5NHFibjhET3VnbUZ3ZGt3d1c1MHp3ZHhvdVJ2VWtXLXEzTmpUQXVMZktlNVVEYWs1ZmhmdUJ5SE9jalhiZkZmdGlqLTVtRks4NU0xRnlJNzlpLVhiajdjX0pGQllXUEhIUFVRR0c3dmJSNUREZHhtaXFPcFBUUzViMG1vRjFaaXNtb0xuUkZFMUdB?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Oakland man fighting trash problem but trash keeps returning."
+      https://news.google.com/rss/articles/CBMijwFBVV95cUxNMGJEckNMRDE1Qy1XLUNFQm9sTUw1WnNHVk12MXVVREhTODFLdE1xenpMdTBEV2twaUVNNVlDVk1sN3plWXV5Tl9ZME5LblN6SWZOTFFac0hFUWhVdjZUQ3k5UEFPcnE3S29KSWFDTVVSaF9VckRHSlhEUzY3RlRaOWxUTXcwWjYzanYwRnAzYw?oc=5
+    • "City slow to hire trash can czar despite complaints"
+      https://news.google.com/rss/articles/CBMiogFBVV95cUxNVnlVTWNwMnFOMTNqcWhLOWhQa0dHX0t0cEd6em1mdnhfOVN1dkdUbW83M0dWUS1GMzV2MF9fWVRKanEwUXhTT1FYaU1CVnNlZHR4eFJkR1JwUEpBQkRza29LcHRSRWI0TFNCU0RVWFVaMU05bWNlcjhHZm5MY2JPQmJNZjBOZU1HbWMxbEcwTGNESkltVTYtc1VfV3g2aVh5SUE?oc=5
+    • "East Oakland trash dumping complaints ignored by city"
+      https://news.google.com/rss/articles/CBMitAFBVV95cUxPbXE2ZldOS1NDb3JBcU5wWXU1Ui1yNzdfcm13WWE5Y2ZDWEptazZ0XzctekczaEZuM1BWelNOdkNldmJXWGpOV19TdFU3em5PVWx5UGFBQnVBdFZvRGlMa1hSZkJ3clZSWm95bG1WSmlKRnhneURYQjExa0tuU3pFZnd5THUtWDZJRnhUV3dqejA2d3A3QXFNNUhPdVVTX2xwYnhPUWgxeEN3ckJqWXhIYkViXzE?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 75 news articles reporting
+  citizen complaints about city services in San Francisco.
+
+  Top issues:
+    • Water / Utilities: 27% of complaints (20 articles)
+    • Other City Service: 23% of complaints (17 articles)
+    • Graffiti / Vandalism: 11% of complaints (8 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

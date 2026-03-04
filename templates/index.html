@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>City Complaint Dashboard — MyCity311</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0F1117;color:#E2E8F0;min-height:100vh}
+
+/* ── Header ── */
+.header{background:linear-gradient(135deg,#1a1f35 0%,#0d1229 100%);border-bottom:1px solid rgba(255,255,255,.08);padding:20px 28px;display:flex;align-items:center;gap:16px}
+.header h1{font-size:1.25rem;font-weight:700;color:#fff}
+.header p{font-size:.78rem;color:#718096;margin-top:2px}
+.badge{background:rgba(79,140,255,.15);border:1px solid rgba(79,140,255,.3);color:#4F8CFF;border-radius:20px;padding:3px 10px;font-size:.7rem;font-weight:600}
+
+/* ── Stats Row ── */
+.stats-row{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;padding:24px 28px 0}
+.stat-card{background:#1A1F35;border:1px solid rgba(255,255,255,.07);border-radius:14px;padding:18px 20px}
+.stat-card .val{font-size:1.9rem;font-weight:800;color:#4F8CFF;line-height:1}
+.stat-card .lbl{font-size:.7rem;color:#718096;margin-top:5px;text-transform:uppercase;letter-spacing:.6px}
+
+/* ── Section headings ── */
+.section{padding:28px 28px 0}
+.section-title{font-size:.8rem;font-weight:700;color:#718096;text-transform:uppercase;letter-spacing:.8px;margin-bottom:14px}
+
+/* ── Charts grid ── */
+.charts-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;padding:16px 28px 0}
+.chart-card{background:#1A1F35;border:1px solid rgba(255,255,255,.07);border-radius:14px;padding:20px}
+.chart-card h3{font-size:.82rem;font-weight:700;color:#CBD5E0;margin-bottom:16px}
+.chart-wrap{position:relative;height:260px}
+
+/* ── City table ── */
+.table-wrap{padding:16px 28px;overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:.82rem}
+thead th{text-align:left;padding:9px 12px;color:#718096;font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.5px;border-bottom:1px solid rgba(255,255,255,.06)}
+tbody tr{border-bottom:1px solid rgba(255,255,255,.04);transition:background .15s}
+tbody tr:hover{background:rgba(255,255,255,.03)}
+tbody td{padding:10px 12px;color:#CBD5E0}
+.city-link{color:#4F8CFF;text-decoration:none;font-weight:600}
+.city-link:hover{text-decoration:underline}
+.top-cat{display:inline-block;background:rgba(79,140,255,.1);border-radius:6px;padding:2px 7px;font-size:.72rem;color:#4F8CFF;white-space:nowrap}
+.rate-bar{height:6px;border-radius:3px;background:#4F8CFF;display:inline-block;min-width:4px}
+
+/* ── Heatmap ── */
+.heatmap-wrap{padding:8px 28px 28px;overflow-x:auto}
+.heatmap-table{border-collapse:collapse;font-size:.72rem;white-space:nowrap}
+.heatmap-table th{padding:6px 10px;color:#718096;font-weight:600;text-align:center;border:1px solid rgba(255,255,255,.05)}
+.heatmap-table td.city-label{text-align:right;padding:5px 10px;color:#CBD5E0;font-weight:600;border:1px solid rgba(255,255,255,.05)}
+.hm-cell{text-align:center;padding:5px 8px;border:1px solid rgba(255,255,255,.05);color:#fff;font-weight:600;font-size:.7rem;min-width:52px}
+
+/* ── Responsive ── */
+@media(max-width:800px){
+  .charts-grid{grid-template-columns:1fr}
+  .stats-row{grid-template-columns:1fr 1fr}
+}
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <div>
+    <h1>City Complaint Intelligence</h1>
+    <p>Google News · AI-classified · <span id="city-count"></span> cities analyzed</p>
+  </div>
+  <div style="margin-left:auto">
+    <span class="badge">MyCity311 Platform</span>
+  </div>
+</div>
+
+<!-- Summary stats -->
+<div class="stats-row">
+  <div class="stat-card">
+    <div class="val" id="total-cities">—</div>
+    <div class="lbl">Cities Analyzed</div>
+  </div>
+  <div class="stat-card">
+    <div class="val" id="total-articles">—</div>
+    <div class="lbl">Articles Scanned</div>
+  </div>
+  <div class="stat-card">
+    <div class="val" id="total-complaints">—</div>
+    <div class="lbl">Complaints Found</div>
+  </div>
+  <div class="stat-card">
+    <div class="val" id="avg-rate">—</div>
+    <div class="lbl">Avg Complaint Rate</div>
+  </div>
+</div>
+
+<!-- Charts -->
+<div class="charts-grid" style="margin-top:8px">
+  <div class="chart-card">
+    <h3>Top Cities by Complaint Volume</h3>
+    <div class="chart-wrap"><canvas id="city-bar"></canvas></div>
+  </div>
+  <div class="chart-card">
+    <h3>Complaints by Category (All Cities)</h3>
+    <div class="chart-wrap"><canvas id="cat-donut"></canvas></div>
+  </div>
+</div>
+
+<!-- Heatmap -->
+<div class="section"><div class="section-title">Category × City Heatmap</div></div>
+<div class="heatmap-wrap">
+  <table class="heatmap-table" id="heatmap"></table>
+</div>
+
+<!-- City table -->
+<div class="section"><div class="section-title">All Cities</div></div>
+<div class="table-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th>City</th>
+        <th>Articles</th>
+        <th>Complaints</th>
+        <th>Rate</th>
+        <th style="width:120px">Rate Bar</th>
+        <th>Top Category</th>
+        <th>Generated</th>
+      </tr>
+    </thead>
+    <tbody id="city-table"></tbody>
+  </table>
+</div>
+
+<div style="height:40px"></div>
+
+<script>
+const CITIES = {{ cities | tojson }};
+const CAT_COLORS = {{ cat_colors | tojson }};
+
+// ── Aggregate ──────────────────────────────────────────────────────────────
+const slugs = Object.keys(CITIES);
+let totalArticles = 0, totalComplaints = 0;
+const catTotals = {};
+
+slugs.forEach(s => {
+  const c = CITIES[s];
+  totalArticles   += c.total_articles   || 0;
+  totalComplaints += c.total_complaints || 0;
+  Object.entries(c.categories || {}).forEach(([cat, d]) => {
+    catTotals[cat] = (catTotals[cat] || 0) + (d.count || 0);
+  });
+});
+
+const avgRate = slugs.length
+  ? (slugs.reduce((a, s) => a + (CITIES[s].complaint_rate || 0), 0) / slugs.length).toFixed(1)
+  : 0;
+
+document.getElementById('total-cities').textContent    = slugs.length;
+document.getElementById('total-articles').textContent  = totalArticles.toLocaleString();
+document.getElementById('total-complaints').textContent= totalComplaints.toLocaleString();
+document.getElementById('avg-rate').textContent        = avgRate + '%';
+document.getElementById('city-count').textContent      = slugs.length;
+
+// ── City bar chart ─────────────────────────────────────────────────────────
+const topCities = slugs.slice(0, 15);
+new Chart(document.getElementById('city-bar'), {
+  type: 'bar',
+  data: {
+    labels: topCities.map(s => CITIES[s].city),
+    datasets: [{
+      data: topCities.map(s => CITIES[s].total_complaints || 0),
+      backgroundColor: topCities.map((_, i) => `hsl(${215 + i*8},70%,${55 - i*1.5}%)`),
+      borderRadius: 6,
+      borderSkipped: false,
+    }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { ticks: { color: '#718096', font: { size: 11 } }, grid: { display: false } },
+      y: { ticks: { color: '#718096' }, grid: { color: 'rgba(255,255,255,.05)' } }
+    }
+  }
+});
+
+// ── Category donut ─────────────────────────────────────────────────────────
+const sortedCats = Object.entries(catTotals).sort((a, b) => b[1] - a[1]);
+new Chart(document.getElementById('cat-donut'), {
+  type: 'doughnut',
+  data: {
+    labels: sortedCats.map(([c]) => c),
+    datasets: [{
+      data: sortedCats.map(([, v]) => v),
+      backgroundColor: sortedCats.map(([c]) => CAT_COLORS[c] || '#607D8B'),
+      borderWidth: 0,
+      hoverOffset: 8,
+    }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: {
+      legend: {
+        position: 'right',
+        labels: { color: '#CBD5E0', font: { size: 11 }, boxWidth: 12, padding: 10 }
+      }
+    },
+    cutout: '62%'
+  }
+});
+
+// ── Heatmap ────────────────────────────────────────────────────────────────
+(function buildHeatmap() {
+  const table = document.getElementById('heatmap');
+  const cats  = sortedCats.slice(0, 10).map(([c]) => c);
+
+  // Gather per-city counts
+  const cityRows = slugs.map(s => {
+    const city = CITIES[s];
+    const row  = { name: city.city, slug: s, cats: {} };
+    cats.forEach(c => { row.cats[c] = (city.categories[c] || {}).count || 0; });
+    return row;
+  });
+
+  // Max value for color scaling
+  const maxVal = Math.max(...cityRows.flatMap(r => cats.map(c => r.cats[c])));
+
+  // Header
+  const thead = table.createTHead();
+  const hr    = thead.insertRow();
+  hr.insertCell().outerHTML = '<th></th>';
+  cats.forEach(c => {
+    const th = document.createElement('th');
+    th.textContent = c.replace(' / ', '/').split(' ').slice(0,2).join(' ');
+    th.title = c;
+    hr.appendChild(th);
+  });
+
+  // Rows
+  const tbody = table.createTBody();
+  cityRows.forEach(row => {
+    const tr = tbody.insertRow();
+    const td = tr.insertCell();
+    td.className = 'city-label';
+    td.innerHTML = `<a href="/city/${row.slug}" style="color:#4F8CFF;text-decoration:none">${row.name}</a>`;
+    cats.forEach(c => {
+      const v   = row.cats[c];
+      const pct = maxVal ? v / maxVal : 0;
+      const td2 = tr.insertCell();
+      td2.className = 'hm-cell';
+      if (v > 0) {
+        const alpha = 0.15 + pct * 0.75;
+        const base  = CAT_COLORS[c] || '#4F8CFF';
+        td2.style.background = hexToRgba(base, alpha);
+        td2.textContent = v;
+      } else {
+        td2.textContent = '';
+      }
+    });
+  });
+})();
+
+function hexToRgba(hex, alpha) {
+  const r = parseInt(hex.slice(1,3),16);
+  const g = parseInt(hex.slice(3,5),16);
+  const b = parseInt(hex.slice(5,7),16);
+  return `rgba(${r},${g},${b},${alpha})`;
+}
+
+// ── City table ─────────────────────────────────────────────────────────────
+const tbody = document.getElementById('city-table');
+slugs.forEach(s => {
+  const c   = CITIES[s];
+  const top = Object.entries(c.categories || {}).sort((a,b) => b[1].count - a[1].count)[0];
+  const topName  = top ? top[0] : '—';
+  const topColor = CAT_COLORS[topName] || '#4F8CFF';
+  const rate = c.complaint_rate || 0;
+  const barW = Math.round(rate * 1.0);
+
+  tbody.innerHTML += `
+    <tr>
+      <td><a href="/city/${s}" class="city-link">${c.city}</a></td>
+      <td>${(c.total_articles||0).toLocaleString()}</td>
+      <td>${(c.total_complaints||0).toLocaleString()}</td>
+      <td>${rate.toFixed(1)}%</td>
+      <td><span class="rate-bar" style="width:${barW}px;background:${topColor}"></span></td>
+      <td><span class="top-cat" style="background:${topColor}22;color:${topColor}">${topName}</span></td>
+      <td style="color:#718096;font-size:.75rem">${c.generated || '—'}</td>
+    </tr>`;
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,109 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — LOS ANGELES
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 150
+  Complaints found  : 84
+  Complaint rate    : 56.0%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   24   28.6%  █████████
+  Street Lighting                     20   23.8%  ███████
+  Graffiti / Vandalism                12   14.3%  ████
+  Other City Service                   7    8.3%  ██
+  Noise Complaint                      5    6.0%  █
+  Sidewalk / Curb Damage               5    6.0%  █
+  Trash / Illegal Dumping              4    4.8%  █
+  Pothole / Road Damage                3    3.6%  █
+  Sewer / Drainage                     1    1.2%  █
+  Downed Tree / Debris                 1    1.2%  █
+  Abandoned Vehicle                    1    1.2%  █
+  Public Safety / Crime                1    1.2%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Pacific Palisades residents sue over water supply failure"
+      https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZHN3TFpBSExXS0x5ZVQ4Ql9HSzNJeDNTSXFSNXhLeEpnUlVBcGMxbWZMQ2M0a0NEcmU5Z3lTR2RIOTl5YkU3VkhaZWk4U1RKWE5kUjREbnoyNkdQanNudXZZUUc0THVsUHBTMXNLVUVsWDNmWFY5cEtTX0ZUV0lxWlREUWY3cF9DQmZoN1liZXNFLW5RYUYtaWJJNjJLbFVwRUpQS29RZEZuQUhNNmJSYkZOSlZ2ZVJ3Yy16R0t4ZGFSUTVqQzdkREFOT25ySGlteWktVDgxc3lacEhmUjFGNEhHTmpBeVZrdDRn0gHzAUFVX3lxTE9VcHZPaEhlVFB1dkZ5eDVlZVRjMGI5aTM5Q3V5UFdqaU10ZUlnNllmVnBGVFpZTkV6VUtudEZWYmxTM0xHUWVFVjJlcE5QQThSZm1jWXpqcXdwTXFEeFVvYjVzcFFCSHRZU0ZJekZKLU9neU8ta3Fkc2Q0SGNJOFdlMWNIeFRpdEd1VWlwdjJwRXA5NkJYZmlvbGRPZ3BKWGNlamRqSnVseDFmN1pOempNc1NKTUtfMGF6OTBPd21FN1JrZXpiYmxxNzY1ZGUxVUJjRHRQMzlMX2tfRU91TEpVSDNoeDFETjlfYkJqcGNvSE5rNA?oc=5
+    • "Large water main break floods streets, impacts residents' Thanksgiving plans"
+      https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmxTSDlSX1J2SGRDUXFCS2JLLTlVdmRjYUQ3X2U5MFpXWUdOVjFMYUk2a0p2WGlNTU5KTU1CVndscDAycU1JTnM2VHNUbjFmdjhhOFJtb0Y2OTR5SWpsY3BDZEo5UUt2eVQtZDczNVpsdGpKTmNVemxmTG0zampfZk9YUmI4UW9zVXFJYnRkd0dkOHQyUkltYVBwYWVHUnhKVU8tM0F3dEJIOEpmaGlSZ2k4WldkUjIxNmU4dWhYaUgxdlHSAcgBQVVfeXFMUEVVa2NLSlpUWEIyam9iU0VFSWlwd3FqVUxCTnp1V2R1Z2ZhaXZ1SmpZMjhNS2J0NGpyMlV0bEVpeF95T1pnQnNkNUpRQ2RPT0Q4c1hsb0FWbWpxUVFrbzBVMWxKd2NFX1F5YnBvTGFOTlFrb1BOTVZOYURqNGMydnlBSHhPTndJMmhoM3dsYWFJelRKUWV6dHdlbWloVEplbjhpeXU4Nk9sbUlZVjR0WjRaWW42aVJnbVhYRHVOeDlkcTU4RnFVd0o?oc=5
+    • "L.A. tells residents to turn off tap due to water issues"
+      https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzZNdzRYalR6c0FmeFBUQmhxM1dRWHJjUld0R2tFMGI1WFI1Ui1DYlZEX21kOEFaREVRcDZPVXp4TG9WUmE0anM2UHI0b2tidlVIekozWFlYd2JadG9GOTJFcVVsazlpOUIwbGY5UEFOWURMalhnSXRVT1VuaDFOMXlYZmZmWWNkanNPTHQ4cTYzUXpfWmRUSk9HWEk4NXZyX1p3ZmU3TWFwVkVDbmlMb0t4OXVtcDBH?oc=5
+
+  [Street Lighting]
+    • "LA Council seeks to restore utilitarian street light infrastructure"
+      https://news.google.com/rss/articles/CBMirwFBVV95cUxPQkFCU29GQjdRbG90a2J3VjBDODZtNFRNQzRTX2ltR0F3SmhjQkY0enhhdzJVbFRtZDF1VTAyZ0xCeE5HdzMyRkJtbnVxdnZWYzdWNkJyako5cldweGs5OTNONm1TMGthVmJNVkYwYktmWUpfaFpTMzRsT2VmWG5iZVNqV0VsazBCeENNdXMtQXBtblU1aFBNUkJFaWJVNnV3RFUyMzRXT3VIUzdxQ3JB?oc=5
+    • "L.A. streetlights take a year to fix"
+      https://news.google.com/rss/articles/CBMitgFBVV95cUxQblpVNU9TM2RLQUtuZy0yZ3pZbHFUaExXa09hZ2xfOVdXRFhXdmlsb3RjLXhrZE9wSWR3eGpXY3Rjei0yQ1FHZmNWTm9DYXJvbnUxTU4yWGN4ZExiczRoQlN2M1oxOVlWeU9xQV85VlBXUVpXUjMtYzFzX2tmbGVVUmxaaXU5LUdHOUZtU2Z1Z3VuQUtCQ3hMTXhNNnBBSk82Uy1uNXpTSnZSNzM2a3NuRkVsLUFTZw?oc=5
+    • "Property owners questioned on paying to improve LA streetlights"
+      https://news.google.com/rss/articles/CBMib0FVX3lxTE5MN19QUGc5cmtyS01nRjY4b19rMjNDbFkzbG56VjhVVEJwNEhkTkRHdk56SVlnQk5lcFVUZjZ4YWMxMWRObjZ1QUg2TV9vS2VBN3l5OGZCQ0dBX0JlN2NBWHZZQV9IU3pOcjJrdWdyOA?oc=5
+
+  [Graffiti / Vandalism]
+    • "LA's 2nd Street Tunnel covered with graffiti hours after cleanup"
+      https://news.google.com/rss/articles/CBMiygFBVV95cUxOTTlRMmZLZXpQNjRBMl9SbkVNQWRKeEowSlRDSHIySVdkNnNpWHY2aHZ6UDB4RXdIMkVjVkRaU1dmVUdlUEUybnZKM2JFNEIxSzAzbk1BbGQzbExReVE2WGYxaDF6elRHNlJmVjBpNjVuNU9OZ3ZEVnlOdW52SU1xM0ZuWV9abUJFc203VWRDX19ybU05ejh2SjhNZ29YbFZROFU1c1pxcVdfS21JTGI1MzRLYmVhc3ZmeXkxQjQ5RGlCTTRCSFRFQWx30gHSAUFVX3lxTFB3dmFDTUMtZTlISjZ0VHNhejNPc3dDV0tybzlONHpHb19UcHA0NkVMQUkzVUlNS3M5TjVzYmJPa0s0Z3ZWSDZuZ21neUxyU0dtSkNVY01teVNqNGZZLTR2cGxpYXlqcFA4M0haQ2hnTlNHVTdxQVEwUDhmeUNYZjN2akVmLWRDSklhT2RBVHkxYmZneDVlMll4YldGM1FNREF1bTE1OFVwbVlpQTBYdG9EY1QtaWtaOVdqd2lRQnBxME9VanAwakN5dFhfbWdPZDhqZw?oc=5
+    • "Temple in Northridge defaced with vandalism"
+      https://news.google.com/rss/articles/CBMivAFBVV95cUxPZm5rOUJFWURsa3ViQTFfWDFpbXVxVGl4RUR4eC1BSjY2blJHWFZxSlowWlZCT3lkNU5YTnpUb01BZzY0UVVxN2ZLRi1HM19rVlZFRHNuOWZ3TFdadnpJNTcxYTI5eVNWaE5VdU80RExvb1FUdVlDenZ6M1dUZzU0MTEwY095c1hXUWcyLXRkREpkTW55UUVsVVNYRjZhWHFNbWNxM1VYbU5SenpkbE4wZml3NlVlcEdkTDhiSw?oc=5
+    • "Jewish temple property vandalized during Los Angeles fires"
+      https://news.google.com/rss/articles/CBMijAFBVV95cUxPRVlNU1dsVEh2b2NHNnB1Qlo4MDlZdDc4V1Z5TllvSWd2WV82SW0xWTZ0VWNEdnExY1R0UEhIUkVqbkMxU0tjSkc5Y2g0a2N0cjBTWTJXcUFGckg1cEY4c2pKRkdVZjcxMDdvdzM1NnZOTFZQbHJMQXhtckFtUGI5Qk5WdHZ3TldiUW54UQ?oc=5
+
+  [Other City Service]
+    • "Stinky landfill torments neighbors in northern Valley"
+      https://news.google.com/rss/articles/CBMikAFBVV95cUxPaS0xLThpZkp2Vk02cU9rS3lhNktsRzNvZ1pyelIwUS1VRDNPU1U5U0hkb2liT1R0bDl0T3FDYjlqYVZONWs1cnZzRGxsNURaNEI3S0pSVlVoMDZDTVBCci1QaW5ER181c0JPV3ZCSDU1MEJLTVdCdDhJUTRRZ0Z4UXYxcUtoWFNRQlBXX2FJSE8?oc=5
+    • "Employees documented abuse and filth at LA tiny home villages"
+      https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZEVubk1lV191TF9kT0hDX1J4VkdQSFJTUmRUZW0wYVkzS2RaZE5kYTlPSUZFZ1M3YTFUXzBnclZfMTZpZHp4VmRvU0FiNlNCVGwwam5PVFpvRU14WG5Ta1ZqV2dqYktjcTkzQ1lzbDBwSUxuQlNDQmQyUkJCZ2lpZ0p6cC1LZUEtWVprOWZCQTBibzR5UmNQdEtPWC1UWjFrci1HQWs3cktkMTkwYmZnVENsbTRWOVZVTEdZ?oc=5
+    • "LA City crews clean up homeless encampment after resident complaints"
+      https://news.google.com/rss/articles/CBMirwFBVV95cUxNNjI3NENiU21rdl9UMTliTmx4TDNIU1ZGTlZFZ1ZNbmpWQ3pUTTdvUFpJLU96aEZOeEtUbkhnR0NESDYzMm1rQjlHQ2p5bFJnQ2xkS2ZXbnpYc2FmNHZrUW1FMnE1blZxUUhoSFNIUTRVRlp5Umw3UUVRM19Vb1o3OHVKQWd2SzdlOTV4UV9kUnVJNFotelNSOVNib2RmWm9mcnBNWnVHcDlvcGFjdC000gG0AUFVX3lxTE95SURocjNvMmNyZHpSVGpfTDNuZGZ6bmdHOFNzUmJmQU9ySWhfWDJXRXU0WEhGYXRyY0pBZG1vLXAwUEJKbkxtcEdHbmpEb3Npc3dsMXF2bURfcFFoZjM4MmN6ZlZLWlVJVWliOVdkWVRSTGY1eTJIYzBwSlhqVk5jZ1lvTm1SQjNKQl9YT011d2hyMjJCeXF4aE9tOXZISW1qdE5SUVV5blVyUXZ2SUgtcTQyMA?oc=5
+
+  [Noise Complaint]
+    • "Ghost kitchen delivery drivers have overrun Echo Park neighborhood"
+      https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOGJTTndFOVNXVnJ0djdPSFBHSmlKUDI2VkRaa2taRWxoek81a1hpTEZOMXBFaURJUF91Wm5CSUotbHM2V1JzT0swcDFmM2FpUmpBX2M0Wm5LYlNRc05jNDgyWEx2RnBUeWJQZ09Hb2tLVmJ3RzZTV1dKNmNwR1ZSTjNMSFlkenEwektNcFpkUzVYdlZFSkhNQVdydVJMTGt1OHRaT0JLNWE3MUZWaGFGdnVGeC0tb0hXZGhWRzZiaUxuaGRYaDJvMW0yZUxkVUNZTVBfNkZsMXVpWlIx?oc=5
+    • "Neighbors fed up with noise pollution from Waymo cars"
+      https://news.google.com/rss/articles/CBMikwFBVV95cUxQWm5BZUp0NEh0VzRjdzRpR09oRTJLYlg4NFZZT1FqaXZiNkdZS2pwMHdyYXpsTDBNUWU1V0RNdkN2R200cUlyM2NxeUUxb0t4YW84YkZPQ2VaZXdxb3RnV3pOS3ZraDdacHh4NWE4TFJ4RzJ4NTNsWVZTZzY3ZExjUWtPVFdJLW96MFRWVUNzLVdrOGPSAZsBQVVfeXFMTVBkU1JqTEJqcE81Wl9veW1MTTdjMTFuTVkyNDZ2cXhUZVNlVC05eGhLamtUM3JweGZrbXhYN3lqOWE3MG5lRGlIWHZfQlNxMHBYOV9UZjgtQzRMeWNpeTJ5c2V1b3k1dU5wczRSckFtb3FJaFZMNmZkME84TzI4WVVIbFFGak05ZV85RUwzdV9aYnJ3alh0aUdBUms?oc=5
+    • "Van Nuys man arrested for blaring horns, alarms on Peach Avenue"
+      https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFpQZ1ZDVDlsclJmNEVZOE0wcmlrMWZEUWI2aHdEMzNJdjIwaEZxYUpnRHNRMDhaTW9FNnNSUkJ0bWV2ci1ueWExdW9fS1YtTHYxdmR6QTZNeFlmSE9sZHF2NVRFQkdHSWhKWnQwOG5tek9lbEZtdnQ4QU1YUmd6TGtjcWRlODFFRU5hV0VvaGtncTFQdUs4QkFjTHFuTDhSTk1rel9rZml1c045eTVkVjhlMUR6M213V0NBaGFLdWtMSzZXSndn0gHMAUFVX3lxTFAyaEZiNnIta2pJdHJLeWZleUIzb0oteFFhd0dJaTBrVXJOM3F4eE9VZEhMVVlkdGdpX2ZKNGsxcldiWW9ORFJIMlFJRUowUjBIQkZISVFNYTBWMTZUdE9mUV9nTmdMSldoMFhlUVM0Z0ZTYjBHWmdybzRjOFVyYWs0ei1EMzhHaGVVc2RaajB5b2kwVWZTVVg5eDAzd282ZHEtWFVKcHZ1azJxdV9DaGE4SWJDc0FpOVRKNXJJUG4wQmVzQ0YzMV9wU1daMA?oc=5
+
+  [Sidewalk / Curb Damage]
+    • "Woman, 85, waiting 8 years for city to fix sidewalk"
+      https://news.google.com/rss/articles/CBMijgFBVV95cUxPUjJhVG4wMkhTZ1dxc2Y3RjZUekM0VDVTVFN1X0hqNWlHM0NuTTZxMmZWWHExeGkyT095Qkk2YkpnUVFnekVrczNvaERubkw1blMtUm0tMDJydW12OENzdG9XN2RxVVRTa2FHUG42NlNqRlpvY3U3VFFoNE9naGlQSW9ZaGM3bGlaemhaNlpB0gGTAUFVX3lxTE03SUdENEFuOU5sU0hnM2V0NnFSeEpFZ1Y3bVVJeFVGbUo5SWNRZl9MVkdVV3hqYllPUlZadWhPSjJlc2hjX1AxcF8xLXBQTDg2cEl0NnBENWI0WllDX2dqWU5zMmRZMTdrd3ZxSk5oYmJFWFV0bEFPQ1hFMnl0S1JOcDBpcmd1RHZEbG05Q1d2RXM1dw?oc=5
+    • "Woman reaches $7.5M settlement after sidewalk fall"
+      https://news.google.com/rss/articles/CBMigAFBVV95cUxPVTlrU3ZNQUxqS2kwcjJnZjE5ZnJaTXhFLVZNUHRNQ2s5YWxiNkRxYllvUnlxT0x2cTlPc3dleDEzRUduS09vSkVUVGY2ZEs0cVA3NXdsWFNBaUp4NEhkeG5uMFFrczExYzA1X0FMM0Ewank3X2dMRzNJTWVnUWRrb9IBiAFBVV95cUxNU3RseHN4cnNkaDJMSzN4d20xS1IzWnNMMGxCQ1A1T0xwcER1MzB4MXlxNkxJbHh5M3dUQWd3c2twSXZFR1kxTGZ4WTZtZUhKcDdvN0FlZ21kdzZlOHB3MnFnQ3d5UksyeGVUY0E0cDdvNHUxa1JjNUh5M0loZU9DWTZIMVVTV0dV?oc=5
+    • "Teacher wins $7.5M settlement over fall on sidewalk"
+      https://news.google.com/rss/articles/CBMixAFBVV95cUxQUjBUbXB1S28zRDJwaEVjZjNlRFY2Zl9QYmtQV0JHUG5MLTY3SU9EaENDSDNCXzdGWVNHeG5kdUNTSVFxcnZ6VXo0WTdrUEI5dWRrZ2RSQ2N1Q2M0a3VUcm9LRlBLLVVES2tZR290dkRaQjh6LXotcUwzTFRKOUZVbUdHU3pxd08tQUZkNUZZQWJuUFVFQ0haQkIyV1VVVkRmVmt0YVRUdUhRQzFqbTA3MURpNGFkbmd3SkNqQjdoalRkeXBy0gHEAUFVX3lxTFBSMFRtcHVLbzNEMnBoRWNmM2VEVjZmX1Bia1BXQkdQbkwtNjdJT0RoQ0NIM0JfN0ZZU0d4bmR1Q1NJUXFydnpVejRZN2tQQjl1ZGtnZFJDY3VDYzRrdVRyb0tGUEstVURLa1lHb3R2RFpCOHotei1xTDNMVEo5RlVtR0dTenF3Ty1BRmQ1RllBYm5QVUVDSFpCQjJXVVVWRGZWa3RhVFR1SFFDMWptMDcxRGk0YWRuZ3dKQ2pCN2hqVGR5cHI?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Long Beach pays millions to clean LA's downstream trash at critical juncture"
+      https://news.google.com/rss/articles/CBMidkFVX3lxTE1BczJtY1RMWVFwVkhoeWl1N3JBTndDdy01c2xkRFc3bENVZXB1dEgtaWtvYWl3NnQ1NUJUNG1MejAya1FiOUNQMExMclIteEhxNHlwcTJGdVppS0NiZXJfZU5kbUVLWkVHWFdOdTd4RXR1U0xlbEE?oc=5
+    • "Green bins clog L.A. curbs as organic waste program overwhelms"
+      https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1pqRjlsY1J2QjBBeXBFYmFJSDROcGd5bVRWQ3hQcE4tYVF5MjlDVFhUQWduOWRvNjdxTWFJLVlaeWZud2kxQnI4OURDekZPUWhiMUJCSHZERUVJRDJsTVRrVTBfems0QWFVMzdXc0hGaE9XQmJQMi1vdWNPenhHRTlNanJ5NEhacmktUVhfcXRaRUNEeG14SDVMVHF5Q1lmdmlBS25WSUxjYWlMZElaRTZWbDgxbHItNzBSSHlJWjNhTTB1MkE?oc=5
+    • "LA trash fees could increase by 54 percent"
+      https://news.google.com/rss/articles/CBMinwFBVV95cUxQSUVUSUM5TUNaM01ZZk5aRmg5VUhLdkpyZUNNQS0xdjFrVGw0Qk96c1hvOFRlb21wVnBzeTM2QU1mYUFzQUk3ejd3elNMOGpMS3Zab2J4Zm9zZFBjcDM1eXRrZ0hPUEIyMWduUGZEZjg5N0lsaDA4NkVQN2ZIeDJFdElvY05NcXBLTWRmT0o0SlpYR254RlA1UFRXcHZCeTDSAacBQVVfeXFMT3JvYmlxM1JnXzZBUDRndm0ySnBWQ18zN3k1c0R0Smx0RzJhSGlqRnhsWUhUMm5JMV9QdWFVeXd0aEtUamY0dld3amtEUm4wMk5nUkFCcTM1bTFNMWczOFFPSHlLOUROenAyVDJqRjgzTnBzbGlMSWNTUk15YW9VWHFVcjVkTzRQcFlWOHdtQ2x0aGpNQjVFMnVYbmJVcXJ1WHk1Q1FOMUE?oc=5
+
+  [Pothole / Road Damage]
+    • "Storm-caused pothole damages more than 15 vehicles on South La Brea Avenue"
+      https://news.google.com/rss/articles/CBMisgFBVV95cUxPMS1uYUlBakhNU2p3aXYyWDJvTmZTX2paNTcydTFPUTFYZnlwWVRFX19rc1ZNM0ZUcWVvMFpKUnJXN3ltSFh0UllUZm1oaGdpVkNHV3NzZXlBcGVkc05QUTc4bWV5dlQtOFQ4R1FnSlF4SXRYektoTmtHV1UzSGY0bFdSRlRVUWI1dnNMaHYydUpCTWZSWUc4WVhvUW1DUDZncUp1MHViQURqcUhnWDUxeHBR?oc=5
+    • "LA's streets keep breaking and city promises fail to address issue"
+      https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ0RjUHBDNTdpMXA1YmhSZ2xwc2x2dHJzTktIY3A0alZMbU9YOW8yMFZaQ3RCa2NCUGJkWTc1YnpXcWZXYVc5N09idG1BdXl5WDg5Q0RocEdFMEtleUtqdVYycXdnQjg0dE5yYzI3MUYzU3pGcmJwbDN6aFE4WWdwQlY0Q1dUdkhnc1c2LWZleUl1NTJWRmxHbVlPVW5rUlgzTWtEZDR4TmVzc0NxOXlwUHVFVFFJWHc?oc=5
+    • "Potholes across Los Angeles frustrate drivers; widespread street damage"
+      https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGtxQklyOE5VcVpLcW1OYWx3LWlPTjJRZlBtckctLXd5NDV2NGRyV3BGTnpJcHBHdjFUMVdueW9IbFNlb3Z6SlBVV2F6dUVuLTVUT1VnSFRGTmpqM0paOUs1VFA5YUFvUU55SHQ4WVU3ZjFuUlJBVXp5ZThHeU1Ib3AtMjhCNEdkVTZyTzZLU1ZUcGdxUVdrdHZTNE5kMHpqdkRzenFSaWx4aVp4WUZYcGNzSdIBuAFBVV95cUxPS3pTVkptOWZTbE85YWhNR05zUUlvUW0tVUtsMGNTU2FtSmpOMEt1UUFIRTNaT3dFMGoxS1ZwWXludl9mbkxBVTJzcnhPTmJEbjQtWktLQ05IdkRrYkFlVXB1YnM0bTN2SU10aktKRTFZenVPNzVlRU9sVFEtRVpOV1V5N25LQ0R3VjNTeTJHMGl4V1Myb2dwVG11WkJTTzdrODg4UFpKUk5YdlhTMjV4SmZFejlKcXJr?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 84 news articles reporting
+  citizen complaints about city services in Los Angeles.
+
+  Top issues:
+    • Water / Utilities: 29% of complaints (24 articles)
+    • Street Lighting: 24% of complaints (20 articles)
+    • Graffiti / Vandalism: 14% of complaints (12 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

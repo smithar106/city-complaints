@@ -1,0 +1,89 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — EL PASO
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 125
+  Complaints found  : 88
+  Complaint rate    : 70.4%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   66   75.0%  █████████████████████████
+  Pothole / Road Damage               10   11.4%  ███
+  Trash / Illegal Dumping              5    5.7%  █
+  Other City Service                   2    2.3%  █
+  Public Safety / Crime                2    2.3%  █
+  Street Lighting                      1    1.1%  █
+  Sewer / Drainage                     1    1.1%  █
+  Graffiti / Vandalism                 1    1.1%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Second water main break as rates increase"
+      https://news.google.com/rss/articles/CBMiVEFVX3lxTE82MVFlWUV6NnJLQ2ZjOFFYZjVDa2U2UUF6MWljS01kN1U3YmprOG9zSXRSNU5FNmxVdHFCRGdoNXNPUEwzWk8xWFU1b0Fzb2hLSUwwNg?oc=5
+    • "El Paso residents react as utility rate hikes add up"
+      https://news.google.com/rss/articles/CBMiigFBVV95cUxOQWw4Z0RCaHZ0Zjg2dF9rdlhOcmRiR0pnZlZNS1dJSm1Bb21TT01kenNqLU9BRnFhQUZlS0xwQmJNNmF1Nlp5WEppMngtdmdsNzA5dTlQTG5xbFZMV3d1SHc4aDZ6enVaUF9wd1ZQQ2JTMVlTdnFuMDRvVi02WjdReTBieU81OThNSlE?oc=5
+    • "City council to decide on gas rate hike"
+      https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTItYW5iZzlRbWlHcG5laEFXUGpPaUR6b0Vmamdwd0RZTjllQi01YVhqc1o5eVoteEF6OGVDZ04wMk1Sdlc1ODRndmtibWt4TlMyWGxnVnNZaTBJZVFTVUhoS3dNeXhkdGJrSTVOMi0tQUN5Rnp5Z3MzRjRYQktkLUZrZEZoeVVvTVkxT1A1TlVvMTR1UzRCWUVLMXRCQ2cyYVQ5TmtIeTZyN0sxWWl2R01HRnE?oc=5
+
+  [Pothole / Road Damage]
+    • "Potholes rank among top complaints in El Paso"
+      https://news.google.com/rss/articles/CBMipAFBVV95cUxPanN6M2VwZ3lpQUdfZ1hvT1V6dHVZNHQzSkFJWjFLWEdEbWJmSGJjRU1MTjc2SEJkQmRzLTdzWGdJaGR0cjVPcnNOa0dxcndjanhkTmRzTXpodG12NjAtS0Fwa3Z1Q0Q0OTlDOEFhMkFVUWNQN2NkV3V5Y2RZTGUtTWNzc3FWbGJDZUxhZ2tTTUFqMUlnR2xyN2hScDZHTWlXa3MxYQ?oc=5
+    • "City urges residents to report potholes after storms"
+      https://news.google.com/rss/articles/CBMipAFBVV95cUxQa1RhZzJrRW9pS0tsNWFTZHhYWEU4YkVtbmJjQU95eUVpZ2k4UjUtWW94eVJIUHA4bEJkRGI4UzhsVXN1aFNkV2pKVUNyVHZ3cWFNWjhpdllwa1F4UjlXbXQ1OWRLczBod0wwNHFWNFpvd3d6anI0eE5LV2l0alNvU3JUMXJnSHBYUkVCRzdQY3V0XzlMSlFQXzcxZ1FaMlhKU1hNXw?oc=5
+    • "Street repair plan passed amid pothole frustration"
+      https://news.google.com/rss/articles/CBMiY0FVX3lxTFBha0gwT09JZnFGVjh5dmNnMzBkMUFWazZrRmhqd0RGS2s4bVhfWGdybmVVQTRpYXVxTDdDNU1EdzNTVHEzdEFNYTVjMnd6RnhHZVdFcks4bjBVZEJ5Y0NmUUpnSQ?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Fort Worth reports fewer missed trash collections"
+      https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlVmWXhfSzlmSV95UmQzRTZpM1B5VDR4b3k5NnhvRFVCYWtUOGVhd0tlV3ZwUDVSal9PRlNMME1oX1R1RllnVUMteEVGbGNnSUtYTU9CTUV1NTEwV2xkb0wzZWltLWluYm9UNW44UngwS0lIc2VsREpOLURmZFZtYVlSdC1pT0VhLUg4NFE2UHFnMHpqY2tWbndVM2UxMWZ6NGVhVGRGTEdBdkF2NXRYd1VuaTZfZXA0TjB2TWJPaVJvRzlpNENsM3FQWjU?oc=5
+    • "Municipal waste systems leave gap in sanitation"
+      https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY2VmeFEyZWczaXNaa0JRd0R5aTZJNVNqRDByLWhNZTE5VzIwUkM0NHhIby1wUHlmX1pFMm1taHYxTmt6SGJiLVN4VHBLdnBvQmQtTFNKb1lHb2xHc05nM0JzbWVZc1pvOWUyNzlITHJwU2JoUnhTV25KNWRsUmQtQXVEMDlqbmRKZVJiTW9mX3pDbUViQ1NCdjBaYUktY1pvT0RHWldfNk5reG1CblNkLW00QnpLQ3hvWnV2VHFqVy1hbXRKc0hmaS00Rjl2cnF4b0JhN1JQSkszeDVzM01oM21Gbw?oc=5
+    • "Fort Worth trash pickup improving after complaints"
+      https://news.google.com/rss/articles/CBMirwFBVV95cUxNQTF4LW14R0pxRXhxLTdDWlE4Um1RUHdCQUtTS1R0ZVgtbmR3RkVibnZDdTQ5bEtwRUw5ZkpMaGQ2dmlncXZKZk1UQ0F4Sm1Nc0hSRDVueENPc3BfaXhGOW45U1YyR0E5UjZSclhnelZ1TTF3RGRvbld0ZjZQZ24xSTdzX3pvNTJOc1lSYVE5RXlUMDhDRU8yTnhJc21Ub0xqb29ZWE0yLWpld0dZZGhj?oc=5
+
+  [Other City Service]
+    • "Texas city tops list of US's smelliest cities"
+      https://news.google.com/rss/articles/CBMiowFBVV95cUxNcXdvRUdHVmFaWFY3aWxNU19OT0Z6ZFNWS2xGVmp3UWNhUmxzdC11R1dBeE1icTk3SzRxOExxQnduT09ZS0hwVkp3SGZNWmd0YmE3cERPRTBTak5rbVFMUVc2aXNEMy1KM0NwZTVYRGVGYUk2Q3Y2OENBR3RCZVpoYjhYcTJwYTV1eDQ4Nm5CX2JUYlM2UHRYVW9zY0EzNWg1eHlV?oc=5
+    • "Socorro ends bus service deal with ETA, impacting local transit"
+      https://news.google.com/rss/articles/CBMikwFBVV95cUxPSnVWeGRGcl9SSzI5cWtpb0JSTWlEanlONkxndGpzNWtSaDVpYm5Zc3Z1NkhwNkRpUEJET202eEhRT2Fsc3R1ZzJhdHNjMkdBWG0tUWVocHlNTFllOE9VeVZxUVduUWI5VTh5ZVU4SWpkTjZKZnE2T0dudGFuck9GaEpjU3dURTN2UEdZRUJrYVFyVDQ?oc=5
+
+  [Public Safety / Crime]
+    • "Residents urge action on squatter crisis in Magoffin Ave"
+      https://news.google.com/rss/articles/CBMivgFBVV95cUxOeDZ5elNSbldhY3VueGRSZ1RwVUc0RUhnUzJBRHhrY1A3SkNjd21ZLVp3TjdPYi1SVHhpNEduREZqc1pvZUt2Ukl6WmhQaGY5TXd2ei1ocjBxaHRnT1IweVplRFozYVR6aXhBSmZnSFhiNG15SW9fZV9iZHEwQWM0aktjcWlvWGJ4TENsSEJHMHFrMWRPSlhwZDZZZVZCUERPSzV4M0h5TTJQN0lWTy0tTDJfMDlqdzdxOXVNYmNB?oc=5
+    • "Downtown residents outraged over crime hotspot as city struggles with solutions"
+      https://news.google.com/rss/articles/CBMivAFBVV95cUxQRGVFRnVkc0xWSm1LeHVuVmhGVnZSbmZaSHVrRVdnMy1XbVpkV2dkTnZKUUJBWUtxbzQ1aHhBNThZN01DWFhUXzhvWEtVVE9MNmtaYzN3aFR5cENIeXd2aElNVVhMdG5YY1NMaDFXR2I2a2swYVB6NktEMTZPb0Y5b2xEZVkycUFyTi1xaVdXWWdPX3YxbnY3RzJIdE5CWnZDZ0N6TkJ3eWdiY1JMdFJBYTlwRnlRRlh5RnFONA?oc=5
+
+  [Street Lighting]
+    • "County approves streetlight plan to brighten dark areas"
+      https://news.google.com/rss/articles/CBMipwFBVV95cUxPVVh2YkhKRnNaRkllU1NzYnNYSF9kamJzVTNHZHFBSGk5clFPeFhBMmx6Mno0NjgxdmY2NVhCRG14WFhJdURjZWctZ3pFaG9NN01Rb3dHYjVLWnpsZ2I4UEk4a2FLLWdnQUMzQWtHZHFuZUFzY1RMLWFTcXg5dGM1anBGMVBpaWhKdXoweGR5dGQ5MkRJXzZaU1RycTRJSU42ODVhNDQzWQ?oc=5
+
+  [Sewer / Drainage]
+    • "Flooding impacts 600 homes, emergency shelter opens in Vado"
+      https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEpxQXVUUjVCYXlXQzh3cTQ4R3ZlaU9YbkYxbGdDdTNoeXBWb0lyT1lrQUhFNTNORmViMGx4bks3TFhyQVZHZFZIOHNTcDRDT2RyUkFVUEJCd1RneUZmZDh4QTZFQWFSQzRvVnItdUxoZTViVHBNMWFkc0ZFOTQxSlhzNVlHcTdKOHJXdkx2amRLNlpGUFlaa3R0MnhhLUhSSlRJbzR5ZGNZQWF4T3lCZll6ZEU2Zw?oc=5
+
+  [Graffiti / Vandalism]
+    • "Vandalism reports at Texas and California mosques prompt increased security"
+      https://news.google.com/rss/articles/CBMipgFBVV95cUxQX1ZSYWxSWkowbTNHYmQ5RjJNSnV1MlFhZ2NYa05YQzR2SmFscG5lRUJrRVo1bE5aaXkxVFlRX05XM1QtVk54dVhvZVZGSzJsRGtlcjdtYkpDMWpVRXJnYVZtUzZRMzA3T08wV1N4cVZRd1V2M0hZZVFicmtYSy1Ncm1Sd1dQWVd2dHhUQ1VJVEd1eTZfMlJ1NFd1Zlg2QWptbHNnU2hB?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 88 news articles reporting
+  citizen complaints about city services in El Paso.
+
+  Top issues:
+    • Water / Utilities: 75% of complaints (66 articles)
+    • Pothole / Road Damage: 11% of complaints (10 articles)
+    • Trash / Illegal Dumping: 6% of complaints (5 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

@@ -1,0 +1,105 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — SAN JOSE
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 130
+  Complaints found  : 74
+  Complaint rate    : 56.9%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   28   37.8%  ████████████
+  Other City Service                  14   18.9%  ██████
+  Graffiti / Vandalism                11   14.9%  ████
+  Public Safety / Crime                5    6.8%  ██
+  Trash / Illegal Dumping              5    6.8%  ██
+  Street Lighting                      4    5.4%  █
+  Sidewalk / Curb Damage               3    4.1%  █
+  Pothole / Road Damage                2    2.7%  █
+  Parks / Public Spaces                1    1.4%  █
+  Downed Tree / Debris                 1    1.4%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Residents mount campaign against PrimeWater"
+      https://news.google.com/rss/articles/CBMiowFBVV95cUxNb3lEZGhVWWluZjR3NFVzMDRabUhrUlBQNVJVLW91dkNvREFsWHZLZE9BM215MWtpVlVlWHR6aExfME8za19lRWtrQ0o2NDBJYTNpa01rZzlxXzVZT0ZhcEw0QkRLYjd3dGsxMTBtcTBmeGhybTEyNTFxTnlwRnZWRzBpSFNCNXFvUXpvMFduRVFvZDJCakFYcUtQR3VHOTdkUUtz?oc=5
+    • "Water line ruptures, flooding several homes"
+      https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2pWQVRxUTJJOVNwRzVFQWxDSXJXbk9ibUlKX2JDOTVIYTB3Q0tnUDVVOVpQbmpHZ010VDNJTHJzZGFBU2VuMWZZakxxS3BDTDdKU1hNeVNhZ2hkSTlNTzhQd0ptbXNWU3d1TzJwdnM0MEp2X2dGZ1R5QU1lX3lWVTQwN3h3UjlRcmFfTWZRT0hTRFlnV000cFFpcnF2X1RfcEdJ0gGoAUFVX3lxTFA1b015YVgyOUdYRUpQS2g5eHpFLVFKUkFMREVrQjdVV2RRZHF1c1hSWHJKajFneWo5WVZsSENnUjJtSEFvekt5dVVZYl9TTmpoNUNtWWFqM3R4bVFEd1hYVGVhUFBoZVZrekFhdjNiYlp1eGx4TjVITmR5eVdCQ09hQXZEU0libmgzcU1NbnV1bkpHRTY4OUpmcGFqTnJGQk50Z2xSOWptRQ?oc=5
+    • "Boil water advisory after main break"
+      https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMDBEU3ROODVEVXpidHZiWFh6TndkRkd1VW9zbGY2TGRPN0ZYV29yWFVxcFhTU3J1WERFcnU0ckxTN0dCYjVXdXljZXhFZXFzaFRtRWR6MlVHbzBfdXN2dDJORkxDSnFUa25zNFF1Y2lLUEd4LUdtWHZkb2w0bjhFRGstdFBYR2c1b2pDV2pXbVJWNE5WVHlqZDRBOWhBbDdiN1hqaWxUbDZ6YUpiQ2VwNlVPVEpnTklMc0hhRGNuZ1Zlb3owVEtNcnNjU3lLSWRG?oc=5
+
+  [Other City Service]
+    • "Mayor spending taxpayer money on AI improperly"
+      https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1hnaVpMbG9fRWpHSElpSGxyQ2dSV3dTcmROaGpiTnI0MjJCcWh2c3ZMTzJlMHdtamc2My1lYndHVV83TF9RSnhMZllQVF80N1VFSHdkMnRUSFR0NUpQWE02Nl9IaDdnVi15Tlh4V1UxdGszVXdSNXNZRXJwZEV2YXB5ZkZKMUgzejB5a05ESU9SN2ZHS3BxMEVjSVdtekJYNjZJR3IwOTBqa01PSGFOa0FYZw?oc=5
+    • "Improper disposal of homeless residents' belongings alleged"
+      https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbXNVQnhQRGo5V1BGa3RCRTBrYzBSREt4VjItSkF1UE92blVka3BJWXNqdnVwNWt0MGt6bDIyanlCM3ZTT09mNTYxMi11c1Nfc3RRWFpCTUNmc19VSVFJcXZGcjlIbUZXR2t6YWpocy1WQjluV2xUXzlDNVBUZ21LckVwNmhpXzJoeklpMVNVbEFTNDVueGdTYlVsckhiNnpnbG9mWG45NzhVUHBlZmF4QlVJVjdhSUJ4WjBIVXhhZW9jN3NpZ2hkX2lfMUJBYi1YNmcxYXdiZ9IB3AFBVV95cUxNWk5Wd2MtaEFaWVczYl9rOFh2cjVNRjd3TUg0WWJYSng3SFd1ekFsQVVCcXQxMUJza25PcTlPWXU1TnhDUVh0TmU5NHFwUjltcDU1b2Q4SzNCMUlkUlpjVXFITXZ5Qk9CRVFfV0l2VEFRd1hTUDVOdGtOM1RXR2NudjFoUkhTNDJWWVVIV2NkWm4tUWo5bGlObExJQWRCcE1hYjB0VVpEenYwT2EyT0tBcVNIVUV4a2JNcnoxeDVyX0hZdGV5VjNkLXJUUmt3aTVvc054Q053VTMyTmlQ?oc=5
+    • "Homeless hotel faces complaints from neighbors"
+      https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGhMTUpHQ2ZTaEF2OVZwcVhqdjVXYWw1c1VuZ09aY19HTGVReU9YSzBSOUlKLTN6X2NCWEFRRFJPdF82REV3aGVQRFdzM1ktZnJ1SHVDNnVuMU5ja2FoZTJPUm1xQUd4NHlmQlpGdExJZS10QTFJZ2loSzRrbW4zUlZjbHp3TU9PZWhDN2ZR?oc=5
+
+  [Graffiti / Vandalism]
+    • "Third park vandalized, officials looking at thousands in repairs"
+      https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVRFbHJfMEZUa3N5dS1neENNRjFFWmVYa3U3TS16V19lUXhtc2lYZldmVF8yQlVveU1HYTV5cXRjbUVqUWxtcm5YRFBRR1Q5UDZkd1V1V2FJR2I4Q3U0dXUtTHRiS3hIb0RobmJWYk5WT0dGQlhOUnl4TG9QdTg4TEM0SnXSAYwBQVVfeXFMUGpleHVpTWFJelVpajFSVFlTYUszd1YtZGxSZXNrSUdVUlFNNUY2V1VvenZOWVpXc0w4eGdRcE0yZ19nOUw3X2wxUndIMFVMVmVqa1FuRUw3aVUzME00cHlVTll6UUZiTkEycERpRVozdEpmNDRWb0pKOGxQYzFQWnFYWGkydWpvYWtmTTE?oc=5
+    • "San Jose police arrest 2 suspected in dozens of graffiti vandalisms"
+      https://news.google.com/rss/articles/CBMiiwFBVV95cUxObjk3WG9INHlSUHVteHhpVU5YMzhCUnA5clZtRzBqYVY1aDROVUhacXJFQksxLU1CUG5RWW9NXzkwSE1iQVQ3S0FGMTRsdkh3Nm94MEZwcGN4NkNBZjBWSjRjMGh6cUFPZkh0VUpMVmdLVzNidGdMM2c1NFdjbF8yV0VyZml5TDlZMFFV0gGTAUFVX3lxTFBxNjRCdjJZZVNKMi1CV203TndpV2V5M2FydjhyNjJRQU9hRVhxa2ZmTHliLUM1U3lndDNQWTVHbThYVmszN0pzMmVFX254WHdiOU9vRFVsMUtQcnpmQi1tOGFRUk5UbUdmWTdFc09xTkhRdXBUcXNXbGszN2xreldlcDJyN1BTSnVTVDNqeXZ2M1pmWQ?oc=5
+    • "Serial graffiti vandal 'GIZMO' arrested in San Jose"
+      https://news.google.com/rss/articles/CBMijwFBVV95cUxOaFZjaXc1V05MNDdZOVNHb3VoZVpxNnppSUVTM0YzR0F5akJBYkM1NzJaTlFTNTJHTFhoOWIxbm1TejMzWGR4bGo3UE5lcS04MkNtY0xYelExTTFkVkFtUUs4SGk1SC1SN2pISThCY1Q1aDlWLWtsNHlVTlVsWE5aQThfUDVxR3NXNlpGdjhIQdIBlAFBVV95cUxQQWp2UW9Ya3RINElITFdGZzRLZmVSNTF1QXdGM1JOb0Zld2xlSjhRcXQzSVpkeEhvUmNwTEd4WHpNNzA3R0t3WHcyTGRhODZORmplQ2lFSmQ3WW1qbjNiU2labHJrZGREUGE4OGF0Vmp4NzdCTEx5OVRPbmUxMGExWmI4VC12SWUwSGRLcmQxVEQzWWdD?oc=5
+
+  [Public Safety / Crime]
+    • "Oakland settles for $7 million with injured cyclist"
+      https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0FpWlBJUGdIZjYwem5tcTBpX1dONGQwcW1nb2pVV2l2N3NKaXoyRkhiU3NJdmtpNjF2UHRTMG5yNm5VWTZCaEJzc0I0cUZ6MnF3UThwdGhndFlvOU91cjB1WEx6ay04Z3lTYWZVdVdOZWIxN09haHpxQzMwYkZrZC1mcUQ4TURMWWNUV0lHbw?oc=5
+    • "Family files complaint against SJPD"
+      https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXM1V1pxV0lpakNmb2VxbV9Oc2thcXRZNlB4Vnh5YnBGcnJWZm9ydTRJNm9Xa3dLaGJWUmhlSXZacG9Ta010QTE3eVd1TlZKbWFDU3VoZURLV1p2ZnpOZ0JYN3FLbjgzeDM3cndlZnhMYWRJemRjaWh3dmRBYi1scm5WNlhFeGJXdmdYaWUwRGpuTTJrNmJDVmh30gGiAUFVX3lxTE1Rd2k1Y1RaQXNkdU85bld3RC1LM3pJOWVWdmd2WUJRWWw5dVBmanowTnFnREVIaUsyZjl1TjlUQkpuWGIxc3BtZFJYSERTeDcwenZfald1dW1oSjlVQndhQzhtUnQtVnpHcTFUXy1IaWhsRy1jTFJCSFNjOXh1ZERsa0lRaVhFYk1GSm1aajVFX3pUX1hoNG50NTM3MWdmZGZvQQ?oc=5
+    • "Police beat homeless man as mayor pushes arrests"
+      https://news.google.com/rss/articles/CBMikAFBVV95cUxObTNXUVQtbFJtYUQ4VTdHX3Z0Z0ZzRlM0V2d6aGxjeWo0QVFZcS14ZEpXelpsMzRKQmZ3c011bW1rM0RPLWZRVkl0a3BRUU9zd3FtTFg1TDFtbjJUbXdUMXNMWkdGRHpnNUJKdFN2OFVwUkViZDJhaUI0blNlWVJ2VkdZQVF0anF4bjcyVjhEaHY?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Trash collection delays continue during strike"
+      https://news.google.com/rss/articles/CBMijAFBVV95cUxNVTEyMzVQUlhSQnFNUmw5Ni1mVkZsdS00blJ1Rjg0emQ3QU1MT0xra2t2aGx4NVQxb045dHJwTEIyZ1JjVDlOVUNfSENZRHNKeGdHOENqVlZkOWVzVUI1SmpmNzVvbTZmdlhmUmhwRnRyX1BmdXo1ZHVhNUFWdFZBT0FLbHBuaHpXRmZ3etIBlAFBVV95cUxQSC1sODcteXdVeU9YV1hsWWRneGJDYXpyaFU2dkk5VjJTS0JGQ28tZ1VQR1JlRWRObnNZS19tamNKNEZwM0hGQm9IbXpUdjBhamJNNnNHVG5aS3g5TlgtYXgySEpSZEQ3d2g3MnRpU3E3ZXplS0FRWTI4SVJiQ1VfMW5hLXlCWTlZenR0UG9UVnpXV1Vf?oc=5
+    • "Trash pickup gaps spark sanitation worries"
+      https://news.google.com/rss/articles/CBMi1wFBVV95cUxOczNyMklMNHhCMDZNYWNwbEFkR0lOeGhXMDhVNVctM1phMklpRDVkSWwwSFhZZk42OHQyOEpzZHQtQkdpTW5HTjFWd0E2a1JzSVJLU2c0VkphWFRPeF92VExVYXA2U1JVdlJaVTZpTGNNQWlrZGdVTkZETmZmbXBTYkxZc0Nmb2RrYlRZTE5fU2RZeVIzSGZWY05qeEZYVFcwUXdfZ0gtQmRIODJRY2ZrVXZmekl3OUhYWVdVY2dmZmNXQV9qRTQ2MmEzdjI1cjdFRHI2aWhhTQ?oc=5
+    • "Trash collection delays continue in Bay Area"
+      https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmJNdENCUWxhUkZkN21Bb3F0cEE1R2pXWlhHVEtPQ1hPTWptcXlLVFlxVmhiN1E5cGVBcWpRTTlCTXFDN2FQeFNta3hMbUFZakFrSEx6RUFPQm1LTFZQTE9PZHpoN2NXbnlyMENneEJKRjhFdmppQ3QzMGhxdU1KeVRGZGdOcU3SAY8BQVVfeXFMTU5IWmwtTXhJVDRPT29tMjVMVk5LRXMxUFZTeHdhQloyTGFzRUlGVU1wcmFVeEFQVzMtVWMtNTlJclFLLXlTTWdyaHlaR3FvVVdCSUZYa0NCQi14TUFza1c5Vk5Db2RaRWJFRFJvaTFZb2xlTlI0RTRBaXhnME9KRHZWS3hCWTM4eDVMSENSTlk?oc=5
+
+  [Street Lighting]
+    • "Drivers urge fix of streetlight issue on I-680"
+      https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDg0eVpVS2w5UC1FUHRZUWRTcDlrTFZsYmlFN0tQM0NSVmd4VGFzdXlRYmRidVZUQXQzUjNSV3otcUhBVWhKRWRGNlZXQ1k1bVlsNFZMTHdLRHRQNGZ1ZFRmaUpYQjlDbnNYazhFVml5R09ZSW05Qk1iVjlJcWM4OHlqMnFqVU9Q0gGQAUFVX3lxTE8tbTBzTnNSX05sZTY5b0JOTUJDcGZkN1piaGRCNzEtdU10Z3BKNXQyTWhhQ1NiWFp5M2RXZTJlNWlHNTlvbWNLX1FEMVhfOXZLal84LUxmS0NmVllsWWFnaXlDWEhCU3pmc2FzNmdJeW4tVzNjMGtRSVd1dGQ2NTVMSmh2TkxpSXduQ1YyRWhUVQ?oc=5
+    • "Caltrans crews fixing broken lights on I-680"
+      https://news.google.com/rss/articles/CBMijwFBVV95cUxPMWdVTy0xanR2akFwZXMwX095Z2h5dzVlbGhKeUZCM0pvNEN5WHBId0UwNDZMZEc2MHBvbFQ5TXhXTDQ5d19WSk41UU5jeVNtQTZqczU2ZEd1RmNkaHNHNHdJY24xT285MnZjeTEzS3RWaTU0XzlzQzJ1YUlub1o1eDVUWjFiQ1NOdUk3ZzE4TdIBlwFBVV95cUxQa2xGY2NPcnZCVE9Cb0dNWFRGbVZ6cmlQLUwyVENMVGdQVHpPQmJ6UFdSUm5HLXoxYU5UM19PbmZscldScmRRZDdCdUJDLU5FS21ubkZaWjNXY2Q4YlFSc1pod3hBODFURkJELXV6UDFjRzVaT3gteHB4dG9wVl8wc1U2dURPV0g1eTRWSU1PaGxURGREVnAw?oc=5
+    • "Resident worried about lights out on Highway 680"
+      https://news.google.com/rss/articles/CBMilgFBVV95cUxNTVdIR1JZbXBSc0VSVWhiUjU0SWcwamJRaWpreEh5UHh1NUFWc0sycllWRkh5R3N6d1Z2ZGFId3EybEdhOXZET1RJZEJJUDVfRXBrT09BVFJzYUZxRlQ0YUJnZjRzN0FJbHJWRHJBSUpIN2E5am1ZeXJfNGpCSEFqT3R1Uk8zMmR2akxaRU5XZVpNeUtiV3fSAZ4BQVVfeXFMTndraDZzOF92SFZ5a0V5VUg1U1B5OHNjNTR4UEI4UDRUT3hPRC1pUXFTZ1hadXFqN2xoS29BMkVUd0VjZ2c4TDM3a0RRX3MtZUxFaUlJMWxKYllOaXo3VEZlN3lvQnlaQmwtdGRKQWZHbnEyQjZ3NU9VVmxYR0xXSW5jVlZpQ0ZQWjRxVmlfQVhpTTNTZWhILUt5cVE5WHc?oc=5
+
+  [Sidewalk / Curb Damage]
+    • "Homeowners hit with surprise sidewalk repair bills costing thousands"
+      https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWVaYlBqcG4xZGNDS2lqWXN2MkZzQ3JENU14b3hVbDBTWHJfVU00enRuSFFEWHdNb2llT0d0U2JUNVhNclVSNGV6dHFTS2ltQ2VWMW11RkllVXlaR19tYUE4U25ncnF3YnhtcGFNZ1UyS2xwa0h4UFNsN2RzUmxIVG5XNnh3bDBfSmFWbUZ3TjNCVEpNY0pvSlBjVjE?oc=5
+    • "San Juan's sidewalk crisis an obstacle course for disabled people"
+      https://news.google.com/rss/articles/CBMipgFBVV95cUxOakFDbXZzbjVzNFlkMlRFRHVqaU81QklnSVZOek5MaHlnYkRGTTNnYVhaWTNDQ2VPRDVwbGVZQXN5MzBLS0ppdGw5N2VnNEpVMUFtaEJyYkNQYTgwcndsUDd0NjJ4R0Y5Wk9VZXN2V2ZheXVkQU9RUWdPRVBVem9uODhWRFdwZG9lVzZtX29jU3NPMXFTeHBLMFU0dE9MSU03NWR2UXlR?oc=5
+    • "Woman sued Oakland over busted sidewalks and won"
+      https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWVnWks4ZUpBYkF5elAtajU1M01mWkdseTdvdWxEeGZOendIWGExZjhwQzR1WTR3YUMzdFc0SmthUzJrN1VlVThYbzA5dlJOVUQ5dEU1V0hwM2xwaFQwYlpRVldqV1BMclF6cnZrdGhFNUtwdFlFTzliZUhpSGtDWmM0WEgxRnVpekZFNkdnSlh5LXh2VkJyZ0lKd2VkeDdLX0tr?oc=5
+
+  [Pothole / Road Damage]
+    • "City has poorest roads in Bay Area"
+      https://news.google.com/rss/articles/CBMiZkFVX3lxTE16cjFuTEV1SnUtazlVRHdEcjZTdEJwNGlyN3JuaDYxTUwyOGMweXBMYm5aYXZmTDRORXc4a25XOERQRHBUeXNOb3RQUXlMaVJQcFhuMmRCU0F3ZFJzNTlPazYzUG16d9IBa0FVX3lxTFBnX0dFQmROWGRORDg1b2MwaDBVTk5QaDdXZi1faVVmS2RhWlpmb0czS2lOckFCM0xCWTRlTnFaNG9KMXFSYWk3YlhyQVBRbzRTeVB1M0d2WFF3TlFXR0Z5VzNnSENmYzRWYzZn?oc=5
+    • "Los Cabos pothole repairs surge past 1,000"
+      https://news.google.com/rss/articles/CBMiugFBVV95cUxNN2hKSEVmNmlwUlViNkF6VE1lYzRNQXo5QUNvYjZjc0p2SzQzWFphdS1HMkFabG1DVS0zcjczOVZaT1NRZDVHX3B0STViRHJpc1NKamZrbFNLaE1kMkZNb25yQi1vX1BTVm5KMHJfeDc5RGxrSzlpTkJFdDQ1cS1KMXNWTnpzdVE0SFlrMDl0eE1HdEx4dkRnYzI3WFpKaVFROFAxQ0g1bldyZnAzUTRBZFZDcUhZaEg2M3c?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 74 news articles reporting
+  citizen complaints about city services in San Jose.
+
+  Top issues:
+    • Water / Utilities: 38% of complaints (28 articles)
+    • Other City Service: 19% of complaints (14 articles)
+    • Graffiti / Vandalism: 15% of complaints (11 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

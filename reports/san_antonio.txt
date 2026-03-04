@@ -1,0 +1,97 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — SAN ANTONIO
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 85
+  Complaints found  : 53
+  Complaint rate    : 62.4%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   22   41.5%  █████████████
+  Trash / Illegal Dumping             13   24.5%  ████████
+  Other City Service                   6   11.3%  ███
+  Pothole / Road Damage                2    3.8%  █
+  Sewer / Drainage                     2    3.8%  █
+  Public Safety / Crime                2    3.8%  █
+  Street Lighting                      2    3.8%  █
+  Abandoned Vehicle                    2    3.8%  █
+  Noise Complaint                      1    1.9%  █
+  Sidewalk / Curb Damage               1    1.9%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "County responds to Park Water concerns citing legal limits"
+      https://news.google.com/rss/articles/CBMiggFBVV95cUxPTU1uMVp5Z2h4OFdNeGhYdVZYbl8xOEljQ0VnZEtiSnhRVTRIdG5aOC1vbTR5QjNqSHkxOXVmU3RTeGhJMVd2bVNrY0ZlanU3MU5KNHNTaTNJTnVlY2tXdHc1OVZjcjliZU13NXE2Umk3X0dhLVVWM21OdFk5OVNpdVBB?oc=5
+    • "Water main break floods North Side residential street"
+      https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0pCNW9pOXVlV2czLUoxaTlrb29iTW00TlYxb2lXNjYzcjEwRFpfX0JjWkxZZ2FqQzlYa0x2Q1NRbDEzaDBHbDZqYmc0T1lyN19nUzdpb2JfbUx1MHBMdURxOEc2aS15MFB4U01ldWFFY1RlNnZJVFFvSnF3WTFxWTNPODVyLUVtNXo0NU9HMzlsdjNzV1Nua2lCeFQ5UkZ3bXM2VGNET04xLTB4bkUyUg?oc=5
+    • "Major leak along Broadway corridor causes outages and closures"
+      https://news.google.com/rss/articles/CBMikAFBVV95cUxOWFNyYlhSaUc0M3hqMHVWUUZ5dkg1bFJNbjJNT3NBb1JKdDhYVFhJdEpmR3B6LWpEcnRrRWNIODRTN1RQM0NOTWJtOXpXd3RSOHNGYWJ0VWFGMVdHZkdDNm94Q2hacHMwOTBiTzlPWmJnejBmZE1xMGlBaERPa1NyVVljbXpucWpBdGt5NDlrczU?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Heavy trash pickup paused again in Houston"
+      https://news.google.com/rss/articles/CBMikgFBVV95cUxPb2Rsazh4Rm1VR0swM0FOUjA0cEw2WTBUY1dENXdUbG1TdndxMXItdHYtZHhGT3pvT0p6MzZydTVtY1RjNEpOUnV3QnJTNEpPRWJreERsc2FsVUFDaUpnYVdhZnJvbUU2Q1dXZ0ZLS0Z5YldCdFozU1FUSlFmZGRfdE1heGhFS1l5MzRscUM5bllBZw?oc=5
+    • "Municipal waste systems leave gap in residential sanitation"
+      https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSUlxM3dDMU5fU0RBZEx3VHhFc24xRG5XQjMxcmlxLTRXbWotYk9tNjkxMzZMd1JJMHI0elRDMWRrbWdtME5HZWYydGxtUEhMRk5ybHh0aUJ2Mnctd1VXVldkUDlGM08tWDRkbTFyb2FOa1dxUTd6cmxUWTRqS200dTd1WkJEMU5sRURubDE5cVBiUW43bnZodFFjTjNaYUlQcWgyQVloeDlKVTgwNU9vN3NMdGV3bkE5eXNIcERVZnZJVzBPeVM5UmVneTFkcnZiVlU2blhRLWNjVWpTYVkyZ1h6dHE?oc=5
+    • "Houston residents may pay for previously free trash service"
+      https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGoyekQ3R2NsV09qeFU3WUVxUUc3YVlyd3J6M1pkRnZpbWFjMnRTYmJKRzNDeE5YNHlGZmFtcndqTzZLaXM0bE1maVpYUklaaDZrdDAzaTFwUXJxRFhjWWdUd1RCY2NNdkFmamJTVHJpcEhOUmRJVFh1WnRzYTQ3a2ZrTDdYRTZ3bnlyZXptSkJqNUFXOW15N3BNVnB1UG1XZnhWaEFNalkxY0tCbDNHUHZfaGQ?oc=5
+
+  [Other City Service]
+    • "Residents' odor complaints at senior facility ignored"
+      https://news.google.com/rss/articles/CBMisgFBVV95cUxQeG9EV21IRGFsWnhXTldKVExRcHptNDk2RkJkSV9EVVZadlhFQzN1V01WYldtUURKNkc5LWt2TDc4VE41U0ZFVl9DWkdiQXhsR3lJblhtMWRqM2Zpc0RNZ0k4U04xZFUwdkNvWi0tS0Z5Sk9EWGVNS0RrQ2JHamFZTk1iS2JtajREdU9KaTZHM0FERU1fRVBhOUo1WjA0SldlNll0aXZsb1ZEdTlCQTkzeDJR?oc=5
+    • "Complaints mount against city-funded home repair contractor"
+      https://news.google.com/rss/articles/CBMizwFBVV95cUxQQWVjUE9UM0xjNG53YW9ZZ0hVbW02a001QUNVaVliYVItSmNqX2swcWxfcmVFT09mNVhMdk1qQ2k5S0p3cGxGREJERUVKRXFfVEZYZnVNY3RubnJTd0NOaUlMRmxUei1YRHRzTG9qaWlXcW9lU2E4ZW1EaEJFaGdJN09oSmlLNDVjSHl3NW83SWhwRDVHNUUxMzQxMWdueTdvMDFXaXNoR3dNeEY1N3RsMWdkWUVTV1lfeE9kamI5QXNtd25lMm9FMjBPX3VOSXc?oc=5
+    • "Home in disrepair after city renovation program"
+      https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTUstN3BtV25QcEU4LWlPUVlSdVBac3ZOd3RQekt0THdiMkVnRTFiM0hPNW13Y2xmRHFDakk1OHVIZGpIVWpPMVlpbGIwUjEtZDJnTV9iczlReGFGLUFoSm5YN0xDZ1FiV3ZnUWlPTnY4enZydzEtTkJlYVRkdTJFdjNJVDR5YURMU1E1VDB6SWQ2UGNfOTVQbUFMSjFPRmJPMUMtRi02YkpkcE8zM21zSmprTjNBc0VsRWJGcFF0MFI5UURfbE8yd2Z2UGNFODZIc3Npci1mdkVIWndZQV8ya0ZoT1pEdnZEamRJel9lckVFMXZ3Y3p3dk9mTVYxdEU?oc=5
+
+  [Pothole / Road Damage]
+    • "Residents seek urgent fixes on battered Chathiram stretch"
+      https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ2JaSmxtS0N5dHlGd0pWcEkycXJJUXZqQ2x1dkJsd1hFbDNkUmEwOEpGaG5OX3FWWWtPSlVYeExGMnR3NV9TN2ZNS3h5MHlzSy1GelN2eFNSV0FVOWhLS3lEblhnaVZpN000eHVNa0tTYUQyY3VxQkRzdzFFa1U2Vk5UdTNYNnhIQkROZzM3dTd1S3MzVjV2S09ZTjZYSjlYa2VRY2E3MEJLZ1AySjgzSlk3ODAzazM1LTVMeFU1TUhBekd3T3RYSmdMSdIB0AFBVV95cUxOWVF4QkVnQlBaN3NQRV9RWVdwRWhlMjZuNzVKc2k1VmM2STJlSmVLZ2gzeFhabDNKVUVnT09RUEs2aWVwTGNvelFRZnpfYTFsUHlYWjNwN01Tc1RLSGNyTjhqTVlidHhadVFZejA1UjZYcDJHYS1iT1ltVVRqUmpTbUxEaFhUZ0x2djJrd3RiSURaT2tlUVNNajhEcmFHMlhNM1RoNm5mSENpNUJhMU5kX1Bnbmt2S3RiXzVwVmhMXzVldFV0ZVRseUNoZFJDdE9P?oc=5
+    • "Residents alert officials to road damage"
+      https://news.google.com/rss/articles/CBMigAFBVV95cUxPNDlfay16MEFBeXQxSkQxcS1BUDVOcFE4Rm1EQmpzVmtBbXNPRE5EQVZXWGllVFM0SGFNMW1CcF83eS1QSGxmeU1QQjJiTEFJVFJmNG56R2JJUGJUX3pLVDl2MUU5RV9CSUk4WDVhWlZZSkNNUTVTS3BScF8taU9ucg?oc=5
+
+  [Sewer / Drainage]
+    • "BMC finds buildings on plot for sewage plant"
+      https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNzhTdUhDcWo1T0ZUMXhYbHRVTzFCZVVWMldaNVE3V1BtX2VmQVNTM1ZRaDY4U0kyUzQ3V1ItWGE1SE1HbFkyWDhSekRCdElKVi1FamdsdkJWcU44azQ3WFVhbFN1N0pPLWVWdlRsS0s3dklpYUx3MHpwbk9xQnZ2SkJxZmZFTTRZdE9EdEM2SnZjbFg2NU5GLTRISG1YV0tiVWN1Znl1T0ZqXzY3NkZjbTFrNWdkUmEydGFVYVV5aWZRUExjMnFMVnY4Nm1jeUtTSHJfYWVFQVBWblVPbzdFQXRmWVFLdmlWMzB6YWFkbTZ6bG5zMmMxVlRPQdIBgAJBVV95cUxNZUlSVThNTmh0Tlh5elprVU55VFR3S0sxRGhZb29SRkYtcGhHSk9ObVNvSEJOUTVMNnE1eUxMVFpROXpWSzE1T0hHZ2QyNndaRzRjTVQtN0c5cWZTd3BZRkFEUXhjZTlNZGRIVjZmTnJKVzJ3WE1LRW9wSTlLRDYxUnpwaWthUFBITnJrbVl4MGVRcF8wb2lmVDJGQUg2S05YVmUtdGQ1amV3dndTMW5YOExwN2V4QXJNYnhMdFFHQ01LMlhFYjEzMXl6YU16LUJ5UTROQzBTVGdDUVdrOFcxUmh2VlVLaUFsME9sTGU0T2I1YThWU2NWYVVOTTRfM21C?oc=5
+    • "Sewage overflow plagues east-side apartment residents"
+      https://news.google.com/rss/articles/CBMipgJBVV95cUxOaE1WX3R1X1hhZEd6LVJKSnJINmNHakZoRER5Q0lXWWRBa0p4akJzdWhTU0NQYW5NT2laTWJ5RE42UmNiRkoxV2xBT2wya0lXemtTSkFsNlZqQlR2Y25vYk5ybjF0UGc0WVFvUkZudkdIWjVfaHdQOUptRExyMTA1WVdvbm1mRmx2azFUWlBVb3hvcDVfYWQ3cnhzbFRuMHdoRWM1ZlZsVk9OdWZ0Skg3M1VYOE9PSDhWRlZpcTJOWUhDZVo0dVZQYlV5NkVpeGtnVmdndE9LZ1Q2NWpTcmtjZWd1XzlkSmFNQkthVDVYMlJnT19hREZoclNoNFo4VElOZG1WN2RoVjF4T09GVzNTem5NNTkzdVJGYWpSaTNidlNQS3pvMFE?oc=5
+
+  [Public Safety / Crime]
+    • "San Antonio neighborhood on edge over safety concerns"
+      https://news.google.com/rss/articles/CBMinAFBVV95cUxQVHMxcGVKREV1WmZSdmxGendMQ3RncWJkbEYtcE5LVkZ6OTVQVVpJOVRvRmFKM3hIQnFQZWpUSkxHclloTUNCWGpwamtFclJjT1kzdDY3T1VYczRXMEN3S24zQUF2dVlUbVZabmMyTXU1R1Q1YUJlZWdNcWh3TTZrMjV5b0VzTDlvUU5Lc0F2bXREQlRkQko2U3Npa18?oc=5
+    • "Neighborhood cried out for help, nothing ever done"
+      https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN3hNX3NRN0NLVUo3eEFDeThnQ1lTX0hHWGQ5Y3kybFJWS0pqd0E0LUloSkxiaTZ5emJ6UnR0LTlKZUxkRUJwQWluWE84cGdVN3FoVWFRUnVuRWZLQ0tPckVaaWRMejAyX1hUaFBteGQ5enFwQ3psYV9MMFgwN0RWbEhPUkJTdjZDbjZQdmZMbTNnSWU0SWhWVDE3ZWt0SGtaUnctVFZHaWN2VUgySEQ3M1UtSjcyUl9QZ3hydDgzLUFHRzdrZklvMzFWZUh2MGt2b1NpcHhrZ2pxczBXa0pNVXQ2ZE5mYnVOcktV?oc=5
+
+  [Street Lighting]
+    • "National City residents fume over dark streets"
+      https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTljR3d4dDExYnhVSEFnVWNEenlTLXUyUGtlWmpmWUZmUl8xT19oMlBiZzNIYWJQT3pWVzdLU011U2ZRVFpTckZ2RXgyS1JHU3lCZHgtUkJLanFiTlpIMS1iVXdyclBGYWk0R09hWWJmdzNUeWY2bzZtcEMwZjcyMGV6alpkNnJESnY0dThPNU5mbVNT?oc=5
+    • "AMC streetlight project fails to deliver results"
+      https://news.google.com/rss/articles/CBMiwgFBVV95cUxORWQ4VHlLMXBQc3VTcmhrejBuT0FBdktUZ1FhS1B6bFgxSGY1UnNwVEQ0WjhsbXQ5ZkRlVkc5dnl5WUFBR05SVGtnVFBsWFJRcGRsTlF2VnRmbmFUZloyRGtTN0k2U0NQYjAwUktNa2NiaXp4ZmU2OTBGc19LV1oxQUszRWdUNlhZUFkzWXdxakxhTndfb1Zwcy02V0JLbHRfMFpjemxGR3ljdk5uVVVQeEVjNUFHS1RLbHNOeEZhMnVYQdIBxwFBVV95cUxPN1U3bmFjbjdlcnVqaUlCM3lRTzZITHNSRWFHTkY3SnctWm11OHctMGF5RFdyWkd0S19JajJ2S2tmcTBVQjlvTW9WeThjMDdrNW5tcjEwdGFzMmNUZGJFRDNEa2FGXy1nS0J3eEZmR1M0MVVIN3N0OGFaa1BWaWNQY3FlZGFIMWgwMEptb3FKMnQ5WFlLV2pveTNhSU5fSlJLVUhLWXFKMjM4cXJfZGVpTDJjdFdYNk9iT2I0bWdmcXh6cGQyOVlR?oc=5
+
+  [Abandoned Vehicle]
+    • "RV dwellers and homeowners share frustrations over parking restrictions"
+      https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFItMG8zR3RRVUZEUVhGX3VqN2RNUlFWLUpmeEExY01kdEpYSXNzTW5oQlNvakJzSmJraE80RUhUTG5KWW9CZWZUQW5iZWZkdGpFZEplYktRZnpZLXktT2U5UlBzb1lRT2V5Qjk2TWFqWkJfMWRGLW9yQUx5ZVdOSXJ4ZE5DQVBIZWJ6NVdLNGktQTd6cFB2b3RfUVUyTFpHcTZBdXlCZFVWZk5qNE9lSFlJZkJsQ3BzZERYdXNHMG1LcGJ3dUREcTBEaw?oc=5
+    • "San Antonio restricting legal truck parking based on 311 complaints"
+      https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1VUMDlxRG1wMVJIYW1INjFZZWNhVFo3cnVVTGJvNVc2MFNZVVMzNS1xV1NFRjd4Rk4xdncyay1GY3RxX2JqTFJUZDhxVXgtS2pDbGJ2Vk0xaWFmUUFMcFFNSmZCU1BGT0d2NGVYbWc4emhPbVZXSUdIdHFJNTRFdTNLMFNSRTdac2ZHYmE3LTVPYmh4ZHdXdzJxVTNtMEhBYVExLdIBqgFBVV95cUxObnREVy1fcy1sVTEtRXRxYmxoTURuSVVjUjY1cjF1MHZpUEtTSmczYTdCdnRCNXowRDNrVGowYnVKU0dnZWRIdjRZZlREVzBQNVAwZmFmbzAyRExuZXlneHVEZDltOTN6eDIyRDMyLUdXMlN0SnVlV3NjbFNveFdFU28wQ2N3OHpnRUZ2cTgtaUZWWWVYQTk5ckx1TXBkR1JWOW9BbXM1ZVlyUQ?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 53 news articles reporting
+  citizen complaints about city services in San Antonio.
+
+  Top issues:
+    • Water / Utilities: 42% of complaints (22 articles)
+    • Trash / Illegal Dumping: 25% of complaints (13 articles)
+    • Other City Service: 11% of complaints (6 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

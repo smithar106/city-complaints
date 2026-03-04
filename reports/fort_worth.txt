@@ -1,0 +1,90 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — FORT WORTH
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 58
+  Complaints found  : 27
+  Complaint rate    : 46.6%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                    7   25.9%  ████████
+  Pothole / Road Damage                5   18.5%  ██████
+  Trash / Illegal Dumping              5   18.5%  ██████
+  Graffiti / Vandalism                 4   14.8%  ████
+  Other City Service                   3   11.1%  ███
+  Noise Complaint                      2    7.4%  ██
+  Sewer / Drainage                     1    3.7%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Fort Worth dealing with multiple water main breaks from winter storm."
+      https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWYyVDdqRF83Mi0zRnU4clNaVVd4dGZtUG01U1dpM2JBQkRYTlV5Z1hYWkw2WEhfM0NFdks2cUZManFOSDBoM0dpUDlvQS1pWV9SbkRIY0gteEhBQXpxRkJ5LTRyQWdGdUNMaFFEbmNQaDZKY1MzRmZqWmpvYnk4Q0pUdGdpNFNYS2ktQ2tXa1I0azJTMkFrcm9n0gGfAUFVX3lxTE5mSmxiU3ZtaF9VbzhsSFJhWW1hd0IzTldIblBYWUx4RjVNWHJTbEJaNk5UUmQ1UEVNUFpjOTlDNmdVWjdSeV9OakM2bi1ITU5sVm9Va2JxUUo5clZmY3hyM0FDeFE1MVBhd29lbWloYkQxM3VONU0yTkltNVBLN0JCX244bDNTdjlxMnVKZERTLWJEWDNhTWNuR2FGdDk1Yw?oc=5
+    • "Granbury issues disaster declaration after water main break."
+      https://news.google.com/rss/articles/CBMikwFBVV95cUxOZkNFMEdBSUdJd0JvdDB6UVdjVGI5YzZNck1IYjdDZjlBbEFsNFd1SExuUzU4U2NJcVQ3RFNLbTFrckk3QU9nYUhPUVEwaloxdTZpeFVlU3ZrSzZRWnNFRVdvcS1vTVJCeUpuSmJ4cThsb0hjVGYxekNwWDMwZmg4MXprSGI3SDVXaF8tMldwcUlhZXPSAZsBQVVfeXFMTU1HNWdBcUEycXdaenBfWFNFRE1sbFRYSlp1M245TEpnVlctSkx6V2JWSVpCWHdvdkJLUXlxYUprdnRsNE9UakNqVXpTYzJCejlfN20wVGdWNEhoRmt1V3JVOXQ5Nzgwa0FYVTBjTS1aNTFiUHFvMjEwNG9tajUxUzlId2pfTkhnUFRrVXZzQUlqdDdKQ0I3RTh0TkU?oc=5
+    • "Apartment residents still displaced one week after Downtown Dallas high-rise flood."
+      https://news.google.com/rss/articles/CBMiywFBVV95cUxNQzNvZXNIWnJIdE1UMVdQZHlaNEU5MnRMSURkcXVmNDY4SG9GT1NacTVvaXpOdkFONWFOaFRfeFdvZ1AwUFFmRVRvd1NBYXY1Tnh0X2hIWmh6NUNOTEw4bUN3eWtlZVRRQ016VkhVVmROV3JxTTI3a2FJR2RMWmo5ZkpBSy1WVDNSbWJCbU5HOURlVzJsRk5DalpsdEcwb0hwTW5jZ0tVZHdEaF9CNVlqelYyOHI4bUtZcXMtbkF4bmcwSVJMZDlHcVp4a9IB0wFBVV95cUxQTkpsQlZIRlN5OE1HM1kweV9qcWhIbGVJLUxtZjd5Y1JBaHBvVlNnazFhbGdXQmJZWE5XR29EN2JEZ2pMN2Z2VkVUS1pYNThlY1JGeTA3NXR6dGhrWkhHdy0weEdmS28tNnZjT2lWSjFZMGF2Y3NfeFIxd2p5bVk2dk1WVjZ0Z3lXcGJoX0JFZDN0WnU4TGVORDNvaUhHWnFtVTlmM0tZdXNkUHpoZGJfc2xWWjhzSnk0b2R3QkUydHh0ekdCQkxCSzRvZlNWbVY5M0Yw?oc=5
+
+  [Pothole / Road Damage]
+    • "Winter storms could increase potholes across Fort Worth"
+      https://news.google.com/rss/articles/CBMieEFVX3lxTFBwNmNHak5tbkJTN3NjZnE1TWhLWkZSY3RvYlZ4TGdpSnZKbVhtR0VxNnZ6SGVwX0gtVUJFa1hzY0I4VVF0b2JMdElVbXp2ME9NalVmbWE1ZkZIUVpZTWUxcDNkRnFsZ19PQ2ZPVHFSakRQZlNrZm1iMw?oc=5
+    • "Dallas, Fort Worth crews race to tackle potholes plaguing drivers"
+      https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnhpaVNYZGJjY3ZtTXExcVFEbmpWYXIyMVdjVDVpRkdmYVN4VG5tSGRUdWpXLWd5QVhRZXBYR1p2VE9lX3ppQ1NJQXBKX1BJRDdvVnNuekFGeEtuQU5hSzhFVGl5bzZJYnh2QVE4OTlFVXNaN3dEQ2g1cXJxeEI1RW52TWZtbERvdkVN0gGTAUFVX3lxTE1LVmRUb0FhRjE3YW5wUU1WVHJxOHp6WUxqY0J0VmJyTjZEYUVmLU9SVFZCdkxrVTVKc3dDM01DQ2tGMXF1MlBnWFBLQUhkVnQ2Y3pDMXFxRXI2enZ2dy15MUZqRUcwRXoxQ0JVakNCalpRc0pSLTBEYVNuQnRMVk93OU1pSklYY0xfbUdFQUhVSzVGVQ?oc=5
+    • "Fort Worth short $66.1M for street maintenance"
+      https://news.google.com/rss/articles/CBMivAFBVV95cUxObDdPallJS3BMYnlFUDBqUUtFNW9lNmxyc1l3YnJMT29yQUZvUUZEU25EMWk0V0tVcHU1LU1PRDZva2NaRHVlbFFGRTFtZEUtUHg2Y3c5S3dVMGp1NGZsT2xUVlp1MzByTVZkYWJzR1V2aGg1NmFkX3NESUdhZEVBVDZZZ0pqWVVvT1Yyb0dCMFhHYTRNSGRnbzE1b2Q1UVdYRVlmUWxPOGNBcF9KbndQMU0wc0pzYkw1OU5JbQ?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Fort Worth trash pickup improving after months of complaints"
+      https://news.google.com/rss/articles/CBMirwFBVV95cUxNQTF4LW14R0pxRXhxLTdDWlE4Um1RUHdCQUtTS1R0ZVgtbmR3RkVibnZDdTQ5bEtwRUw5ZkpMaGQ2dmlncXZKZk1UQ0F4Sm1Nc0hSRDVueENPc3BfaXhGOW45U1YyR0E5UjZSclhnelZ1TTF3RGRvbld0ZjZQZ24xSTdzX3pvNTJOc1lSYVE5RXlUMDhDRU8yTnhJc21Ub0xqb29ZWE0yLWpld0dZZGhj?oc=5
+    • "Trash services remain priority as Fort Worth reports fewer missed collections"
+      https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlVmWXhfSzlmSV95UmQzRTZpM1B5VDR4b3k5NnhvRFVCYWtUOGVhd0tlV3ZwUDVSal9PRlNMME1oX1R1RllnVUMteEVGbGNnSUtYTU9CTUV1NTEwV2xkb0wzZWltLWluYm9UNW44UngwS0lIc2VsREpOLURmZFZtYVlSdC1pT0VhLUg4NFE2UHFnMHpqY2tWbndVM2UxMWZ6NGVhVGRGTEdBdkF2NXRYd1VuaTZfZXA0TjB2TWJPaVJvRzlpNENsM3FQWjU?oc=5
+    • "Dallas residents attempt to delay end of alley trash pickup"
+      https://news.google.com/rss/articles/CBMivwFBVV95cUxNczFNeWlJNkQwcnJqaHpDN05rai1sRjdQNHVxa0VvT3FJUjl5aXFkVzVFZkdUTjlfX2poaHZJU3JXTVh5OVoza2E1V0NKTkUyVHcwTWhpWnRHdE5vazRkQ1hqeXVta2dhREpaRmNYRDlwXzI1YWNfcmttNm9CVGpGUXFrbjdXWjluUWJlcmYwVWRGSnNlQVpvUURJeExXLWNhLTZid3Z4WFNTOVlESmVTTDNOTUdGalR6MTdCRnptSdIBxwFBVV95cUxQWUR1cW9yeENkWEpiTldtZ214TXpPODhadjBDUnRPclZaTGJOcl9YWnlKdUN5Ui1PTnJsUEZxSFlHM3cwemJnNmM2WGFwcndTeTREcFVuOFRvV0ZkWnRMQjVkZ01GR19IbGhjZ2RMODcwNmZTbmhZMU1id1F0ZUI2UnFfVnlKaVVCdHkwb3pOLWE1SjJSZlBjWGEwTHpxTDEwNlpDd195MDNWekxseTIySDZyNkJyM2dxRE1lWkgzSG1XaHROMDdB?oc=5
+
+  [Graffiti / Vandalism]
+    • "Graffiti vandal writes antisemitic messages in Lake Worth Beach."
+      https://news.google.com/rss/articles/CBMinAJBVV95cUxNUFdNajVWRUZXeUNpVUhIUEFZbm1oN3ZJdkpnemlSWDQxcjdMREg0NnZWWEdma1N0ZVd1ZWhyR3VSLW96SEQwejc5M1IzWjJtbjU4Rk9aLU5QQTZIdVZ5OG1Sd0xSU1pLdHNTWF9IbGc2RUg5dUdfZWJJUURReE1JcFhwVExRcVM5ckxBZ3RKTGRZZDdnaVplUFlldFhxM0lGQXRnaHFfQlo0N3ZzbWVzTUh5Mjlsc0NDNW9lbnBncXZhWThReHE3c0ZqSU9tS1JobnJIWTZwX0d3b1htUURkSkFCSWYzNnZtLXpfWHN5YnZpbHllMDN1N2prNXJtUU9GZlBMOE5wdkxuLTNRelE1VGdPREY1MGhoRVN2OA?oc=5
+    • "Vandalism reported at Texas and California mosques."
+      https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEFDeWNYVVRxRF9MZFpSbkVwY05ZTEJlSThlRmFxWnJmeGFLYWhnOTNhX1p4QU1weTlOSEN4d3FFOFVFU1VjZGt6czNOd2J3TEtpbzRQWTR0ZGZxQVBQN01mOEFLb004MEYwbl9VTHRQZUt5eUZwbzRJdGQ4cW1sRWhSaDJfYlpvTmZtNUsybnF0Zm0tOV9Nck4yWnEzTlBkNmEwOV9LcUJGa2FxNUh2Q0F5Y3AtcFd3UEh3QUhB0gHGAUFVX3lxTE8yenQyd2tzUk9RWXhfaEFsQVhrRFMzOGZvX1NiOUVMZFZEbFEtZFlhS3Z4NXJld0swWG1QcjFrVFZrZWpOOHJYQWNoQl9qNkExaTl5NHFJWW51SDAwaS0wbUZJMGRWQjA1WWVZSExXMTA1Rkkwc1RCcXdYMzZiZFY3QkJQemlSRjlvc1o3NzNzemlMMHFia0ExdUhhVk0xV0FVX2I3UXV3SXROeU1lMkJtUzNMQTBlVU9LUE9XZzZNVUZYMFV1QQ?oc=5
+    • "Vandalism reported at proposed mosque site in McKinney."
+      https://news.google.com/rss/articles/CBMioAFBVV95cUxNbG5mM2VoQkpZNmlvbThCQWlGOXl0eEpmeXNwRUxrUFJiRnRNWk9MSS1tOFIyYWxTX1kyX2llY1lzdkY3Vi11YzNialRndTYzRUNnNEJuR0lPQnlXOG9qT2Y0NzFBcmk1dkEyM0Qtb2F3NXUxNURuUmk4eGNBZmswMHpHdkduRmEtLTI2TzFnREo5TjdGa2hxT3FrTmtZQ0RS0gGoAUFVX3lxTFBBX1VEVF9rNnIwZGFWaVNXUGtyclFLd0ltOFhRUGd5ZlFNNURkVmhjOWZhd2V1ZXlzTTFHdklnOG5UeTJKUlBYQ3FnMEVzQTlqQTJTdHJ2YUh2MXNZMWk2R0puVVhoeEpNN2NxWjFhZ1ZUQnFzTWVpWkdqZS1NOWV5emF6RUY3cURya016S0Y1eWNLbmVsNWszXzR6RE14b01aaElRZTJPVA?oc=5
+
+  [Other City Service]
+    • "Houston residents complained about most in 2025"
+      https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVzRRYnBXWHVhSElad01RYml0T2lvUU5aUFEzaC1RYk03REktNzVuOC1oWkM2YV9WbEhRdVd0VGFPeGxZREFyNzdmUElGSTJxaWlvUVBWa2huX2JoQkJWUE81UDVGX0J1MkVwYXFYSi1IaVJuMk05WjQwZGV1OTA4OXUxa3BXamxna3FONm5ISENRbmlhYUJTSFgzYUwzMnhZVGk5X3RMbkMxbEU?oc=5
+    • "Icy road conditions and closures in multiple cities"
+      https://news.google.com/rss/articles/CBMieEFVX3lxTE96c0VtVXZKcFZfYXBRZkU2bFZ4Q2VaRTVjaV9OQjlfTDhUSUZPM0NvWmJyTkp2UDE5TTNYZ2RRZFFOS2Q3bXF1ZUt5WHhBZFFnQWUyTDRkTTdONmEzQWl5ZlEtSExTdVJOc2xGSGJOaWpyNy1lQTVVVdIBeEFVX3lxTFBkbWRMc2l0SzNBQ0NWY1AxbmlwNlVGVUhQd2pnbUJ0UzRfczBUa2VoWUMzTVhXbXM2dXlXOGkteGg1aTZRaGVXM2dnYkNyckhKZmF5aFJTOGRHNjJyNmVJa01KQ3VpVnQyMjFnU0NnVTA0Q2NMZ0U5WQ?oc=5
+    • "Fort Worth cracks down on illegal truck parking"
+      https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjkxZVE4bG11elRNNnFQeExvak1KbGZvZE00Wm1lcEJ3cnAtYmxpWlRBNkxIX3pud00yTjZ6MElrLXZCekJhOHlHakgwc1ZkUVpGY0tpaVdNdzkwYzkyT1NzRS1tLWwxNzhqWUZ6ZW9GY1hOdV9KUlg3bGwwS3BIZC10ZXJlVGw5?oc=5
+
+  [Noise Complaint]
+    • "Weary neighbors want TCU, city to crack down on parties"
+      https://news.google.com/rss/articles/CBMifkFVX3lxTFAwSWI2T19Jajlud2dIcWJnRDhNTEVnaW9feXZsSW9DclJWYjBwNkNzTWdMemFkLVJDTXNmMnRiMWxJdFlWb3FGQW55VlZLWEZmOWc3WGdsR05JUkdVWWJ4bjZVWVd2OUcwMGwycy1QMVpzckhPOEl0S2lBUDdQd9IBfkFVX3lxTE4wbHF4RUxYYkE3XzdCYUl6V3NTbnNtQ3BGdWR5UDItX2JhVzBoUldhVWhtekxvcS1QeXZsN1VwQ3pGMnZPY1NFX2loeTVLSk1LNDFoUC1GUUxRelpZTHYtcnU4bVdxbW9sRkRYWl9SRTFyRVlSNlF1VEhUZVNLQQ?oc=5
+    • "Fort Worth neighborhood and TCU students dispute over parties"
+      https://news.google.com/rss/articles/CBMifkFVX3lxTFBESzN0cXJfcTVKYmE0YzdGcURQeW5UTGtqRnhGaG9aeGstYXRpWXlxUXlhZmJVT2FPQTRlNV90OVBXdlBCczlOWGJST0hRWUFud1dfVkJOdDZ0RnM5UEZrWVE2c1ozbkZPdGZSLXkza1FQV1ZmZDNncDZ0dk5RZw?oc=5
+
+  [Sewer / Drainage]
+    • "Long-awaited flood relief tunnel in East Dallas slated for 2027"
+      https://news.google.com/rss/articles/CBMilAFBVV95cUxQWFZfSkJYUE9QSW5ZT3E2c21BT1c4MU1Cem1rNmNXTW5hdlJsQllYRVY5dUZLX0tSaFRLMTl6bnhTc2JKTTBKMGNJcTRsanRnWUtzb0tRVUxYU3VIU0gyYldxYU10X3kwYmpSZFlKZm54RHdqbVQ0ZElFd2pLbUNLRUplNWJfdWM2TlBBdGxadzR6eVlF0gGcAUFVX3lxTE1Wc1FVNnlvazRtMHRYLWliUlFfSG1ObVdVYkdnWkZBUXhDMXlpT1pfM0pPMVNUNHFrN21hN0cxZ0JwUVBieWp0RlAzeF9xQVlzX1I4NzlvMjdEbzk3OXljZnZIMERtdzJsTWJrX2M2b0tCRzRFUTRXM1lpRlhRcTRYLXBFeVoxZ1JOWkVOb2FmeVdFblpsS1FxTXIzUw?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 27 news articles reporting
+  citizen complaints about city services in Fort Worth.
+
+  Top issues:
+    • Water / Utilities: 26% of complaints (7 articles)
+    • Pothole / Road Damage: 19% of complaints (5 articles)
+    • Trash / Illegal Dumping: 19% of complaints (5 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

@@ -1,0 +1,94 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — PHILADELPHIA
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 129
+  Complaints found  : 70
+  Complaint rate    : 54.3%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   33   47.1%  ███████████████
+  Other City Service                  14   20.0%  ██████
+  Pothole / Road Damage                8   11.4%  ███
+  Graffiti / Vandalism                 6    8.6%  ██
+  Trash / Illegal Dumping              5    7.1%  ██
+  Public Safety / Crime                1    1.4%  █
+  Abandoned Vehicle                    1    1.4%  █
+  Downed Tree / Debris                 1    1.4%  █
+  Sidewalk / Curb Damage               1    1.4%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Boil water advisory following water main break in Langhorne"
+      https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU9lalJIMm9zX1ZyNUhWOEtJdHdSTlJaUTFPYnY5RGJWM19xYjdXaTRMQjFaZjZaNi1sZGZoTnhwQWZSVjdlQXdYTGFPMlBWZ0pHQnJjNnJybTBWT2ljQ3RzRlpMYk5NMUsyS0dUWmtRT2ZxMkFRRWtPSWtjLXJLQmpFRlBZUVd6aEhuVTlCVEpvM3VhbTl4MVcyakNiWjNEakFFLVBPckPSAa4BQVVfeXFMUHdCZmE0Nk1ZTExhUHpvYnVkNFFEYTJoVnJqLWg4aFlIa0FuV2dfOWFLU1pTSE85UFpING1ld1ZfaWk3ZV9hQ25tX1J0bjVLRzJ0TTRiSU1WZXFjdHVYZFU2ZEdDd0toSGlOVDFsQUZSVzBjNkJ6QzcxRUpCU0xWdjd3QUFvc0RXX1NxaFgxSVlCOHFNOS04QS1TTVRjWi1ObV9LMG9tb2tkUlp6OTNR?oc=5
+    • "Camden lifts boil water advisory after water main break"
+      https://news.google.com/rss/articles/CBMikwFBVV95cUxNel9BdE5jMEhUZlJnaGdMeTFleUt4WllfS3RSa051QXYyRE1fLXBQRm1NU052cVIxU01VVk1Cb2F1ZWZ0ZTVzaG9ZNVJCYk1NdUNYNy0wZEdpZ3doSklKd2xlSjRiT2gwaEE5emtld3pad1lHTENsd3QyVkVXZlY2QURDU3QwZ0ktbXVWSnBGMWFLc2_SAZsBQVVfeXFMTVZueVN2MUd4S3ZXaHRWdnpESGozVVpvTXhVWUpmcUpvUXkxVzd5OWpRYlI1elJ5M1lKeENxajlnekphRHhtTWh5cjZzQnBtTEdKbmprX21hcmJPNWtqUkNwVjNTLXl3UmJWbjduTG9GVVY1ckppRTUwemtoazdQX0N1WE1IdkVBSHE2enN0NjV6OUhHMU9xZXA4a28?oc=5
+    • "Boil water advisory for thousands of Camden residents"
+      https://news.google.com/rss/articles/CBMieEFVX3lxTE1nTlZkWDlTclZZdlhzam93T2Z0WjVVd2xkUndiSEJ5OHVWa19YOFllVlBhSENXODc4XzRWY0QzaVpfUmtfX1AzaTRGUkdZTmdQdU5hUllkUW5NdGZvS3ozc0dwZ2F4VEN3cDZBQlhXTnM5OTdGcFJ0Tg?oc=5
+
+  [Other City Service]
+    • "Complaints raised on app go unheard; residents demand action."
+      https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc002aFljM2JCWGY3VDA5anByM3BkMjE2M01fT3hqcVdkbGZ5SmpPek9SNnZEem80SnNzQ2RUQ0VQaTJLQUxJOGk4T0ZaTkFvYlNDVWYxb1JUdGliWDJFRkYzbVNlNlJuaUVHdm91bklsTlNJSnVxeDd1UWFaZzZfNDJxVmZrZ0t4bEd2eWg4MW9XR2hfMFZ1OWFPVEpQVWFFTHZwNG5mMFBoWjV0OHBoeHFTX1UwWFpqZGZHR1gxcS1KOHBWeC1CbjhOemlBbURnQTJKSm9SUU9vNHFuVl83NmZXNklHQmhIUUdDNmh30gHzAUFVX3lxTFBINklBX0x2VWczVG5Nb0tqaWd5QTdOVzJ2TnlRZG9XekdmeWZnSXpNWjVxZU1YUkE3d1pBSUV0OHdhdGlWcjN5a1p3eW05UHptaFJ4NGtydW1OY01Vb0I1MV8tbFhYVk96ajJUQjdneFJBdllnNnE1d1RkSVd1ckJSbDZxX21fU0laMDlWVmUxUEwyeV95OHBLMmJ4cmVrd3lkRHE5M01zVGF2c2g5c1dqbjVzeVlOQlRNUWl4QjZYVEI3RmpkaWFiUTlqN3d6UlBzSUNEang5cUJYR3hnODhHb1VwTmJUNnc1ZHMtTUpnamJGWQ?oc=5
+    • "Plowing complaints piling up in Philadelphia after snowstorm."
+      https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnJTMkh6cll2ZzF3WjVXZGt6S2IzYk5YNkpVVFZCZXBsdEZpSFhNZlUtMHR2UnlQRlhVNlFCWFRSVUFwSEd2U1NWd21mUGwzRTVGclk1dVl3a1hIWnFYd0hxQmZhZUZtVjg4TDVBeS0wTExrNDFreFcxQ2lSOTZiRlYzWjVLb2RUS21keHd5MDk0cDVMaHpPY0VEVjNJWDBjNktDdG05T0ZMb0UzamoxdmZVX2FIZ9IBvgFBVV95cUxPbVlybmYtVkx0OTNrLW9mYXZrbHFwejZldzlXSkxpOGxLMS03X2xNTWV3NzJBUDNNeFZScmJXWHp5SDlNcXRFTklwVkV4amhkWngyX2pVZnJQVWxZT2VDandRMjBlWE1jVDh0VmJ5cjNwdjdaNU9JT01qcE02MVp2NzhSQ0tqSURwRVhSbmZ6ZlVmTkVFSFFQVVNFcXZPa3c3czJnblNscEs2dEFfenVuaHNESi1kckVPTFhvV0J3?oc=5
+    • "Electrical workers allege widespread safety lapses at steam plant"
+      https://news.google.com/rss/articles/CBMie0FVX3lxTE9WMzZXNEJaZ2lzdU1maEw0d1N6eWNRQ2RhM3BaMFVncklPQjRMaDZfRlM2Zmg0dXVTZTdJVE5ZOGF2cXd6OVF6ejloU29oTF9keHpYRVdHTE5wOG1NS1doY1dZeXA1N25iSlZsRXhoUnE1b3VpY0NZODVUNA?oc=5
+
+  [Pothole / Road Damage]
+    • "Sinkholes forming on Philadelphia streets; streets are messed up."
+      https://news.google.com/rss/articles/CBMisAFBVV95cUxQTzZKMEh2UV93VWRpSmdUSklmUk4xa1dZYVQ2ak1INGpLa1RUdkNiRi14bzhIVkpJS0R5SEgyNzF2QjJ2RG11QmhhYkNhRlkyaFROSXUyTlYwdkl2VzducThleU1JR3k0Z1lJNVZjRldhb3dGRDlkOEFuUmp5Z3dEUl81Uk85dThmTDBVbHdZcjdGMVFvUFVRSTVvQVRmT0hUalFpX2I4MDF1aWk0RWFOedIBuAFBVV95cUxQbFNLeEUzUmdfNTgxTHZzcVRPRDNSWk92MDRpWWZHTi1vTTVSQlRjNU42WjhOZFZfZmNpSFV3TzRtRUx2YnJUV2NkQ1JVZ0lLUTlMSGRYVUVWc1Yzb09mbUdWYjJkMGd2LUdTSDEzcU9HakFzOFRURk1lSFM0a2pFeXlXNnNlUWhDWVRRNW15amxjRmZKRVp5ekRRNVo3RUh5SXJqT1JGWkRQdklXd0FSU0xiZzNGMFd3?oc=5
+    • "Ranking Philadelphia's most pothole-plagued neighborhoods."
+      https://news.google.com/rss/articles/CBMisgFBVV95cUxOaXRac0ZCaHE2RUhEUVdEWVlfaEpmRXN4RXNoVUFIdkp2bXJmcUkyQ2tnLV9MU2VfelhRa2FMZnpWejNtbVppMjBLOGkyaTYzdkxHRURlWGlfdGpadXB6RUpqMFdQckp3dzloeHNYdTdoX1UtOFpRbEZEYlNvbG9mSm9nSVR2eVphVFItOWs2LXdQQ3Q2dkVGdlkyZ08yamZzLWJJRGFsZnY0eUlHeGhWS1JB?oc=5
+    • "Philadelphia opens applications to repair potholes and broken concrete."
+      https://news.google.com/rss/articles/CBMihgFBVV95cUxQdXpyTWx5dEJRU0JIbWs5SjdJVHVNUVl1R1pUOUpROU1aMGR6OU81XzBfMGJ6UWlicXoybU5vQnFUUVg5V1dPZnN4ZDNYbDdOWGNQV3N5Y29scDI3X2xXMU12MmZNMEMxLTEtdC1oNGZIY1l3QWRyVndQTGJYTzNENUZZZzlfUQ?oc=5
+
+  [Graffiti / Vandalism]
+    • "Crude, racist graffiti found at Roxborough High School"
+      https://news.google.com/rss/articles/CBMilAFBVV95cUxOUTlJQXZnc0VOM1RXWU1wUHl0VmdkV3JsaV9SOGl6Uk9OLTNLeWlDWUp5U2VzRkhxMTdIZkQydjc0bEl4ZjJVOTZ2MVZGM2ptMWliS1gtMFJUaWx6V3FfcEVqNGpqcWs4OXpUZHc5M2VIbjVYVWs2WDlKZjRWQXRsSzQ1TTdGOWtRWm9qdmJkdUdOZTdn0gGcAUFVX3lxTE00SXYzbDBYM01sYkk1TmJ6SnVTYkZ3OWt4eXdUSDh4LUFzT1NlOUh3cW41R0ZCSFhBRUVGUlJaTGZVd1p2LU1xSWR5UFZfdnJlR19SWjBnSEZHdXFYYUQ0TVdIQ2FpeGgyNmtwZ3d3STRfS0ZLUUtEWXp1cmJqWXhiNHFGcm5oVmgtYWdLUEdvRlhqQzFaV2VGa3Y2RQ?oc=5
+    • "AME church vandalized with racist graffiti over weekend"
+      https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlNfcjRYMFp0QWpRd2ZPNWVKc0NYMnJRMVFPQUJfZHE1X1pLdlJsRjJpTGhEdXZ3Nm01SEJFOG5fYzE2YzJVbXNwcW9Gc1pYdzB1MFFqbnpzb0xLSWVEOFhlSHBwdXdSam5NU0IzaGtzUnVSZVdOVkowX0RMWU9qSEVxMkU5TU9vd25Cb0g1QXpfOXdFRlg2aTdpZGMyR0ZJMjYtTtIBrAFBVV95cUxOZlU2d1ZlMnF2eGVUMmFadjl5OFBEWGlVeVlTeUd4cURad0VzRExDb2ZZRWNuT3FlTURPdVoyTGtuN0VaLU5ZdTJBeU90am1TMFgwUXE4Z1JMN2p6aE5OM1dWa2FMc2NDM3pmVDlsbTZzN3FTS1FIUDBpZmdkeDIzTGFyRGlXUmpnSjB1b0RIc2hBengxcmE1OWtGWThCYkpTTUFjV2NfZmVoNDBs?oc=5
+    • "North Philly church vandalized with racist graffiti"
+      https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzBRa0dqRUR0NzVDNHNpNkwyUy1ra2NqX0tXYzNiQmlBUl90YldpSlNBSVd5RDc1MWl6Z0EtcklIQ3E0M2dSMlAwQzFDTHp0NEE4Z0RhWFZtNE9qeFNhdlUwNlpmbExWSlQ0Um9PM3d0a2dHZGJZTjA5N05rckpHeDV5NUNqTXUwZWRKVWhmTGVkQy02c0JmUVlPZ0JaQVFYblhtdlVJT2E0aERwWVHSAbYBQVVfeXFMTkJXTE1nUVpHbXhQcHpfWjBDemRIZkhfSlJEc1lMSEFhdjBJZmpzN2VwRldpSEZUZG84ZGZhTWtnRkJnMHVVQkoxcjVNSEE0bGtXNnBJaXFPVFJHV2ljdjhQMHhmQlhmTy11WDdWWldoV2t2QnRQOUkxSmpBdDloMXZlLURlRDRpSTlPUWt1Mk5pQ0FwM1h3UWRRQ19LYUdkZlNnTjlFanFzNlFrVkRnWFJmV3hsTUE?oc=5
+
+  [Trash / Illegal Dumping]
+    • "Recycling pickup running behind following sanitation workers strike."
+      https://news.google.com/rss/articles/CBMitgFBVV95cUxOWld1bGxHTk9Hel9VRzlMM0RldHh2VTlrdndiYjBja052S1hDWmtic2ZSZzBNVDNiWDhvcDBxRG9LbGFaOWtsR1dvVGxvR1BhelpKLVU5ajk3ckhCWXVlNGxyUlNEUWhkSlhUODZ3cV9vU3g4djFxS0gyWVVOdmJUR0I3b0E4VlVTMUx1UGZtWEx1aTlqODRCYkdtcnZtT0libnJJb09GTnBjQVpsNUxlYkFQU1dJUdIBuwFBVV95cUxPRnNDVkh5LUNVU2p0RFlvWE01QUd2N2VxUjV4b0pJenVMdVAxMXl2VWdHeHBUS1dSWDZLbUFOaVRrU0FmMVRWVHVLQ1gyekxySTlQWW5tb0F4dEtQM2pCbEpleWVCUVVPMkxkR1l3S1ItbXhpeU9pMTl5SGk4dENkRTlfdDcwN2R2YWQ1cFdhZm9Dd2VvVUNVOHhreE5MeFpLcFpwdGgtNXQxYzZDWDF0WW9oaU1WZXRGTzJn?oc=5
+    • "Trash and frustrations mount as city workers strike continues."
+      https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUk1ZbDJZMVB5ZlgyYy1vbXlwcHNPSG01MEg4OWNOQXB2dzFmQ1dhelpRalNQT2NtemFSenZmSlgtMDh6Y0JDVlg1QUZiN1B5cy0tcWxYb1B2TjMtMkFJbklMSklOcE4yMWFUMGo2b0w4RHlfNS1GSGgtdlVORUUyb2d5OEVELXRD?oc=5
+    • "Municipal workers strike changes trash pickup and pool openings."
+      https://news.google.com/rss/articles/CBMixgFBVV95cUxQS183UHdBcHF2bzhfbkpseThRODZpVWN1RDl2eW5EaTl3RTRJeC1WVFVOQjBuaWZIcG90WnJOQUR5d0F2R2tGSkdCWjNxUHVGanA0c19NRFBreGE0RnZ2TXBkRGlUNllycW9oRUxWSHJLM21fcXlyWjR2dHdPMGtDZDh3VHJsZXlSbEg1Ym05QnVMZTVmZzVNbVlKMFVDbEs3NXMzN2Q4NG9tTTNnV1ZOWUt6dlF1OTVBRlo4Q0xiZE85eDcxcUHSAc4BQVVfeXFMT1h0ZnFSS1BFWnlPcEs2XzliQXFxT2hUVmJOeG1SQ3dfT2h6TG5vb2R6MVdlWmhXemlvWkY1emd2MGI2YUozdUs2elB5MTZ5QjNzaXZrTmRtemRjX1lPVEVNQXNiSVpOY1VYZFp5TXZoUzJWcmlNZEVwbnl4ZnR4c19kQWpaOUxHa1ZjbWdKUlJzVUVpX1hjUXBHZkpSeUNoTVc2OHA4X2R4TzBzSEhfbjRsNzk0b29mNUhvbks3bjIxNDh2MUF2LUhySU1IMkE?oc=5
+
+  [Public Safety / Crime]
+    • "City officials respond to dangerous South Philadelphia intersection"
+      https://news.google.com/rss/articles/CBMidEFVX3lxTFB0WE96LURrZ29qWXh5UTlBVXBCUW9JR01jR3ltczk2S3BwNnp2emR2cDJlbGdQd2hsbkdQMmJKOU1RTk5pR0k5Tl9YbmE1dVh6OWRkb0ZnUTB2Z1FtSGJpWDUteVJDaXNpUEJVS3hXM05Va2w1?oc=5
+
+  [Abandoned Vehicle]
+    • "Philadelphia has an abandoned vehicle problem on blocks"
+      https://news.google.com/rss/articles/CBMidEFVX3lxTE9YOTBvVzJMdFFEWjRVNDhiZl9RSEJSTEstaEJ2RHpxS2Zmd21XWVQ3SkRqMXJ1N0s3cC1SbUtMaUVSZ2dOZ09BdlRFX1BhREFwQ1FWRVh2eWFMaW9vd1VhdGctZGZ0aC16aWJWamV0LVl2M0hR?oc=5
+
+  [Downed Tree / Debris]
+    • "Large tree branch falls in Philly's Fairmount Park"
+      https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUxyTDJuSzRjLV9xZy01LUFmQ3FJdmE1RUtyR3BPOC1QYXBhVTNuTlVjQnZ3X3ZueWt1b0RKdW1wMkxIb1ZQM1RER1N4YjNKa2lJTzd5UUVFOHM1YnJyMkI3WlBZU2tUU3Z6U3ZpUjk2Z1RoZm93Q0gxYXV3bVdTbW8zZWlVdV9pZ2VOckRqY0ZYMHRJRklIQldsN2R4TEJCTllTbUxnSE9oWW42Z1FTQ0VR0gG6AUFVX3lxTE5yZXN1NEY5bk1yLTZfN25jMUpvTndCSXA4b1h0RC1kNUY3ZWh0d1ZXRW8tQm1GMDdkV0prVUtJUDhyUTAyTTNlVU5VdVF5RjdNQjB3SlFSYURLN2tDWF9vcGpVRHlRTVZ5V202WERlNkZ6RDZhUlR0VzB1MzlYbklTUGxOdDNFaHlfUFMzQ3lJampjVS1FTGxncnN3Wnl2bzlLRGpZcWJJWFd1UWNwaTA4N2pyYmpPUnpVQQ?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 70 news articles reporting
+  citizen complaints about city services in Philadelphia.
+
+  Top issues:
+    • Water / Utilities: 47% of complaints (33 articles)
+    • Other City Service: 20% of complaints (14 articles)
+    • Pothole / Road Damage: 11% of complaints (8 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

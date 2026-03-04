@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ city.city }} — Complaint Analysis</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0F1117;color:#E2E8F0;min-height:100vh}
+
+.header{background:linear-gradient(135deg,#1a1f35 0%,#0d1229 100%);border-bottom:1px solid rgba(255,255,255,.08);padding:18px 28px;display:flex;align-items:center;gap:14px}
+.header a{color:#4F8CFF;text-decoration:none;font-size:.82rem}
+.header h1{font-size:1.25rem;font-weight:700;color:#fff;margin-left:4px}
+.header .gen{font-size:.72rem;color:#718096;margin-top:2px}
+
+.stats-row{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;padding:24px 28px 0}
+.stat-card{background:#1A1F35;border:1px solid rgba(255,255,255,.07);border-radius:14px;padding:18px 20px}
+.stat-card .val{font-size:1.9rem;font-weight:800;color:#4F8CFF;line-height:1}
+.stat-card .lbl{font-size:.7rem;color:#718096;margin-top:5px;text-transform:uppercase;letter-spacing:.6px}
+
+.charts-grid{display:grid;grid-template-columns:1.3fr 1fr;gap:16px;padding:24px 28px 0}
+.chart-card{background:#1A1F35;border:1px solid rgba(255,255,255,.07);border-radius:14px;padding:20px}
+.chart-card h3{font-size:.82rem;font-weight:700;color:#CBD5E0;margin-bottom:16px}
+.chart-wrap{position:relative;height:280px}
+
+.section{padding:24px 28px 0}
+.section-title{font-size:.8rem;font-weight:700;color:#718096;text-transform:uppercase;letter-spacing:.8px;margin-bottom:14px}
+
+.cats-grid{padding:14px 28px 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
+.cat-card{background:#1A1F35;border:1px solid rgba(255,255,255,.07);border-radius:12px;padding:16px 18px}
+.cat-header{display:flex;align-items:center;gap:10px;margin-bottom:12px}
+.cat-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+.cat-name{font-size:.88rem;font-weight:700;color:#CBD5E0}
+.cat-count{margin-left:auto;font-size:.78rem;font-weight:700;color:#4F8CFF}
+.cat-bar-bg{height:5px;background:rgba(255,255,255,.06);border-radius:3px;margin-bottom:12px}
+.cat-bar-fill{height:100%;border-radius:3px}
+.sample{padding:8px 0;border-top:1px solid rgba(255,255,255,.05);font-size:.78rem}
+.sample .quote{color:#CBD5E0;line-height:1.4;margin-bottom:3px}
+.sample .url{color:#4F8CFF;font-size:.7rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block;max-width:280px;text-decoration:none}
+.sample .url:hover{text-decoration:underline}
+.sample .date{color:#718096;font-size:.68rem}
+
+@media(max-width:800px){
+  .charts-grid{grid-template-columns:1fr}
+  .stats-row{grid-template-columns:1fr 1fr}
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <a href="/">← All Cities</a>
+  <div>
+    <h1>{{ city.city }}</h1>
+    <div class="gen">Generated {{ city.generated }} · Past {{ city.days }} days · Google News</div>
+  </div>
+</div>
+
+<div class="stats-row">
+  <div class="stat-card">
+    <div class="val">{{ city.total_articles | int }}</div>
+    <div class="lbl">Articles Scanned</div>
+  </div>
+  <div class="stat-card">
+    <div class="val">{{ city.total_complaints | int }}</div>
+    <div class="lbl">Complaints Found</div>
+  </div>
+  <div class="stat-card">
+    <div class="val">{{ city.complaint_rate }}%</div>
+    <div class="lbl">Complaint Rate</div>
+  </div>
+  <div class="stat-card">
+    <div class="val">{{ city.categories | length }}</div>
+    <div class="lbl">Categories</div>
+  </div>
+</div>
+
+<div class="charts-grid">
+  <div class="chart-card">
+    <h3>Complaints by Category</h3>
+    <div class="chart-wrap"><canvas id="cat-bar"></canvas></div>
+  </div>
+  <div class="chart-card">
+    <h3>Category Distribution</h3>
+    <div class="chart-wrap"><canvas id="cat-donut"></canvas></div>
+  </div>
+</div>
+
+<div class="section"><div class="section-title">Category Breakdown &amp; Sample Complaints</div></div>
+<div class="cats-grid" id="cats-grid"></div>
+
+<div style="height:40px"></div>
+
+<script>
+const CITY = {{ city | tojson }};
+const CAT_COLORS = {{ cat_colors | tojson }};
+
+const cats = Object.entries(CITY.categories || {}).sort((a, b) => b[1].count - a[1].count);
+const total = CITY.total_complaints || 1;
+
+// ── Horizontal bar chart ───────────────────────────────────────────────────
+new Chart(document.getElementById('cat-bar'), {
+  type: 'bar',
+  data: {
+    labels: cats.map(([c]) => c),
+    datasets: [{
+      data: cats.map(([, d]) => d.count),
+      backgroundColor: cats.map(([c]) => CAT_COLORS[c] || '#607D8B'),
+      borderRadius: 5,
+      borderSkipped: false,
+    }]
+  },
+  options: {
+    indexAxis: 'y',
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { ticks: { color: '#718096' }, grid: { color: 'rgba(255,255,255,.05)' } },
+      y: { ticks: { color: '#CBD5E0', font: { size: 11 } }, grid: { display: false } }
+    }
+  }
+});
+
+// ── Donut ──────────────────────────────────────────────────────────────────
+new Chart(document.getElementById('cat-donut'), {
+  type: 'doughnut',
+  data: {
+    labels: cats.map(([c]) => c),
+    datasets: [{
+      data: cats.map(([, d]) => d.count),
+      backgroundColor: cats.map(([c]) => CAT_COLORS[c] || '#607D8B'),
+      borderWidth: 0,
+      hoverOffset: 8,
+    }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: {
+      legend: {
+        position: 'right',
+        labels: { color: '#CBD5E0', font: { size: 11 }, boxWidth: 12, padding: 8 }
+      }
+    },
+    cutout: '60%'
+  }
+});
+
+// ── Category cards ─────────────────────────────────────────────────────────
+const grid = document.getElementById('cats-grid');
+cats.forEach(([name, data]) => {
+  const pct   = ((data.count / total) * 100).toFixed(1);
+  const color = CAT_COLORS[name] || '#607D8B';
+  const barW  = Math.round((data.count / (cats[0][1].count || 1)) * 100);
+
+  let samplesHTML = '';
+  (data.samples || []).slice(0, 3).forEach(s => {
+    const urlShort = s.url ? s.url.replace(/^https?:\/\//, '').substring(0, 60) + '…' : '';
+    samplesHTML += `
+      <div class="sample">
+        <div class="quote">"${s.quote || '—'}"</div>
+        ${s.url ? `<a class="url" href="${s.url}" target="_blank" rel="noopener">${urlShort}</a>` : ''}
+        ${s.date ? `<span class="date">${s.date}</span>` : ''}
+      </div>`;
+  });
+
+  grid.innerHTML += `
+    <div class="cat-card">
+      <div class="cat-header">
+        <div class="cat-dot" style="background:${color}"></div>
+        <div class="cat-name">${name}</div>
+        <div class="cat-count">${data.count} &nbsp;<span style="color:#718096;font-weight:400">(${pct}%)</span></div>
+      </div>
+      <div class="cat-bar-bg">
+        <div class="cat-bar-fill" style="width:${barW}%;background:${color}"></div>
+      </div>
+      ${samplesHTML || '<div style="color:#718096;font-size:.75rem">No samples available</div>'}
+    </div>`;
+});
+</script>
+</body>
+</html>

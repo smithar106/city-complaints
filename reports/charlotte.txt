@@ -1,0 +1,80 @@
+
+==============================================================
+  CITY COMPLAINT ANALYSIS — CHARLOTTE
+  Generated : March 03, 2026
+  Source    : Google News (past 365 days)
+==============================================================
+
+  Articles analyzed : 61
+  Complaints found  : 36
+  Complaint rate    : 59.0%
+
+  CATEGORY                         COUNT     PCT  VOLUME
+  ────────────────────────────────────────────────────────
+  Water / Utilities                   24   66.7%  ██████████████████████
+  Sewer / Drainage                     5   13.9%  ████
+  Other City Service                   2    5.6%  █
+  Pothole / Road Damage                2    5.6%  █
+  Street Lighting                      1    2.8%  █
+  Noise Complaint                      1    2.8%  █
+  Parks / Public Spaces                1    2.8%  █
+
+  ────────────────────────────────────────────────────────
+  SAMPLE COMPLAINTS BY CATEGORY
+  ────────────────────────────────────────────────────────
+
+  [Water / Utilities]
+    • "Homebuyers report flooding damage to their properties"
+      https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWlN2Z1dLWDdPWFJkOHZSLTg4R1ZnTjBob0xfbDYzcDJmcF96dHFaNVV1QW1kUUs4T0VfbVJ5NVpuSzhBaS1iNUo2UW1ONGhTZmRnUlplbnJadUZudjUtRTY1NGdpQVJMRTZ0bFkxalZaVVczbUFVQWNubDVCVUxHaVQ1emxndlkyZXM4?oc=5
+    • "County eyes city's water service amid emerging concerns"
+      https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeFhlRzd6aW1MUndkTHBtdnh0b05OWnBqbl9HVnBKVWRYNHVkRlVWQmoxTWN1Uk55Slc3OEpqd0YyUEtjdzE2S2FuczJyZ1BoeDVKeUVlRmQyZ29KVDEtS2xkLXNWbm9Hbk5aRDVleE5ZUkN3V0RLaWpoMHN5TzhDZkM0WUdqbnExU3RnR25QYkZfS1lMY0JfdzVDSHJySHhGYVkxRk1QMlh2LXJTLTNqTjhLNUVNYk11TnBiZHJPX1BFR0s3YVBYaUZyUDhHWm51QjBfZVEwaUtLVktzdVBiZHpB?oc=5
+    • "Water main repaired after week of outages on Freedom Drive"
+      https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1BZdHRTZDJlWUVaa1VSZzdacDcxQjRvSGx0ZDhGVnZLRW96VXVzazcySms2akZPZ185WkZFUUU4M3ZpOUo2NU55ZzItekI4RVpvU0QzbkI4bmNXUDVPdG4tS2V3SzNldEt2bDIyaDlWSFRvVDJxTDJITWtsSVA2MnFIYVNyWEdVS01naHFuVDlzWnRjb3ZyOGRuRWxqeUZNOTZwMTVFRGJad0ZRUUtWMmkwT2lkbjg1cFhNVHFha2s?oc=5
+
+  [Sewer / Drainage]
+    • "Charlotte residents demand action after unprecedented June flooding"
+      https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQnlOZnAtUGxNTkQ4VGJtWVZ6Ym5QWXBORnBlTU9yNlhfMHRlSEtrZjI2TUo5ZUFuQld1YTBsUm1ZVFNNRkhzY0VqYVpLU3pMQlBKU0xnalR6U25EbUtCVlhpMTM0M0xxRU9QNWI5RDJUUmZycUU3eV9MY3o4ZGp2UU1IQlZaQ0tXLVhGdXBFVFlHZGpjRG1zUjRJWkpzVG5zLWZQSHdLOGRCZXNxdlY2NVY4TGttTWI4YWkyRzNSRk1VTWl2RTZ6SVpBbkxxZnNZVWc?oc=5
+    • "Charlotte Water responds to wastewater overflow impacting Lake Wylie area"
+      https://news.google.com/rss/articles/CBMixgFBVV95cUxQMEtrQ0N2NmNvYWZzVmE0X181UDhGbTl5QkJsdzI1WnRIcFBXbG1ROHNNYnRLZTN4UVc0ZVdZNmNEckthUldNUkx6UlpBNW12WGVRVEl1eDhlM3RFbWMyeGpCZTUxdjhRN3N1NENOOHBjczZaNHg1TUlka0Q1cUdSa2tDZkQydU5OT0NSLThuVEJzZzdtQTctQVBld3RzX19jUy1VSm0wY2c1ampmSmNHUE9sQk1MenZrTGJTTGN6ckpOWU1kenc?oc=5
+    • "Charlotte Water responds to sewage spill in Lake Norman"
+      https://news.google.com/rss/articles/CBMizwFBVV95cUxPN0UyV0ZVQWF6Wk9USkZlQzFDa2lhN3lHVG5tNWxFbldxRy1TRU5PcFh4N0Y3bkRsemlSRE15dmRrV3dBNF9oNjZaVm92WjZjeUxHN1V1bjNWS01ROXNoVmo0OWpoVEo1V2E1VWhEYlJKVVVFR1VKZnNuMkNNX2Y0RmVsWUNnR3UxR24ybDhfTG02RExkZTVjWHQxNlZKc01XV1VJemo5WllIZWNWQ3luWEEtUnN2RzNYWGxNWmYyNHc0aFE4Tk1wX2s3ek80U28?oc=5
+
+  [Other City Service]
+    • "Red dust and rumbling trucks disrupt neighbors' lives"
+      https://news.google.com/rss/articles/CBMieEFVX3lxTFBSSXhpRUdtbWhSODRDdUw1Y0EzNjhvU3pBcFpjdlJmOVJMU1htbFlpQW9LeHZrOGRTWU1XWDU3SDVfYlREaDM4blA0V3I2NWI3bzZnbnpMaVh6dTVLVXRzWjhRcmNIY0dYYlBZSGtRZjVCTThsUGtQR9IBeEFVX3lxTE1BaFloMzFmcnRfMlBnaWZqUFBFLXpvV005dFdJb0dZMjNkTHplMzFLT1FiVE9JUVhqTHI0ZkdMOTVoMXM0UmxfNEN6cFdoczVRS1hLTTNBR0Vaek9OcG5LSnhjUDdjU21VVXhXLUJxbUhFa0VnbEIxUQ?oc=5
+    • "Exposed, rusted junction boxes line Gastonia neighborhood"
+      https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeWFDOUFlaUNGUktvTlhWSjhBMEFIYUZRUWZKbVVlNm1ZM1F0T2hjQ2stYmdlbXZKcThfcEFsT3ZUTy1mbEd5RXcwTEU1UkpwZDZtajZJRmVvUjFaSTZyWlVaRUtEWThKYTZpb1RJdnk0bVdlTlZRNnFCaDFJTWhzakJ1SEhqQ1RWajlPR1pHSnFxNV9BZkE0OTJWZ21iczlXZDlUODd0LVlsTnM5VTdOREJQcmlfTUhROGZVY3VrT3FmSGdoMEczUTZwVjd3d2dwZVdlMjhCeS1ScngwMjdZTmtNNkMwOHdyT3VHR2NQTktRY2MyLWloeFlQQQ?oc=5
+
+  [Pothole / Road Damage]
+    • "Potholes worsen across Sheffield streets; drivers report safety concerns"
+      https://news.google.com/rss/articles/CBMizgFBVV95cUxNNzZzZVBXaXNJQjlYQTlyZGxHOVpLSUdYQmM2Zl9YUDNHYjc5TU9MUTRncElVUlJFZXBhMm9haEZFMTFiRm5PWE5zNmlfMGM4LXlLXzhaeVYybVo1ZkE1UnZmZXdueDh0NVRKbktvZk52TmUyZHRieDAtc0trZjdIbG5SMkNTNWhObTMtR2F0VkpBU0xUMUZFeVNuMFRCSkxlVktUR2NZTVhBUk13S2RpQnVVdGZiQUUzM1JtRzQxWXBILWtjTkdZdWc2d3ZEUQ?oc=5
+    • "Residents protest poor road conditions with tree-ting pothole action"
+      https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLVYwMHNTT2R2WTVkMGhNYnVFSk51NWVOVlIwRTFHME9kUS16ZVJQamRPdnIzbVE3ZnEtZHI4QWdVZDRXOGV6M3IybWsyS18xQTN1NlpiRTgyVmxDM3I2SWxLd1VsVTlidDIta1UtM1pDQ2lYTFpKbGZtLWlaZGIwWFNjSEMwRC1mMDhhODZPQWJVUG53cjVDbDNVUUI3TTd5SHBVZTRXdE9iQ2x0ZmpWS2s2akRhSU9lRGZ5Q1k3OGxuTURuMFZqVWprazFGenJEMzNRLTRydUtjdDFtVUHSAeMBQVVfeXFMTXRfb2R1eWdYcm8xUFpvMHYzbTBtZGZKX2FPU2xPMnNqRXZheVdiUTFHUkFiYWcyRlFJbmxUVTFueUhnelkyOUl1b2M1NnAyZGtiWWlabVRLZTZlRnBCV29nbjJmU3dXUHFDVmdlTGlDUzVfSlA5U2xQTmd2TjNXX0Z6WkVxclNDTjlKZEd5WDhTODBpTFpIOE1kMkNfZmo3VUlXb0tZR0J5VFVhYXItWG5wRVZERkwzTHd2YTBzMXlKVFpNWl9JR3J0S2VvelliRnZOdXI5OVNqWUNfckxOUFJJUW8?oc=5
+
+  [Street Lighting]
+    • "Streetlight complaints up 41% as Ahmedabad residents drive in dark"
+      https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ0RrNzRvMkJIN1ppYnpsRm1mN1ZGYWZPTUc1MFpycVpma3pwbkxMRThmQlVYajJRa2gtaVIxME9rd2ROWnpnN2JtQkl4OXJSZDVaTTZPQ0VLekNqVU5ETzR6bGMyMjV5Mmo0Tzcxa2tHZHg4d0hRLVZQQlRVbW5oRHFGVUliclUyYlBOcVVndDdhT3A5dDhGRU9TaEY1ZXN1VW4tOHFjY1V5QVh0Q2ZoVG1nWWxGLVpCbXFUWXY5azJBUlc3eU9YbTR4dkkxaHItb3Z2aG1GVTJxOV9OWkhETlZIQdIB6AFBVV95cUxQbzBCRC1RZmpSSXd1dDN0UUtKdUhKR1VjRXNWRmlscnluWTBUZmZjUTk0eDl4MG5FNjJ6UVRkMkk5OUxTT1ZITjRaWlR4ZFhpVjhKaHVPSHI3ZVlYVVllV05Qdk0tY1dFUWRtdC1ZelhOQ2xqUlV5X3BCY08xTFFXRTNOM0JraEJRS0tEUkRPNXpEcC1OWlNTS0FWVzBxRVZSa1h0eTJCT2ROR0lkd25FYXFyMGdsS250akpfWGl5eWhTc1kxVTRpWUZVRWt6bE8xaVg1blJSTTFhSDZCemFXQm9zbjFHS1Zl?oc=5
+
+  [Noise Complaint]
+    • "Car show driven out of Myrtle Beach after resident complaints"
+      https://news.google.com/rss/articles/CBMidEFVX3lxTE5NTEVjLU9JUzA4TXpQbVdVRGJQdUtmNk8zQXZBQ29mY3VRSGJTb3MweXpTeHBzcDNsczlzbEd5SkRLSnBhV1dscF90dGZ5QzhTZkNFUVYzWVpBY0YxSDI5a3lLTFdoS3ZObUV2MlJja3JBYy1u0gF0QVVfeXFMTlpZTUVsMV9YM2diNmVteEM1TVhxLUgxM09PenZVRjhPZEs0VG5KdEdtZmpMZUxaSTVtTTVkSUNRNHo5UkNDRWFrNkRJdC1hQkJIQVJ3S3FXTW5LNTJUTmpLdmY3Ni1WVGlrRklJcWx0b0s2Y2o?oc=5
+
+  [Parks / Public Spaces]
+    • "Residents complain about pickleball fee increases in Palm Beach Gardens"
+      https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaklGRHdYMlMzVnZGZjYwdjQ5Tml2a1hWWC0weXlobkw4R28wdW9oVnpxVHg1cC1GVzJ5bDlFYUZrcmJrSEtjUW5ZMTMwc3dQSm5UaVdGSnZJTkhpRUhVVlRvVTlfV3FIX3BqMVhOaW1QRjdKeG5SWndfa2tOS3ltdXJ3d21sRVNJcDJyaEVGcUNtYjJ5QkRqb05BaUNDZFlfSnBMSy1nT19XS29ndV9ZYnVVcnVsY1VjNTRsYWJWNF9ha2JDTlZ4UGktMXJCbWtENnRuYTl5RGxUeHdCNnJqWTM3WQ?oc=5
+
+==============================================================
+  PITCH SUMMARY
+==============================================================
+
+  In the past year, Google News surfaced 36 news articles reporting
+  citizen complaints about city services in Charlotte.
+
+  Top issues:
+    • Water / Utilities: 67% of complaints (24 articles)
+    • Sewer / Drainage: 14% of complaints (5 articles)
+    • Other City Service: 6% of complaints (2 articles)
+
+  MyCity311 turns scattered public complaints into structured,
+  trackable reports — giving city staff real data and giving residents
+  a direct, frictionless line to their local government.

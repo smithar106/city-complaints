@@ -1,0 +1,21 @@
+city,status,report
+New York,ok,reports/new_york.txt
+Los Angeles,ok,reports/los_angeles.txt
+Chicago,ok,reports/chicago.txt
+Houston,ok,reports/houston.txt
+Philadelphia,ok,reports/philadelphia.txt
+Phoenix,ok,reports/phoenix.txt
+San Antonio,ok,reports/san_antonio.txt
+San Diego,ok,reports/san_diego.txt
+Dallas,ok,reports/dallas.txt
+San Jose,ok,reports/san_jose.txt
+Austin,ok,reports/austin.txt
+Indianapolis,ok,reports/indianapolis.txt
+Jacksonville,ok,reports/jacksonville.txt
+San Francisco,ok,reports/san_francisco.txt
+Columbus,ok,reports/columbus.txt
+Charlotte,ok,reports/charlotte.txt
+Fort Worth,ok,reports/fort_worth.txt
+Detroit,ok,reports/detroit.txt
+El Paso,ok,reports/el_paso.txt
+Memphis,ok,reports/memphis.txt
