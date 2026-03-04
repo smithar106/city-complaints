@@ -3,103 +3,185 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{ city.city }} — Complaint Analysis</title>
+<title>{{ city.city }} Complaint Report — MyCity311</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0F1117;color:#E2E8F0;min-height:100vh}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0B0E1A;color:#E2E8F0;min-height:100vh}
 
-.header{background:linear-gradient(135deg,#1a1f35 0%,#0d1229 100%);border-bottom:1px solid rgba(255,255,255,.08);padding:18px 28px;display:flex;align-items:center;gap:14px}
-.header a{color:#4F8CFF;text-decoration:none;font-size:.82rem}
-.header h1{font-size:1.25rem;font-weight:700;color:#fff;margin-left:4px}
-.header .gen{font-size:.72rem;color:#718096;margin-top:2px}
+/* ── Header ── */
+.header{background:rgba(255,255,255,.02);border-bottom:1px solid rgba(255,255,255,.07);padding:16px 32px;display:flex;align-items:center;gap:14px}
+.logo{font-size:1.1rem;font-weight:800;color:#fff;letter-spacing:-.3px;text-decoration:none}
+.logo span{color:#4F8CFF}
+.back{color:#718096;font-size:.82rem;text-decoration:none;display:flex;align-items:center;gap:4px}
+.back:hover{color:#CBD5E0}
+.header-right{margin-left:auto}
+.cta-btn{background:#4F8CFF;color:#fff;border:none;border-radius:8px;padding:8px 18px;font-size:.82rem;font-weight:600;cursor:pointer;text-decoration:none}
 
-.stats-row{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;padding:24px 28px 0}
-.stat-card{background:#1A1F35;border:1px solid rgba(255,255,255,.07);border-radius:14px;padding:18px 20px}
-.stat-card .val{font-size:1.9rem;font-weight:800;color:#4F8CFF;line-height:1}
-.stat-card .lbl{font-size:.7rem;color:#718096;margin-top:5px;text-transform:uppercase;letter-spacing:.6px}
+/* ── City hero ── */
+.city-hero{background:linear-gradient(135deg,#0d1a30 0%,#0B0E1A 100%);border-bottom:1px solid rgba(255,255,255,.07);padding:48px 32px 40px;max-width:100%}
+.city-hero-inner{max-width:1100px;margin:0 auto;display:flex;align-items:flex-start;justify-content:space-between;gap:32px;flex-wrap:wrap}
+.city-hero-left{}
+.city-eyebrow{font-size:.72rem;font-weight:700;color:#4F8CFF;text-transform:uppercase;letter-spacing:.9px;margin-bottom:10px}
+.city-title{font-size:2.4rem;font-weight:800;color:#fff;letter-spacing:-.5px;margin-bottom:8px;line-height:1.1}
+.city-subtitle{font-size:.95rem;color:#94A3B8;line-height:1.6;max-width:520px}
+.city-hero-right{display:flex;gap:20px;flex-wrap:wrap;flex-shrink:0}
+.hero-stat{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);border-radius:14px;padding:18px 24px;text-align:center;min-width:120px}
+.hero-stat .num{font-size:2rem;font-weight:800;color:#4F8CFF;line-height:1}
+.hero-stat .lbl{font-size:.68rem;color:#718096;margin-top:5px;text-transform:uppercase;letter-spacing:.6px}
 
-.charts-grid{display:grid;grid-template-columns:1.3fr 1fr;gap:16px;padding:24px 28px 0}
-.chart-card{background:#1A1F35;border:1px solid rgba(255,255,255,.07);border-radius:14px;padding:20px}
-.chart-card h3{font-size:.82rem;font-weight:700;color:#CBD5E0;margin-bottom:16px}
+/* ── Alert bar ── */
+.alert-bar{background:linear-gradient(90deg,rgba(239,68,68,.08),rgba(239,68,68,.04));border-bottom:1px solid rgba(239,68,68,.15);padding:14px 32px;display:flex;align-items:center;gap:12px}
+.alert-bar-inner{max-width:1100px;margin:0 auto;display:flex;align-items:center;gap:12px;width:100%}
+.alert-dot{width:8px;height:8px;border-radius:50%;background:#F87171;flex-shrink:0;animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+.alert-text{font-size:.85rem;color:#FCA5A5;line-height:1.4}
+.alert-text strong{color:#fff}
+
+/* ── Content ── */
+.content{max-width:1100px;margin:0 auto;padding:36px 32px 0}
+
+/* ── Charts ── */
+.charts-grid{display:grid;grid-template-columns:1.3fr 1fr;gap:16px;margin-bottom:0}
+.chart-card{background:#131929;border:1px solid rgba(255,255,255,.07);border-radius:16px;padding:24px}
+.chart-card h3{font-size:.78rem;font-weight:700;color:#718096;margin-bottom:18px;text-transform:uppercase;letter-spacing:.5px}
 .chart-wrap{position:relative;height:280px}
 
-.section{padding:24px 28px 0}
-.section-title{font-size:.8rem;font-weight:700;color:#718096;text-transform:uppercase;letter-spacing:.8px;margin-bottom:14px}
+/* ── Category cards ── */
+.section-header{margin:40px 0 16px}
+.section-label{font-size:.72rem;font-weight:700;color:#4F8CFF;text-transform:uppercase;letter-spacing:.9px;margin-bottom:6px}
+.section-title{font-size:1.2rem;font-weight:700;color:#fff}
 
-.cats-grid{padding:14px 28px 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
-.cat-card{background:#1A1F35;border:1px solid rgba(255,255,255,.07);border-radius:12px;padding:16px 18px}
+.cats-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.cat-card{background:#131929;border:1px solid rgba(255,255,255,.07);border-radius:14px;padding:18px 20px}
 .cat-header{display:flex;align-items:center;gap:10px;margin-bottom:12px}
 .cat-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
-.cat-name{font-size:.88rem;font-weight:700;color:#CBD5E0}
-.cat-count{margin-left:auto;font-size:.78rem;font-weight:700;color:#4F8CFF}
-.cat-bar-bg{height:5px;background:rgba(255,255,255,.06);border-radius:3px;margin-bottom:12px}
+.cat-name{font-size:.9rem;font-weight:700;color:#CBD5E0}
+.cat-meta{margin-left:auto;text-align:right}
+.cat-count{font-size:1.1rem;font-weight:800;color:#4F8CFF;line-height:1}
+.cat-pct{font-size:.7rem;color:#718096}
+.cat-bar-bg{height:5px;background:rgba(255,255,255,.06);border-radius:3px;margin-bottom:14px}
 .cat-bar-fill{height:100%;border-radius:3px}
-.sample{padding:8px 0;border-top:1px solid rgba(255,255,255,.05);font-size:.78rem}
-.sample .quote{color:#CBD5E0;line-height:1.4;margin-bottom:3px}
-.sample .url{color:#4F8CFF;font-size:.7rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block;max-width:280px;text-decoration:none}
+.sample{padding:9px 0;border-top:1px solid rgba(255,255,255,.05)}
+.sample .quote{font-size:.8rem;color:#CBD5E0;line-height:1.45;margin-bottom:4px}
+.sample .meta{display:flex;align-items:center;gap:8px}
+.sample .url{color:#4F8CFF;font-size:.7rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:240px;text-decoration:none}
 .sample .url:hover{text-decoration:underline}
-.sample .date{color:#718096;font-size:.68rem}
+.sample .date{color:#4A5568;font-size:.68rem;flex-shrink:0}
+
+/* ── CTA strip ── */
+.cta-strip{background:linear-gradient(135deg,#0d1f3c,#0B0E1A);border:1px solid rgba(79,140,255,.15);border-radius:20px;padding:40px 36px;margin:48px 0;text-align:center}
+.cta-strip h2{font-size:1.5rem;font-weight:800;color:#fff;margin-bottom:10px}
+.cta-strip p{color:#94A3B8;font-size:.92rem;max-width:520px;margin:0 auto 28px;line-height:1.65}
+.cta-strip-btns{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}
+.btn-primary{background:linear-gradient(135deg,#3B82F6,#1D4ED8);color:#fff;border-radius:10px;padding:12px 28px;font-size:.9rem;font-weight:700;text-decoration:none}
+.btn-secondary{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);color:#CBD5E0;border-radius:10px;padding:12px 28px;font-size:.9rem;font-weight:600;text-decoration:none}
+
+/* ── Footer ── */
+.footer{text-align:center;padding:32px;color:#4A5568;font-size:.75rem;border-top:1px solid rgba(255,255,255,.05);margin-top:24px}
+.footer a{color:#4F8CFF;text-decoration:none}
 
 @media(max-width:800px){
+  .city-hero-inner{flex-direction:column}
+  .city-title{font-size:1.8rem}
   .charts-grid{grid-template-columns:1fr}
-  .stats-row{grid-template-columns:1fr 1fr}
+  .hero-stat{min-width:100px;padding:14px 16px}
+  .hero-stat .num{font-size:1.6rem}
 }
 </style>
 </head>
 <body>
 
+<!-- Header -->
 <div class="header">
-  <a href="/">← All Cities</a>
-  <div>
-    <h1>{{ city.city }}</h1>
-    <div class="gen">Generated {{ city.generated }} · Past {{ city.days }} days · Google News</div>
+  <a href="/" class="logo">MyCity<span>311</span></a>
+  <a href="/" class="back">← All Cities</a>
+  <div class="header-right">
+    <a href="https://home.mycity311.co" class="cta-btn">Request Demo</a>
   </div>
 </div>
 
-<div class="stats-row">
-  <div class="stat-card">
-    <div class="val">{{ city.total_articles | int }}</div>
-    <div class="lbl">Articles Scanned</div>
-  </div>
-  <div class="stat-card">
-    <div class="val">{{ city.total_complaints | int }}</div>
-    <div class="lbl">Complaints Found</div>
-  </div>
-  <div class="stat-card">
-    <div class="val">{{ city.complaint_rate }}%</div>
-    <div class="lbl">Complaint Rate</div>
-  </div>
-  <div class="stat-card">
-    <div class="val">{{ city.categories | length }}</div>
-    <div class="lbl">Categories</div>
+<!-- City Hero -->
+<div class="city-hero">
+  <div class="city-hero-inner">
+    <div class="city-hero-left">
+      <div class="city-eyebrow">Complaint Intelligence Report</div>
+      <div class="city-title">{{ city.city }}</div>
+      <div class="city-subtitle">In the past {{ city.days }} days, Google News surfaced <strong style="color:#fff">{{ city.total_complaints }} citizen complaints</strong> about city services in {{ city.city }}. These complaints made headlines — but never reached the right department. Residents had no way to report. Staff had no data to act on.</div>
+    </div>
+    <div class="city-hero-right">
+      <div class="hero-stat">
+        <div class="num">{{ city.total_complaints }}</div>
+        <div class="lbl">Complaints</div>
+      </div>
+      <div class="hero-stat">
+        <div class="num">{{ city.complaint_rate }}%</div>
+        <div class="lbl">Complaint Rate</div>
+      </div>
+      <div class="hero-stat">
+        <div class="num">{{ city.total_articles }}</div>
+        <div class="lbl">Articles Scanned</div>
+      </div>
+      <div class="hero-stat">
+        <div class="num">{{ city.categories | length }}</div>
+        <div class="lbl">Categories</div>
+      </div>
+    </div>
   </div>
 </div>
 
-<div class="charts-grid">
-  <div class="chart-card">
-    <h3>Complaints by Category</h3>
-    <div class="chart-wrap"><canvas id="cat-bar"></canvas></div>
-  </div>
-  <div class="chart-card">
-    <h3>Category Distribution</h3>
-    <div class="chart-wrap"><canvas id="cat-donut"></canvas></div>
+<!-- Alert bar -->
+<div class="alert-bar">
+  <div class="alert-bar-inner">
+    <div class="alert-dot"></div>
+    <div class="alert-text"><strong>{{ city.total_complaints }} complaints went unanswered.</strong> Each one is a frustrated resident, a negative news story, and an opportunity to lose public trust. MyCity311 gives cities a direct, frictionless line to their residents — before complaints become headlines.</div>
   </div>
 </div>
 
-<div class="section"><div class="section-title">Category Breakdown &amp; Sample Complaints</div></div>
-<div class="cats-grid" id="cats-grid"></div>
+<!-- Charts -->
+<div class="content">
+  <div class="charts-grid">
+    <div class="chart-card">
+      <h3>Complaints by Category</h3>
+      <div class="chart-wrap"><canvas id="cat-bar"></canvas></div>
+    </div>
+    <div class="chart-card">
+      <h3>Category Distribution</h3>
+      <div class="chart-wrap"><canvas id="cat-donut"></canvas></div>
+    </div>
+  </div>
 
-<div style="height:40px"></div>
+  <!-- Category breakdown -->
+  <div class="section-header">
+    <div class="section-label">Full Breakdown</div>
+    <div class="section-title">What {{ city.city }} Residents Are Complaining About</div>
+  </div>
+  <div class="cats-grid" id="cats-grid"></div>
+
+  <!-- CTA strip -->
+  <div class="cta-strip">
+    <h2>{{ city.city }} deserves better.</h2>
+    <p>Every unanswered complaint is bad press waiting to happen. MyCity311 gives {{ city.city }} residents a direct, frictionless way to report issues — turning public frustration into structured data that city departments can actually act on. Fewer headlines. More resolutions.</p>
+    <div class="cta-strip-btns">
+      <a href="https://home.mycity311.co" class="btn-primary">Request a Demo for {{ city.city }}</a>
+      <a href="/" class="btn-secondary">View Other Cities</a>
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+  Powered by <a href="https://hub.mycity311.co">MyCity311</a> &nbsp;·&nbsp; Data from Google News &nbsp;·&nbsp; AI classification by Claude &nbsp;·&nbsp; {{ city.generated }}
+</div>
 
 <script>
 const CITY = {{ city | tojson }};
 const CAT_COLORS = {{ cat_colors | tojson }};
 
-const cats = Object.entries(CITY.categories || {}).sort((a, b) => b[1].count - a[1].count);
+const cats  = Object.entries(CITY.categories || {}).sort((a, b) => b[1].count - a[1].count);
 const total = CITY.total_complaints || 1;
 
-// ── Horizontal bar chart ───────────────────────────────────────────────────
+// ── Horizontal bar ─────────────────────────────────────────────────────────
 new Chart(document.getElementById('cat-bar'), {
   type: 'bar',
   data: {
@@ -114,7 +196,10 @@ new Chart(document.getElementById('cat-bar'), {
   options: {
     indexAxis: 'y',
     responsive: true, maintainAspectRatio: false,
-    plugins: { legend: { display: false } },
+    plugins: {
+      legend: { display: false },
+      tooltip: { callbacks: { label: ctx => ` ${ctx.raw} complaints` } }
+    },
     scales: {
       x: { ticks: { color: '#718096' }, grid: { color: 'rgba(255,255,255,.05)' } },
       y: { ticks: { color: '#CBD5E0', font: { size: 11 } }, grid: { display: false } }
@@ -155,12 +240,14 @@ cats.forEach(([name, data]) => {
 
   let samplesHTML = '';
   (data.samples || []).slice(0, 3).forEach(s => {
-    const urlShort = s.url ? s.url.replace(/^https?:\/\//, '').substring(0, 60) + '…' : '';
+    const urlShort = (s.url || '').replace(/^https?:\/\//, '').substring(0, 55) + (s.url && s.url.length > 55 ? '…' : '');
     samplesHTML += `
       <div class="sample">
         <div class="quote">"${s.quote || '—'}"</div>
-        ${s.url ? `<a class="url" href="${s.url}" target="_blank" rel="noopener">${urlShort}</a>` : ''}
-        ${s.date ? `<span class="date">${s.date}</span>` : ''}
+        <div class="meta">
+          ${s.url ? `<a class="url" href="${s.url}" target="_blank" rel="noopener">${urlShort}</a>` : ''}
+          ${s.date ? `<span class="date">${s.date}</span>` : ''}
+        </div>
       </div>`;
   });
 
@@ -169,12 +256,15 @@ cats.forEach(([name, data]) => {
       <div class="cat-header">
         <div class="cat-dot" style="background:${color}"></div>
         <div class="cat-name">${name}</div>
-        <div class="cat-count">${data.count} &nbsp;<span style="color:#718096;font-weight:400">(${pct}%)</span></div>
+        <div class="cat-meta">
+          <div class="cat-count">${data.count}</div>
+          <div class="cat-pct">${pct}% of complaints</div>
+        </div>
       </div>
       <div class="cat-bar-bg">
         <div class="cat-bar-fill" style="width:${barW}%;background:${color}"></div>
       </div>
-      ${samplesHTML || '<div style="color:#718096;font-size:.75rem">No samples available</div>'}
+      ${samplesHTML || '<div style="color:#4A5568;font-size:.78rem;padding-top:4px">No samples in this dataset</div>'}
     </div>`;
 });
 </script>

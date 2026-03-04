@@ -3,57 +3,90 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>City Complaint Dashboard — MyCity311</title>
+<title>MyCity311 — City Complaint Intelligence</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0F1117;color:#E2E8F0;min-height:100vh}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0B0E1A;color:#E2E8F0;min-height:100vh}
 
 /* ── Header ── */
-.header{background:linear-gradient(135deg,#1a1f35 0%,#0d1229 100%);border-bottom:1px solid rgba(255,255,255,.08);padding:20px 28px;display:flex;align-items:center;gap:16px}
-.header h1{font-size:1.25rem;font-weight:700;color:#fff}
-.header p{font-size:.78rem;color:#718096;margin-top:2px}
-.badge{background:rgba(79,140,255,.15);border:1px solid rgba(79,140,255,.3);color:#4F8CFF;border-radius:20px;padding:3px 10px;font-size:.7rem;font-weight:600}
+.header{background:rgba(255,255,255,.02);border-bottom:1px solid rgba(255,255,255,.07);padding:16px 32px;display:flex;align-items:center;gap:12px}
+.logo{font-size:1.1rem;font-weight:800;color:#fff;letter-spacing:-.3px}
+.logo span{color:#4F8CFF}
+.header-right{margin-left:auto;display:flex;align-items:center;gap:10px}
+.nav-link{color:#718096;font-size:.82rem;text-decoration:none}
+.nav-link:hover{color:#CBD5E0}
+.cta-btn{background:#4F8CFF;color:#fff;border:none;border-radius:8px;padding:8px 18px;font-size:.82rem;font-weight:600;cursor:pointer;text-decoration:none}
 
-/* ── Stats Row ── */
-.stats-row{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;padding:24px 28px 0}
-.stat-card{background:#1A1F35;border:1px solid rgba(255,255,255,.07);border-radius:14px;padding:18px 20px}
-.stat-card .val{font-size:1.9rem;font-weight:800;color:#4F8CFF;line-height:1}
-.stat-card .lbl{font-size:.7rem;color:#718096;margin-top:5px;text-transform:uppercase;letter-spacing:.6px}
+/* ── Hero ── */
+.hero{text-align:center;padding:72px 32px 48px;max-width:760px;margin:0 auto}
+.hero-eyebrow{display:inline-block;background:rgba(79,140,255,.12);border:1px solid rgba(79,140,255,.25);color:#4F8CFF;border-radius:20px;padding:4px 14px;font-size:.72rem;font-weight:700;letter-spacing:.8px;text-transform:uppercase;margin-bottom:22px}
+.hero h1{font-size:2.8rem;font-weight:800;line-height:1.15;color:#fff;margin-bottom:18px;letter-spacing:-.5px}
+.hero h1 span{color:#4F8CFF}
+.hero p{font-size:1.05rem;color:#94A3B8;line-height:1.65;max-width:560px;margin:0 auto 32px}
+.hero-stats{display:flex;justify-content:center;gap:40px;flex-wrap:wrap}
+.hero-stat .num{font-size:2.2rem;font-weight:800;color:#fff;line-height:1}
+.hero-stat .lbl{font-size:.72rem;color:#718096;margin-top:4px;text-transform:uppercase;letter-spacing:.6px}
 
-/* ── Section headings ── */
-.section{padding:28px 28px 0}
-.section-title{font-size:.8rem;font-weight:700;color:#718096;text-transform:uppercase;letter-spacing:.8px;margin-bottom:14px}
+/* ── Problem strip ── */
+.problem-strip{background:linear-gradient(135deg,#111827,#0d1229);border-top:1px solid rgba(255,255,255,.06);border-bottom:1px solid rgba(255,255,255,.06);padding:48px 32px;text-align:center}
+.problem-strip h2{font-size:1.5rem;font-weight:700;color:#fff;margin-bottom:12px}
+.problem-strip p{color:#94A3B8;font-size:.95rem;max-width:600px;margin:0 auto 32px;line-height:1.65}
+.problem-pills{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}
+.pill{background:rgba(239,68,68,.08);border:1px solid rgba(239,68,68,.2);color:#FC8181;border-radius:20px;padding:6px 14px;font-size:.78rem;font-weight:600}
 
-/* ── Charts grid ── */
-.charts-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;padding:16px 28px 0}
-.chart-card{background:#1A1F35;border:1px solid rgba(255,255,255,.07);border-radius:14px;padding:20px}
-.chart-card h3{font-size:.82rem;font-weight:700;color:#CBD5E0;margin-bottom:16px}
-.chart-wrap{position:relative;height:260px}
+/* ── Section ── */
+.section{padding:48px 32px 0;max-width:1100px;margin:0 auto}
+.section-label{font-size:.72rem;font-weight:700;color:#4F8CFF;text-transform:uppercase;letter-spacing:.9px;margin-bottom:8px}
+.section-title{font-size:1.3rem;font-weight:700;color:#fff;margin-bottom:6px}
+.section-sub{font-size:.88rem;color:#718096;margin-bottom:24px}
 
-/* ── City table ── */
-.table-wrap{padding:16px 28px;overflow-x:auto}
-table{width:100%;border-collapse:collapse;font-size:.82rem}
-thead th{text-align:left;padding:9px 12px;color:#718096;font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.5px;border-bottom:1px solid rgba(255,255,255,.06)}
-tbody tr{border-bottom:1px solid rgba(255,255,255,.04);transition:background .15s}
-tbody tr:hover{background:rgba(255,255,255,.03)}
-tbody td{padding:10px 12px;color:#CBD5E0}
-.city-link{color:#4F8CFF;text-decoration:none;font-weight:600}
-.city-link:hover{text-decoration:underline}
-.top-cat{display:inline-block;background:rgba(79,140,255,.1);border-radius:6px;padding:2px 7px;font-size:.72rem;color:#4F8CFF;white-space:nowrap}
-.rate-bar{height:6px;border-radius:3px;background:#4F8CFF;display:inline-block;min-width:4px}
+/* ── Charts ── */
+.charts-grid{display:grid;grid-template-columns:1.2fr 1fr;gap:16px;margin-top:0}
+.chart-card{background:#131929;border:1px solid rgba(255,255,255,.07);border-radius:16px;padding:24px}
+.chart-card h3{font-size:.82rem;font-weight:700;color:#94A3B8;margin-bottom:18px;text-transform:uppercase;letter-spacing:.5px}
+.chart-wrap{position:relative;height:280px}
+
+/* ── City cards grid ── */
+.cities-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px;margin-top:0}
+.city-card{background:#131929;border:1px solid rgba(255,255,255,.07);border-radius:16px;padding:20px 22px;text-decoration:none;display:block;transition:border-color .2s,transform .15s}
+.city-card:hover{border-color:rgba(79,140,255,.4);transform:translateY(-2px)}
+.city-card-top{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:14px}
+.city-name{font-size:1rem;font-weight:700;color:#fff}
+.city-complaints{font-size:1.6rem;font-weight:800;color:#4F8CFF;line-height:1}
+.city-complaints-lbl{font-size:.65rem;color:#718096;text-transform:uppercase;letter-spacing:.5px;margin-top:1px}
+.top-cat-tag{display:inline-block;border-radius:6px;padding:3px 8px;font-size:.7rem;font-weight:600;margin-top:6px;white-space:nowrap}
+.mini-bar-bg{height:4px;background:rgba(255,255,255,.06);border-radius:2px;margin-top:14px}
+.mini-bar-fill{height:100%;border-radius:2px;transition:width .6s}
+
+/* ── Solution strip ── */
+.solution-strip{background:linear-gradient(135deg,#0d1f3c,#0B0E1A);border-top:1px solid rgba(79,140,255,.15);border-bottom:1px solid rgba(79,140,255,.15);padding:56px 32px;margin-top:56px;text-align:center}
+.solution-strip h2{font-size:1.6rem;font-weight:800;color:#fff;margin-bottom:14px;letter-spacing:-.3px}
+.solution-strip p{color:#94A3B8;font-size:.95rem;max-width:580px;margin:0 auto 36px;line-height:1.7}
+.value-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;max-width:780px;margin:0 auto 36px;text-align:left}
+.value-item{background:rgba(79,140,255,.06);border:1px solid rgba(79,140,255,.12);border-radius:14px;padding:20px}
+.value-icon{font-size:1.4rem;margin-bottom:10px}
+.value-title{font-size:.88rem;font-weight:700;color:#fff;margin-bottom:6px}
+.value-desc{font-size:.78rem;color:#718096;line-height:1.55}
+.cta-large{display:inline-block;background:linear-gradient(135deg,#3B82F6,#1D4ED8);color:#fff;border-radius:10px;padding:14px 32px;font-size:.95rem;font-weight:700;text-decoration:none;letter-spacing:-.1px}
+.cta-large:hover{opacity:.9}
 
 /* ── Heatmap ── */
-.heatmap-wrap{padding:8px 28px 28px;overflow-x:auto}
-.heatmap-table{border-collapse:collapse;font-size:.72rem;white-space:nowrap}
-.heatmap-table th{padding:6px 10px;color:#718096;font-weight:600;text-align:center;border:1px solid rgba(255,255,255,.05)}
-.heatmap-table td.city-label{text-align:right;padding:5px 10px;color:#CBD5E0;font-weight:600;border:1px solid rgba(255,255,255,.05)}
-.hm-cell{text-align:center;padding:5px 8px;border:1px solid rgba(255,255,255,.05);color:#fff;font-weight:600;font-size:.7rem;min-width:52px}
+.heatmap-wrap{overflow-x:auto;margin-top:0}
+.heatmap-table{border-collapse:collapse;font-size:.72rem;white-space:nowrap;width:100%}
+.heatmap-table th{padding:7px 10px;color:#718096;font-weight:600;text-align:center;border:1px solid rgba(255,255,255,.05);background:#0F1420}
+.heatmap-table td.city-label{text-align:right;padding:6px 12px;color:#CBD5E0;font-weight:600;border:1px solid rgba(255,255,255,.05);background:#0F1420}
+.hm-cell{text-align:center;padding:6px 8px;border:1px solid rgba(255,255,255,.04);color:#fff;font-weight:700;font-size:.72rem;min-width:56px}
 
-/* ── Responsive ── */
+/* ── Footer ── */
+.footer{text-align:center;padding:40px 32px;color:#4A5568;font-size:.75rem;border-top:1px solid rgba(255,255,255,.05);margin-top:56px}
+.footer a{color:#4F8CFF;text-decoration:none}
+
 @media(max-width:800px){
+  .hero h1{font-size:2rem}
   .charts-grid{grid-template-columns:1fr}
-  .stats-row{grid-template-columns:1fr 1fr}
+  .value-grid{grid-template-columns:1fr}
+  .hero-stats{gap:24px}
 }
 </style>
 </head>
@@ -61,79 +94,125 @@ tbody td{padding:10px 12px;color:#CBD5E0}
 
 <!-- Header -->
 <div class="header">
-  <div>
-    <h1>City Complaint Intelligence</h1>
-    <p>Google News · AI-classified · <span id="city-count"></span> cities analyzed</p>
-  </div>
-  <div style="margin-left:auto">
-    <span class="badge">MyCity311 Platform</span>
+  <div class="logo">MyCity<span>311</span></div>
+  <div class="header-right">
+    <a href="https://hub.mycity311.co" class="nav-link">Hub</a>
+    <a href="https://home.mycity311.co" class="cta-btn">Request Demo</a>
   </div>
 </div>
 
-<!-- Summary stats -->
-<div class="stats-row">
-  <div class="stat-card">
-    <div class="val" id="total-cities">—</div>
-    <div class="lbl">Cities Analyzed</div>
-  </div>
-  <div class="stat-card">
-    <div class="val" id="total-articles">—</div>
-    <div class="lbl">Articles Scanned</div>
-  </div>
-  <div class="stat-card">
-    <div class="val" id="total-complaints">—</div>
-    <div class="lbl">Complaints Found</div>
-  </div>
-  <div class="stat-card">
-    <div class="val" id="avg-rate">—</div>
-    <div class="lbl">Avg Complaint Rate</div>
+<!-- Hero -->
+<div class="hero">
+  <div class="hero-eyebrow">Live City Data</div>
+  <h1>Your city has a<br><span>complaint problem.</span><br>We have the data.</h1>
+  <p>We scanned Google News across <strong id="hero-cities" style="color:#fff">—</strong> US cities and found <strong id="hero-complaints" style="color:#fff">—</strong> unresolved citizen complaints in the past year — scattered across news articles, invisible to city staff.</p>
+  <div class="hero-stats">
+    <div class="hero-stat">
+      <div class="num" id="stat-cities">—</div>
+      <div class="lbl">Cities Analyzed</div>
+    </div>
+    <div class="hero-stat">
+      <div class="num" id="stat-complaints">—</div>
+      <div class="lbl">Complaints Identified</div>
+    </div>
+    <div class="hero-stat">
+      <div class="num" id="stat-rate">—</div>
+      <div class="lbl">Avg Complaint Rate</div>
+    </div>
+    <div class="hero-stat">
+      <div class="num" id="stat-cats">13</div>
+      <div class="lbl">Issue Categories</div>
+    </div>
   </div>
 </div>
 
-<!-- Charts -->
-<div class="charts-grid" style="margin-top:8px">
-  <div class="chart-card">
-    <h3>Top Cities by Complaint Volume</h3>
-    <div class="chart-wrap"><canvas id="city-bar"></canvas></div>
+<!-- Problem strip -->
+<div class="problem-strip">
+  <h2>Right now, residents are complaining — but no one is listening.</h2>
+  <p>Citizen complaints about potholes, sewer failures, broken streetlights, and illegal dumping are making headlines every day. But without a structured reporting system, these complaints go untracked, unassigned, and unresolved.</p>
+  <div class="problem-pills">
+    <div class="pill">No tracking number</div>
+    <div class="pill">No accountability</div>
+    <div class="pill">No resolution timeline</div>
+    <div class="pill">Invisible to city staff</div>
+    <div class="pill">Frustrated residents</div>
   </div>
-  <div class="chart-card">
-    <h3>Complaints by Category (All Cities)</h3>
-    <div class="chart-wrap"><canvas id="cat-donut"></canvas></div>
+</div>
+
+<!-- Top cities by complaints -->
+<div class="section" style="padding-bottom:0">
+  <div class="section-label">City Intelligence</div>
+  <div class="section-title">Complaint Volume by City</div>
+  <div class="section-sub">Click any city to see its full complaint breakdown</div>
+</div>
+<div style="max-width:1100px;margin:16px auto 0;padding:0 32px">
+  <div class="charts-grid">
+    <div class="chart-card">
+      <h3>Top Cities — Complaint Volume</h3>
+      <div class="chart-wrap"><canvas id="city-bar"></canvas></div>
+    </div>
+    <div class="chart-card">
+      <h3>All Complaints by Category</h3>
+      <div class="chart-wrap"><canvas id="cat-donut"></canvas></div>
+    </div>
   </div>
+</div>
+
+<!-- City cards -->
+<div class="section" style="padding-top:36px;padding-bottom:0">
+  <div class="section-label">Explore by City</div>
+  <div class="section-title">Select a City to See Its Report</div>
+  <div class="section-sub">AI-classified complaint data sourced from Google News · past 12 months</div>
+</div>
+<div style="max-width:1100px;margin:16px auto 0;padding:0 32px">
+  <div class="cities-grid" id="cities-grid"></div>
 </div>
 
 <!-- Heatmap -->
-<div class="section"><div class="section-title">Category × City Heatmap</div></div>
-<div class="heatmap-wrap">
-  <table class="heatmap-table" id="heatmap"></table>
+<div class="section" style="padding-top:48px;padding-bottom:0">
+  <div class="section-label">Category Intelligence</div>
+  <div class="section-title">What Are Cities Being Complained About?</div>
+  <div class="section-sub">Complaint count per category across all cities — darker = more complaints</div>
+</div>
+<div style="max-width:1100px;margin:16px auto 0;padding:0 32px">
+  <div class="heatmap-wrap">
+    <table class="heatmap-table" id="heatmap"></table>
+  </div>
 </div>
 
-<!-- City table -->
-<div class="section"><div class="section-title">All Cities</div></div>
-<div class="table-wrap">
-  <table>
-    <thead>
-      <tr>
-        <th>City</th>
-        <th>Articles</th>
-        <th>Complaints</th>
-        <th>Rate</th>
-        <th style="width:120px">Rate Bar</th>
-        <th>Top Category</th>
-        <th>Generated</th>
-      </tr>
-    </thead>
-    <tbody id="city-table"></tbody>
-  </table>
+<!-- Solution strip -->
+<div class="solution-strip">
+  <h2>MyCity311 turns complaints into action.</h2>
+  <p>One tap from a resident creates a structured, trackable report — routed to the right department, with a confirmation number, a resolution timeline, and real accountability. No more complaints falling through the cracks.</p>
+  <div class="value-grid">
+    <div class="value-item">
+      <div class="value-icon">📱</div>
+      <div class="value-title">Frictionless for Residents</div>
+      <div class="value-desc">Report any issue in under 60 seconds. GPS-powered, photo-enabled, no account required.</div>
+    </div>
+    <div class="value-item">
+      <div class="value-icon">📊</div>
+      <div class="value-title">Real Data for City Staff</div>
+      <div class="value-desc">Every complaint becomes structured data — categorized, time-stamped, and assigned automatically.</div>
+    </div>
+    <div class="value-item">
+      <div class="value-icon">✅</div>
+      <div class="value-title">Closed-Loop Resolution</div>
+      <div class="value-desc">Residents get updates. Departments get accountability. Cities get trust back.</div>
+    </div>
+  </div>
+  <a href="https://home.mycity311.co" class="cta-large">See MyCity311 in Action</a>
 </div>
 
-<div style="height:40px"></div>
+<!-- Footer -->
+<div class="footer">
+  Powered by <a href="https://hub.mycity311.co">MyCity311</a> &nbsp;·&nbsp; Data sourced from Google News &nbsp;·&nbsp; AI classification by Claude &nbsp;·&nbsp; Updated March 2026
+</div>
 
 <script>
 const CITIES = {{ cities | tojson }};
 const CAT_COLORS = {{ cat_colors | tojson }};
 
-// ── Aggregate ──────────────────────────────────────────────────────────────
 const slugs = Object.keys(CITIES);
 let totalArticles = 0, totalComplaints = 0;
 const catTotals = {};
@@ -151,11 +230,12 @@ const avgRate = slugs.length
   ? (slugs.reduce((a, s) => a + (CITIES[s].complaint_rate || 0), 0) / slugs.length).toFixed(1)
   : 0;
 
-document.getElementById('total-cities').textContent    = slugs.length;
-document.getElementById('total-articles').textContent  = totalArticles.toLocaleString();
-document.getElementById('total-complaints').textContent= totalComplaints.toLocaleString();
-document.getElementById('avg-rate').textContent        = avgRate + '%';
-document.getElementById('city-count').textContent      = slugs.length;
+// Hero fill
+document.getElementById('hero-cities').textContent      = slugs.length;
+document.getElementById('hero-complaints').textContent  = totalComplaints.toLocaleString();
+document.getElementById('stat-cities').textContent      = slugs.length;
+document.getElementById('stat-complaints').textContent  = totalComplaints.toLocaleString();
+document.getElementById('stat-rate').textContent        = avgRate + '%';
 
 // ── City bar chart ─────────────────────────────────────────────────────────
 const topCities = slugs.slice(0, 15);
@@ -165,14 +245,20 @@ new Chart(document.getElementById('city-bar'), {
     labels: topCities.map(s => CITIES[s].city),
     datasets: [{
       data: topCities.map(s => CITIES[s].total_complaints || 0),
-      backgroundColor: topCities.map((_, i) => `hsl(${215 + i*8},70%,${55 - i*1.5}%)`),
+      backgroundColor: '#4F8CFF',
+      hoverBackgroundColor: '#3B7AF0',
       borderRadius: 6,
       borderSkipped: false,
     }]
   },
   options: {
     responsive: true, maintainAspectRatio: false,
-    plugins: { legend: { display: false } },
+    onClick: (e, els) => {
+      if (els.length) window.location = '/city/' + topCities[els[0].index];
+    },
+    plugins: { legend: { display: false },
+      tooltip: { callbacks: { label: ctx => ` ${ctx.raw} complaints` } }
+    },
     scales: {
       x: { ticks: { color: '#718096', font: { size: 11 } }, grid: { display: false } },
       y: { ticks: { color: '#718096' }, grid: { color: 'rgba(255,255,255,.05)' } }
@@ -198,41 +284,62 @@ new Chart(document.getElementById('cat-donut'), {
     plugins: {
       legend: {
         position: 'right',
-        labels: { color: '#CBD5E0', font: { size: 11 }, boxWidth: 12, padding: 10 }
+        labels: { color: '#CBD5E0', font: { size: 11 }, boxWidth: 12, padding: 9 }
       }
     },
     cutout: '62%'
   }
 });
 
+// ── City cards ─────────────────────────────────────────────────────────────
+const grid   = document.getElementById('cities-grid');
+const maxC   = Math.max(...slugs.map(s => CITIES[s].total_complaints || 0));
+slugs.forEach(s => {
+  const c   = CITIES[s];
+  const top = Object.entries(c.categories || {}).sort((a,b) => b[1].count - a[1].count)[0];
+  const topName  = top ? top[0] : '—';
+  const topColor = CAT_COLORS[topName] || '#4F8CFF';
+  const barW = maxC ? Math.round((c.total_complaints / maxC) * 100) : 0;
+  grid.innerHTML += `
+    <a href="/city/${s}" class="city-card">
+      <div class="city-card-top">
+        <div>
+          <div class="city-name">${c.city}</div>
+          <div class="top-cat-tag" style="background:${topColor}18;color:${topColor}">${topName}</div>
+        </div>
+        <div style="text-align:right">
+          <div class="city-complaints">${(c.total_complaints||0).toLocaleString()}</div>
+          <div class="city-complaints-lbl">complaints</div>
+        </div>
+      </div>
+      <div class="mini-bar-bg">
+        <div class="mini-bar-fill" style="width:${barW}%;background:${topColor}"></div>
+      </div>
+    </a>`;
+});
+
 // ── Heatmap ────────────────────────────────────────────────────────────────
-(function buildHeatmap() {
+(function() {
   const table = document.getElementById('heatmap');
   const cats  = sortedCats.slice(0, 10).map(([c]) => c);
-
-  // Gather per-city counts
   const cityRows = slugs.map(s => {
     const city = CITIES[s];
     const row  = { name: city.city, slug: s, cats: {} };
     cats.forEach(c => { row.cats[c] = (city.categories[c] || {}).count || 0; });
     return row;
   });
-
-  // Max value for color scaling
   const maxVal = Math.max(...cityRows.flatMap(r => cats.map(c => r.cats[c])));
 
-  // Header
   const thead = table.createTHead();
   const hr    = thead.insertRow();
   hr.insertCell().outerHTML = '<th></th>';
   cats.forEach(c => {
     const th = document.createElement('th');
-    th.textContent = c.replace(' / ', '/').split(' ').slice(0,2).join(' ');
+    th.textContent = c.split(' / ')[0].split(' ').slice(0,2).join(' ');
     th.title = c;
     hr.appendChild(th);
   });
 
-  // Rows
   const tbody = table.createTBody();
   cityRows.forEach(row => {
     const tr = tbody.insertRow();
@@ -245,45 +352,16 @@ new Chart(document.getElementById('cat-donut'), {
       const td2 = tr.insertCell();
       td2.className = 'hm-cell';
       if (v > 0) {
-        const alpha = 0.15 + pct * 0.75;
-        const base  = CAT_COLORS[c] || '#4F8CFF';
-        td2.style.background = hexToRgba(base, alpha);
+        const base = CAT_COLORS[c] || '#4F8CFF';
+        const r = parseInt(base.slice(1,3),16);
+        const g = parseInt(base.slice(3,5),16);
+        const b = parseInt(base.slice(5,7),16);
+        td2.style.background = `rgba(${r},${g},${b},${0.1 + pct * 0.8})`;
         td2.textContent = v;
-      } else {
-        td2.textContent = '';
       }
     });
   });
 })();
-
-function hexToRgba(hex, alpha) {
-  const r = parseInt(hex.slice(1,3),16);
-  const g = parseInt(hex.slice(3,5),16);
-  const b = parseInt(hex.slice(5,7),16);
-  return `rgba(${r},${g},${b},${alpha})`;
-}
-
-// ── City table ─────────────────────────────────────────────────────────────
-const tbody = document.getElementById('city-table');
-slugs.forEach(s => {
-  const c   = CITIES[s];
-  const top = Object.entries(c.categories || {}).sort((a,b) => b[1].count - a[1].count)[0];
-  const topName  = top ? top[0] : '—';
-  const topColor = CAT_COLORS[topName] || '#4F8CFF';
-  const rate = c.complaint_rate || 0;
-  const barW = Math.round(rate * 1.0);
-
-  tbody.innerHTML += `
-    <tr>
-      <td><a href="/city/${s}" class="city-link">${c.city}</a></td>
-      <td>${(c.total_articles||0).toLocaleString()}</td>
-      <td>${(c.total_complaints||0).toLocaleString()}</td>
-      <td>${rate.toFixed(1)}%</td>
-      <td><span class="rate-bar" style="width:${barW}px;background:${topColor}"></span></td>
-      <td><span class="top-cat" style="background:${topColor}22;color:${topColor}">${topName}</span></td>
-      <td style="color:#718096;font-size:.75rem">${c.generated || '—'}</td>
-    </tr>`;
-});
 </script>
 </body>
 </html>
